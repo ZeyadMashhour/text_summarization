@@ -1,9 +1,25 @@
+"""Imports"""
+
+import math
 import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import TruncatedSVD
+
+import networkx as nx
+import matplotlib.pyplot as plt
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.decomposition import TruncatedSVD
+
+import pandas as pd
+from scipy.sparse import csr_matrix
+from scipy.sparse.csgraph import connected_components
+
 import numpy as np
+from numpy import dot
+from numpy.linalg import norm
 
 """Pre Processing"""
 def tokenization(text):
@@ -145,3 +161,162 @@ def lsa_summarization(filtered_sentences, sentences,size = 5):
     for i in sorted_ix[:size]:
         summary+=sentences[i]
     return summary
+
+
+#########################
+#LexRank_algorithm
+########
+
+def LexRank_algorithm(filtered_sentences,sentences,size=5,threshold = 0.095):
+     #creating tf_idf
+    tfidfconverter = TfidfVectorizer()
+    tf_idf = tfidfconverter.fit_transform(filtered_sentences).toarray()
+    
+    #sentences length
+    sent_length = []
+    for i in range(len(tf_idf)):
+        tf_idf_length = 0
+        for sent_tf_idf in tf_idf[i]:
+            tf_idf_length += math.sqrt(sent_tf_idf)**2
+        sent_length.append(tf_idf_length)
+        
+    #normalized tf_idf
+    normalized_tf_idf = []
+    # for row in range(len(tf_idf)): 
+    #     for col in range(len(tf_idf[row])):
+    #         if math.isclose(tf_idf[row,col],0):
+    #             tf_idf[row,col] = 0
+    #         else:
+    #             tf_idf[row,col] = tf_idf[row,col]/sent_length[row]
+    new_tf_idf = np.zeros(tf_idf.shape)
+    
+    for row in range(len(tf_idf)): 
+        for col in range(len(tf_idf[row])):
+            new_tf_idf[row,col] = tf_idf[row,col]/sent_length[row] 
+    normalized_tf_idf = new_tf_idf
+            
+    length = len(normalized_tf_idf)
+    similarity_matrix = np.zeros([length] * 2)
+    
+    for i in range(length):
+        for j in range(i, length):
+            similarity = cosine_similarity(normalized_tf_idf[i],normalized_tf_idf[j],i,j)
+
+            if similarity:
+                similarity_matrix[i, j] = similarity
+                similarity_matrix[j, i] = similarity    
+    
+    def get_summary(sentences,similarity_matrix,threshold,summary_size=1):
+
+        if not isinstance(summary_size, int) or summary_size < 1:
+            raise ValueError('\'summary_size\' should be a positive integer')
+
+        lex_scores = rank_sentences(sentences,similarity_matrix,threshold)
+
+        sorted_ix = np.argsort(lex_scores)[::-1]
+
+        summary_index=[]
+        for i in sorted_ix[:summary_size]:
+            summary_index.append(i)
+        #print(summary_index)
+        return lex_scores,summary_index
+
+    scores , summary_index = get_summary(sentences,similarity_matrix,threshold,size)
+    summary = ""
+    for i in summary_index:
+        summary += sentences[i]       
+    return summary
+###############################
+
+def connected_nodes(matrix):
+    _, labels = connected_components(matrix)
+    z = csr_matrix(matrix)
+    groups = []
+    for tag in np.unique(labels):
+        #returns an array with elements from x where condition is True, and elements from y elsewhere.
+        group = np.where(labels == tag)[0]
+        groups.append(group)
+    return groups
+
+
+#cosine similarity
+def cosine_similarity(list_1, list_2,i,j):
+        if i == j :
+            return 1
+        dot = np.dot(list_1, list_2)
+        if math.isclose(dot, 0):
+            return 0
+        norm = (np.linalg.norm(list_1) * np.linalg.norm(list_2))
+        cos_sim = dot / norm
+        return cos_sim
+    
+    
+def stationary_distribution(transition_matrix,normalized=True):
+    n_1, n_2 = transition_matrix.shape
+    if n_1 != n_2:
+        raise ValueError('\'transition_matrix\' should be square')
+
+    distribution = np.zeros(n_1)
+    grouped_indices = connected_nodes(transition_matrix)
+
+    for group in grouped_indices:
+        t_matrix = transition_matrix[np.ix_(group, group)]
+        eigenvector = _power_method(t_matrix)
+        distribution[group] = eigenvector
+    if normalized:
+        distribution /= n_1
+    return distribution
+
+# transition_matrix is a Stochastic matrix, a square matrix used to describe the transitions of a Markov chain.
+def _power_method(transition_matrix):
+    sentences_count = len(transition_matrix)
+    eigenvector = np.ones(sentences_count)
+    if len(eigenvector) == 1:
+        return eigenvector
+    transposed_matrix = transition_matrix.T
+    lambda_val = 1.0
+
+    while np.allclose(lambda_val, eigenvector):
+        eigenvector_next = np.dot(transposed_matrix, eigenvector)
+        lambda_val = np.linalg.norm(np.subtract(eigenvector_next, eigenvector))
+        eigenvector = eigenvector_next
+    return eigenvector
+
+
+def create_markov_matrix(weights_matrix):
+    n_1, n_2 = weights_matrix.shape
+    if n_1 != n_2:
+        raise ValueError('\'weights_matrix\' should be square')
+
+    row_sum = weights_matrix.sum(axis=1, keepdims=True)
+
+    return weights_matrix / row_sum
+
+def create_markov_matrix_discrete(weights_matrix, threshold):
+    discrete_weights_matrix = weights_matrix#np.zeros(weights_matrix.shape)
+    #print(discrete_weights_matrix)
+    ixs = np.where(weights_matrix >= threshold)
+    discrete_weights_matrix[ixs] = 1
+    #print(discrete_weights_matrix)
+
+    return create_markov_matrix(discrete_weights_matrix)
+
+def degree_centrality_scores(similarity_matrix,threshold=None,increase_power=True):
+    if not (threshold is None or isinstance(threshold, float) and 0 <= threshold < 1):
+        raise ValueError(
+            '\'threshold\' should be a floating-point number '
+            'from the interval [0, 1) or None')
+
+    if threshold is None:
+        markov_matrix = create_markov_matrix(similarity_matrix)
+
+    else:
+        markov_matrix = create_markov_matrix_discrete(similarity_matrix,threshold)
+
+    scores = stationary_distribution(markov_matrix,normalized=True)
+    return scores
+
+def rank_sentences(sentences,similarity_matrix,threshold=0.03):  
+    scores = degree_centrality_scores(similarity_matrix,threshold)
+    return scores
+
