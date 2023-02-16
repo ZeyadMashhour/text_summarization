@@ -320,3 +320,20 @@ def rank_sentences(sentences,similarity_matrix,threshold=0.03):
     scores = degree_centrality_scores(similarity_matrix,threshold)
     return scores
 
+
+
+
+
+def summarize_with(list_of_articles,list_of_filtered_articles ,summary_algorithm,size = 2):
+    rows = len(list_of_articles)
+    rows = 100#uncomment this for runtime speed
+    summarized_text = []
+    for row in range(rows):
+        sentences=list_of_articles[row]
+        filtered_sentences = list_of_filtered_articles[row]
+                                  #(filtered_sentences,sentence)
+        summary = summary_algorithm(filtered_sentences,sentences,size)
+        summarized_text.append(summary)
+    summary_df = pd.DataFrame (summarized_text, columns = [f'{summary_algorithm.__name__} summary'])
+    return summary_df
+
