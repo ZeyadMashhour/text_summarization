@@ -7,6 +7,8 @@ from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import TruncatedSVD
 
+from tqdm import tqdm
+
 import networkx as nx
 import matplotlib.pyplot as plt
 
@@ -328,7 +330,7 @@ def summarize_with(list_of_articles,list_of_filtered_articles ,summary_algorithm
     rows = len(list_of_articles)
     rows = 100#uncomment this for runtime speed
     summarized_text = []
-    for row in range(rows):
+    for row in tqdm(range(rows)):
         sentences=list_of_articles[row]
         filtered_sentences = list_of_filtered_articles[row]
                                   #(filtered_sentences,sentence)
