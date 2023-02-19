@@ -327,7 +327,7 @@ from tqdm import tqdm
 def summarize_with(list_of_articles,list_of_filtered_articles ,summary_algorithm,size = 2):
     rows = len(list_of_articles)
     summarized_text = []
-    for row in tqdmrange((rows)):
+    for row in tqdm(range((rows))):
         sentences=list_of_articles[row]
         filtered_sentences = list_of_filtered_articles[row]
                                   #(filtered_sentences,sentence)
