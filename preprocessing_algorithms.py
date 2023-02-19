@@ -1,7 +1,7 @@
 import spacy
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
-
+from tqdm import tqdm
 
 
 
@@ -55,7 +55,7 @@ def preprocessing_text_with_spacy(text, lemmatization = False):
 def process_df(df):
     rows,columns = df.shape
     sentences,filtered_sentences =[],[] 
-    for row in range(rows):
+    for row in tqdm(range(rows)):
         articles_sentence , filtered_article = preprocessing_text_with_spacy(df.iloc[row,0])
         sentences.append(articles_sentence)
         filtered_sentences.append(filtered_article)

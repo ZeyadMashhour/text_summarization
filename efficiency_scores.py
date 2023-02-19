@@ -2,7 +2,7 @@ from torchmetrics.text.rouge import ROUGEScore
 rouge = ROUGEScore()
 from pprint import pprint
 import pandas as pd
-
+from tqdm import tqdm
 
 def calculate_efficiency(predicted_summary,original_summary):
     rouge = ROUGEScore()
@@ -12,7 +12,7 @@ def calculate_efficiency(predicted_summary,original_summary):
 def rouge_scores_df(df,algorithm_summary_df):
     sentences_efficiency = []
     rows, column = algorithm_summary_df.shape
-    for row in range(rows):
+    for row in tqdm(range(rows)):
         predicted_summary = algorithm_summary_df.iloc[row,0]
         original_summary = df.iloc[row,1]
         efficiency_dict = calculate_efficiency(predicted_summary,original_summary)
