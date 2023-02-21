@@ -29,20 +29,20 @@ def preprocessing_text_with_spacy(article, lemmatization = True,remove_stopwords
     #remove stopwords and lemmatize
     if lemmatization:
         if remove_stopwords:
-            print("lemmatize and remove stopwords")
+            #print("lemmatize and remove stopwords")
             lemmatized_sentences = lemmatize_sentence(article_sentences , STOPWORDS['en'])
         else:
-            print("lemmatize but doesnt remove stopwords")
+            #print("lemmatize but doesnt remove stopwords")
             lemmatized_sentences = lemmatize_sentence(article_sentences, [''])
         return article_str_sentences, lemmatized_sentences
     
     if remove_stopwords:
-        print("doesnt lemmatize but remove stopwords")
+        #print("doesnt lemmatize but remove stopwords")
         processed_sentences = stopwords_removal(article_sentences)
         return article_str_sentences,processed_sentences
 
     #doesnt remove stopword and doesnt lemmatize
-    print("doesnt lemmatize or remove stopwords")
+    #print("doesnt lemmatize or remove stopwords")
     for sentence in article_sentences:
         tokens = tokenize(sentence.text,stopwords=[''],keep_numbers=True,keep_emails=True,keep_urls=True,)
         cleaned_text = ' '.join(tokens)

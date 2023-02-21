@@ -124,6 +124,8 @@ def luhn_algorithm(filtered_sentences, sentences,size = 5):
 
     summary = ""  # Create an empty list to store the summary sentences
     sorted_ix = np.argsort(sentence_scores)[::-1]
+    print("sent_socres",sentence_scores)
+    print("sorted",sorted_ix)
     for i in sorted_ix[:size]:
         summary+=sentences[i]
     return summary
