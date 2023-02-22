@@ -50,7 +50,7 @@ def remove_stop_words(sentences):
 
 #textMacthingAlgorithm
 def text_matching_algorithm(filtered_sentences, sentences,size = 5):
-    print("text_matching")    
+    #print("text_matching")    
     word_frequencies = {}  # Create an empty dictionary to store the word frequencies
     for sentence in filtered_sentences:  # Loop through each sentence in the text
         words = nltk.word_tokenize(sentence)  # Tokenize each sentence into words
@@ -125,7 +125,7 @@ def luhn_algorithm(filtered_sentences, sentences,size = 5):
     summary = ""  # Create an empty list to store the summary sentences
     sorted_ix = np.argsort(sentence_scores)[::-1]
     # print("sent_socres",sentence_scores)
-    print("sorted",sorted_ix[:5])
+    #print("sorted",sorted_ix[:5])
     for i in sorted_ix[:size]:
         summary+=sentences[i]
     return summary ,sorted_ix[:5]
