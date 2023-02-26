@@ -146,7 +146,6 @@ def lsa_summarization(filtered_sentences, sentences,size = 5):
     # file = open(file_name, "r")
     # text = file.read()
     # file.close()
-    
     # sentences = tokenization(text)
     # filtered_sentences = remove_stop_words(sentences)
     X = create_tf_idf(filtered_sentences)
@@ -175,36 +174,15 @@ def LexRank_algorithm(filtered_sentences,sentences,size=5,threshold = 0.095):
      #creating tf_idf
     tfidfconverter = TfidfVectorizer()
     tf_idf = tfidfconverter.fit_transform(filtered_sentences).toarray()
-    
-    #sentences length
-    sent_length = []
-    for i in range(len(tf_idf)):
-        tf_idf_length = 0
-        for sent_tf_idf in tf_idf[i]:
-            tf_idf_length += math.sqrt(sent_tf_idf)**2
-        sent_length.append(tf_idf_length)
-        
-    #normalized tf_idf
-    normalized_tf_idf = []
-    # for row in range(len(tf_idf)): 
-    #     for col in range(len(tf_idf[row])):
-    #         if math.isclose(tf_idf[row,col],0):
-    #             tf_idf[row,col] = 0
-    #         else:
-    #             tf_idf[row,col] = tf_idf[row,col]/sent_length[row]
-    new_tf_idf = np.zeros(tf_idf.shape)
-    
-    for row in range(len(tf_idf)): 
-        for col in range(len(tf_idf[row])):
-            new_tf_idf[row,col] = tf_idf[row,col]/sent_length[row] 
-    normalized_tf_idf = new_tf_idf
+    # y = tfidfconverter.get_feature_names_out()
+    # print(y)
             
-    length = len(normalized_tf_idf)
+    length = len(tf_idf)
     similarity_matrix = np.zeros([length] * 2)
     
     for i in range(length):
         for j in range(i, length):
-            similarity = cosine_similarity(normalized_tf_idf[i],normalized_tf_idf[j],i,j)
+            similarity = cosine_similarity(tf_idf[i],tf_idf[j],i,j)
 
             if similarity:
                 similarity_matrix[i, j] = similarity
