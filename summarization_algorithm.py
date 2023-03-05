@@ -49,7 +49,7 @@ def remove_stop_words(sentences):
 """Algorithms"""
 
 #textMacthingAlgorithm
-def text_matching_algorithm(filtered_sentences, sentences,size = 5):
+def text_matching_algorithm(filtered_sentences, sentences,size = 2):
     #print("text_matching")    
     word_frequencies = {}  # Create an empty dictionary to store the word frequencies
     for sentence in filtered_sentences:  # Loop through each sentence in the text
@@ -89,7 +89,7 @@ def text_matching_algorithm(filtered_sentences, sentences,size = 5):
 
 
 #Luhn algorithm
-def luhn_algorithm(filtered_sentences, sentences,size = 5):
+def luhn_algorithm(filtered_sentences, sentences,size = 2):
     # f = open(file_name, "r")
     # text = ""
     # for line in f:
@@ -128,7 +128,8 @@ def luhn_algorithm(filtered_sentences, sentences,size = 5):
     #print("sorted",sorted_ix[:5])
     for i in sorted_ix[:size]:
         summary+=sentences[i]
-    return summary ,sorted_ix[:5]
+    return summary 
+#,sorted_ix[:5]
 
 
 def create_tf_idf(filtered_sentences):
@@ -142,7 +143,7 @@ def lsa_algorithm(X):
     result = svdmodel.transform(X)
     return result
 
-def lsa_summarization(filtered_sentences, sentences,size = 5):
+def lsa_summarization(filtered_sentences, sentences,size = 2):
     # file = open(file_name, "r")
     # text = file.read()
     # file.close()
@@ -170,7 +171,7 @@ def lsa_summarization(filtered_sentences, sentences,size = 5):
 #LexRank_algorithm
 ########
 
-def LexRank_algorithm(filtered_sentences,sentences,size=5,threshold = 0.095):
+def LexRank_algorithm(filtered_sentences,sentences,size=2,threshold = 0.095):
      #creating tf_idf
     tfidfconverter = TfidfVectorizer()
     tf_idf = tfidfconverter.fit_transform(filtered_sentences).toarray()
