@@ -25,3 +25,8 @@ def rouge_scores_df(df,algorithm_summary_df):
 
 def show_scores_df(summary_df, scores_df):
     return pd.concat([summary_df,scores_df],axis = 1)
+
+
+def df_avg_by_column(df):
+    row,col = df.shape
+    return df.sum()/row
