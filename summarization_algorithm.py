@@ -49,8 +49,8 @@ def remove_stop_words(sentences):
 """Algorithms"""
 
 #textMacthingAlgorithm
-def text_matching_algorithm(filtered_sentences, sentences,size = 5):
-    
+def text_matching_algorithm(filtered_sentences, sentences,size = 2):
+    #print("text_matching")    
     word_frequencies = {}  # Create an empty dictionary to store the word frequencies
     for sentence in filtered_sentences:  # Loop through each sentence in the text
         words = nltk.word_tokenize(sentence)  # Tokenize each sentence into words
@@ -89,7 +89,7 @@ def text_matching_algorithm(filtered_sentences, sentences,size = 5):
 
 
 #Luhn algorithm
-def luhn_algorithm(filtered_sentences, sentences,size = 5):
+def luhn_algorithm(filtered_sentences, sentences,size = 2):
     # f = open(file_name, "r")
     # text = ""
     # for line in f:
@@ -124,11 +124,12 @@ def luhn_algorithm(filtered_sentences, sentences,size = 5):
 
     summary = ""  # Create an empty list to store the summary sentences
     sorted_ix = np.argsort(sentence_scores)[::-1]
-    print("sent_socres",sentence_scores)
-    print("sorted",sorted_ix)
+    # print("sent_socres",sentence_scores)
+    #print("sorted",sorted_ix[:5])
     for i in sorted_ix[:size]:
         summary+=sentences[i]
-    return summary
+    return summary 
+#,sorted_ix[:5]
 
 
 def create_tf_idf(filtered_sentences):
@@ -142,11 +143,10 @@ def lsa_algorithm(X):
     result = svdmodel.transform(X)
     return result
 
-def lsa_summarization(filtered_sentences, sentences,size = 5):
+def lsa_summarization(filtered_sentences, sentences,size = 2):
     # file = open(file_name, "r")
     # text = file.read()
     # file.close()
-    
     # sentences = tokenization(text)
     # filtered_sentences = remove_stop_words(sentences)
     X = create_tf_idf(filtered_sentences)
@@ -171,40 +171,19 @@ def lsa_summarization(filtered_sentences, sentences,size = 5):
 #LexRank_algorithm
 ########
 
-def LexRank_algorithm(filtered_sentences,sentences,size=5,threshold = 0.095):
+def LexRank_algorithm(filtered_sentences,sentences,size=2,threshold = 0.095):
      #creating tf_idf
     tfidfconverter = TfidfVectorizer()
     tf_idf = tfidfconverter.fit_transform(filtered_sentences).toarray()
-    
-    #sentences length
-    sent_length = []
-    for i in range(len(tf_idf)):
-        tf_idf_length = 0
-        for sent_tf_idf in tf_idf[i]:
-            tf_idf_length += math.sqrt(sent_tf_idf)**2
-        sent_length.append(tf_idf_length)
-        
-    #normalized tf_idf
-    normalized_tf_idf = []
-    # for row in range(len(tf_idf)): 
-    #     for col in range(len(tf_idf[row])):
-    #         if math.isclose(tf_idf[row,col],0):
-    #             tf_idf[row,col] = 0
-    #         else:
-    #             tf_idf[row,col] = tf_idf[row,col]/sent_length[row]
-    new_tf_idf = np.zeros(tf_idf.shape)
-    
-    for row in range(len(tf_idf)): 
-        for col in range(len(tf_idf[row])):
-            new_tf_idf[row,col] = tf_idf[row,col]/sent_length[row] 
-    normalized_tf_idf = new_tf_idf
+    # y = tfidfconverter.get_feature_names_out()
+    # print(y)
             
-    length = len(normalized_tf_idf)
+    length = len(tf_idf)
     similarity_matrix = np.zeros([length] * 2)
     
     for i in range(length):
         for j in range(i, length):
-            similarity = cosine_similarity(normalized_tf_idf[i],normalized_tf_idf[j],i,j)
+            similarity = cosine_similarity(tf_idf[i],tf_idf[j],i,j)
 
             if similarity:
                 similarity_matrix[i, j] = similarity
