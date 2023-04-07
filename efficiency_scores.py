@@ -12,13 +12,14 @@ def calculate_efficiency(predicted_summary,original_summary):
 
 def rouge_scores_df(df,algorithm_summary_df):
     sentences_efficiency = []
-    rows, column = algorithm_summary_df.shape
-    for row in tqdm(range(rows)):
-        predicted_summary = algorithm_summary_df.iloc[row,0]
-        original_summary = df.iloc[row]["Original Summary"]
+    length = len(df)
+    algorithm_summary_df_name = algorithm_summary_df.columns[0]
+    for i in tqdm(range(length)):
+        predicted_summary = algorithm_summary_df[algorithm_summary_df_name][i]
+        original_summary = df['Original Summary'][i]
         efficiency_dict = calculate_efficiency(predicted_summary,original_summary)
         sentences_efficiency.append(efficiency_dict)
-              
+            
     dataframe = pd.DataFrame(sentences_efficiency)
     return dataframe
 
