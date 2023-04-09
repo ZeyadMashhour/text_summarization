@@ -32,3 +32,22 @@ def show_scores_df(summary_df, scores_df):
 def df_avg_by_column(df):
     row,col = df.shape
     return df.sum()/row
+
+
+def get_avg_scores_df(reference_summary_dataset,system_summaries):
+    """
+    This function we don't what it does so if you know tell us
+    """
+
+    avg_scores = []
+    combinations = list(system_summaries.columns)
+    original_summary = pd.DataFrame(reference_summary_dataset["Original Summary"])
+    #df = pd.DataFrame(system_summaries[combination])
+    for combination in tqdm(combinations):
+        combination_df = pd.DataFrame(system_summaries[combination])#create dataframe
+        ensemble_scores = rouge_scores_df(df=original_summary, algorithm_summary_df=combination_df)
+        combination_avg = df_avg_by_column(ensemble_scores)
+        avg_scores.append(combination_avg)
+    avg_scores_df = pd.DataFrame(avg_scores).T
+    avg_scores_df.columns = combinations
+    return avg_scores_df

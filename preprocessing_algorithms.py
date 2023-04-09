@@ -73,7 +73,7 @@ def stopwords_removal(article_sentences):
     return processed_sentences
 
 
-def process_df(df,lemmatization = False,remove_stopwords = False):
+def process_one_column_df(df,lemmatization = False,remove_stopwords = False):
     rows,columns = df.shape
     sentences,processed_sentences =[],[] 
     for row in tqdm(range(rows)):

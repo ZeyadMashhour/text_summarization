@@ -40,4 +40,3 @@ def create_dataframe(df, max_values):
     columns_names= ["metric", "max_score", "algorithm"]
     output_dataframe = pd.DataFrame(output_list, columns=columns_names)
     return output_dataframe
-
