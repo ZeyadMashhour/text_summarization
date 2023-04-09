@@ -9,7 +9,7 @@ from tqdm import tqdm
 
 
 
-def preprocessing_text_with_spacy(article, lemmatization = True,remove_stopwords = True):
+def preprocessing_text_with_spacy(article, lemmatization = False,remove_stopwords = False):
 
     # Load the model (English) into spaCy
     nlp = spacy.load('en_core_web_sm')

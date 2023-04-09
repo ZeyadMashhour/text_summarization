@@ -11,6 +11,7 @@ def calculate_efficiency(predicted_summary,original_summary):
 
 
 def rouge_scores_df(df,algorithm_summary_df):
+    #compute rouge scores between df['Original Summary'] and algorithm_summary_df[algorithm_summary_df_name][i]
     sentences_efficiency = []
     length = len(df)
     algorithm_summary_df_name = algorithm_summary_df.columns[0]
