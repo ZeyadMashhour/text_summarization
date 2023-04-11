@@ -1,10 +1,28 @@
+# def extract_number(string_with_number):
+#     """
+#     This function removes alpahanumeric values and returns float
+#     NOTE string must contain a number
+#     """
+#     if isinstance(string_with_number, str):
+#         return float(''.join(filter(lambda x: x.isdigit() or x == '.', string_with_number)))
+#     return float(string_with_number)
+
+
 def extract_number(string_with_number):
     """
     This function removes alpahanumeric values and returns float
     NOTE string must contain a number
     """
     if isinstance(string_with_number, str):
-        return float(''.join(filter(lambda x: x.isdigit() or x == '.', string_with_number)))
+        numeric_string  = ''.join(filter(lambda x: x.isdigit() or x == '.', string_with_number))
+        if numeric_string.isdigit():
+            return float(numeric_string)
+        else:
+            try:
+                output_float = float(numeric_string)
+                return output_float
+            except ValueError:
+                return string_with_number
     return float(string_with_number)
 
 def extracted_number_from_df(df):
