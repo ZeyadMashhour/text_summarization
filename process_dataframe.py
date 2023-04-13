@@ -6,6 +6,7 @@
 #     if isinstance(string_with_number, str):
 #         return float(''.join(filter(lambda x: x.isdigit() or x == '.', string_with_number)))
 #     return float(string_with_number)
+import numpy as np
 
 
 def extract_number(string_with_number):
@@ -48,13 +49,14 @@ def get_max_values(df):
 
 def create_dataframe(df, max_values):
     """
-    
+    This function create dataframe of max_values of each row
     """
     output_list = []
     for i in range(len(df.index)):
         output_list.append([df.index[i]
             ,max_values[i]
-            ,df.columns[output_list(np.where(df.loc[df.index[i]] == max_values[i]))[0][0]]])
+            ,df.columns[list(np.where(df.loc[df.index[i]] == max_values[i]))[0][0]]])
+            #[0][0] refers to accessing output inside a np array 
     columns_names= ["metric", "max_score", "algorithm"]
     output_dataframe = pd.DataFrame(output_list, columns=columns_names)
     return output_dataframe
