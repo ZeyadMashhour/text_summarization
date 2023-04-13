@@ -307,7 +307,7 @@ def rank_sentences(sentences,similarity_matrix,threshold=0.03):
 
 
 
-def summarize_with(list_of_articles,list_of_filtered_articles ,summary_algorithm,size = 2):
+def summarize_with(list_of_filtered_articles, list_of_articles,summary_algorithm,size = 2):
     rows = len(list_of_articles)
     
     summarized_text = []
