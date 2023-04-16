@@ -114,3 +114,13 @@ def preprocessing_with_nltk(text, lemmatization = False):
         sentence = sentence .replace('.',' ')
         processed_sentences.append(sentence)
     processed_sentences = remove_stop_words(processed_sentences)
+
+
+def combine_lists(lists):
+    '''
+    combines elemnt of list of lists, ex [['a','b','c'] , ['1','2','3']] = ['abc' , '123']
+    '''
+    combined = []
+    for lst in lists:
+        combined.append(' '.join(lst))
+    return combined
