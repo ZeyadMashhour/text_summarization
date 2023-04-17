@@ -74,10 +74,10 @@ def stopwords_removal(article_sentences):
 
 
 def process_one_column_df(df,lemmatization = False,remove_stopwords = False):
-    rows,columns = df.shape
+    rows = len(df)
     sentences,processed_sentences =[],[] 
     for row in tqdm(range(rows)):
-        articles_sentence , filtered_article = preprocessing_text_with_spacy(df.iloc[row,0],lemmatization,remove_stopwords)
+        articles_sentence , filtered_article = preprocessing_text_with_spacy(df.iloc[row],lemmatization,remove_stopwords)
         sentences.append(articles_sentence)
         processed_sentences.append(filtered_article)
     
