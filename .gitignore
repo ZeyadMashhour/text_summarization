@@ -1,2 +1,5 @@
 
 glove.6B.100d.txt
+__pycache__/efficiency_scores.cpython-310.pyc
+__pycache__/preprocessing_algorithms.cpython-310.pyc
+__pycache__/summarization_algorithm.cpython-310.pyc
