@@ -36,7 +36,7 @@ def df_avg_by_column(df):
 
 def get_avg_scores_df(reference_summary_dataset,system_summaries):
     """
-    This function we don't what it does so if you know tell us
+    This gets avg_scores for all algorithms and their combinations
     """
 
     avg_scores = []
