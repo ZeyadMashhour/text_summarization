@@ -304,9 +304,12 @@ def rank_sentences(sentences,similarity_matrix,threshold=0.03):
     return scores
 
 
+<<<<<<< Updated upstream
 
 
 
+=======
+>>>>>>> Stashed changes
 def summarize_with(list_of_articles,list_of_filtered_articles ,summary_algorithm,size = 2):
     rows = len(list_of_articles)
     
