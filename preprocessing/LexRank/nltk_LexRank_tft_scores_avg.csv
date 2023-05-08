@@ -1,0 +1,13 @@
+,0
+rouge1_fmeasure,tensor(0.3378)
+rouge1_precision,tensor(0.3032)
+rouge1_recall,tensor(0.3969)
+rouge2_fmeasure,tensor(0.0739)
+rouge2_precision,tensor(0.0650)
+rouge2_recall,tensor(0.0886)
+rougeL_fmeasure,tensor(0.1721)
+rougeL_precision,tensor(0.1544)
+rougeL_recall,tensor(0.2023)
+rougeLsum_fmeasure,tensor(0.2721)
+rougeLsum_precision,tensor(0.2440)
+rougeLsum_recall,tensor(0.3202)
