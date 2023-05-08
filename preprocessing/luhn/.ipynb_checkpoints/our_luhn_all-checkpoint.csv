@@ -1,0 +1,5 @@
+rouge1_fmeasure,rouge1_precision,rouge1_recall,rouge2_fmeasure,rouge2_precision,rouge2_recall,rougeL_fmeasure,rougeL_precision,rougeL_recall,rougeLsum_fmeasure,rougeLsum_precision,rougeLsum_recall,type,score_sum,score_avg
+0.2675,0.1928,0.4461,0.0481,0.0346,0.0806,0.1312,0.0944,0.2196,0.222,0.1599,0.371,fff,2.2678,0.189
+0.2639,0.1902,0.4402,0.0476,0.0342,0.0797,0.1311,0.0943,0.2192,0.2172,0.1565,0.363,ftf,2.2371,0.1864
+0.2669,0.1958,0.4287,0.0493,0.0363,0.0786,0.1332,0.0977,0.2144,0.221,0.1621,0.3551,tff,2.2391,0.1866
+0.2692,0.1979,0.431,0.0516,0.038,0.0821,0.1356,0.0996,0.2176,0.2214,0.1628,0.3548,ttt,2.2616,0.1885
