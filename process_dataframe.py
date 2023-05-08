@@ -7,6 +7,7 @@
 #         return float(''.join(filter(lambda x: x.isdigit() or x == '.', string_with_number)))
 #     return float(string_with_number)
 import numpy as np
+import pandas as pd
 
 
 def extract_number(string_with_number):
@@ -47,7 +48,7 @@ def get_max_values(df):
     return max_values
 
 
-def create_dataframe(df, max_values):
+def create_max_values_dataframe(df, max_values):
     """
     This function create dataframe of max_values of each row
     """
@@ -60,3 +61,18 @@ def create_dataframe(df, max_values):
     columns_names= ["metric", "max_score", "algorithm"]
     output_dataframe = pd.DataFrame(output_list, columns=columns_names)
     return output_dataframe
+
+def get_sorted_values(df):
+    """
+    This function returns a dictionary of DataFrames, where each key is an
+    index and the corresponding value is a DataFrame containing the sorted
+    column values for that index.
+    """
+    # We don't take the first 2 columns because they are the originals
+    max_values = df.iloc[:, 2:].max(axis=1)
+    sorted_dict = {}
+    for i, row in df.iterrows():
+        sorted_row = row.iloc[2:].sort_values(ascending=False)
+        sorted_dict[i] = pd.DataFrame({'value': sorted_row.values}, index=sorted_row.index)
+    sorted_dict = {k: v for k, v in sorted(sorted_dict.items(), key=lambda x: max_values[x[0]], reverse=True)}
+    return sorted_dict

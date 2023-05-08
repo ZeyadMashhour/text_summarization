@@ -9,7 +9,7 @@ from tqdm import tqdm
 
 
 
-def preprocessing_text_with_spacy(article, lemmatization = False,remove_stopwords = False):
+def preprocessing_text_with_spacy(article, remove_stopwords=True, lemmatize=True, stem=True):
 
     # Load the model (English) into spaCy
     nlp = spacy.load('en_core_web_sm')
@@ -27,7 +27,7 @@ def preprocessing_text_with_spacy(article, lemmatization = False,remove_stopword
     processed_sentences = []
     
     #remove stopwords and lemmatize
-    if lemmatization:
+    if lemmatize:
         if remove_stopwords:
             #print("lemmatize and remove stopwords")
             lemmatized_sentences = lemmatize_sentence(article_sentences , STOPWORDS['en'])
@@ -73,11 +73,11 @@ def stopwords_removal(article_sentences):
     return processed_sentences
 
 
-def process_one_column_df(df,lemmatization = False,remove_stopwords = False):
+def process_one_column_df(df,remove_stopwords=True, lemmatize=True, stem=True):
     rows = len(df)
     sentences,processed_sentences =[],[] 
     for row in tqdm(range(rows)):
-        articles_sentence , filtered_article = preprocessing_text_with_spacy(df.iloc[row],lemmatization,remove_stopwords)
+        articles_sentence , filtered_article = preprocessing_text_with_spacy(df.iloc[row],remove_stopwords, lemmatize, stem)
         sentences.append(articles_sentence)
         processed_sentences.append(filtered_article)
     
@@ -106,7 +106,7 @@ def remove_stop_words(sentences):
         processed_sentences.append(filtered_sentence)
     return processed_sentences
 
-def preprocessing_with_nltk(text, lemmatization = False):
+def preprocessing_with_nltk(text, lemmatize = False):
     sentences = tokenization(text)  # Tokenize the text into sentences
     processed_sentences = []
     for sentence in sentences:

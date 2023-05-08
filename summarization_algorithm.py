@@ -90,6 +90,9 @@ def text_matching_algorithm(filtered_sentences, sentences,size = 2):
 
 #Luhn algorithm
 def luhn_algorithm(filtered_sentences, sentences,size = 2):
+    if len(filtered_sentences) != len(sentences):
+        raise ValueError("Length of filtered_sentences and sentences must be the same")
+    
     # f = open(file_name, "r")
     # text = ""
     # for line in f:
@@ -307,7 +310,51 @@ def rank_sentences(sentences,similarity_matrix,threshold=0.03):
 
 
 
-def summarize_with(list_of_filtered_articles, list_of_articles,summary_algorithm,size = 2):
+# def summarize_with(list_of_filtered_articles, list_of_articles, summary_algorithm, size=0.2):
+#     # Get the number of sentences in the article
+#     num_sentences = len(sentences)
+
+#     # Calculate the size of the summary
+#     summary_size = int(num_sentences * summary_ratio)
+#     rows = len(list_of_articles)
+#     summarized_text = []
+    
+#     for row in tqdm(range(rows)):
+#         sentences = list_of_articles[row]
+#         filtered_sentences = list_of_filtered_articles[row]
+#         summary_size = int(size*len(sentences)) if size < 1 else size
+#         summary = summary_algorithm(filtered_sentences, sentences, size=summary_size)
+#         summarized_text.append(summary)
+    
+#     summary_df = pd.DataFrame(summarized_text, columns=[f'{summary_algorithm.__name__} summary'])
+#     return summary_df
+from tqdm import tqdm
+
+# def summarize_with(list_of_filtered_articles, list_of_articles, summary_algorithm, summary_ratio=0.2):
+#     if not isinstance(list_of_filtered_articles[0], list):
+#         # If list_of_filtered_articles is not a list of lists, convert it into a list of lists
+#         list_of_filtered_articles = [list_of_filtered_articles]
+#         list_of_articles = [list_of_articles]
+    
+#     rows = len(list_of_filtered_articles)
+#     summarized_text = []
+    
+#     for row in tqdm(range(rows)):
+#         filtered_sentences = list_of_filtered_articles[row]
+#         sentences = list_of_articles[row]
+        
+#         if not filtered_sentences:
+#             summarized_text.append('')
+#             continue
+        
+#         summary_size = int(summary_ratio * len(filtered_sentences))
+#         print(summary_size)
+#         summary = summary_algorithm(filtered_sentences, sentences, size=summary_size)
+#         summarized_text.append(summary)
+    
+#     summary_df = pd.DataFrame(summarized_text, columns=[f'{summary_algorithm.__name__} summary'])
+#     return summary_df
+def summarize_with(list_of_articles,list_of_filtered_articles ,summary_algorithm,size = 2):
     rows = len(list_of_articles)
     
     summarized_text = []
@@ -319,4 +366,6 @@ def summarize_with(list_of_filtered_articles, list_of_articles,summary_algorithm
         summarized_text.append(summary)
     summary_df = pd.DataFrame (summarized_text, columns = [f'{summary_algorithm.__name__} summary'])
     return summary_df
+
+
 

@@ -10,20 +10,19 @@ def calculate_efficiency(predicted_summary,original_summary):
     return rouge(predicted_summary, original_summary)
 
 
-def rouge_scores_df(df,algorithm_summary_df):
+def rouge_scores_df(df,algorithm_summary_df,summary_column_name = 'Original Summary'):
     #compute rouge scores between df['Original Summary'] and algorithm_summary_df[algorithm_summary_df_name][i]
     sentences_efficiency = []
     length = len(df)
     algorithm_summary_df_name = algorithm_summary_df.columns[0]
     for i in tqdm(range(length)):
         predicted_summary = algorithm_summary_df[algorithm_summary_df_name][i]
-        original_summary = df['Original Summary'][i]
+        original_summary = df[summary_column_name][i]
         efficiency_dict = calculate_efficiency(predicted_summary,original_summary)
         sentences_efficiency.append(efficiency_dict)
             
     dataframe = pd.DataFrame(sentences_efficiency)
     return dataframe
-
 
 def show_scores_df(summary_df, scores_df):
     return pd.concat([summary_df,scores_df],axis = 1)
