@@ -124,3 +124,15 @@ def combine_lists(lists):
     for lst in lists:
         combined.append(' '.join(lst))
     return combined
+
+
+import pickle
+
+def save_list_of_lists(data, file_path):
+    with open(file_path, 'wb') as f:
+        pickle.dump(data, f)
+
+def load_list_of_lists(file_path):
+    with open(file_path, 'rb') as f:
+        data = pickle.load(f)
+    return data
