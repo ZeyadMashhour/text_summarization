@@ -77,7 +77,8 @@ def process_one_column_df(df,remove_stopwords=True, lemmatize=True, stem=True):
     rows = len(df)
     sentences,processed_sentences =[],[] 
     for row in tqdm(range(rows)):
-        articles_sentence , filtered_article = preprocessing_text_with_spacy(df.iloc[row],remove_stopwords, lemmatize, stem)
+        cleaned_text = clean_text(df.iloc[row])
+        articles_sentence , filtered_article = preprocessing_text_with_spacy(cleaned_text,remove_stopwords, lemmatize, stem)
         sentences.append(articles_sentence)
         processed_sentences.append(filtered_article)
     
@@ -136,3 +137,130 @@ def load_list_of_lists(file_path):
     with open(file_path, 'rb') as f:
         data = pickle.load(f)
     return data
+
+
+import re
+import spacy
+from spacy.lang.en.stop_words import STOP_WORDS
+from nltk.stem.snowball import SnowballStemmer
+import spacy
+from spacy.lang.en.stop_words import STOP_WORDS
+from nltk.stem.snowball import SnowballStemmer
+from nltk.corpus import stopwords
+from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.stem import WordNetLemmatizer, PorterStemmer
+from tqdm import tqdm
+
+
+def clean_text(text):
+    # Convert text to lowercase
+    text = text.lower()
+
+    # Remove special characters and numbers
+    text = re.sub('[^a-zA-Z. ]', ' ', text)
+
+
+    # Remove extra whitespace
+    text = re.sub('\s+', ' ', text).strip()
+
+    return text
+
+def filter_sentences(article, remove_stopwords=True, lemmatize=True, stem=True):
+    # Clean the article
+    article = clean_text(article)
+
+    # Tokenize the article into sentences
+    sentences = sent_tokenize(article)
+
+    # Create a list to store the filtered sentences
+    filtered_sentences = []
+
+    # Define functions for removing stop words, lemmatizing, and stemming
+    if remove_stopwords:
+        stop_words = set(stopwords.words('english'))
+        remove_stopwords = lambda x: x.lower() not in stop_words
+    if lemmatize:
+        lemmatizer = WordNetLemmatizer().lemmatize
+    if stem:
+        stemmer = PorterStemmer().stem
+
+    # Loop through each sentence and apply the filters
+    for sentence in sentences:
+        # Tokenize the sentence into words
+        words = word_tokenize(sentence)
+
+        # Remove stopwords if necessary
+        if remove_stopwords:
+            words = list(filter(remove_stopwords, words))
+
+        # Lemmatize words if necessary
+        if lemmatize:
+            words = [lemmatizer(word) for word in words]
+
+        # Stem words if necessary
+        if stem:
+            words = [stemmer(word) for word in words]
+
+        # Join the filtered words back into a sentence
+        filtered_sentence = ' '.join(words)
+
+        # Add the filtered sentence to the list
+        if filtered_sentence:
+            filtered_sentences.append(filtered_sentence)
+
+    return sentences, filtered_sentences
+
+
+def filter_sentences_spacy(article, remove_stopwords=True, lemmatize=True, stem=True):
+    # Clean the article
+    article = clean_text(article)
+
+    # Load the English language model
+    nlp = spacy.load('en_core_web_sm')
+
+    # Parse the article into sentences using Spacy
+    doc = nlp(article)
+    sentences = []
+    sentences = list(doc.sents)
+    sentences = list(map(str,sentences))#change list f spans to list of string
+
+    # Create a list to store the filtered sentences
+    filtered_sentences = []
+
+    # Define functions for removing stop words, lemmatizing, and stemming
+    if remove_stopwords:
+        stop_words = STOP_WORDS
+        remove_stopwords = lambda x: x not in stop_words
+    if lemmatize:
+        lemmatizer = lambda x: x.lemma_
+    if stem:
+        stemmer = SnowballStemmer('english').stem
+
+    # Loop through each sentence and apply the filters
+    for sentence in doc.sents:
+        # Tokenize the sentence into words
+        words = [token.text for token in sentence]
+
+        # Remove stop words if necessary
+        if remove_stopwords:
+            words = list(filter(remove_stopwords, words))
+
+        # Lemmatize words if necessary
+        if lemmatize:
+            words = [lemmatizer(nlp(word)[0]) for word in words]
+
+        # Stem words if necessary
+        if stem:
+            words = [stemmer(word) for word in words]
+
+        # Join the filtered words back into a sentence
+        filtered_sentence = ' '.join(words)
+
+         # Add the filtered sentence to the list
+        if filtered_sentence:
+            filtered_sentences.append(filtered_sentence)
+        else:
+            # If the filtered sentence is empty, add an empty sentence
+            filtered_sentences.append('')
+
+    return  sentences,filtered_sentences
