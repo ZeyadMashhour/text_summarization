@@ -1,9 +1,0 @@
-rouge1_fmeasure,rouge1_precision,rouge1_recall,rouge2_fmeasure,rouge2_precision,rouge2_recall,rougeL_fmeasure,rougeL_precision,rougeL_recall,rougeLsum_fmeasure,rougeLsum_precision,rougeLsum_recall,type
-tensor(0.2576),tensor(0.1838),tensor(0.4429),tensor(0.0433),tensor(0.0308),tensor(0.0752),tensor(0.1290),tensor(0.0919),tensor(0.2226),tensor(0.2053),tensor(0.1464),tensor(0.3537),fff
-tensor(0.2566),tensor(0.1829),tensor(0.4426),tensor(0.0433),tensor(0.0308),tensor(0.0754),tensor(0.1285),tensor(0.0914),tensor(0.2226),tensor(0.2054),tensor(0.1463),tensor(0.3548),fft
-tensor(0.2578),tensor(0.1840),tensor(0.4437),tensor(0.0435),tensor(0.0310),tensor(0.0755),tensor(0.1302),tensor(0.0927),tensor(0.2249),tensor(0.2054),tensor(0.1464),tensor(0.3541),ftf
-tensor(0.2565),tensor(0.1827),tensor(0.4429),tensor(0.0437),tensor(0.0311),tensor(0.0761),tensor(0.1283),tensor(0.0913),tensor(0.2220),tensor(0.2046),tensor(0.1456),tensor(0.3539),ftt
-tensor(0.2606),tensor(0.1882),tensor(0.4366),tensor(0.0472),tensor(0.0340),tensor(0.0793),tensor(0.1331),tensor(0.0962),tensor(0.2229),tensor(0.2093),tensor(0.1512),tensor(0.3503),tff
-tensor(0.2606),tensor(0.1880),tensor(0.4381),tensor(0.0435),tensor(0.0313),tensor(0.0739),tensor(0.1300),tensor(0.0937),tensor(0.2190),tensor(0.2068),tensor(0.1491),tensor(0.3480),tft
-tensor(0.2594),tensor(0.1873),tensor(0.4354),tensor(0.0461),tensor(0.0332),tensor(0.0778),tensor(0.1338),tensor(0.0966),tensor(0.2243),tensor(0.2069),tensor(0.1494),tensor(0.3469),ttf
-tensor(0.2606),tensor(0.1880),tensor(0.4381),tensor(0.0435),tensor(0.0313),tensor(0.0739),tensor(0.1294),tensor(0.0932),tensor(0.2181),tensor(0.2065),tensor(0.1489),tensor(0.3476),ttt
