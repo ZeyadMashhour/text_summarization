@@ -1,0 +1,37 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Blair moves to woo Jewish voters
+
+Tony Blair has pledged to ""never, ever, ever"" attack Tory leader Michael Howard over his Jewish beliefs.
+
+",6.44,0.08285332841269841,79,0.11384153564969297,0.042042858433781166,0.763343598022159
+"The prime minister told the Jewish Chronicle: ""If you look at what I do, I attack Michael Howard politically.""",9.200000000000001,0.04720007846799863,62,0.2653721950221829,0.04216615642809941,0.7449099832864527
+"Mr Blair also distanced himself from recent Labour campaign posters featuring Mr Howard, which critics claimed were ""anti-Semitic"".",1.84,0.04111799601573993,79,-0.07943481886232387,0.04185396564119282,0.7617302537943318
+"These were ""not intended to cause any offence to anyone on the Jewish community,"" Mr Blair insisted.
+
+",3.68,0.03942592038687371,41,-0.1158617505455494,0.04034395409009975,0.7289932690056335
+"One poster depicted Mr Howard and his shadow chancellor Oliver Letwin, who is also Jewish, as flying pigs.",3.68,0.03577932537093793,60,-0.015043218786279853,0.037331912510573696,0.7519598962525297
+"Another pictured the Tory leader swinging a pocket watch on a chain, which critics said echoed the Jewish money lender Shylock in Shakespeare's Merchant of Venice.
+
+",6.44,0.021759533536590797,99,0.002328714545205956,0.036768302792615955,0.7682273513585728
+Others compared the image to the character Fagin in Charles Dickens' Oliver Twist.,1.84,0.03441807021136531,50,-0.01213040381754064,0.029917777127916295,0.7404322208220868
+"Labour has since taken the designs of its website, saying members had preferred other designs.",1.84,0.03534919762186762,40,-0.013141808533118495,0.03446519574864508,0.723089435046745
+"During his interview with the Jewish Chronicle, Mr Blair said: ""I've been a very strong supporter of the Jewish community and Israel, and will always be so.""",5.5200000000000005,0.039378584296602154,67,-0.06775291038842483,0.04113049664244775,0.7491928329585482
+"Pressed on whether he would draw attention to Mr Howard's Jewish beliefs in an attempt to attract Muslim support, he replied: ""The idea that I would allow anybody to make such a charge is outrageous.",10.120000000000001,0.02351991900126027,94,-0.01116422764252732,0.04333458237188904,0.7666219375744888
+It's untrue.,0.92,0.03826086956521739,6,-0.0027555293093018654,0.015364827814499837,0.5309818669111181
+"""If you look what I do, I attack Michael Howard politically.",5.5200000000000005,0.028948912991689942,30,0.3097260088479057,0.03922965209628333,0.6909974648917978
+"I would never, ever, ever attack him on that basis.",4.6000000000000005,0.02721000709930761,11,0.1872739492414922,0.035808890271800356,0.39127971001484374
+"""
+
+Mr Blair also defended his party's attitude towards the Jewish community, pointing out that it was his government that had introduced the Holocaust Memorial Day.",4.6000000000000005,0.027323387434725826,86,-0.09570037368707936,0.042288156744488124,0.7605731574391509
+"He added that Labour also aggressively fought all forms of racism.
+
+",1.84,0.0350166728210524,36,-0.012352412142891067,0.03567742970158592,0.7202890346804502
+Neither the Conservatives nor the Liberal Democrats wished to comment on Mr Blair's words.,4.6000000000000005,0.035032305267296775,50,-0.13410203665563658,0.04127005980386975,0.7390816775377926
+The prime minister was speaking as London's Labour mayor Ken Livingstone remains embroiled in a row over comments he made to a Jewish reporter from the city's Evening Standard newspaper.,10.120000000000001,0.03738617279290936,119,-0.059898175665195626,0.04182807474767931,0.771993513941284
+"Mr Blair repeated calls for the mayor to apologise for likening the reporter, Oliver Finegold, to a concentration camp guard.",10.120000000000001,0.029991451404252998,84,-0.09293961773519326,0.039812743005991996,0.7580124664524748
+"Mr Livingstone ""should have withdrawn the comment immediately"" once he realised the journalist was Jewish, said Mr Blair.",6.44,0.06306698132277085,69,-0.1739746295832302,0.04087505676310929,0.7473156519947982
+"""I'm sure that is what in truth he wants to do.",0.92,0.03826086956521739,5,-0.0009181739850094959,0.029856534540801425,0.5315862235102168
+"Well, he should do it.""",0.0,0.03826086956521739,0,0.0,0.005688489710216993,0.26666666666666666
+"Mr Livingstone has said he could not sincerely say sorry for the comments he made, and claims he has been targeted by the newspaper.",2.7600000000000002,0.045726731803685174,53,-0.1511518567233132,0.0413683421353646,0.7397449769210953
+"He conceded his comments may have been offensive but were not racist, and said earlier this week he would not apologise even if Mr Blair asked.
+",4.6000000000000005,0.034712815044722074,57,-0.1264732718778176,0.04157654087704798,0.749932138564778

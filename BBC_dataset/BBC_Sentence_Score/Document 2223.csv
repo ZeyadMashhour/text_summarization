@@ -1,0 +1,26 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"US cyber security chief resigns
+
+The man making sure US computer networks are safe and secure has resigned after only a year in his post.
+
+",23.0,0.042240626456805624,70,0.09934135812399646,0.05465245725157131,0.7595687405747077
+Amit Yoran was director of the National Cyber Security Division within the US Department of Homeland Security created following the 9/11 attacks.,0.92,0.06654404453593042,87,0.1594800908580282,0.052876462606706386,0.7593685619022884
+"The division was tasked with improving US defences against malicious hackers, viruses and other net-based threats.",8.280000000000001,0.042477625124437195,60,-0.18616174054786494,0.052899493541976136,0.7484128197009987
+"Reports suggest he left because his division was not given enough clout within the larger organisation.
+
+",12.88,0.043476270819457166,48,-0.0955146295972856,0.05239827718172485,0.7279640869819912
+Mr Yoran took up his post in September 2003 and his first task was to get the Cyber Security Division up and running.,5.5200000000000005,0.07496367642670762,52,0.10008771412915034,0.05317842536010273,0.7483986649309253
+The organisation had a staff of about 60 people and a budget of about $80m (Â£44.54m).,7.36,0.04753895906502458,40,-0.060073861943533716,0.04553378789287913,0.7389859416343342
+"The division was charged with thinking up and carrying out action to make US networks more impervious to attack and disruption by the viruses, worms and hack attacks that have become commonplace.
+
+",20.240000000000002,0.05359694676032068,100,-0.12307755796606651,0.05192367501509414,0.7612286473048228
+In the last 12 months Mr Yoran oversaw the creation of a cyber alert system that sends out warnings about big hitting viruses and net attacks as they occur.,17.48,0.06859439748994653,81,-0.13491314033183202,0.05382566795647096,0.7661833976747964
+The warnings also contained information about how firms and organisations could protect themselves against these attacks.,2.7600000000000002,0.04961474784364739,54,-0.15488293589543764,0.05262660742435614,0.7317815344648498
+The Cyber Security Division also audited US government networks to discover exactly what was sitting on which network.,7.36,0.05896600968646821,61,0.04909529742513093,0.053726513652203406,0.7411837473535897
+The next step was to be the creation of a scanning system to identify vulnerabilities that made federal networks and machines susceptible to attack by malicious hackers and virus writers.,19.32,0.047053838931720805,111,-0.1991801788837572,0.05165741412636882,0.7650382922981481
+Mr Yoran's division was also doing work to identify the networks and machines that had been broken into by cyber criminals.,17.48,0.05621872525691427,60,-0.05527985366319919,0.053571401917380336,0.745235922247781
+"Despite this success Mr Yoran left his post abruptly at the end of last week, reportedly only giving one day's notice to bosses at the Department of Homeland Security.",9.200000000000001,0.06277011196183598,91,0.13857519865258286,0.052647863209880394,0.7617911186817686
+"""Amit Yoran has been a valuable contributor on cyber security issues over the past year, and we appreciate his efforts in starting the department's cybersecurity program,"" said a Department of Homeland Security spokeswoman.",24.84,0.04861115092205283,133,0.21265573384248126,0.05283605444624519,0.7711992266103689
+Some reports have suggested that Mr Yoran felt frustrated by the lack of prominence given to work to protect against net-based threats in the wider homeland organisation.,14.72,0.07976869018952411,97,-0.1404637219527851,0.05416055307964956,0.766858831405214
+"An attempt by US politicians to pass a law to promote Mr Yoran and raise the profile of his department's work is now mired in Congress.
+",12.88,0.03756417852920659,77,0.04273452479326097,0.05148534533739054,0.7608849380691063

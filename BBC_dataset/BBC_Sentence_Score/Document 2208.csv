@@ -1,0 +1,21 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Beckham virus spotted on the net
+
+Virus writers are trading on interest in David Beckham to distribute their malicious wares.
+
+",15.64,0.07156094520804937,80,-0.18858660377500536,0.06359862452934002,0.7561379545388934
+Messages are circulating widely that purport to have evidence of the England captain in a compromising position.,4.6000000000000005,0.05959555070094678,69,0.0391513576033148,0.059795829357172536,0.745963262594483
+But anyone visiting the website mentioned in the message will not see pictures of Mr Beckham but will have their computer infected by a virus.,16.560000000000002,0.10779733493153429,61,0.10032350740910113,0.06695072785069034,0.7481950674020369
+"The pernicious program opens a backdoor on a computer so it can be controlled remotely by malicious hackers.
+
+",13.8,0.04813211948930301,67,0.012334191950630225,0.060309556389973824,0.7438514183742491
+The appearance of the Beckham Windows trojan is just another example in a long line of viruses that trade on interest in celebrities in an attempt to fuel their spread.,12.88,0.04947435355874189,82,-0.16521052283261548,0.06876201855123378,0.7575786153648354
+"Tennis player Anna Kournikova, popstars Britney Spears and Avril Lavigne as well as Arnold Schwarzenegger have all been used in the past to try to con people into opening infected files.",5.5200000000000005,0.053407619997277736,105,0.16346772511705052,0.054707670964131865,0.7682169742134494
+The huge amount of interest in Mr Beckham and his private life and the large number of messages posted to discussion groups on the net might mean that the malicious program catches a lot of people out.,22.080000000000002,0.09968782977664414,108,-0.13147824828508656,0.06792944251688103,0.7687935870189269
+"""The public's appetite for salacious gossip about the private life of the Beckhams might lead some into an unpleasant computer infection,"" said Graham Cluley from anti-virus firm Sophos.",14.72,0.07081748341478096,110,-0.1406701368566441,0.06579464338092429,0.7685013035295418
+Simply opening the message will not infect a user's PC.,10.120000000000001,0.09585638876803831,29,0.200596909522227,0.06582935099431375,0.721506923912753
+But anyone visiting the website it mentions who then downloads and opens the fake image file stored on that site will be infected.,6.44,0.06204978406565419,59,0.2547590659635225,0.06626347654921068,0.7552104251139555
+The program that installs itself is called the Hackarmy trojan and it tries to recruit PCs into so-called 'bot networks that are often used to distribute spam mail messages or to launch attacks across the web.,13.8,0.050268671966592196,98,-0.004233668535011991,0.06806892480594905,0.7654077705404339
+"Computers running Microsoft Windows 95, 98, 2000, NT and XP are vulnerable to this trojan.",7.36,0.058128740113396256,55,-0.03595227485623278,0.06417323050621469,0.750370184558291
+"Many anti-virus programs have been able to detect this trojan since it first appeared early this year and have regularly been updated to catch new variants.
+",9.200000000000001,0.05322317800904083,71,-0.13995570983941738,0.06781650360396403,0.7575700410762741

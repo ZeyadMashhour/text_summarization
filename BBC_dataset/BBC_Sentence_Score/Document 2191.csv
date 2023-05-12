@@ -1,0 +1,30 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Net fingerprints combat attacks
+
+Eighty large net service firms have switched on software to spot and stop net attacks automatically.
+
+",27.6,0.06067029537299858,95,0.15643416673533583,0.043789523528437166,0.7667941117017584
+The system creates digital fingerprints of ongoing incidents that are sent to every network affected.,14.72,0.03638312911007059,58,-0.15994176362649026,0.042350535984507574,0.7307430847238379
+Firms involved in the smart sensing system believe it will help trace attacks back to their source.,11.96,0.05159530744241366,48,-0.03635610922642863,0.04406152175909607,0.7284117532542413
+"Data gathered will be passed to police to help build up intelligence about who is behind worm outbreaks and denial of service attacks.
+
+",11.96,0.032590035493642484,69,0.038868652169576315,0.04205084129235751,0.753463539593476
+"Firms signing up for the sensing system include MCI, BT, Deutsche Telekom, Energis, NTT, Bell Canada and many others.",6.44,0.029781833075270735,66,-0.038942911579737734,0.034464582341425576,0.7575065213962159
+The creation of the fingerprinting system has been brokered by US firm Arbor Networks and signatures of attacks will be passed to anyone suffering under the weight of an attack.,28.52,0.06878671591730358,84,-0.10908559879876556,0.044693294485206925,0.7551951875343605
+"Increasingly computer criminals are using swarms of remotely controlled computers to carry out denial of service attacks on websites, launch worms and relay spam around the net.",21.16,0.055089634558669144,109,0.217475107214484,0.043074293157076254,0.7686307674141734
+"""We have seen attacks involving five and ten gigabytes of traffic,"" said Rob Pollard, sales director for Arbor Networks which is behind the fingerprinting system.",13.8,0.05289949658016682,86,-0.10770850756480953,0.04249846962492754,0.7526033541846502
+"""Attacks of that size cause collateral damage as they cross the internet before they get to their destination,"" he said.",5.5200000000000005,0.03585403261634161,50,0.028434409561679475,0.04134937435556473,0.7321041001412465
+"Once an attack is spotted and its signature defined the information will be passed back down the chain of networks affected to help every unwitting player tackle the problem.
+
+",26.68,0.04522619859106979,88,-0.05826104201616532,0.04344883443813999,0.75900395883425
+Mr Pollard said Arbor was not charging for the service and it would pass on fingerprint data to every network affected.,21.16,0.056387864820911196,60,-0.12929027165856652,0.04142873877845616,0.7465148258650701
+"""What we want to do is help net service firms communicate with each other and then push the attacks further and further back around the world to their source,"" said Mr Pollard.",18.400000000000002,0.04475356613756431,59,0.04699518223046718,0.04372157962955582,0.7436277335027905
+Arbor Network's technology works by building up a detailed history of traffic on a network.,14.72,0.046653976570017075,60,-0.11449946486335748,0.04175556902282613,0.7431660183192312
+It spots which computers or groups of users regularly talk to each other and what types of traffic passes between machines or workgroups.,7.36,0.03328289293216413,66,0.12732634500778686,0.04254841390148732,0.752866830501528
+Any anomaly to this usual pattern is spotted and flagged to network administrators who can take action if the traffic is due to a net-based attack of some kind.,34.96,0.03981618992650646,84,0.08650194368964101,0.04386787530067816,0.758902689491149
+This type of close analysis has become very useful as net attacks are increasingly launched using several hundred or thousand different machines.,14.72,0.03646715464317745,66,0.26343835542424526,0.042773591398748693,0.7394897303613648
+Anyone looking at the traffic on a machine by machine basis would be unlikely to spot that they were all part of a concerted attack.,32.2,0.043975065701938286,47,0.16830177087629203,0.04233474765248641,0.7241060550978422
+"""Attacks are getting more diffuse and more sophisticated,"" said Malcolm Seagrave, security expert at Energis.",3.68,0.03576407034552701,62,0.019994319005854955,0.03513486818514801,0.7389692008471784
+"""In the last 12 months it started getting noticeable that criminals were taking to it and we've seen massive growth.""",3.68,0.04156185065079361,47,0.035646705699228766,0.040774034639891925,0.7323042441792353
+"He said that although informal systems exist to pass on information about attacks, often commercial confidentiality got in the way of sharing enough information to properly combat attacks.
+",17.48,0.032460689513453496,101,-0.006309726952533395,0.04387931052398201,0.7571764016159717

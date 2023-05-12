@@ -1,0 +1,29 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Australia rates at four year high
+
+Australia is raising its benchmark interest rate to its highest level in four years despite signs of a slowdown in the country's economy.
+
+",21.16,0.050651354595994465,97,0.07947767823832205,0.05347581560223835,0.7654300126351962
+"The Reserve Bank of Australia lifted interest rates 0.25% to 5.5%, their first upwards move in more than a year.",10.120000000000001,0.07219639634911078,56,-0.051859964250167784,0.052392162919210596,0.736960771253457
+"However, shortly after the Bank made its decision, new figures showed a fall in economic growth in the last quarter.",7.36,0.049701146165247255,58,-0.07617851834746588,0.054021526719723816,0.7456515919747839
+"The Bank said it had acted to curb inflation but the move was criticised by some analysts.
+
+",5.5200000000000005,0.05164371221816056,40,-0.18260257867145172,0.048630330549451886,0.7214803697892335
+The rate hike was the first since December 2003 and had been well-flagged in advance.,7.36,0.044641442608251834,36,0.015330325654472681,0.05227921529917359,0.7220411613022567
+"However, opposition parties and some analysts said the move was ill-timed given data showing the Australian economy grew just 0.1% between October and December and 1.5% on an annual basis.
+
+",11.96,0.04783396591405672,94,0.016698587778352637,0.052651821620307404,0.7600092692942644
+"The figures, representing a decline from the 0.2% growth in GDP seen between July and September, were below market expectations.",7.36,0.05013063166253478,63,-0.012487709986939205,0.052128401923122694,0.7442957233129777
+"Consumer spending remains strong, however, and the Bank is concerned about growing inflationary pressures.",5.5200000000000005,0.03945895932466045,65,-0.031104900612825895,0.05153984523779824,0.7443706838591857
+"""Over recent months it has become increasingly clear that remaining spare capacity in the labour and goods markets is becoming rather limited,"" said Ian Macfarlane, Governor of the Reserve Bank.
+
+",5.5200000000000005,0.04113998151967884,100,-0.10751278849337137,0.052904186171399144,0.7673055447786233
+"At 2.6%, inflation remains within the Bank's 2-3% target range.",3.68,0.06346357850582893,35,-0.18711762684514158,0.05092584477129323,0.7052064855470066
+"However, exports declined in the second half of 2004, fuelling a rise in the country's current account deficit - the difference in the value of imports compared to exports - to a record Australian dollar 29.4bn.",21.16,0.04371928779496429,118,0.1981608485136749,0.05214283770270809,0.7725060158412581
+The Australian government said the economy remained strong with unemployment at a near 30 year low.,16.560000000000002,0.08264429907332806,60,0.1243534086493948,0.05405094577788904,0.7418437551643735
+"""The economy has been strong and it is properly moderating but it doesn't look to me like it's slowing in any unreasonable way,"" said Treasurer Peter Costello.",10.120000000000001,0.04389551005794062,67,0.18036721911209333,0.04829613535301176,0.7453850753338837
+Stock markets had factored in the likelihood of a rate rise but analysts still expressed concern about the strength of the economy.,14.72,0.04234599358530667,71,0.07857866278402603,0.05129196188622898,0.7538183372199154
+"""That 1.5% annual growth rate is the lowest we have seen since the post-election slump we saw back in 2000-1,"" said Michael Blythe, chief economist at the Commonwealth Bank of Australia.",12.88,0.0460705614947333,101,-0.02896043533364874,0.05322600512835526,0.7658615312237871
+"""This suggests the economy really did slow very sharply in the second half of 2004.",11.96,0.058698473247849534,33,0.2530299200611338,0.0522408456910289,0.7212916006892046
+"""
+",0.0,0.05176470588235294,0,0.0,0.007802117647058825,0.26666666666666666

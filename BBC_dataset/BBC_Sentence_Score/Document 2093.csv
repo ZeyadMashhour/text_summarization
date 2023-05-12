@@ -1,0 +1,49 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Rings of steel combat net attacks
+
+Gambling is hugely popular, especially with tech-savvy criminals.
+
+",16.560000000000002,0.025115764178669495,61,-0.05397355882938933,0.02446602117308058,0.7537010644469333
+Many extortionists are targeting net-based betting firms and threatening to cripple their websites with deluges of data unless a ransom is paid.,5.5200000000000005,0.016358296500438598,75,-0.030536504155289263,0.024324259225270272,0.7588656498153339
+But now deep defences are being put in place by some of the UK's biggest net firms to stop these attacks.,18.400000000000002,0.02490287575329275,42,-0.11122225809446368,0.0254777165964106,0.7431898490600178
+Increasing numbers of attacks and the huge amounts of data being used to try to bump a site off the web are prompting firms to adopt the measures.,17.48,0.017760816945278906,67,-0.020985449970625868,0.025963348359708593,0.7557061009604567
+"""Net firms are realising that it's not just about anti-virus and firewalls,"" said Paul King, chief security architect at Cisco.",3.68,0.018310409420058443,67,-0.07061420809362275,0.024173944081991635,0.7570636517953604
+"""There are more things that can be done in the network to protect data centres.""",5.5200000000000005,0.021846061206828245,29,0.03507995648708558,0.025100461226121595,0.7086698692800342
+Mr King said the only way to properly combat these so-called Distributed Denial-of-Service attacks was with intelligent net-based systems.,3.68,0.02355293303821569,85,-0.0031674407280581074,0.025362418300984575,0.7527623794274134
+"Many of the gambling sites suffering DDoS attacks are in offshore data and hosting centres, so any large scale data flood could knock out access to many more sites than just the one the criminals were targeting, said Mr King.",15.64,0.053257803739158546,105,0.08911570160580136,0.02554568766298717,0.7726140514206481
+"This overspill effect was only likely to grow as attacks grow in size and scale.
+
+",10.120000000000001,0.019788677189242328,38,-0.026594608178099916,0.022441827562284522,0.7318913231345093
+"Malcolm Seagrave, security expert at Energis, said the most common types of attacks hit sites with 10 megabytes of data over short periods of time.",13.8,0.03430791287968588,89,0.09066264805119015,0.025672335492942885,0.7653948568067142
+"Bigger attacks sending down 200 megabytes of traffic or more were rarely seen, he said.",10.120000000000001,0.02927528486770341,37,-0.12039296688462839,0.02504590951057953,0.7281489049868477
+"""It does feel like they are turning the dial because you see this traffic gradually growing,"" he said.
+
+",10.120000000000001,0.022074956500144,32,-0.07250981499931275,0.022290560052937943,0.7223963698235965
+"So far there have been no attacks involving gigabytes of data, said Mr Seagrave.",2.7600000000000002,0.023805442861324695,36,0.19943499688507352,0.018185933789690873,0.719879727355422
+"However, he added that it was only a matter of time before such large attacks were mounted.",5.5200000000000005,0.014402362905794792,29,0.003151142950027835,0.024887628953162634,0.7199997694229778
+"Maria Capella, spokeswoman for net provider Pipex, said that when DDoS attacks were at their height, customers were getting hit every four to five days.",15.64,0.031883173045843455,68,-0.09669335038744488,0.023157596982571915,0.7555250068045655
+The defences being put in place constantly monitor the streams of data flowing across networks and pluck out the traffic destined for target sites.,23.0,0.032541164783106175,83,-0.023688983083478863,0.02529432151260349,0.7562332269310041
+"""It's about understanding what's genuine traffic and keeping attack traffic from going to the site,"" she said.",46.92,0.03435017333125378,48,-0.09394920642000379,0.024882611230060803,0.7299309014484406
+"""We study the profile of their traffic and as soon as we see an anomaly in the profile that's when we start to get the backbone engineering boys to see if we are going to sustain an attack,"" said Ms Capella.",38.64,0.018618551393592465,82,-0.08383876672301467,0.024756527589350093,0.7601040884006334
+"This traffic can be hard to spot because DDoS attacks typically use thousands of computers in many different countries, each participating machine only sends a small part of the entire data flood.
+
+",23.92,0.03717020343225958,103,-0.10524930167264589,0.02613944295168557,0.7645562050564615
+Typically these computers have been infected by a virus or worm which reports its success and the net address of compromised machines back to the malicious hacker or hi-tech criminal that set off the virus.,27.6,0.025077967275207714,114,-0.07593333299618725,0.025227235177758715,0.7703954372145939
+Hijacked computers are known as zombies or 'bots and collections of them are called 'bot nets.,0.92,0.021663663051639203,43,-0.09536260780321391,0.021570677186736373,0.7304610941362597
+"Many spammers rent out 'bot nets to help them anonymously send junk mail.
+
+",7.36,0.022409972462404983,40,-0.11402839098732681,0.019231725461875602,0.738268073355
+Most of the zombies are based outside the country that hosts the target site so getting the attacking PCs shut off can be difficult.,20.240000000000002,0.02998712856564784,52,-0.012357077694442834,0.02575373795236311,0.7480882334979396
+Often Pipex and other net suppliers do get advance notice that an attack is about to happen.,34.96,0.02319588096641716,41,-0.09317950154651118,0.024450749620200864,0.7290260212508017
+"""The serious players tend to precede an attack with some kind of ransom e-mail,"" said Ms Capella.",25.76,0.024963053686787157,48,-0.060833873504746436,0.024142228830911487,0.7437711500561046
+"""We ask, as part of the service we provide, that customers notify us of anything they have in advance that would give us forewarning.""",10.120000000000001,0.019396515214971165,51,-0.047853257277277385,0.02380863019172392,0.7226764485305259
+Once an attack is spotted dedicated net hardware takes over to remove the attack traffic and ensure that sites stay up.,63.480000000000004,0.029275480338569852,67,-0.10844914559240122,0.026343164200763332,0.7531838215024256
+"Energis took a similar approach, said Mr Seagrave.",1.84,0.02173148750569043,32,0.23714460691365657,0.01902906856276767,0.707387590208231
+"""We have technology out there that allows us to detect attacks in minutes rather than let network engineers spend hours pulling the information together,"" said Mr Seagrave.",8.280000000000001,0.03305786036163701,77,0.1457354917518832,0.0256180049755616,0.7572150135803924
+Also net firms were starting to work more closely together on the problem of DDoS attacks and pool information about where they are coming from.,19.32,0.031727731130815805,58,-0.07326222231429917,0.026435644225828715,0.7526082026519468
+Information gathered on attacks and where they originated has led to some arrests.,0.0,0.016478707687836925,42,-0.009003285779362226,0.02398603866025262,0.7180187878810563
+He said Energis also did its own intelligence work to get in insight into which sites criminal gangs plan to target.,12.88,0.0243386374814588,56,0.06088689763290155,0.02473208682281952,0.7448016752217499
+"""We have people in places where they shouldn't be, monitoring tech sites,"" he said.",3.68,0.020289461978831375,26,-0.020312922629600688,0.025105376887510827,0.7069064781955959
+"Sometimes though, he said, spotting the next victim was easy.",1.84,0.015092083870217156,14,-0.03563279791311352,0.022293981583942066,0.6638139381845818
+"""You can see them going alphabetically through the list with the gambling sites, trying one after another,"" said Mr Seagrave.
+",3.68,0.0219915044499762,40,0.21687095354736513,0.019103097404558195,0.6992201621803974

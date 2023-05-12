@@ -1,0 +1,47 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Call centre users 'lose patience'
+
+Customers trying to get through to call centres are getting impatient and quicker to hang up, a survey suggests.
+
+",47.84,0.04577157812726394,75,-0.017397411752558427,0.03000613995852863,0.7500427698341299
+"Once past the welcome message, callers on average hang up after just 65 seconds of listening to canned music.",9.200000000000001,0.030606847400655404,50,-0.04010955050142557,0.028489113266019803,0.7452653417664578
+The drop in patience comes as the number of calls to call centres is growing at a rate of 20% every year.,40.480000000000004,0.04314588890976767,46,-0.1256697294084732,0.030094334902409776,0.7351193733286844
+"""Customers are getting used to the idea of an 'always available' society,"" says Cara Diemont of IT firm Dimension Data, which commissioned the survey.",8.280000000000001,0.02416289740231511,64,0.09089208157349718,0.026704797408211144,0.7495520460888121
+"However, call centres also saw a sharp increase of customers simply abandoning calls, she says, from just over 5% in 2003 to a record 13.3% during last year.",34.96,0.03408274618658526,66,-0.06938730581612103,0.029844857043401424,0.7483918731704823
+"When automated phone message systems are taken out of the equation, where customers have to pick their way through multiple options and messages, the number of abandoned calls is even higher - a sixth of all callers give up rather than wait.",20.240000000000002,0.02893899700967468,109,-0.06586240207846954,0.02948674384005273,0.764783467398242
+"One possible reason for the lack in patience, Ms Diemont says, is the fact that more customers are calling 'on the move' using their mobile phones.
+
+",11.040000000000001,0.04334718509379971,58,0.07693359073901589,0.029218367899058788,0.7419341135677056
+The surge in customers trying to get through to call centres is also a reflection of the centres' growing range of tasks.,27.6,0.02821711599700729,52,-0.039219136655409166,0.029649357359246366,0.7377886896754577
+"""Once a call centre may have looked after mortgages, now its agents may also be responsible for credit cards, insurance and current accounts,"" Ms Diemont says.",44.160000000000004,0.024920614863039155,80,0.09456100240797692,0.028944251674342357,0.7570226925194294
+"Problems are occurring because increased responsibility is not going hand-in-hand with more training, the survey found.
+
+",9.200000000000001,0.018556551214554788,64,0.007104937669186937,0.030109488573030734,0.7389180601230392
+"In what Dimension Data calls an ""alarming development"", the average induction time for a call centre worker fell last year from 36 to just 21 days, leaving ""agents not equipped to deal with customers"".",56.120000000000005,0.04682819934437477,112,-0.02421353465125281,0.030737466551485453,0.7722902535831335
+"This, Ms Diemont warns, is ""scary"" and not good for the bottom line either.",4.6000000000000005,0.02630434089847558,32,0.09799249640899772,0.026818023992070394,0.7204775024644716
+Poor training frustrates both call centre workers and customers.,44.160000000000004,0.039882907947186054,45,-0.06218223974231469,0.02884377541533586,0.7162536302303879
+"As a result, call centres have a high ""churn rate"", with nearly a quarter of workers throwing in the towel every year, which in turn forces companies to pay for training new staff.",46.0,0.024976637361022774,88,-0.07524803077478952,0.030338873294607598,0.7673099403964394
+Resolution rates - the number of calls where a customer's query is resolved to mutual satisfaction - are running at just 50%.,24.84,0.030768611640224958,67,-0.15036789573270962,0.029245758147404145,0.7477120822111013
+"When the query is passed on to a second or third person - a specialist or manager - rates rise to about 70%, but that is still well below the industry target of an 85% resolution rate.
+
+",27.6,0.018480951959906164,72,-0.13190800847013776,0.029089456812447727,0.7604311923892078
+"Suggestions that ""outsourcing"" - relocating call centres to low-cost countries like India or South Africa - is to blame are wrong, Ms Diemont says.
+
+",34.96,0.028436816180428558,87,0.11541073614802783,0.029354265945142392,0.7622613116506499
+"There are ""no big differences in wait time and call resolution"" between call centres based in Europe or North America and those in developing countries around the world.",59.800000000000004,0.024737674855930918,86,-0.023371435695833578,0.030390328875112612,0.7602534354082218
+"""You can make call centres perform anywhere if you have good management and the right processes in place,"" she says.",32.2,0.024266959241109814,47,0.026973122736189428,0.030134832096717093,0.7314146941308738
+"However, companies that decide to ""offshore"" their operations are driven not just by cost considerations.",6.44,0.03752812035454138,52,0.24326125648652763,0.028683538791677538,0.7296799837553223
+Only 42% of them say that saving money is the main consideration when closing domestic call centre operations.,46.92,0.026214710709574932,60,0.14119523919568144,0.03011070846611491,0.7453643566794628
+Half of them argue that workers in other countries offer better skills for the money.,5.5200000000000005,0.01992791262956551,37,0.006527213043379013,0.029533467677567163,0.7275778359525322
+But not everybody believes that outsourcing and offshoring are the solution.,1.84,0.019702835985378014,34,0.1326927565844958,0.024969371878825867,0.6858113826307974
+Nearly two-thirds of all firms polled for the survey have no plans to offshore their call centres.,31.28,0.033300525454825806,45,0.13551399344820575,0.029310674326687675,0.715402819538436
+"They give three key reasons for not making the move:
+
+- call centre operations are part of their business ""core function"", 
+ - they are worried about the risk of going abroad, 
+ - they fear that they will damage their brand if they join the offshoring drive.",69.92,0.02437381544021961,111,0.18813550438930832,0.030613313825753448,0.7689838402973173
+"The survey was conducted by Sunovate on behalf of Dimension Data, and is based on in-depth questionnaires of 166 call centres in 24 countries and five continents.",32.2,0.03461722570171597,97,0.041416427450993644,0.029184585402155783,0.7628640448681749
+What are your experiences with call centres?,23.0,0.048583944402493716,20,-0.00871073488595073,0.028662933668665985,0.5930121528266613
+"Are you happy to listen to Vivaldi or Greensleeves, or do you want an immediate response?",3.68,0.02478263925382408,37,-0.0009304432706582161,0.022596722003375258,0.7096257298536142
+"And if you work in a call centre: did your training prepare you for your job?
+",48.760000000000005,0.024534748434538352,32,-0.03284797184289894,0.028834450904551313,0.7076052070084837

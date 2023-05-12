@@ -1,0 +1,26 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Blind student 'hears in colour'
+
+A blind student has developed software that turns colours into musical notes so that he can read weather maps.
+
+",26.68,0.07632927406768841,85,0.12093555089790155,0.05585401295707303,0.7638726529729377
+"Victor Wong, a graduate student from Hong Kong studying at Cornell University in New York State, had to read coloured maps of the upper atmosphere as part of his research.",13.8,0.04139921861397399,104,0.037990697262053064,0.04973726778199277,0.7683455975831763
+"To study ""space weather"" Mr Wong needed to explore minute fluctuations in order to create mathematical models.",12.88,0.05249095327964764,79,-0.15025589033475,0.05342860067687895,0.7598290725408343
+"A number of solutions were tried, including having a colleague describe the maps and attempting to print them in Braille.",3.68,0.050717006359149955,60,0.03372878330382366,0.05333766747979153,0.7402620056557039
+"Mr Wong eventually hit upon the idea of translating individual colours into music, and enlisted the help of a computer graphics specialist and another student to do the programming work.
+
+",15.64,0.048321404833068814,106,0.0018798974437909607,0.05518661584681715,0.7667124068073148
+"""The images have three dimensions and I had to find a way of reading them myself,"" Mr Wong told the BBC News website.",1.84,0.039526846519316046,46,-0.18441203122733876,0.05172437211077652,0.7454890793962657
+"""For the sake of my own study - and for the sake of blind scientists generally - I felt it would be good to develop software that could help us to read colour images.""",34.04,0.08374971971065141,74,0.02642500806768734,0.054803155541207245,0.7602166954340936
+He tried a prototype version of the software to explore a photograph of a parrot.,12.88,0.04892592564424267,47,0.02817674301554574,0.04742218904456805,0.7197134085553926
+"In order to have an exact reference to the screen, a pen and tablet device is used.",7.36,0.051818862086045483,40,-0.04736666259637039,0.04992739853396325,0.7328300194263426
+The software then assigns one of 88 piano notes to individually coloured pixels - ranging from blue at the lower end of this scale to red at the upper end.,20.240000000000002,0.05304087675821923,79,0.2538848726289381,0.05125548225536154,0.7653375663061266
+Mr Wong says the application is still very much in its infancy and is only useful for reading images that have been created digitally.,2.7600000000000002,0.062259299799835306,48,-0.20271642628772565,0.05273834473889711,0.4060366266062825
+"""If I took a random picture and scanned it and then used my software to recognise it, it wouldn't work that well.",11.96,0.03965639157294021,38,0.07385417194342521,0.05206166209811803,0.7222509582442345
+"""
+
+Mr Wong has been blind from the age of seven and he thinks that having a ""colour memory"" makes the software more useful than it would be to a scientist who had never had any vision.",23.0,0.06744390182984492,58,0.023839786508929376,0.054866713269677264,0.7540291792350837
+"""As the notes increase in pitch I know the colour's getting redder and redder, and in my mind's eye a patch of red appears.""",15.64,0.05001771719787413,50,0.2400358054954757,0.04892285815086171,0.7543782904791696
+"The colour to music software has not yet been made available commercially, and Mr Wong believes that several people would have to work together to make it viable.",24.84,0.06521005975785459,68,0.004071480477067733,0.054585350031586446,0.7575016595555059
+"But he hopes that one day it can be developed to give blind people access to photographs and other images.
+",9.200000000000001,0.049092541969647206,50,0.0037970350023678453,0.05414830948242926,0.7389170815002057

@@ -1,0 +1,35 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Speech takes on search engines
+
+A Scottish firm is looking to attract web surfers with a search engine that reads out results.
+
+",33.120000000000005,0.0676555269885263,72,-0.10176208663387457,0.03921149968055774,0.7569456410656873
+"Called Speegle, it has the look and feel of a normal search engine, with the added feature of being able to read out the results.",22.080000000000002,0.045455310703988526,53,-0.14524685001724735,0.038978572215093585,0.740543837339926
+Scottish speech technology firm CEC Systems launched the site in November.,19.32,0.04553643563061149,55,0.18237647974748442,0.035656847900641164,0.739881338927341
+"But experts have questioned whether talking search engines are of any real benefit to people with visual impairments.
+
+",19.32,0.0585676523620363,63,-0.07367918509270148,0.03837935617879189,0.7491455568702557
+The Edinburgh-based firm CEC has married speech technology with ever-popular internet search.,24.84,0.05160660500197477,70,0.12865431164659405,0.037663317114752556,0.7502753854058087
+"The ability to search is becoming increasingly crucial to surfers baffled by the huge amount of information available on the web.
+
+",20.240000000000002,0.02577586879382108,68,-0.04271923550901099,0.03761864577482433,0.7426261225209227
+"According to search engine Ask Jeeves, around 80% of surfers visit search engines as their first port of call on the net.",31.28,0.03854269289861996,53,-0.19136674939332973,0.03583588517598766,0.7488277041676965
+People visiting Speegle can select one of three voices to read the results of a query or summarise news stories from sources such as the BBC and Reuters.,6.44,0.03356582682497465,78,-0.051973317893129575,0.03631644434591392,0.7625811685901285
+"""It is still a bit robotic and can make a few mistakes but we are never going to have completely natural sounding voices and it is not bad,"" said Speegle founder Gordon Renton.",7.36,0.029712590443543508,77,-0.03103049069049864,0.03654750347358367,0.7611882635012912
+"""The system is ideal for people with blurred vision or for those that just want to search for something in the background while they do something else.",20.240000000000002,0.026379224013937736,43,0.02426540637464335,0.03753315125459029,0.7221516831689802
+"""We are not saying that it will be suitable for totally blind people, although the Royal National Institute of the Blind (RNIB) is looking at the technology,"" he added.",18.400000000000002,0.03234772958931843,70,0.2176988495495477,0.036578596239767946,0.7550490605458533
+"But Julie Howell, digital policy manager at the RNIB, expressed doubts over whether Speegle and similar sites added anything to blind people's experience of the web.",19.32,0.054608584947067995,92,0.15277628345066085,0.039238446085199975,0.7671110655407438
+"""There are a whole lot of options like this springing up on the web and one has to think carefully about what the market is going to be,"" she said.",8.280000000000001,0.032146490814889246,33,0.03554664077504359,0.03768658279147979,0.7198660417590593
+"""Blind people have specialised screen readers available to them which will do the job these technologies do in a more sophisticated way,"" she added.
+
+",9.200000000000001,0.03301978797740377,62,0.204852093873036,0.03819421697964558,0.7459799446540122
+"The site uses a technology dubbed PanaVox, which takes web text and converts it into synthesised speech.",22.080000000000002,0.037920798702303304,58,0.13508208232681784,0.03691006720850639,0.7451877771680323
+In the past speech technology has only been compatible with broadband because of the huge files it downloads but CEC says its compression technology means it will also work on slower dial-up connections.,23.92,0.030784104936826,108,0.16911561958497662,0.03824972072939423,0.7676075669162405
+"Visitors to Speegle may notice that the look and feel of the site bears more than a passing resemblance to the better known, if silent, search engine Google.",25.76,0.03994707844763502,71,-0.09661891725431099,0.03711081019014333,0.7534587131810302
+"Google has no connection with Speegle and the use of bright colours is simply to make the site more visible for those with visual impairments, said Mr Renton.",13.8,0.04813142098535204,80,-0.0026212809439173338,0.036970067343494194,0.7607726928503855
+"""It is not a rip-off.",0.0,0.03826086956521739,7,-0.0013857424338232162,0.030083631873015396,0.5282560291750531
+"We are doing something that Google does not do and is not planning to do and there is truth in the saying that imitation is the sincerest form of flattery,"" he said.",4.6000000000000005,0.033960426779143627,47,-0.009390714753024486,0.03250460397194388,0.7233250913425331
+Speegle is proving popular with those learning English in countries such as Japan and China.,1.84,0.024839131988163336,48,0.014911927606572445,0.03494428791012567,0.7397659594154857
+"""The site is bombarded by people just listening to the words.",11.96,0.026288623295328144,27,0.09795232037422127,0.03555899813630215,0.7084982451843674
+"The repetition could be useful although they may all end up talking like robots,"" said Mr Renton.
+",2.7600000000000002,0.024947218309317388,30,-0.018750454729794024,0.03222874742624452,0.7109329061949989

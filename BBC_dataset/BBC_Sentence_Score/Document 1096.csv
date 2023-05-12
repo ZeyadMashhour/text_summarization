@@ -1,0 +1,26 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Howard rejects BNP's claim
+
+Tory leader Michael Howard has dismissed claims that his immigration policy was ""moving onto the turf"" of the British National Party (BNP).
+
+",11.96,0.07974256649855131,104,0.13251684067478317,0.05754357178876016,0.7683961318081868
+BNP leader Nick Griffin told the Independent he expected some BNP voters to switch to the Tories over the issue.,3.68,0.0613677032131862,64,-0.0987948167687532,0.05594885560916258,0.7573870160448227
+But Mr Howard said he rejected the idea that the Tories and BNP appealed to the same voting instincts.,2.7600000000000002,0.05301337978209852,45,-0.005867629797391769,0.05548122459498408,0.7415230417107201
+"Asked if he would welcome BNP voters he told the BBC: ""I don't want anybody to vote for these extremist parties"".",2.7600000000000002,0.06383310240869852,36,-0.10158719282419397,0.05638424022911257,0.7370955116144774
+"He added, on BBC Radio 4's Today programme: ""If you want good community relations in this country...then you have to have firm, fair immigration controls.",10.120000000000001,0.041141529041779985,81,0.15339872378854982,0.0552514449824882,0.7640249465080506
+"""
+
+",0.0,0.055,0,0.0,0.008317183610200883,0.26666666666666666
+"The Tories have promised an upper limit on the number of people allowed into Britain with the slogan: ""It's not racist to impose limits on immigration"".",13.8,0.06878305062283449,79,0.18666870175513903,0.0566249176965619,0.760914954415207
+"All parties are stepping up campaiging in the run-up to the general election, widely expected to be called for 5 May.",4.6000000000000005,0.048451952291611616,55,-0.040785050799110066,0.05776033975661354,0.7402493828981014
+"Labour has unveiled its own ""points system"" for ensuring migrants who want to work in the UK have skills that are required, but have rejected immigration quotas.",6.44,0.042675355433513855,76,0.21215036896655887,0.05437891591517509,0.7583952224138499
+"The Liberal Democrats have warned both parties against ""pandering to prejudice"".
+
+",0.92,0.04963236290795699,40,-0.01587102146897693,0.049472436947943545,0.7230849376836656
+"Mr Griffin told the Independent the Tories' plans were ""a definite move onto our turf"".",4.6000000000000005,0.048744194365704485,48,-0.054720443625410765,0.05709399990168979,0.7370583747740151
+"He said: ""I quite freely accept that on a nationwide basis, the Tories will con enough people to make a significant hole in our vote.""",11.040000000000001,0.0454177606400877,63,0.018390462931992122,0.05799356724967194,0.7507371443967588
+"Asked whether he was comfortable with the perception that the Conservatives and the BNP appeal to the same voting instincts, Mr Howard told the BBC: ""I reject that entirely"".",10.120000000000001,0.06134919818206764,80,-0.04940254356293315,0.05770610026211463,0.7552160267138288
+"He said he found BNP's policies ""abhorrent"" but he said the UK had to take a different approach to immigration, which he said was out of control.",8.280000000000001,0.07076329874649868,51,0.285161079470555,0.054547564013824226,0.7307945813711585
+"""The government doesn't want to limit it in any way, we do, there's a legitimate difference between us there which we can discuss in a calm, rational and reasonable way,"" he said.",9.200000000000001,0.04379396369941158,64,0.09857789601535809,0.05244995258785017,0.7390740275696488
+"He again rejected newspaper speculation that his own father entered Britain illegally.
+",3.68,0.04629058216599837,53,0.09953285185739,0.05304568485384658,0.7316366519476272

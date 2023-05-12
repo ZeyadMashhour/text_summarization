@@ -1,0 +1,39 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Man Utd stroll to Cup win
+
+Wayne Rooney made a winning return to Everton as Manchester United cruised into the FA Cup quarter-finals.
+
+",5.5200000000000005,0.020656013943871367,89,0.04677609110461925,0.03230169910399063,0.7711122206247397
+"Rooney received a hostile reception, but goals in each half from Quinton Fortune and Cristiano Ronaldo silenced the jeers at Goodison Park.",4.6000000000000005,0.03820597785670336,91,-0.028027461827541608,0.03120010570106771,0.7606917355836491
+Fortune headed home after 23 minutes before Ronaldo scored when Nigel Martyn parried Paul Scholes' free-kick.,2.7600000000000002,0.03576548287933673,70,-0.19257460550025063,0.03385887848918345,0.7626285510531843
+"Marcus Bent missed Everton's best chance when Roy Carroll, who was later struck by a missile, saved at his feet.
+
+",3.68,0.04535759726121389,58,0.18354732379362007,0.03286959486760405,0.7544420938084738
+"Rooney's return was always going to be a potential flashpoint, and he was involved in an angry exchange with a spectator even before kick-off.",7.36,0.02123416623739739,68,-0.03362889643841504,0.030425427117257414,0.7449676080662337
+And Rooney's every touch was met with a deafening chorus of jeers from the crowd that once idolised the 19-year-old.,3.68,0.025845044390592133,54,-0.009344279674754185,0.0289847091407586,0.7538190159992344
+Everton started brightly and Fortune needed to be alert to scramble away a header from Bent near the goal-line.,3.68,0.02493795154171252,63,0.11891284215755925,0.03275583027697705,0.7542248158421846
+But that was the cue for United to take complete control with a supreme passing display on a Goodison Park pitch that was cutting up.,6.44,0.02173277883016152,65,-0.006141283085979129,0.02911874553520312,0.7553004510722865
+"Fortune gave United the lead after 23 minutes, rising to meet Ronaldo's cross from eight yards after the Portuguese youngster had been allowed too much time and space by the hapless Gary Naysmith.",13.8,0.04063278349427247,107,-0.10016995276458468,0.03297959679867932,0.770448619550653
+"United dominated without creating too many clear-cut chances, and they almost paid the price for not making the most of their domination two minutes before half-time.",1.84,0.020480597581552677,72,-0.04173270985351256,0.030789392125241934,0.7601720480302663
+"Mikel Arteta played a superb ball into the area but Bent, played onside by Gabriel Heintze, hesitated and Carroll plunged at his fee to save.",10.120000000000001,0.020008830364933103,86,0.012669204458994105,0.031440167993431106,0.7677383507291202
+"United almost doubled their lead after 48 minutes when Ronaldo's low drive from 25 yards took a deflection off Tony Hibbert, but Martyn dived to save brilliantly.",13.8,0.03908476657681471,91,-0.14703346168884365,0.03285832866417167,0.7677765458422614
+"And Martyn came to Everton's rescue three minutes later when Rooney's big moment almost arrived as he raced clean through, but once again the veteran keeper was in outstanding form.",7.36,0.022419693360458556,83,0.0369425203866803,0.033817743996961205,0.7619417283259895
+But there was nothing Martyn could do when United doubled their lead after 57 minutes as they doubled their advantage.,4.6000000000000005,0.024819886572504387,45,-0.1390468326143274,0.03155267208480188,0.7320049149093625
+"Scholes' free-kick took a deflection, and Martyn could only parry the ball out for Ronaldo, who reacted first to score easily.",9.200000000000001,0.03093516998435728,63,-0.18952064540528232,0.03221022583902668,0.753283420990914
+Everton's problems worsened when James McFadden limped off with an injury.,2.7600000000000002,0.02606598453171999,43,0.14257470148300022,0.028830993303402483,0.7266203117345209
+And there may be further trouble ahead for Everton after goalkeeper Carroll required treatment after he was struck on the head by a missile thrown from behind the goal.,11.040000000000001,0.020276098904595783,78,0.1526121285888704,0.032932166091546304,0.758240230150902
+"Rooney's desperate search for a goal on his return to Everton was halted again by Martyn in injury-time when he outpaced Stubbs, but once again Martyn denied the England striker.
+
+",9.200000000000001,0.04350701295717967,95,0.048914475260959704,0.0335963132708881,0.7671023416232063
+"- Manchester United coach Sir Alex Ferguson: ""It was a fantastic performance by us.",12.88,0.023066785890167966,56,-0.033262573592977684,0.030673987975943846,0.7382545026870129
+In fairness I think Everton have missed a couple of players and got some young players out.,2.7600000000000002,0.029996645643006126,42,0.16758299431796356,0.031049707083398926,0.7315016641251705
+"""The boy Ronaldo is a fantastic player.",6.44,0.03144141100326985,25,0.0019845313668171226,0.029156604883123324,0.6860297983498707
+He's persistent and never gives in.,0.92,0.030344827586206897,10,0.0003597167705663652,0.012930552855011476,0.5313657888557096
+"""I don't know how many fouls he had He gets up and wants the ball again, he's truly a fabulous player.""",7.36,0.026816764990714368,22,0.032701145036424586,0.02885650509722624,0.6866665633015284
+Everton:,0.0,0.06061788216238598,7,0.2556395121098139,0.021767556881747682,0.5220340804078697
+"Martyn, Hibbert, Yobo, Stubbs, Naysmith, Osman, Carsley, Arteta, Kilbane, McFadden, Bent.",0.0,0.023825878423199616,68,-0.0015967572545720226,0.0141945479280726,0.7537131281971454
+"Subs: Wright, Pistone, Weir, Plessis, Vaughan.",0.0,0.030344827586206897,34,-0.001297365465564253,0.018941058981338892,0.7227641489101303
+"Manchester United: Carroll, Gary Neville, Brown, Ferdinand, Heinze, Ronaldo, Phil Neville, Keane, Scholes, Fortune, Rooney.",0.0,0.04088948427305099,96,-0.0727077439342937,0.02901580308155286,0.7650932534491441
+"Subs: Howard, Giggs, Smith, Miller, Spector.",0.0,0.030344827586206897,33,-0.0025777035838724397,0.026287561781926375,0.7227641481643898
+"Referee: R Styles (Hampshire)
+",0.0,0.030344827586206897,21,0.004518732096533344,0.024603523050465204,0.6647692036388649

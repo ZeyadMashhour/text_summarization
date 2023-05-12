@@ -1,0 +1,54 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Booming markets shed few tears
+
+The market, former British government minister Michael Heseltine once said, has no morality.
+
+",18.400000000000002,0.01932072413262091,74,-0.07269499913360652,0.025244848172102673,0.7546080498422092
+"And indeed, stock exchange traders around Asia have wasted little time regretting the victims of this week's disaster.",27.6,0.0313828794070481,56,0.026903743951706638,0.02643505674676467,0.748196439595345
+"Stock markets in Indonesia and India have hit all-time highs this week; even in Sri Lanka, more comprehensively affected, the main index has lost only 5% since the waves hit.",20.240000000000002,0.035552341031544824,94,0.018682725895671572,0.026856098410852083,0.7680495885361484
+Bigger markets further afield have barely twitched.,2.7600000000000002,0.021424816798301445,27,-0.08873258116302238,0.022933638003026974,0.7070855717829465
+"The MSCI World share index, a measure of global stock market performance, hit its highest level this week since early 2001; the BBC Global 30 has risen by 3% in the past week.",58.88,0.03318068878217969,104,-0.004577416623865162,0.026905230470978536,0.773778036451275
+"And this at a time when - all sentiment aside - insurance costs are already estimated in the tens of billions of dollars, and countries around the region are looking at trimming their growth forecasts.
+
+",27.6,0.023744599884326253,81,0.043928279905788535,0.026363674660051562,0.7571221534262644
+"In fact, the markets are being perfectly rational.
+
+",3.68,0.02715874235127501,27,-0.0730093075705915,0.023177079978367224,0.6904459607799088
+"For a start, the notional insurance cost of the disaster will have little bearing on corporate bottom lines.",20.240000000000002,0.02516608540855069,57,0.0973347208906604,0.026037102479115243,0.7378539655431506
+"The overwhelming majority of the victims will have had no insurance: according to estimates from India, only one-quarter of those affected there were wealthy enough to afford insurance, and only one-quarter of that group at most will have taken out policies.",13.8,0.02375274065673722,109,0.07895900298156443,0.02691903719691028,0.7635153813870614
+Indonesia is likely to have even lower take-up rates.,0.92,0.01747087333405465,25,-0.008148705453568925,0.0261613588381081,0.6518847555045835
+"And where insurance certainly is in place - in, for example, the many tourist complexes affected - the costs will be borne in far-away corners of the global reinsurance market, rather than landing locally.
+
+",45.080000000000005,0.031536706557083724,90,0.08152082378083166,0.027215606809386523,0.7649113282624511
+"Second, stock markets do not trade the sort of companies likely to have been damaged.",11.040000000000001,0.04009887437484884,33,-0.14817957445869134,0.027068080414883757,0.718309457248164
+"Most of the biggest companies traded on the soaring Jakarta Stock Exchange are in oil, technology and financial services - none of which have been hit by the flooding.",16.560000000000002,0.026998215770959275,76,-0.0732170752422322,0.0267746175397353,0.7599016454267483
+"Tourist businesses, the most likely sufferers, are either foreign-owned or too small to have their shares listed.",1.84,0.028958519286557523,48,0.1637096632050118,0.026354234176793796,0.7270814528622437
+"Those that are listed have suffered: Confifi Hotel Holdings, a small Sri Lankan tourism firm, has halved in value this week.",10.120000000000001,0.017885553582857205,63,0.06686919696800994,0.025107100978945952,0.7579106356535369
+But there are winners as well as losers.,0.0,0.02588235294117647,11,-0.0015403993303731817,0.013372065186185743,0.6205136165806391
+"Asian stock markets are heavily inclined towards property and construction companies, many of which will be rubbing their hands over the reconstruction opportunities.",13.8,0.023817537680164032,89,-0.1203100985290154,0.02652008752111705,0.7579065655589909
+"In Indonesia, shares in state construction companies Adhi Karya and Semen Gresik have jumped sharply this week.
+
+",11.040000000000001,0.03257552521283525,73,-0.009657443541352713,0.0237218411519763,0.7572000271858284
+"More broadly, the academic consensus is that major disasters are largely neutral in their longer-term economic impact.
+
+",10.120000000000001,0.02643746800526448,74,0.034050417811284366,0.026420886840947497,0.7550034851696695
+"According to the Natural Hazards Research and Applications Information Center at Colorado State University, there is little evidence that disasters are inevitably followed by a depression.",3.68,0.023711412914824554,108,0.12149073489890763,0.024221458966129122,0.7606317248041867
+"The need to find money to replace lost and damaged property is balanced by the beneficial effect of reconstruction activity; there is rarely, the centre says, any sort of rebuilding boom, but in most cases sizeable indirect losses are avoided.",23.0,0.02450125472890121,136,-0.07454302856361876,0.026514684370908665,0.7741289777125686
+"A study of the 1993 Des Moines floods, from the Disaster Research Center at the University of Delaware*, found that 70% of local businesses were no worse off after the disaster, and another 18% felt themselves better off.",13.8,0.021394907698001172,98,0.1722372252438132,0.02544573063981896,0.7681962244327926
+"""Although it is commonly assumed on the basis of anecdotal evidence that disasters result in business failures and bankruptcies on a large scale, our research indicates that most businesses, even those that are especially hard-hit, do indeed recover,"" the authors concluded.
+
+",16.560000000000002,0.03434995970862133,131,0.20302574041422639,0.027334606394108712,0.7728303711632984
+"But disasters have a vast psychological impact, and markets are driven by psychological factors.
+
+",6.44,0.02196861080054911,61,0.020554834000836752,0.025471426742208855,0.7394651678541484
+"In particular, many analysts warn of panic spreading unchecked through the global financial system, as investors seek to cover themselves against the unforeseeable effects of unguessable events.",14.72,0.020886968275790604,104,-0.017645017549662197,0.026046068018985388,0.7634722563491217
+"In fact, again, the risks here are lower than they seem.",2.7600000000000002,0.022701310480120272,11,-0.028683903841570758,0.025307219981001727,0.6657332330215624
+Even the costliest natural disaster is rendered minuscule by the global capital market - currently $30 trillion and rising.,44.160000000000004,0.031469461308529935,69,0.0067834347888843455,0.02624638947195357,0.7541667748621596
+"A series of recent shocks, the Colorado centre has argued, have demonstrated that this seamless global contagion hardly ever happens: market tremors rarely translate into economic slumps, and economic woes rarely seriously undermine markets.",37.72,0.02577788630063044,142,-0.03176207634192762,0.026447395769836866,0.7751013081792538
+"The trillion-dollar debts of Japan's banks, for example, have had no effect on stock markets further afield than Tokyo.",11.96,0.026397727549147786,56,-0.09927225196509037,0.02566245308532075,0.7491263912482425
+"And the US stock market was on its way down long before 11 September, 2001; it rose by 20% during the six months following the attacks.",26.68,0.021674754941269272,47,-0.07909382547858954,0.025951220823102025,0.7501615944192852
+"""It is not that the broking community is indifferent to disasters or feelings,"" one Bombay trader said this week.",11.96,0.01787586891956137,56,0.059732117290178445,0.024872909821954312,0.7254860394912803
+"""But the reaction would have been seen if business had been affected.",6.44,0.028972537668698523,22,0.21126233291974963,0.024770552203943894,0.6511130090287964
+Business sense probably tends to overrule everything else.,1.84,0.020089740565792366,21,0.188049712493243,0.02231932499109555,0.6589150325422599
+"""
+",0.0,0.02588235294117647,0,0.0,0.0038009131433823537,0.26666666666666666

@@ -1,0 +1,66 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"The pirates with no profit motive
+
+Two men who were part of a huge network of internet software pirates, known as Drink Or Die, have been convicted at the Old Bailey.",31.28,0.02852790179710576,79,-0.12143392908827436,0.02071308214570334,0.75843499973828
+"BBC News investigates how the network worked and what motivated those involved.
+
+",5.5200000000000005,0.020223858781788052,44,0.13371688414971244,0.019689350122374313,0.7265036420849611
+They called themselves Drink Or Die (DOD).,0.0,0.015809465498796263,15,-0.051625938824609675,0.016773485347269686,0.4695309672269334
+They were a network of computer buffs who derived pleasure from cracking codes protecting copyrighted software such as Windows 95.,23.92,0.02533977905142345,74,0.060936104200679665,0.019609762096324503,0.7543988024358725
+They would then share it with each other.,0.92,0.019130434782608695,5,0.01725922089936448,0.015379381365627193,0.5300782145544447
+There is no suggestion any of them profited financially.,2.7600000000000002,0.013427080602989168,27,-0.08265475271158285,0.015931918468407965,0.6614128644831692
+"But the authorities in both Britain and the United States considered it software piracy and took a dim view of networks such as DOD, one of a number of so-called warez organisations operating on the internet.",28.52,0.02231283164541145,112,0.05789132226090025,0.021467716166932375,0.7674908388443286
+"In October 2000 the US Customs Service began an investigation into DOD and other networks, such as Razor 1911, Risciso, Myth and Popz.
+
+",2.7600000000000002,0.013550020727850338,76,0.0029350191227089117,0.01918571907317616,0.7611268836952065
+Fourteen months later US Customs co-ordinated a series of raids across the globe as part of Operation Buccaneer.,3.68,0.014441279871080554,68,-0.010442079862978494,0.01890466209013406,0.7453560328180252
+"Seventy search warrants were executed in the US, Britain, Australia, Norway, Sweden and Finland.",0.92,0.012935641495630706,62,-0.025467197014535325,0.01616168302281193,0.7459690871639912
+At least 60 people were arrested worldwide - 45 of them in the US.,14.72,0.01622669612154457,25,-0.008995839555511859,0.018491692161567683,0.7053672656634552
+"Among the leaders of the network were Americans John Sankus - known by his internet nickname Eriflleh (Hellfire spelt backwards) - Richard Berry, Kent Kartadinata and Christopher Tresco, who used a server based at the prestigious Massachusetts Institute of Technology (MIT).
+
+",35.88,0.02001080721536599,178,0.006423030518860753,0.019100350763514136,0.7782661271926363
+"The longest jail sentence - 46 months - was handed down to Sankus, a 28-year-old from Philadelphia.",20.240000000000002,0.017313560289078787,56,-0.046067308042661174,0.01867110424973802,0.7543142243555963
+"US Attorney Paul McNulty said at the time: ""John Sankus and his techno-gang operated in the faceless world of the internet and thought they would never be caught.",10.120000000000001,0.014993214357285537,82,0.012138520757345566,0.02059236176771599,0.7641190212024433
+"""They were wrong.",0.92,0.019130434782608695,5,-0.0007996226648832489,0.015124988166584747,0.5318187727058833
+"These sentences, and those to follow, should send a message to others entertaining similar beliefs of invincibility.""",4.6000000000000005,0.018818802894360075,60,-0.016872262779351388,0.018864186360128567,0.7399853499064406
+"But one man still in legal limbo is British-born Australian Hew Raymond Griffiths, who is still fighting against extradition to the US.
+
+",5.5200000000000005,0.01783171773374253,69,-0.060299693874739706,0.018876929138090224,0.7543933366959574
+"US Customs claimed Mr Griffiths was one of DOD's leaders but his lawyer, Antony Townsden, told the BBC News website it was a laughable suggestion and added: ""He was living on welfare and had such an old computer that he couldn't even download software.",24.84,0.03929757833885809,126,-0.04510618228769529,0.020860943820711603,0.7724828833203081
+"""The allegation that he was the group's co-leader is illusory.",5.5200000000000005,0.023421664353980156,32,0.07842110349344623,0.017997255814073028,0.6841837600750468
+"He had the least technical skills of anyone, he couldn't crack any codes and he has only been called a leader because he was a loudmouth who wrote a lot on their messageboard.""",13.8,0.024849479586483383,62,0.10780668198295931,0.019464678480077355,0.743851466338771
+"Mr Townsden said if he had committed any crimes he should be prosecuted in Australia, not the US.",0.0,0.024052987664282537,39,-0.09165287134584296,0.016941773361110517,0.7194986052427854
+"He claimed the Australian government's decision to accept the extradition request was typical of their current ""acquiescent"" attitude to the US.
+
+",10.120000000000001,0.018148973296559904,90,-0.04558713647375809,0.01910796858257985,0.7541500602794411
+Mr Griffiths is expecting to hear this week the outcome of his appeal against the decision to extradite him.,6.44,0.012104592000655166,54,-0.07461234709534209,0.018026562249507206,0.7424756202980611
+Those involved would give themselves internet aliases which would act in the same way as tags used by graffiti artists.,11.040000000000001,0.016271488081323896,44,0.07948254255604197,0.019578808529218745,0.7316615081398526
+They could then brag about their code-cracking abilities without giving away their real identities.,1.84,0.016706981156236304,37,0.11761211590747483,0.020437154918925768,0.7195519040770035
+"Alex Bell, whose trial at the Old Bailey ended on Friday, was known as Mr 2940 - after a computer device - while his co-defendant Steven Dowd's nickname, curiously, was Tim.
+
+",27.6,0.013845167141820632,91,-0.04565521762484834,0.018959227828096486,0.7674284494565939
+"A spokesman for US Immigration, Customs and Enforcement, Dean Boyd, said DOD did not appear to be motivated by money.",3.68,0.023273090488209757,62,-0.08134148142681105,0.01710398009178869,0.7441963738761472
+Their motivation was the kudos which surrounded being able to crack sophisticated software.,18.400000000000002,0.012987004278676332,48,0.031247050808757334,0.01617279515727179,0.7220499414280908
+"He told the BBC News website: ""Primarily they were just interested in how fast they could crack the code.",13.8,0.01690626878433535,50,0.12644980320219842,0.02050563146951072,0.7438362838214135
+"It was all about underground notoriety.""",1.84,0.019130434782608695,20,0.011301386856825957,0.01251784115021674,0.6209771382573667
+"But Mr Boyd pointed out that once the software had been distributed on the internet it fell into the hands of organised criminals who were able to mass produce pirated software at zero cost.
+
+",34.04,0.020508886912940557,90,-0.14574380038850107,0.021289588587073582,0.762485249639653
+"""It cost US industries a lot of money, billions of dollars,"" he said.",6.44,0.011697867349381344,33,-0.010898617044863121,0.01838049346965079,0.7219103122421594
+"Mr Boyd said: ""It was truly global in scope.",1.84,0.01714344134726029,17,-0.13780839725763358,0.01668268577474242,0.6901167407211761
+"We raided a number of universities, including Duke (in North Carolina) and MIT, and found that several of the people involved were employed by major computer corporations.",11.96,0.01507897535518913,94,0.04709382549128749,0.020115597132898805,0.7625148616024734
+"""They would go home from work in the evenings and get involved in this warez culture.""",8.280000000000001,0.01744148532105381,34,0.19932152863054778,0.019355992872149418,0.7188468702152967
+"Warez groups, which began to surface in the early 1990s, operate according to a strict code of honour.
+
+",11.040000000000001,0.01735312377812628,54,0.15720740954141918,0.019895054022122608,0.749673334687403
+For example if one group cracked the software first its rivals would respect that achievement and not seek to claim it themselves.,21.16,0.020343916625451198,50,0.05598648780977651,0.020647118475747052,0.7372351146713553
+"Mr Boyd said the destruction of DOD was a great coup but he added: ""I'm not going to sit here and say we have sorted the problem.",6.44,0.017833532504885567,48,-0.12160713028804676,0.018968210904309953,0.7464384633848467
+There are still hackers and people who do this for fun.,4.6000000000000005,0.02260077456638688,15,-0.01823658000759892,0.017683173426522265,0.6639955150808892
+"""Internet piracy of computer software remains a gigantic problem.""",22.080000000000002,0.02326876374164293,51,-0.014213321485221935,0.01918369690068735,0.7305070977630407
+"A spokesman for the Business Software Alliance said: ""DOD members claim they did not profit at all.",10.120000000000001,0.024295983279267117,54,-0.10711718828159485,0.020013659929109823,0.7376798512032772
+"But they did profit by getting access to very expensive servers.""",5.5200000000000005,0.01706786111497888,27,-0.06948340802419971,0.017506150695946788,0.6886147666401556
+"He said DOD and other warez groups were fostering a ""culture of piracy"" on the internet.",15.64,0.02487637949090529,40,0.13930087365718294,0.01807667061651834,0.7280839466357685
+"He said 29% of computer software in Britain was believed to have been pirated and this cost Â£1bn in revenue for software companies, their suppliers and distributors.",32.2,0.020458393552353137,87,-0.08048408880482587,0.01976686317060916,0.7603518884744811
+"""It may seem like a victimless crime but it touches more people than you might care to believe.",8.280000000000001,0.0198809426748681,30,-0.03487246942081047,0.01843135058470657,0.7087382032167336
+"""
+",0.0,0.019130434782608695,0,0.0,0.002790699478015651,0.26666666666666666

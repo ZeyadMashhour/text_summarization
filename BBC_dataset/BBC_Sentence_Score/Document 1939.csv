@@ -1,0 +1,25 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Fast moving phone bugs appear
+
+Security firms are warning about several mobile phone viruses that can spread much faster than similar bugs.
+
+",26.68,0.05055418712597537,68,-0.06813756154274973,0.06054501798370469,0.7615726565292444
+The new strains of the Cabir mobile phone virus use short-range radio technology to leap to any vulnerable phone as soon as it is in range.,38.64,0.07609260998586205,77,0.16270055344683007,0.061370766022433555,0.761146648944134
+The Cabir virus only affects high-end handsets running the Symbian Series 60 phone operating system.,19.32,0.07014293189981495,69,-0.09095674480251521,0.06069333459378474,0.7559115134737024
+"Despite the warnings, there are so far no reports of any phones being infected by the new variants of Cabir.
+
+",3.68,0.06810619462988361,37,-0.17144165711597306,0.0553769723372815,0.7212066518156561
+The original Cabir worm came to light in mid-June 2004 when it was sent to anti-virus firms as a proof-of-concept program.,8.280000000000001,0.05100107439206662,71,-0.17357261412581695,0.055866366720605805,0.760591597443329
+"A mistake in the way the original Cabir was written meant that even if it escaped from the laboratory, the bug would only have been able to infect one phone at a time.
+
+",21.16,0.05707754127193306,63,-0.1074665357859503,0.05721068234784015,0.7543903291293979
+"However, the new Cabir strains have this mistake corrected and will spread via short range Bluetooth technology to any vulnerable phone in range.",28.52,0.07800510850347768,80,0.20563789678622782,0.05992140492037021,0.7578314667822462
+Bluetooth has an effective range of a few tens of metres.,8.280000000000001,0.0453260341015286,32,0.2018926816137706,0.0491851138652161,0.7072361986239002
+The risk of being infected by Cabir is low because users must give the malicious program permission to download on to their handset and then must manually install it.,15.64,0.06584901293075232,82,-0.16503580767290044,0.05684062797701224,0.7559800130042125
+Users can protect themselves by altering a setting on Symbian phones that conceals the handset from other Bluetooth using devices.,3.68,0.05729823854044845,60,-0.025642722851664877,0.05426475565107115,0.7487000580544251
+Finnish security firm F-Secure issued a warning about the new strains of Cabir but said that the viruses do not do any damage to a phone.,19.32,0.07485020565877064,66,-0.11980082293001168,0.05862844064578713,0.7548788795291026
+All they do is block normal Bluetooth activity and drain the phone's battery.,14.72,0.052133805809923425,45,0.05524455756451397,0.05611269365207937,0.7314609913167579
+Anti-virus firm Sophos said the source code for Cabir had been posted on the net by a Brazilian programmer which might lead to even more variants of the program being created.,14.72,0.04899467050887302,86,-0.18006378253216096,0.05842260129106919,0.7655795567804361
+"So far seven versions of Cabir are know to exist, one of which was inside the malicious Skulls program that was found in late November.",10.120000000000001,0.042387999126950314,60,-0.11791361518406102,0.05621055050947146,0.7438205415712036
+"Symbian's Series 60 software is licenced by Nokia, LG Electronics, Lenovo, Panasonic, Samsung, Sendo and Siemens.
+",2.7600000000000002,0.042180385513739864,83,-0.028030253321414463,0.039350671482272614,0.7615590558398009

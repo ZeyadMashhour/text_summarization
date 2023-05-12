@@ -1,0 +1,45 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Tories plan migrant health checks
+
+Non-European Union citizens wanting to work in the UK will have to undergo tests for Tuberculosis and HIV, under plans unveiled by the Conservatives.
+
+",17.48,0.03848584559236785,108,0.05898455929025071,0.033732374658280016,0.7706396115938458
+"A positive test for TB would mean visa applications being turned down, while HIV would be dealt with case by case.",16.560000000000002,0.024958797585352743,48,-0.18837839708856619,0.031162635497582275,0.7506931239945798
+Leader Michael Howard said the checks on new arrivals would help protect public health and the NHS.,11.96,0.043779266003013635,53,0.13944171436851502,0.03209143587012872,0.7385219763506621
+Labour said many tests were already done.,0.0,0.04026133310218162,10,-0.08906112325737366,0.02732024275553575,0.3526010409516389
+"The Lib Dems warned both parties against ""pandering to prejudice"".
+
+",1.84,0.030253762783918677,30,0.032548536419551986,0.018086288088393597,0.7221904791162941
+"The proposals, which would be brought in if the Conservatives won the General Election, would not apply to people coming to the UK for less than six months unless they intended to work in health or childcare or teaching.",18.400000000000002,0.026239812367185287,95,-0.013373158653678111,0.03350794709232612,0.7663848495257084
+"Mr Howard said the plans were based on policies already in action in Canada, New Zealand and Australia.",0.92,0.03735885642678497,50,0.2725190433087339,0.031058914053250182,0.7432250437331875
+"""It's very important that we should safeguard the good standards of public health that Britain enjoys,"" he told BBC Radio 4's Today programme.",14.72,0.029606237716482655,82,0.021079474548988765,0.03208833984545844,0.7635847441578028
+Government figures suggest TB in England has increased by 25% over the past 10 years.,3.68,0.035727416073715844,52,-0.020204372780848405,0.03232312205362108,0.7472501926786606
+"""Nearly two thirds of people with TB are born abroad,"" said Mr Howard.
+
+",7.36,0.051117606828237176,31,0.13716480019350077,0.0321609803887182,0.7118239766619592
+"""I don't think a responsible government can stand aside and do nothing in the face of this problem.""",6.44,0.02788763424889983,37,-0.009689258916069966,0.032373453708584604,0.7101305839004055
+But Mr Howard said the plans would not affect asylum applicants' claims.,3.68,0.03157685531518476,38,0.24375388006876061,0.03066368786529172,0.7272429222276457
+"The proposals include:
+
+- People coming to the UK from outside the EU for between six and 12 months from a ""high incidence TB country"" will have to undergo a chest X-ray. 
+ ",20.240000000000002,0.03486855467486591,75,-0.03930654657707707,0.03314898892433632,0.7652362307146512
+"- People coming to settle in the UK permanently from outside the EU will have to ""demonstrate they have an acceptable standard of health"". 
+ ",23.92,0.03444116304019815,66,-0.02239601015112837,0.03284951280317034,0.7492464694218106
+"- They will also have to show they are unlikely to be a danger to public health and are unlikely to ""impose significant costs or demands"" on the NHS. 
+ ",24.84,0.024303470811044534,52,0.05377038613959161,0.03194933095556975,0.7383982010026275
+-,10.120000000000001,0.031428571428571424,0,0.0,0.004640905514527639,0.26666666666666666
+"The tests will include a health check, chest X-rays for TB (except for children and pregnant women) and tests for hepatitis and HIV for over 16-year-olds.",16.560000000000002,0.04399625878767994,79,-0.06126117997931008,0.03106860006337922,0.7678186608521177
+"Only the discovery of TB will mean people will be automatically denied a visa, other conditions will be dealt with on a ""case by case basis"".
+
+",18.400000000000002,0.02558221168714359,64,-0.17668225602783075,0.031913945578638685,0.7549236877272574
+There is already some screening in place.,1.84,0.031428571428571424,11,0.016401797271204006,0.027037833138528627,0.6211063396320117
+"Last year 185,000 people were tested for TB at Heathrow and Gatwick airports, only about 200 were found to be infected.",11.040000000000001,0.02876395220910463,57,-0.06665190453000791,0.027712699312409626,0.7488899587241714
+"And Dr John Moore-Gillon, of the British Lung Foundation, said: ""TB is not simply imported, we are seeing a rise in many sections of the UK-born population as well.""",2.7600000000000002,0.020488027442676044,81,-0.006048859621308662,0.032007265590834874,0.765561494707129
+"The government says the Tories are ""a bit late"" to the issue.",5.5200000000000005,0.028325027358299955,26,-0.000754288593833217,0.030718739827432423,0.7101899613224681
+"Immigration minister Des Browne quoted its five-year plan for immigration and asylum, as saying: ""We are implementing our existing powers by targeted health screening for TB in high-risk areas at the entry clearance stage.",23.92,0.02872425404680213,137,0.06981398202948844,0.033690399940184745,0.7757102682853261
+"""Those who are diagnosed would then need to seek treatment at home before being allowed to enter the UK.""",4.6000000000000005,0.02603506839029808,37,-0.0024331957773657516,0.031195273769309844,0.7314847874050526
+"Meanwhile Mark Oaten, Liberal Democrat home affairs spokesman, said: ""This is another worrying step in the war of words over asylum and immigration between Labour and the Conservatives.",10.120000000000001,0.02559683627774884,94,-0.00366204660015032,0.030813386175492397,0.7659883607382447
+"""Michael Howard knows perfectly well what bigger game he is playing, and history proves it is a very dangerous one.""",3.68,0.021076001598188333,54,0.11475154353847673,0.02908521624956833,0.7456686091260968
+"Lisa Power, head of policy at Aids charity the Terrence Higgins Trust said the policy was prejudice-based rather than evidence-based.",7.36,0.023611964449636497,82,0.1423251645518248,0.032529084119188104,0.763989293565772
+"""In fact, it would be more likely to drive people with health conditions to falsify tests while others gain entry by simple dint of their EU status,"" she said.
+",23.0,0.03407664232584548,68,-0.055497442374720325,0.033069396160258335,0.7612946014909949

@@ -1,0 +1,56 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Text messages aid disaster recovery
+
+Text messaging technology was a valuable communication tool in the aftermath of the tsunami disaster in Asia.
+
+",23.92,0.0468239585621483,104,-0.04015476423695192,0.02238588363050507,0.7637785487973078
+The messages can get through even when the cell phone signal is too weak to sustain a spoken conversation.,12.88,0.01830565425410201,50,0.3467124747020141,0.02153057947032383,0.7391110869255215
+Now some are studying how the technology behind SMS could be better used during an emergency.,4.6000000000000005,0.012494218187808416,26,-0.005078134407635245,0.018819961871522767,0.692004428690303
+Sanjaya Senanayake works for Sri Lankan television.,1.84,0.018008883834942646,41,-0.029956083113157336,0.01428960359271984,0.7211908243330214
+"The blogging world, though, might know him better by his online name, Morquendi.",8.280000000000001,0.018886303972343796,26,-0.025523689033194623,0.020227694863466327,0.6924122456828068
+He was one of the first on the scene after the tsunami destroyed much of the Sri Lankan coast.,8.280000000000001,0.014244634261193987,33,-0.015703871852928694,0.01675540418601124,0.7189611104572693
+Cell phone signals were weak.,6.44,0.0192506033021896,19,0.362516780629768,0.019573714083300716,0.6915914036091331
+Land lines were unreliable.,0.92,0.013676943992887627,18,0.0660223220578148,0.018776853014702326,0.6505518887259117
+So Mr Senanayake started sending out text messages.,8.280000000000001,0.03908741759540009,32,-0.07651714059659614,0.02151622848609535,0.7154279679990869
+"The messages were not just the latest news they were also an on-the-ground assessment of ""who needs what and where"".",2.7600000000000002,0.013474644108682021,38,-0.003241093283159179,0.02285841805451424,0.7082018257203297
+Blogging friends in India took Mr Senanayake's text messages and posted them on a weblog called Dogs without Borders.,10.120000000000001,0.023043767724273377,63,-0.028440719599261855,0.022210067719573862,0.7514688852375404
+"Thousands around the world followed the story that unfolded in the text messages that he sent.
+
+",18.400000000000002,0.03182973997392259,35,-0.025955084661684547,0.021622504700947117,0.7113120665058266
+And that's when Mr Senanayake started to wonder if SMS might be put to more practical use.,3.68,0.02083313811205052,32,-0.056560500984307795,0.02048876391030589,0.7077040125528593
+"""SMS networks can handle so much more traffic than the standard mobile phone call or the land line call,"" he says.
+
+",24.84,0.037393230366074136,58,0.1669803482824484,0.02216653696445938,0.743827679724853
+"""In every rural community, there's at least one person who has access to a mobile phone, or has a mobile phone, and can receive messages.""",19.32,0.02041156660594223,62,0.20275195231693724,0.02176222039459874,0.748641750547888
+"Half a world away, in the Caribbean nation of Trinidad and Tobago, Taran Rampersad read Morquendi's messages.",9.200000000000001,0.018846638395383267,73,-0.01844793553347078,0.019729892905608077,0.7534720757812706
+"Mr Rampersad, who used to work in the military, knew how important on the ground communication can be in times of disaster.",13.8,0.026316998952747146,67,-0.05296111269379684,0.023045721692793626,0.7492092864278318
+"He wondered if there might be a way to automatically centralise text messages, and then redistribute them to agencies and people who might be able to help.",18.400000000000002,0.02057491932416202,64,-0.01871283164982825,0.02181838084705599,0.7350374145298724
+"Mr Rampersad said: ""Imagine if an aid worker in the field spotted a need for water purification tablets, and had a central place to send a text message to that effect.",40.480000000000004,0.023482793555553886,92,-0.057105043112768344,0.023529640511404788,0.7670287157782845
+"""He can message the server, so the server can send out an e-mail message and human or machine moderators can e-mail aid agencies and get it out in the field.""",51.52,0.024354663189208564,77,-0.013504740362436818,0.022433329351251547,0.7596137009770931
+"He added: ""Or, send it at the same time to other people who are using SMS in the region, and they might have an excess of it, and be able to shift supplies to the right places.",18.400000000000002,0.01619632426639506,48,-0.029947439950006614,0.022643448921296393,0.7481010381977922
+"""
+
+Mr Rampersad and others had actually been thinking about such a system since Hurricane Ivan ravaged the Caribbean and the southern United States last September.",7.36,0.019706909057511983,82,-0.037659936295376624,0.02040646398475052,0.7547019881869116
+"Last week, he sent out e-mail messages asking for help in creating such a system for Asia.
+
+",4.6000000000000005,0.039249092977133374,33,-0.00541330905698995,0.023405153102772754,0.6977958252282692
+"In only 72 hours, he found Dan Lane, a text message guru living in Britain.",26.68,0.01683277658436049,43,-0.006910767169812983,0.022373994071858267,0.7433495021362093
+"The pair, along with a group of dedicated techies, are creating what they call the Alert Retrieval Cache.",9.200000000000001,0.024475140943330316,53,0.03678734039861819,0.02211521446329368,0.738837268443345
+The idea is to use open-source software - software can be used by anyone without commercial restraint - and a far-flung network of talent to create a system that links those in need with those who can help.,45.080000000000005,0.01283389563890837,88,0.010154726049661595,0.023153492910005506,0.7608594203977925
+"""This is a classic smart mobs situation where you have people self-organizing into a larger enterprise to do things that benefit other people,"" says Paul Saffo, a director at the California-based Institute for the Future.",21.16,0.013142143935077899,124,0.0009053683721353386,0.02287194491921514,0.7729508920683665
+"""You may be halfway around the world from someone, but in cyberspace you're just one click or one e-mail away,"" he said, ""That's put a whole new dimension on disaster relief and recovery, where often people halfway around the world can be more effective in making something happen precisely because they're not right on top of the tragedy.""",43.24,0.018568752047750957,123,-0.03378774069751971,0.023695843328966997,0.768794419900126
+"It is still very early days for the project, though.",3.68,0.014051470940988534,15,0.0029255743735023035,0.021756960349494023,0.6659141244344053
+"In an e-mail, Dan Lane calls it ""an early proof of concept.""",3.68,0.028056485529170172,34,0.027231636637486227,0.022520041153058747,0.7191069900060424
+"Right now, the Alert Retrieval Cache can only take a text message and automatically upload it to a web-page, or distribute it to an e-mail list.",30.360000000000003,0.025741152668421644,77,0.004012965566894402,0.021278832042128402,0.7564527235637416
+"In the near future, the group says it hopes to take in messages from people in affected areas, and use human moderators to take actions based on the content of those messages.",17.48,0.024900452552060838,76,0.011536287615752103,0.02363776228122657,0.7604270830873252
+But there's still another challenge.,0.92,0.022000000000000002,9,-0.00401240110398109,0.016731098288293257,0.5312946399344153
+You have to get people to know that the system is there for them to use.,11.96,0.03448224237052691,12,-0.020825397755866584,0.021858610234132676,0.5048710020745305
+"""It's amazing how difficult it is to find someone to pass it along to, and say, look this is what we're trying to do and everything like that,"" says Mr Rampersad.",4.6000000000000005,0.01867015064732746,35,-0.041914736301704364,0.020053580986626813,0.7079510118676726
+"""So the big problem right now is the same problem we're trying to solve - human communication.""",26.68,0.017595799496262776,40,-0.011484124858163016,0.021145621215597755,0.7216775897880475
+"He is optimistic, however.",0.92,0.022000000000000002,10,0.0009862593219457504,0.012943299753921805,0.5306132599685028
+"He thinks that the Alert Retrieval Cache is an idea whose time has come and he hopes governments, too, will sit up and take notice.",7.36,0.01334716672838685,55,0.011249801196254683,0.023247242348683368,0.7477541296289186
+"And he stands by his motto, courtesy of Michelangelo: criticise by creating.
+
+",2.7600000000000002,0.012981863914746919,45,-0.0021151092523032386,0.01758075570593831,0.7210246726216711
+"Clark Boyd is technology correspondent for The World, a BBC World Service and WGBH-Boston co-production.
+",3.68,0.023827461430623205,76,-0.019501167901281855,0.02103923968757818,0.7550928622759652

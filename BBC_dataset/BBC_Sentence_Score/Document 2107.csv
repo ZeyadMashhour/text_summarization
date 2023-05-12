@@ -1,0 +1,14 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Hacker threat to Apple's iTunes
+
+Users of Apple's music jukebox iTunes need to update the software to avoid a potential security threat.
+
+",14.72,0.18071636872478583,90,0.017288901183165555,0.10735923252690031,0.7649751991666827
+Hackers can build malicious playlist files which could crash the program and let them seize control of the computer by inserting Trojan code.,10.120000000000001,0.0822768562828042,80,0.3072377817701132,0.10436828466590169,0.7613637076914316
+A new version of iTunes is now available from the Apple website which solves the problem.,6.44,0.1009197551237722,36,-0.1656796914720292,0.10497138361336615,0.7216070647818401
+"Security firm iDefence, which notified users of the problem, recommended that users upgrade to iTunes version 4.7.1.",9.200000000000001,0.15908073428741712,72,-0.012991910822348532,0.10753718700374919,0.750653976360474
+The problem affects all users of iTunes - Windows and Mac OS - running versions 4.7 and earlier.,3.68,0.085818571883884,55,-0.1447601497412163,0.10624394556968593,0.7500460524171573
+"Users can automatically upgrade iTunes by opening the ""look for updates"" window in the program.",5.5200000000000005,0.08099268112749504,52,0.07843040723042327,0.10466774558448139,0.7377613557273801
+The security firm says users should avoid clicking on or accessing playlist files - which have the file extension of .pls or .m3u - which have come from unknown sources.,12.88,0.11696402503710475,76,0.2791919186969128,0.10562622714478635,0.7625362153576342
+"Itunes is the world's most popular online music store with more than 200 million songs downloaded since it launched in 2003.
+",8.280000000000001,0.07323100753273695,65,-0.03555521744581551,0.0992259938911291,0.7580870741730111

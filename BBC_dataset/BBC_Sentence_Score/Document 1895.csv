@@ -1,0 +1,60 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Gadget growth fuels eco concerns
+
+Technology firms and gadget lovers are being urged to think more about the environment when buying and disposing of the latest hi-tech products.
+
+",12.88,0.02238217125898608,94,-0.08482079076609826,0.02161379092084256,0.769368481301867
+"At the Consumer Electronics Show in Las Vegas earlier this month, several hi-tech firms were recognised for their strategies to help the environment.",8.280000000000001,0.027309607871059287,79,-0.07131300078458325,0.021007048975781796,0.7576373401874784
+"Ebay also announced the Rethink project bringing together Intel, Apple, and IBM among others to promote recycling.",3.68,0.021641319732303346,58,0.13678493895563457,0.019023786783984552,0.7414500430719537
+The US consumer electronics market is set to grow by over 11% in 2005.,17.48,0.024361520151419527,37,-0.09712714679720279,0.021232138747540742,0.730447031514165
+"But more awareness is needed about how and where old gadgets can be recycled as well as how to be more energy efficient, said the US Environmental Protection Agency (EPA).",18.400000000000002,0.03375001992615298,73,0.06847049980217154,0.020015192087352356,0.7479585539933589
+"Of particular growing concern is how much energy it takes to recharge portable devices, one of the fastest growing markets in technology.",16.560000000000002,0.016098909787657156,67,-0.09123666427916063,0.021219430023148134,0.7493299219469778
+"The Consumer Electronics Association (CEA) has predicted that shipments of consumer technologies in 2005 will reach more than $125.73 billion (nearly Â£68 billion).
+
+",20.240000000000002,0.022505499275810917,96,-0.09087932981545309,0.02035643978234257,0.7652068825510449
+"Ebay's initiative pulls together major technology firms, environment groups, government agencies and eBay users to give information about what to do with old computers and where to send them.",20.240000000000002,0.023849470590000525,104,-0.020097307042738648,0.021624908319870663,0.7632461887562858
+The online auction house thinks that its already-established community of loyal users could be influential.,5.5200000000000005,0.019131269701877247,69,-0.0031995495168071395,0.02065336435693845,0.7452540440485412
+"""We really became aware of the e-waste issue and we saw that our 125 million users can be a powerful force for good,"" eBay's David Stern told the BBC News website.
+
+",13.8,0.02097259445264635,80,0.0016414614382149364,0.02131444955398079,0.7656661273519068
+"""We saw the opportunity to meet the additional demand we have on the site for used computers and saw the opportunity too to good some good for the environment.""",19.32,0.017794707013746257,73,-0.021432951018460433,0.021528479851040647,0.7503715626234939
+But it is not just computers that cause a problem for the environment.,5.5200000000000005,0.01597669602074864,26,-0.02502370692160191,0.01960344562737953,0.6585384755873971
+"Teenagers get a new mobile every 11 months, adults every 18 months and a 15 million handsets are replaced in total each year.",15.64,0.021556416325456604,65,0.036672691925493064,0.019374077488742442,0.7592442026271877
+"Yet, only 15% are actually recycled.",1.84,0.024616930280874687,9,0.2883627753661886,0.016367605855732107,0.36056846867007114
+"This year, a predicted two billion people worldwide will own a mobile, according to a Deloitte report.",16.560000000000002,0.021460313188968724,53,-0.03725635191282384,0.02045165353905533,0.7399307553173498
+"Schemes in the US, like RIPMobile, could help in targeting younger generations with recycling messages.",1.84,0.01978368653221274,50,0.15746535387524677,0.020135701193256767,0.7315690493659424
+"The initiative, which was also launched at CES, rewards 10 to 28-year-olds for returning unused phones.",7.36,0.015683742265609073,54,0.0001935398771827534,0.02037113310535864,0.7534043618010213
+"""This system allows for the transformation of a drawer full of unused mobile phones into anything from music to clothes to electronics or games,"" said Seth Heine from RIPMobile.
+
+",12.88,0.020668865068511313,91,-0.0019066124588025337,0.020134078260421427,0.7578658715557871
+"One group of students collected 1,000 mobiles for recycling in just three months.",3.68,0.014265746001862985,43,0.006176131962912545,0.020112595995742256,0.727457832429836
+"Mr Heine told the BBC News website that what was important was to raise awareness amongst the young so that recycling becomes ""learned behaviour"".",14.72,0.024213980043279557,76,0.029174790887407816,0.01969718770122136,0.7601323195441211
+"Europe is undoubtedly more advanced than the US in terms of recycling awareness and robust ""end of life"" programmes, although there is a tide change happening in the rest of the world too.",15.64,0.01551710059344251,92,0.12100110027878871,0.021036165720509717,0.7663874472390146
+"Intel showcased some its motherboards and chips at CES which are entirely lead free.
+
+",4.6000000000000005,0.013984620364218403,39,0.008671049187465973,0.01775652244500297,0.730730771149978
+"""There is more and more awareness on the consumer side, but the whole industry is moving towards being lead free,"" Intel's Allen Wilson told the BBC News website.",21.16,0.02351931847073657,75,0.007692232867495384,0.020961723699389725,0.7558323152412147
+"""There is still low-level awareness right now, but it is on the rise - the highest level of awareness is in Europe.""",23.0,0.01752898996311186,46,0.02052793782141577,0.019774074657206202,0.739416950178084
+"A European Union (EU) directive, WEEE (Waste Electronic and Electrical Equipment), comes into effect in August.",2.7600000000000002,0.01734632933705606,74,-0.01403846034259377,0.01956592862979252,0.7533042666019495
+It puts the responsibility on electrical manufacturers to recycle items that are returned to them.,9.200000000000001,0.023908312540925885,56,0.1592422548948016,0.020291341575675,0.7204012971517231
+But developments are also being made to design better technologies which are more energy efficient and which do not contain harmful substances.,13.8,0.02162246915918482,62,-0.07473685286868657,0.020607906130439294,0.7341763325220807
+"Elements like chromium, lead, and cadmium - common in consumer electronics goods - will be prohibited in all products in the EU by 2006.
+
+",29.44,0.02293939617416858,76,-0.04805643150055325,0.02063455740703107,0.757219026786824
+But it is not just about recycling either.,1.84,0.021277726306269364,7,0.32297102609996736,0.007958908776048055,0.5303334415573675
+The predicted huge growth in the gadget market means the amount of energy used to power them up is on the rise too.,28.52,0.03111680902012085,54,-0.10181388988136318,0.020695240697978682,0.7413431979012998
+"The biggest culprit, according to the EPA, is the innocuous power adaptor, nicknamed ""energy vampires"".",20.240000000000002,0.019501508340871786,55,-0.06854552067022261,0.017787121714817535,0.7454290654631377
+"They provide vital juice for billions of mobile phones, PDAs (personal digital assistants), digital cameras, camcorders, and digital music players.
+
+",19.32,0.01810113250183792,102,-0.01655179089773673,0.01951852767752709,0.7683060746832141
+"Although there is a focus on developing efficient and improved circuits in the devices themselves, the technologies inside rechargers are still outdated and so eat up more energy than is needed to power a gadget.",27.6,0.022159616256829235,98,-0.0758297026872246,0.021234690808481612,0.760935648691842
+"On 1 January, new efficiency standards for external power supplies came into effect as part of the European Commission Code of Conduct.",14.72,0.01454914139560757,84,-0.04258953459154115,0.021082144937716322,0.7535855560989432
+"But at CES, the EPA also unveiled new guidelines for its latest Energy Star initiative which targets external power adapters.",13.8,0.030195972402467262,71,-0.056307826891239074,0.02059182747633502,0.7576734860998539
+"These map out the framework for developing better adaptors that can be labelled with an Energy Star logo, meaning they are about 35% more efficient.",8.280000000000001,0.01684156028591714,60,-0.05512374874845005,0.020747347196048163,0.753988716917594
+The initiative is a global effort and more manufacturers' adaptors are being brought on board.,8.280000000000001,0.01999239965284,51,0.001887860811676342,0.02055811321127118,0.713140602484863
+Most are made in China.,0.0,0.012501906247431914,9,-0.052311474966680316,0.019572207310550448,0.6148707579446843
+"About two billion are shipped global every year, and about three billion are in use in the US alone.",16.560000000000002,0.019248355072788097,28,-0.038394244425457885,0.018905689323906617,0.7089470192304455
+The EPA is already working with several companies which make more than 22% of power supplies on the market.,16.560000000000002,0.030320526665101242,37,-0.10879656699549302,0.021702719578231073,0.7339558620147295
+"""We are increasingly finding companies that not only want to provide neat, hi-tech devices, but also bundle with it a hi-tech, efficient power supply,"" the EPA's Andrew Fanara said.",19.32,0.01483537274513324,96,-0.08427042908783096,0.021071442621854362,0.7673790971115325
+"Initiatives like this are critical; if power adaptors continue to be made and used as they are now, consumer electronics and other small appliances will be responsible for more than 40% of electricity used in US homes, said the EPA.
+",19.32,0.02496797101475571,105,-0.09463029151817079,0.022109290234454234,0.7627202917547217

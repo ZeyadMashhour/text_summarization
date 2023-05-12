@@ -1,0 +1,40 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"UK pioneers digital film network
+
+",34.04,0.0377973728383785,27,-0.1928611272035782,0.033301394813465765,0.7041761867764836
+"The world's first digital cinema network will be established in the UK over the next 18 months.
+
+",32.2,0.04317903382831645,43,-0.08894371569777874,0.034371456909832405,0.7373176730940681
+"The UK Film Council has awarded a contract worth Â£11.5m to Arts Alliance Digital Cinema (AADC), who will set up the network of up to 250 screens.",11.96,0.03745568394103403,83,-0.13130284588664892,0.03495893997811541,0.7668747426885207
+AADC will oversee the selection of cinemas across the UK which will use the digital equipment.,18.400000000000002,0.038466458649750054,45,-0.09085981906410043,0.03216144951252988,0.730988238205355
+High definition projectors and computer servers will be installed to show mainly British and specialist films.,9.200000000000001,0.03192863741664745,68,-0.07506231290450932,0.03474638039143125,0.742747838741035
+Most cinemas currently have mechanical projectors but the new network will see up to 250 screens in up to 150 cinemas fitted with digital projectors capable of displaying high definition images.,35.88,0.03475739528647856,103,-0.11548726287290582,0.034246783416863096,0.7667782959618875
+The new network will double the world's total of digital screens.,23.92,0.030201247844175452,36,-0.11480078821305574,0.03467347471717317,0.7089923860830823
+"Cinemas will be given the film on a portable hard drive and they will then copy the content to a computer server.
+
+",24.84,0.022861234946016218,53,0.003968381740094782,0.03394522005882284,0.7449624254062588
+Each film is about 100 gigabytes and has been compressed from an original one terabyte-size file.,17.48,0.025652046283201016,48,-0.03468701751256891,0.030867071789115404,0.7387309613151517
+"Fiona Deans, associate director of AADC, said the compression was visually lossless so no picture degradation will occur.
+
+",10.120000000000001,0.020220379087959997,80,0.04769108562923191,0.02679043590318886,0.7532970911756723
+The film will all be encrypted to prevent piracy and each cinema will have an individual key which will unlock the movie.,30.360000000000003,0.021528810177205475,54,-0.009134566028470714,0.032574702165298355,0.7437827119488345
+"""People will see the picture quality is a bit clearer with no scratches.",5.5200000000000005,0.02083868173180669,35,0.07201632607042217,0.03167793064397023,0.723148693282702
+"""The picture will look exactly the same as when the print was first made - there is no degradation in quality over time.",19.32,0.053276229884353064,38,0.20139256256725035,0.0340242268040892,0.721530566886653
+"""
+
+The key benefit of the digital network will be an increase in the distribution and screening of British films, documentaries and foreign language films.
+
+",28.52,0.03914730534513961,93,-0.14128283489352406,0.03541970169423339,0.7593880742102295
+"""Access to specialised film is currently restricted across the UK,"" said Pete Buckingham, head of Distribution and Exhibition at the UK Film Council.",15.64,0.027691462330230163,83,-0.13583359010784504,0.03300812824717911,0.760206190518219
+"""Although a genuine variety of films is available in central London and a few other metropolitan areas, the choice for many outside these areas remains limited, and the Digital Screen Network will improve access for audiences across the UK,"" Digital prints costs less than a traditional 35mm print - giving distributors more flexibility in how they screen films, said Ms Deans.",27.6,0.0570141868973475,191,-0.0018531771351357332,0.036148552833318956,0.7813686948521695
+"""It can cost up to Â£1,500 to make a copy of a print for specialist films.",21.16,0.04219392602368744,36,0.16597705685276815,0.03459754224093708,0.7386061894542197
+"""In the digital world you can make prints for considerably less than that.",18.400000000000002,0.030170396954075477,33,0.12197390905183443,0.03503648361803528,0.4634615627790877
+"""Distributors can then send out prints to more cinemas and prints can stay in cinemas for much longer.""",9.200000000000001,0.033113559383873885,45,0.19845137637820293,0.034138944664743674,0.7379155603517886
+The UK digital network will be the first to employ 2k projectors - which are capable of showing films at resolutions of 2048 * 1080 pixels.,25.76,0.03543492682448623,71,-0.16396391581134784,0.03208542755348868,0.7574976251617737
+A separate competitive process to determine which cinemas will receive the digital screening technology will conclude in May.,23.0,0.017167162010875706,82,0.025564839643603905,0.03363111841998436,0.7500455227348559
+The sheer cost of traditional prints means that some cinemas need to show them twice a day in order to recoup costs.,17.48,0.02149399409823098,58,0.082786667703531,0.03304923158164098,0.7502897605346157
+"""Some films need word of mouth and time to build momentum - they don't need to be shown twice a day,"" explained Ms Deans.",8.280000000000001,0.026658769726258743,50,0.004874161245050526,0.03298818620749301,0.7488206656500987
+"""A cinema will often book a 35mm print in for two weeks - even if the film is a roaring success they cannot hold on to the print because it will have to go to another cinema.",57.04,0.03434868469737316,53,0.1603193516958488,0.03435969809874331,0.7540241288678967
+"""With digital prints, every cinema will have its own copy.",23.92,0.06355625994694435,22,0.17823260272886304,0.03218754619607814,0.4777830966903098
+"""
+",0.0,0.033846153846153845,0,0.0,0.00500997154022817,0.26666666666666666

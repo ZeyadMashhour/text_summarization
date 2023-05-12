@@ -1,0 +1,51 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Technology gets the creative bug
+
+The hi-tech and the arts worlds have for some time danced around each other and offered creative and technical help when required.
+
+",28.52,0.03758148908372164,75,-0.021121766459429932,0.024533436706801914,0.7598297507647321
+Often this help has come in the form of corporate art sponsorship or infrastructure provision.,13.8,0.01565450057779116,50,0.003789918226701914,0.02246551492829827,0.7206128563302927
+But that dance is growing more intimate as hi-tech firms look to the creative industries for inspiration.,14.72,0.020014664539837506,55,-0.06992355805639729,0.023510661310925943,0.744636008692845
+And vice versa.,1.84,0.023783783783783784,9,-0.0052875481245017435,0.013961434996645586,0.6210657928816513
+UK telco BT is serious about the idea and has launched its Connected World initiative.,10.120000000000001,0.028409186577640362,43,-0.010524731583677215,0.02254997433221969,0.7349911004235712
+"The idea, says BT, is to shape a ""21st Century model"" which will help cement the art, technology, and business worlds together.",33.120000000000005,0.03738946298022763,59,-0.0029495762519595164,0.02435600631818185,0.7512228674980546
+"""We are hoping to understand the creative industry that has a natural thirst for broadband technology,"" said Frank Stone, head of the BT's business sector programmes.",43.24,0.0312986578749083,101,-0.047939682922773834,0.024434627714605344,0.7646024269170847
+"He looks after several ""centres of excellence"" which the telco has set up with other institutions and organisations, one of which is focused on creative industries.
+
+",18.400000000000002,0.022242711968086446,68,-0.034132559397199086,0.022886800324439068,0.7399103283998306
+"To mark the initiative's launch, a major international art installation is to open on 15 April in Brussels, with a further exhibit in Madrid later in the summer.",24.84,0.015248331084560111,91,0.01923602838598671,0.022849824767503753,0.7632903584614401
+"They have both been created using the telco's technology that it has been incubating at its research and development arm, including a sophisticated graphics rendering program.",19.32,0.01966921586330406,91,0.12441566365282654,0.023368008246531756,0.7555067927943766
+"Using a 3D graphics engine, the type commonly used in gaming, Bafta-winning artists Langlands & Bell have created a virtual, story-based, 3D model of Brussels' Coudenberg Cellars.
+
+",13.8,0.03755142442751017,112,0.2239295694388307,0.02312138868037608,0.7733546929707757
+"They have recently been excavated and are thought to be the remnants of Coudenberg Palace, an historical seat of European power.",6.44,0.018802800228646402,73,0.023248479859330543,0.020986061152833344,0.750629841261468
+The 3D world can be navigated using a joystick and offers an immersive experience of a landscape that historically had a river running through it until it was bricked up in the 19th Century.,17.48,0.018829787122291122,94,0.023364273581992348,0.02234434484454603,0.7634304211972145
+"""The river was integral to the city's survival for hundreds of years and it was equally essential to the city that it disappeared,"" said the artists.",12.88,0.017759717214756256,72,0.009916402301960732,0.02246846376357367,0.7494802060308386
+"""We hope that by uncovering the river, we can greater understand the connections between the past and the present, and appreciate the flow of modernity, once concealing, but now revealing the River Senne.""",17.48,0.02010724810987527,88,-0.002066700503445326,0.020517229206652447,0.7635654756407706
+In their previous works they used the Quake game graphics engine.,13.8,0.018369794354083823,34,0.2664229073954494,0.02185066532916304,0.7227442250514163
+"The game engine is the core component of a video game because it handles graphics rendering, game AI, and how objects behave and relate to each other in a game.",41.4,0.03200072129213613,79,0.29803146448380147,0.021791959071120384,0.7655199808969193
+"They are so time-consuming and expensive to create, the engines can be licensed out to handle other graphics-intensive games.",11.040000000000001,0.02531087489210498,67,0.2711155863591899,0.02366375329757528,0.5213510599979292
+"BT's own engine, Tara (Total Abstract Rendering Architecture) has been in development since 2001 and has been used to recreate virtual interactive models of buildings for planners.",14.72,0.023031283352629474,105,0.13248368100417782,0.023234961117919672,0.7646941573509923
+"It was also used in 2003 in Encounter, an urban-based, pervasive game that combined both virtual play in conjunction with physical, on-the-street action.",18.400000000000002,0.015665273169761115,92,0.12122737441314743,0.024069280474231753,0.7589279374590328
+"Because the artists wanted video and interactive elements in their worlds, new features were added to Tara in order to handle the complex data sets.",12.88,0.018235084672699475,78,0.0823770618755961,0.02415534584376205,0.7621343539591404
+"But collaboration between art and digital technology is by no means new, and many keen coders, designers, games makers and animators argue that what they create is art itself.
+
+",34.96,0.033680611971717636,86,0.030825618504664722,0.02348004036202278,0.7631279434116367
+"As more tools for self-expression are given to the person on the street, enabling people to take photos with a phone and upload them to the web for instance, creativity will become an integral part of technology.",30.360000000000003,0.015515147710063704,102,0.0046354280603669905,0.024196932407228713,0.7649619040091671
+"The Orange Expressionist exhibition last year, for example, displayed thousands of picture messages from people all over the UK to create an interactive installation.
+
+",20.240000000000002,0.016427419520539485,99,0.03499061710257793,0.023860386531007142,0.7604231936558105
+"Technology as a way of unleashing creativity has massive potential, not least because it gives people something to do with their technology.",20.240000000000002,0.02744455287295354,62,0.00211948423173254,0.022711967293229253,0.7288068395842153
+Big businesses know it is good for them to get in on the creative vein too.,15.64,0.014796462255331249,27,-0.040567247211280306,0.023276001377433773,0.7084107217657586
+"The art world is ""fantastically rich"", said Mr Stone, with creative people and ideas which means traditional companies like BT want to get in with them.",33.120000000000005,0.03047946663909731,74,-0.03360041486299547,0.02424876634339831,0.7579690725908618
+"Between 1997 and 2002, the creative industry brought Â£21 billion to London alone.",21.16,0.01801959673100209,45,-0.05182276770245615,0.02297679071701642,0.7384587882112496
+It is an industry that is growing by 6% a year too.,10.120000000000001,0.032634582899857295,17,-0.05313504550991816,0.02169321305954381,0.6486183579667347
+"The partnership between artists and technologists is part of trying to understand the creative potential of technologies like broadband net, according to Mr Stone.",23.0,0.03228628776411579,89,-0.009240224942388462,0.02418217903049526,0.7492611647034647
+"""This is not just about putting art galleries and museums online,"" he said.",8.280000000000001,0.015651331233234186,25,0.006783873480595739,0.021137604202527076,0.6844687986692907
+"""It is about how can everyone have the best seat in house and asking if technology has a role in solving that problem.""",17.48,0.023562077959790918,35,0.010581073380233095,0.022826259071785128,0.7202439442577087
+"With broadband penetration reaching 100% in the UK, businesses with a stake in the technology want to give people reasons to want and use it.",26.68,0.025568414292426674,69,-0.013371056691553286,0.023610590224046456,0.7494906732886458
+The creative drive is not purely altruistic obviously.,14.72,0.016574623189852665,29,-0.028146100427279594,0.01794806623959435,0.6880886977365975
+"It is about both industries borrowing strategies and creative ideas together which can result in better business practices for creative industries, or more patent ideas for tech companies.",33.120000000000005,0.039071536867215685,96,-0.08515426129663962,0.024070460942911032,0.7623208481857052
+"""What we are trying to do is have outside-in thinking.",0.92,0.023783783783783784,18,0.0007601667148549847,0.02282352891483525,0.6210657928132156
+"""We are creating a future cultural drive for the economy,"" said Mr Stone.
+",5.5200000000000005,0.017548091138662823,39,0.03045995666229593,0.023837470855018226,0.7322386384293782

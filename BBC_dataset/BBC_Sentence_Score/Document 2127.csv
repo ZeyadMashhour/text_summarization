@@ -1,0 +1,45 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Format wars could 'confuse users'
+
+Technology firms Sony, Philips, Matsushita and Samsung are developing a common way to stop people pirating digital music and video.
+
+",19.32,0.030433446364064063,108,-0.071172303254283,0.028915259440836786,0.7700478515058292
+The firms want to make a system that ensures files play on the hardware they make but also thwarts illegal copying.,36.800000000000004,0.036831758061254806,60,0.09914557725178907,0.029751017906080836,0.7452530515456078
+"The move could mean more confusion for consumers already faced by many different, and conflicting, content control systems, experts warned.",14.72,0.018756553057947413,63,-0.05690368325618082,0.029033303022198184,0.7313045276098293
+"They say there are no guarantees the system will even prevent piracy.
+
+",19.32,0.02010366006647346,28,0.31592349444904194,0.026878418942539947,0.6662371186759222
+Currently many online stores wrap up downloadable files in an own-brand control system that means they can only be played on a small number of media players.,27.6,0.01829600602882372,85,-0.009882723204406595,0.030075010074952155,0.7605747478540095
+Systems that limit what people can do with the files they download are known as Digital Rights Management systems.,8.280000000000001,0.04879504605279984,57,0.03165572988393499,0.0297803867114893,0.7310743568716104
+"By setting up the alliance to work on a common control system, the firms said they hope to end this current fragmentation of file formats.",40.480000000000004,0.03868019746715413,75,-0.050923161899674996,0.030171294123949803,0.7565598273500229
+"In a joint statement the firms said they wanted to let consumers enjoy ""appropriately licensed video and music on any device, independent of how they originally obtained that content"".",22.080000000000002,0.024555290387525647,105,-0.08741848275453784,0.029844491293729077,0.7648794714346471
+"The firms hope that it will also make it harder for consumers to make illegal copies of the music, movies and other digital content they have bought.",31.28,0.03822810334200227,66,-0.019338674543557383,0.02994815894826865,0.7565775483931841
+"Called the Marlin Joint Development Association, the alliance will define basic specifications that every device made by the electronics firms will conform to.",9.200000000000001,0.024731932326757067,100,-0.04958321613720221,0.02904468288911655,0.7594956426976006
+"Marlin will be built on technology from rights management firm Intertrust as well as an earlier DRM system developed by a group known as the Coral Consortium.
+
+",33.120000000000005,0.033750543724460125,91,-0.010548464184612742,0.028107423636050188,0.7595169502720318
+The move is widely seen as a way for the four firms to decide their own destiny on content control systems instead of having to sign up for those being pushed by Apple and Microsoft.,20.240000000000002,0.027916854811064106,69,-0.0965378293038258,0.03014900765259145,0.749789888815404
+"Confusingly for consumers, the technology that comes out of the alliance will sit alongside the content control systems of rival firms such as Microsoft and Apple.",20.240000000000002,0.058509563607795176,92,-0.11668003034897426,0.029475407611720097,0.7569477053767127
+"""In many ways the different DRM systems are akin to the different physical formats, such as Betamax and VHS, that consumers have seen in the past,"" said Ian Fogg, personal technology and broadband analyst at Jupiter Research.",11.040000000000001,0.017945592590664233,108,-0.026790666435783542,0.02846606098550363,0.7694748290352211
+"""The difference is that it is very fragmented,"" he said.",0.92,0.028387096774193547,18,-0.005159907146803332,0.01652285816293498,0.6205917278114987
+"""It's not a two-horse race, it's a five, six, seven or even eight-horse race"" Mr Fogg said consumers had to be very careful when buying digital content to ensure that it would play on the devices they own.",23.0,0.020537617120417902,82,-0.047658906162132364,0.028709249118849756,0.761723577254966
+He said currently there were even incompatibilities within DRM families.,0.0,0.017939200280458506,24,0.0029041831641466102,0.017398982277943613,0.6624245502852024
+"Although initiatives such as Microsoft's ""Plays for Sure"" program could help remove some of the uncertainty, he said, life was likely to be confusing for consumers for some time to come.
+
+",6.44,0.01627181278205835,70,-0.05444906555554327,0.02977228851161292,0.7480291091162901
+"Shelley Taylor, analyst and author of a report about online music services, said the locks and limits on digital files were done to maximise the cash that firms can make from consumers.",23.92,0.030642528788365257,98,-0.06889543224678125,0.02920287788844885,0.7685048935152614
+"Apple's iTunes service was a perfect example of this, she said.",5.5200000000000005,0.024413879787292477,24,-0.10254836993007853,0.026403501651377757,0.6843554121932582
+"""Although iTunes has been hugely successful, Apple could not justify its existence if it did not help sell all those iPods,"" she said.
+
+",5.5200000000000005,0.029934604215300514,50,-0.07875535785895993,0.026359723082265158,0.7359617253331034
+"She said rampant competition between online music services, of which there are now 230 according to recent figures, could drive more openness and freer file formats.",21.16,0.019765928357746685,78,-0.06493045210761447,0.029518811197198198,0.7577671031784767
+"""It always works out that consumer needs win out in the long run,"" she said, ""and the services that win in the long run are the ones that listen to consumers earliest.""",24.84,0.0201754347958504,61,-0.055563736300746985,0.02846285201111957,0.7577787872777703
+Ms Taylor said the limits legal download services place on files could help explain the continuing popularity of file-sharing systems that let people get hold of pirated pop.,11.96,0.02599434933604769,102,-0.010685916670138844,0.030322364422726712,0.7697072582518747
+"""People want portability,"" she said, ""and with peer-to-peer they have 100% portability.""",5.5200000000000005,0.02479890175410132,43,-0.012183675852202473,0.026292251996982954,0.7235244391710354
+"Cory Doctorow, European co-ordinator for the Electronic Frontier Foundation which campaigns for consumers on many cyber-rights issues, expressed doubts that the Marlin system would achieve its aims.",15.64,0.0193405031184285,126,-0.008572921131863307,0.02873191998717372,0.7690997380261979
+"""Not one of these systems has ever prevented piracy or illegal copying,"" he said.",7.36,0.02549563467913906,33,0.33535335224212226,0.025338282808403587,0.688188708056786
+He said many firms readily admit that their DRM systems are little protection against skilled attackers such as the organised crime gangs that are responsible for most piracy.,8.280000000000001,0.02713485952402497,84,0.11981277778076721,0.02704227846632454,0.758148688435805
+"Instead, said Mr Doctorow, DRM systems were intended to control the group that electronics firms have most hold over - consumers.",17.48,0.060090706214382464,63,-0.04000197815220718,0.029448514672655374,0.7469333850278878
+"""The studios and labels perceive an opportunity to sell you your media again and again - the iPod version, the auto version, the American and UK version, the ringtone version, and so on.",28.52,0.02315529780921274,94,-0.0170368114357103,0.026654203073478086,0.7661117394503703
+"""
+",0.0,0.028387096774193547,0,0.0,0.004179117431477447,0.26666666666666666

@@ -1,0 +1,23 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Microsoft releases bumper patches
+
+Microsoft has warned PC users to update their systems with the latest security fixes for flaws in Windows programs.
+
+",9.200000000000001,0.09560885290842362,90,-0.1672716204171125,0.05957431892244613,0.7632088384881197
+"In its monthly security bulletin, it flagged up eight ""critical"" security holes which could leave PCs open to attack if left unpatched.",26.68,0.0673942394341164,78,0.0011292579747372617,0.0563113329548598,0.7572230324175306
+"The number of holes considered ""critical"" is more than usual.",7.36,0.04818696302117489,31,0.2956176737851223,0.055535830444880134,0.7065250799377386
+"They affect Windows programs, including Internet Explorer (IE), media player and instant messaging.",4.6000000000000005,0.05124838290764001,70,-0.047743093577977624,0.05563969337237983,0.7496656157872472
+Four other important fixes were also released.,3.68,0.04282454256346492,19,0.0050853311621471805,0.05595242350823796,0.6534347921212798
+"These were considered to be less critical, however.",5.5200000000000005,0.0517405337411374,16,0.3170038605010758,0.05243370000626321,0.6128875068807986
+"If not updated, either automatically or manually, PC users running the programs could be vulnerable to viruses or other malicious attacks designed to exploit the holes.",5.5200000000000005,0.05283331473868871,90,-0.07178840445321852,0.057740169092590325,0.7612592987694078
+"Many of the flaws could be used by virus writers to take over computers remotely, install programs, change, and delete or see data.
+
+",6.44,0.03907567913823778,62,-0.06752705852179035,0.054441259847154304,0.7485175650112723
+One of the critical patches Microsoft has made available is an important one that fixes some IE flaws.,9.200000000000001,0.09250902359877217,42,0.017003265417054398,0.05918580599587109,0.7209667816432461
+"Stephen Toulouse, a Microsoft security manager, said the flaws were known about, and although the firm had not seen any attacks exploiting the flaw, he did not rule them out.",14.72,0.06467100104926156,68,-0.12375290059904849,0.05532804427265999,0.7534125833750611
+"Often, when a critical flaw is announced, spates of viruses follow because home users and businesses leave the flaw unpatched.",24.84,0.07902359327524279,70,-0.02278638643578028,0.059586766464028766,0.7556452191330487
+"A further patch fixes a hole in Media Player, Windows Messenger and MSN Messenger which an attacker could use to take control of unprotected machines through .png files.",10.120000000000001,0.04647863991564176,93,-0.00907217797645731,0.05275521206307707,0.765551169804945
+Microsoft announces any vulnerabilities in its software every month.,3.68,0.03818107878460411,43,-0.1283151271054521,0.0558197625007026,0.7007772089560749
+"The most important ones are those which are classed as ""critical"".",8.280000000000001,0.050959213267112294,22,0.18401991538118392,0.05128733922608915,0.6611746712772952
+"Its latest releases came the week that the company announced it was to buy security software maker Sybari Software as part of Microsoft's plans to make its own security programs.
+",20.240000000000002,0.05926494165648156,104,-0.16264567026211288,0.05840834132875961,0.7672492352240289

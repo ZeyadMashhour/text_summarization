@@ -1,0 +1,37 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"UK gets official virus alert site
+
+A rapid alerting service that tells home computer users about serious internet security problems is being launched by the UK government.
+
+",57.96,0.08349199454995802,102,-0.08247984281328098,0.03589237247268218,0.7687222218737735
+"The service, IT Safe, will issue warnings about damaging viruses, software vulnerabilities and weaknesses on devices such as mobile phones.",20.240000000000002,0.0485142759402483,83,-0.14063591147776855,0.0342109553099355,0.7558939044361099
+Alerts tell people how the threats affect them and what they can do to avoid trouble and protect themselves.,17.48,0.030189296255970038,42,0.250354265741268,0.032795128789360375,0.7313399362594091
+The service will be free and those who sign up can get e-mail or text alerts.,12.88,0.027780460277157804,30,-0.07102785792585893,0.03257976720983449,0.7117989586630148
+The scheme is aimed at home users and small businesses.,8.280000000000001,0.018608637895658843,30,-0.03514622213286159,0.033741476118531295,0.7124271253041565
+"The government estimates it will issue security alerts about six to 10 times a year, based on previous experience of virus outbreaks.",25.76,0.0315542417765023,81,-0.03893125749720984,0.03502722923077224,0.7594242067549981
+"""There is a clear need for easy-to-understand and simple independent advice for non-technically minded people who use computers either at home or at work,"" said Home Office Minister Hazel Blears.",19.32,0.02638935387393141,117,-0.030305651223564968,0.033695706930241515,0.7713201463562153
+"""The purpose of this new government service is to ensure computer users are aware of the risks involved and how to deal with them easily and effectively without causing alarm.""",28.52,0.024194283544531556,89,-0.07921810247926024,0.034901176307824834,0.7629660466321533
+"Those signing up will only be told about the most serious security threats that have the potential to affect millions of people.
+
+",21.16,0.03856620085274426,53,0.1767896432147413,0.034100773324884995,0.7370307552223602
+Full-time staff are being employed to comb through the many hundreds of alerts issued each year by computer security firms to spot which ones have the potential to catch out a large number of people Between alerts the service will occasionally send messages giving people advice about safe ways to use their computers and phones.,60.720000000000006,0.04855904552324144,171,-0.003789083607217763,0.03604127610565754,0.7788946716583026
+"""IT Safe will take our technical expertise and use it to help home users understand the risks and keep their computer systems, mobile phones and a range of related consumer electronic items, safe,"" said Roger Cumming, director of the National Infrastructure Security Coordination Centre (NISCC).
+
+",28.52,0.03574025449388199,178,-0.09747169594987638,0.03488592654040833,0.7782338058265263
+"The NISCC, which is running the service, also stressed that those signing up would still need to use anti-virus software, firewalls, and software updates to stay secure.",24.84,0.03639518179809976,79,-0.23315007868178855,0.0345743029367629,0.7598603140581113
+"Warnings about security problems will tell people what the problem is, how it affects them and what they can do to avoid trouble.",23.92,0.025118899254126067,53,0.17641922982413474,0.03348576970667218,0.738584006700135
+Alerts will not be issued unless users can do something to protect themselves against the threat.,6.44,0.042801553468786134,27,0.10650335157511596,0.03322429588703462,0.7065385515339546
+This might include downloading an update from an anti-virus vendor or updating software to close loopholes and fix vulnerabilities.,11.96,0.021201971377805728,80,-0.17197568270140598,0.03314904278197899,0.7573583002924159
+However no software patches or programs will actually be dispensed through the site.,7.36,0.04026214402387744,32,-0.1335365130156943,0.03052916756342663,0.7079880522465661
+The alerts will tell people how to go about getting hold of patches from security firms.,18.400000000000002,0.03824833407074243,32,0.05097763423446374,0.034312507444053064,0.7104569392068182
+"The NISCC spokesman said the site and alerting service would stay in existence for as long as there were security bugs on home computers and other gadgets.
+
+",33.120000000000005,0.04915297444229919,76,-0.14306237310666248,0.035126320106734804,0.7592827063521634
+Government statistics show that more than half of all UK households own a home computer.,15.64,0.028124957566302983,50,-0.09216459290489164,0.03326006080234969,0.727605325535687
+It was estimated that almost 13 million of these were able to access the internet in 2004.,8.280000000000001,0.024773538630025096,35,0.013239165698570551,0.03217804226786434,0.7211979478053981
+The launch comes as the number of viruses and other malicious programs in existence is reaching unprecedented numbers.,10.120000000000001,0.023433072251005656,67,-0.07342672637414482,0.03361332314979722,0.7446736938571986
+"In September 2004, the number of malicious programs circulating topped the 100,000 mark.",8.280000000000001,0.04746828572308126,57,-0.059086202360704033,0.032391976244082375,0.7436929105519368
+"Some fear that this figure could hit 150,000 by September 2005.",3.68,0.024576762331431152,32,-0.022374661122964327,0.030449797019522794,0.7320008514007912
+The creation of the national alert service follows similar efforts in the Netherlands and US.,25.76,0.022508282485708093,51,-0.04885472584857477,0.03345749295705154,0.7306677446796516
+"The National Alerting Service for the Netherlands (aka De Waarschuwingsdienst) and the US National Cyber Alerting Service also tell citizens of serious security threats.
+",11.040000000000001,0.042345997592883045,104,-0.014105334096933882,0.032376112792535355,0.7603567664432193

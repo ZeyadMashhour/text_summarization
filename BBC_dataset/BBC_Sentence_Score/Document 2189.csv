@@ -1,0 +1,64 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Rolling out next generation's net
+
+The body that oversees how the net works, grows and evolves says it has coped well with its growth in the last 10 years, but it is just the start.
+
+",46.92,0.026874237831287874,66,-0.030016962281119417,0.01935280310499897,0.7603554911181541
+"""In a sense, we have hardly started in reaching the whole population,"" the new chair of the Internet Engineering Task Force (IETF), Brian Carpenter, says.",5.5200000000000005,0.021834955267438956,76,-0.02498774604207897,0.018967283189749547,0.7568552464388699
+The IETF ensures the smooth running and organisation of the net's architecture.,21.16,0.010241113278421149,46,-0.07435464913321967,0.01812461154911017,0.73124436960107
+"With broadband take-up growing, services like voice and TV will open up interesting challenges for the net.",26.68,0.02211838476486326,61,-0.004737352679280625,0.019604074963461827,0.7413803727510005
+"""I think VoIP (Voice-over Internet Protocol, allowing phone calls to be made over the Net) is very important - it challenges all the old cost models of telecoms,"" says Dr Carpenter.",8.280000000000001,0.025774789690104143,96,0.0208348084916624,0.019789046994250516,0.763878019093374
+"""Second, it challenges more deeply the business model that you have to be a service provider with a lot of infrastructure.",11.040000000000001,0.018148987262697584,60,0.01655622250669224,0.01911558942791599,0.7372170990615372
+"With VoIP, you need very little infrastructure.",2.7600000000000002,0.01098325538266474,18,0.01949784922321468,0.01144693132203662,0.6067251206845435
+"""
+
+A distinguished IBM engineer, Dr Carpenter spent 20 years at Cern, the European Laboratory for Particle Physics.",1.84,0.01296647794284491,80,0.07144011338525691,0.016681054030447486,0.7603449973091218
+"As the new chair of the IETF, his next big challenge is overseeing IPv6, the next generation standard for information transfer and routing across the web.",26.68,0.01610022409257189,77,-0.031436241513188155,0.01902481459995167,0.7531245949145914
+"At Cern, Dr Carpenter helped pioneer advanced net applications during the development of the world wide web, so he is well-placed to take on such a task.",27.6,0.01528841101024035,85,0.054526651462205214,0.019476674990097274,0.7623804217662613
+"The net's growth and evolution depend on standards and protocols, and ensuring the architecture works and talks to other standards is a crucial job of the IETF.",28.52,0.025660367203462427,88,-0.11216386622509765,0.019529076034326524,0.7624582857105611
+"The top priority is to ensure that the standards that make the net work, are open and free for anyone to use and work with.
+
+",46.0,0.021197199300880248,48,-0.12961974438727872,0.019904916759695745,0.7456486611355206
+"The net is built on a protocol called TCP/IP, which means transmission control protocol, and internet protocol.",35.88,0.009715040364516052,72,0.03125480301470209,0.01739670193289392,0.7528201959235694
+"When computers communicate with the net, a unique IP address is used to send and receive information.",29.44,0.012745637739954433,59,0.15845782434717967,0.018165881072168967,0.7453223909881144
+"The IETF is a large international community of network designers, operators, vendors, and researchers working on the evolution of the net's architecture and the way this information is sent and received.",31.28,0.022433545507484425,116,-0.03584833990923827,0.018695432237057268,0.7655910685610053
+They make sure it all knits together leaving no gaps.,6.44,0.011114516305617925,16,-0.04322367401779536,0.017075422766250403,0.6905913739026235
+"""We've seen some interesting effects over last few years,"" explains Dr Carpenter.",2.7600000000000002,0.01946059989116802,39,0.10045381015709773,0.017889001674677513,0.7094575056545319
+"""The net was growing at a fantastic rate at the end of the 90s.",22.080000000000002,0.016088527547701018,25,-0.0099128814077854,0.01809966747950132,0.7197057235252539
+Then there was a bit of a glitch in 2000.,3.68,0.012833333333333332,13,-0.006236986244939683,0.015570134971762148,0.6555712665798039
+"""We are now seeing a very clear phase of consolidation and renewed growth.",7.36,0.011614327537598815,34,-0.015611438136900089,0.01706885725433717,0.7098334320258449
+"""
+
+That renewed growth is also being buoyed by emerging economies, like China, which are showing fast uptake of broadband net and other technologies.",25.76,0.014684405199595971,69,-0.01637303230267451,0.01807603669224047,0.7507743947708276
+"The number of broadband subscribers via DSL (Digital Subscriber Line) doubled in a year to 13 million, according to figures released at the end of 2004.",15.64,0.01269976714677908,88,0.03092306921702277,0.018131202637951076,0.7659171689836509
+"""The challenges we face are about continuing to produce standards to allow for that growth rate,"" explained Dr Carpenter.",9.200000000000001,0.025612991460977244,64,0.042753867113546874,0.019242986585599097,0.7355489134737537
+"""Given it [the net] was designed for the whole community, it has done well to reach millions.",22.080000000000002,0.018019336012606347,30,-0.030387530597837383,0.018369331009379906,0.7015410496134094
+"If you want to reach the whole population, you have to make sure it can scale up.""",12.88,0.01787615324050594,24,-0.05697083653889563,0.018043657660705984,0.6840252232727334
+"IPv6, the standard that will replace the existing IPv4, will allow for billions more addresses on the net, and it is gradually being worked into network infrastructure across the world.",36.800000000000004,0.030761949453243443,84,0.09503294471172694,0.01903315957824455,0.7609981555002444
+"""The actual number of addresses with IPv4 is limited to four billion IP addresses.",6.44,0.022881412717484968,44,0.28536873429569304,0.017253817174133754,0.7397515457682956
+"""That clearly is not enough when you have 10 billion people to serve, so there is technical solution, the new version of IP - IPv6.",18.400000000000002,0.015430558913672985,50,0.1797415080107428,0.01911805633257697,0.7450152566204267
+"""It has much larger address space possibilities with no practical limits,"" said Dr Carpenter.",7.36,0.018627524277904695,53,0.20154717180321993,0.01886685178707652,0.738860948206337
+"Standards are vital to something as complex as the net, and making sure standards are open and can work with across networks is a big task.",34.04,0.019419287742608957,59,-0.09095854469682221,0.01996698126075172,0.7537517084262313
+"The difference this next generation standard, IPv6, will make to the average net user is almost invisible.",42.32,0.027603932999333593,59,-0.05897592322601827,0.01862775828375194,0.7405697134924546
+"""Our first goal is that it",0.92,0.018333333333333333,4,0.002689673345753812,0.012279083089620004,0.5320381994419455
+[IPv6] should make no difference - people should not notice a difference.,22.080000000000002,0.01654592180646894,40,0.019903477065872314,0.01859458946462501,0.7102897009254763
+"""It is like when the London telephone numbers got longer.",0.92,0.011978656216700707,25,0.03540106348106121,0.01794031945585685,0.6902193037758648
+A lot of the process will be invisible.,4.6000000000000005,0.011057292685392852,19,-0.011539807924797599,0.017695620057904413,0.6630363791836809
+"""People are usually given an IP address without knowing it.""",5.5200000000000005,0.0254110563273521,19,0.2648370690577297,0.017827610159984325,0.6891359774300139
+"Technically deployment has started and the standards for are just about settled, said Dr Carpenter.
+
+",0.92,0.02329663234480986,51,0.03691578211286363,0.017901766130733774,0.729715674058919
+The one problem with the net that may never disappear completely is security.,23.92,0.013861148961489003,37,-0.03655101889854805,0.01827147912879716,0.7076024529391726
+"To Dr Carpenter, the solution comes out of technological and human behaviour.",5.5200000000000005,0.023689084699854136,46,0.12007396517481649,0.01631179208216089,0.7206852941551576
+"People have to be educated about ""sensible behaviour"" he says, such as ignoring e-mails that claim you have won something.
+
+",2.7600000000000002,0.010166105024446308,42,0.07173721801773304,0.017896189410798395,0.7317119326565643
+"""I don't think it is going to get worse.",0.92,0.018333333333333333,5,0.005640191245521153,0.013696317392036167,0.5320382034095251
+People will remain concerned about security and they probably should do - just as you would be concerned walking along a dark street.,14.72,0.01497836509322535,52,0.025516916384087932,0.018075210963325507,0.7400381856408434
+"""We have to do work to make sure there are better security internet standards.",21.16,0.0372327812021845,32,-0.12033514970580482,0.019894717661314825,0.4887139562895838
+"It is a never-ending battle in a sense.""",2.7600000000000002,0.011932856923733443,20,-0.008287256093968876,0.018097737994853084,0.6609306404589802
+"But, he adds: ""Even if security has improved, you still worry a bit.",6.44,0.0213721816281114,26,-0.02617305265768094,0.018172514600330758,0.7100164019863904
+"Unfortunately, it is just part of life.",1.84,0.018333333333333333,8,0.0037554105074474086,0.017523637162246652,0.5320382033753669
+We have a duty to do what we can.,0.92,0.018333333333333333,4,-0.0043478333195174305,0.011441276054822876,0.5314171949966988
+"""
+",0.0,0.018333333333333333,0,0.0,0.00267232383348618,0.26666666666666666

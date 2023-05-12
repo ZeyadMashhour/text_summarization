@@ -1,0 +1,27 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Hi-tech posters guide commuters
+
+Interactive posters are helping Londoners get around the city during the festive season.
+
+",3.68,0.04157249290610642,72,0.03940325179418684,0.05197230470380802,0.75726815564408
+"When interrogated with a mobile phone, the posters pass on a number that people can call to get information about the safest route home.",21.16,0.09362283655188218,72,0.009466577238006884,0.05448312547606525,0.7503362103725524
+"Sited at busy underground stations, the posters are fitted with an infra-red port that can beam information directly to a handset.",11.040000000000001,0.05515684812407003,78,-0.10378888249240274,0.054048132349132035,0.760534855092084
+"The posters are part of Transport for London's Safe Travel at Night campaign.
+
+",6.44,0.04611307666612015,48,0.15708872738183344,0.05395463995268037,0.7316511238723827
+"The campaign is intended to help Londoners, especially women, avoid trouble on the way home.",10.120000000000001,0.04735706012256874,43,0.12486406610058474,0.049619538886963244,0.7279287891248662
+In particular it aims to cut the number of sexual assaults by drivers of unlicensed minicabs.,6.44,0.04565019735709823,48,-0.033613063576863014,0.0478000267443294,0.7401089762073167
+"Nigel Marson, head of group marketing at Transport for London (TfL), said the posters were useful because they work outside the mobile phone networks.",11.040000000000001,0.04449021457801969,75,0.10614254912786329,0.0517824923237733,0.7609934010060169
+"""They can work in previously inaccessible areas such as underground stations which is obviously a huge advantage in a campaign of this sort,"" he said.
+
+",14.72,0.03846278192544849,73,0.05411798823925207,0.053034970427229065,0.7497083554784101
+The posters will automatically beam information to any phone equipped with an IR port that is held close to the glowing red icon on the poster.,28.52,0.042623930808272946,76,-0.09303235922698797,0.05324623221082762,0.762548331439861
+"""We started with infra-red because there are a huge number IR phones out there,"" said Rachel Harker, spokeswoman for Hypertag which makes the technology fitted to the posters.",9.200000000000001,0.08538979796649854,85,-0.188507411679122,0.0549892814848666,0.7639434373002133
+"""It's a well established technology.""",2.7600000000000002,0.03656128832074439,19,-0.10858228560418141,0.04372381598530618,0.621146146354297
+Hypertag is also now making a poster that uses short-range Bluetooth radio technology to swap data.,16.560000000000002,0.051633327750973436,62,-0.1417763509353337,0.052350376806069895,0.7505657353300226
+"Although the hypertags in the posters only pass on a phone number, Ms Harker said they can pass on almost any form of data including images, ring tones and video clips.",16.560000000000002,0.04278601440810025,79,-0.10592281342429029,0.05250663792300638,0.767724231593638
+"She said that there are no figures for how many people are using the posters but a previous campaign run for a cosmetics firm racked up 12,500 interactions.",11.96,0.0487616220253055,69,0.17470680515747306,0.05413023028233374,0.7582362656161376
+"""Before we ran a campaign there was a big question mark of: 'If we build it will they come?'"" she said.",9.200000000000001,0.040794463813616295,31,0.21178034298403628,0.05291773800324826,0.484841470837692
+"""Now we know that, yes, they will.""",0.0,0.05176470588235294,0,0.0,0.007802117647058825,0.26666666666666666
+"The TfL campaign using the posters will run until Boxing Day.
+",8.280000000000001,0.0672593407928218,26,0.23101826584033805,0.0516383387933018,0.721607676761318

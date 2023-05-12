@@ -1,0 +1,30 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Cyber criminals step up the pace
+
+So-called phishing attacks that try to trick people into handing over confidential details have boomed in 2004, say security experts.
+
+",16.560000000000002,0.029223088902410693,97,0.1864293051732099,0.044178293459957996,0.7625982690002662
+The number of phishing e-mail messages stopped by security firm MessageLabs has risen more than tenfold in less than 12 months.,11.040000000000001,0.054091981066183535,70,-0.09472891254032496,0.04463660863266105,0.7567773928542435
+In 2004 it detected more than 18 million phishing e-mail messages.,10.120000000000001,0.0629979793155086,38,-0.165117709705649,0.04365195109460454,0.7307621306382099
+"Other statistics show that in 2004 73% of all e-mail was spam and one in 16 messages were infected with a virus.
+
+",17.48,0.04622625882198194,51,-0.05047258918147046,0.042557276174753834,0.7451536910125383
+"In its end-of-year report, MessageLabs said that phishing had become the top security threat and most popular form of attack among cyber criminals.",21.16,0.05963076592301704,80,0.2645638167777925,0.043759154586451826,0.7531046175000363
+"In September 2003, MessageLabs caught only 273 phishing e-mails that tried to make people visit fake versions of the websites run by real banks and financial organisations.",14.72,0.03607088016716132,108,-0.013892293847674016,0.04504340152733438,0.7707370917881067
+But by September 2004 it was stopping more than two million phishing related e-mail messages per month.,11.96,0.07256124586601735,54,-0.19160366633268372,0.04439320145470809,0.4750838434254284
+"Worryingly, said the firm, phishing gangs were using increasingly sophisticated techniques to harvest useful information such as login details or personal data.
+
+",8.280000000000001,0.02853457792184511,100,-0.0020724899573269675,0.03781653698043527,0.7582892974533576
+"Older attacks relied on users not spotting the fact that the site they were visiting was fake, but more recent phishing e-mails simply try to steal details as soon as a message is opened.",14.72,0.03607809782327568,84,-0.014195487232353093,0.04399603075416485,0.7674716128149007
+Other phishing scams try to recruit innocent people into acting as middlemen for laundering money or goods bought with stolen credit cards.,7.36,0.03526473052773528,77,0.015957623716326926,0.038574913405334206,0.7633999965412409
+"""E-mail security attacks remain unabated in their persistence and ferocity,"" said Mark Sunner, chief technology officer at MessageLabs.",11.040000000000001,0.031227535296241577,95,0.14570306262682278,0.042231216327826726,0.7594325690515037
+"""In just 12 months phishing has firmly established itself as a threat to any organisation or individual conducting business online,"" he said.",12.88,0.05324698672264579,77,0.0075908996982566946,0.04249055806159846,0.7538213056555879
+Mr Sunner said MessageLabs was starting to see some phishing attacks become very focused on one company or organisation.,5.5200000000000005,0.06525590168684803,60,0.08718418920437651,0.04066952074406268,0.7426293985191766
+"""Already particular businesses are threatened and blackmailed, indicating a shift from the random, scattergun approach, to customised attacks designed to take advantage of the perceived weaknesses of some businesses,"" he said.",6.44,0.02871022394849075,116,0.06211181892677212,0.03864903091503709,0.7661115191086674
+"Although phishing attacks grew substantially throughout 2004, viruses and spam remain popular with cyber-criminals and vandals.",14.72,0.06848865691650878,75,0.21414015042107318,0.04300923370637233,0.755358468062949
+One of the biggest outbreaks took place in January when the MyDoom virus started circulating.,5.5200000000000005,0.028129268060008032,48,0.045416504848709904,0.03926671090825839,0.7358206854221936
+To date the company has caught more than 60 million copies of the virus.,11.040000000000001,0.029170351214644556,34,-0.03666284168117771,0.04169845232074564,0.7321120714787681
+Also up this year was the amount of spam in circulation.,8.280000000000001,0.03138580545963478,25,0.10993374920565353,0.03829504075078581,0.6603700942158698
+In 2003 only 40% of messages were spam.,7.36,0.048000500880326515,17,-0.0301063506040615,0.04198119161973599,0.6781999797555992
+"But by the end of 2004, almost three-quarters of messages were junk.
+",10.120000000000001,0.03570516347951465,31,-0.03678942268914862,0.04310167657517073,0.7083393081093526

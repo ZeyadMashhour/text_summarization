@@ -1,0 +1,47 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Mobile audio enters new dimension
+
+As mobile phones move closer to being a ubiquitous, all-in-one media player, audio is becoming ever more important.",31.28,0.023194101103584306,91,-0.07945276888204175,0.02887301329511568,0.7556389246243588
+"But how good can that sound be from such a small device?
+
+",16.560000000000002,0.029478958781518665,20,0.1163309456731581,0.027850970134869254,0.6871364382891864
+The sound of a buzzing bee jumps from left to right before disappearing around the back of my head.,14.72,0.01722018351951443,38,0.1329045909663448,0.02516320091642304,0.7310161615114805
+The surround sound demo is unremarkable when heard on a multi-speaker home cinema system but startling when emerging from a small mobile phone.,35.88,0.022522775826509633,91,0.021143119069740993,0.027878883612668423,0.760477669123115
+British firm Sonaptic is one of a number of companies to have developed 3D audio technology that emerges from stereo speakers.,26.68,0.02669004071812783,75,-0.09082483164535037,0.028079570762909272,0.754064916109535
+Firms AM3D and SRS both offer stereo-widening technology for mobile phones.,24.84,0.02740454864014128,49,-0.09851102709637796,0.02707500680227571,0.7441722737290934
+"But Sonaptic's managing director David Monteith says his firm is the only company to offer positional 3D audio on a mobile.
+
+",30.360000000000003,0.039214826484953155,74,-0.11745691571175423,0.026617191606703127,0.7552251086090184
+"""There are quite a few basic technologies out there, making the sound seem a bit bigger, headphones a bit nicer.
+
+",16.560000000000002,0.01738082024451804,46,0.034881850858354886,0.027713363943558427,0.7440310934097858
+"""No-one has really tried before to make proper 3D positional audio - where an individual channel can be moved around.""",19.32,0.017827963809692513,54,-0.049905841048131915,0.028366926161869702,0.728138527631285
+Sonaptic has been working with Japanese mobile network NTT DoCoMo to set standards for 3D audio on mobile phones.,30.360000000000003,0.045692450044718474,71,-0.09364031379447114,0.02652530108822789,0.7585088050850226
+"In the last few months handsets from NEC, Fujitsu and Mitsubishi have been released on to the Japanese marker which have chips produced by Yamaha and Rohm with Sonaptic's technology.",15.64,0.026205252960582542,94,-0.031062042754567927,0.02214210785162811,0.762687734168034
+"""The technology has been around on PCs and games consoles for some time but what we are doing is making it more efficient so it can go on a small consumer device like a mobile phone,"" said Mr Monteith.
+
+",36.800000000000004,0.04414626639714168,80,-0.0010799943880070838,0.028765914288986942,0.7617958486258974
+The technology works through applying the science of psychoacoustics and grew out of medical research done by the company's research director Dr Alastair Sibbald.,23.0,0.017223237804163072,99,-0.04381466119103278,0.023744946885569697,0.7634594286203704
+"""We are basically trying to fool your ears into thinking sound is coming from areas it actually isn't.",11.96,0.025922377324705134,34,0.21711540480783015,0.02632884400944293,0.5171738374463931
+"""Your brain uses certain bits of information which we are effectively synthesising on a mobile phone handset.""",22.080000000000002,0.03898510098828766,58,0.0026191107584292647,0.026628425731630014,0.7366370708936618
+The structure of the ear works as a 3D encoder for sound - helping the brain understand from where sound is emanating.,35.88,0.0346091110765938,63,0.19619342453741323,0.02668498969256052,0.75271133566144
+"Sonaptic's audio processing algorithms mimic that 3D encoding, giving the impression that sound is coming from the left, right, and behind a listener when in fact it is coming from a single source.",26.68,0.019397804252563825,101,0.05242505480075643,0.028213744529541323,0.7674487736399347
+"Mr Montieth says: ""If the sound is off to one side it will get to one ear before the other - if it is on the right it has to bend around your head to get to your left ear.
+
+",34.04,0.034851484931033495,38,0.2863270335114651,0.022833867498236234,0.7341186086064542
+"""The shape of your ear causes differences in sound from one ear to the other.",24.84,0.028313428065282045,26,0.3044907121628804,0.023135374384764738,0.7083895971279728
+"We are synthesising those differences.""",0.0,0.016510610559223465,20,0.09387200636845096,0.014218550748279235,0.6129250054043031
+Sonaptic hopes the technology will have a big impact in the growing market of mobile gaming and music downloading.,32.2,0.0404140013893232,66,-0.08145556413632819,0.028392697419477513,0.7532003973955343
+"""Handhelds often have limitations - screens will be small by definition.",9.200000000000001,0.017688662813598526,39,0.0174222215143443,0.024518409628176682,0.7084873457057669
+"""If you want to get impact from media you are running - either a movie, a game or watching TV - if you want it to be more immersive then our technology can help.""",32.2,0.02778384967545028,54,-0.022078146108607588,0.027456576464763228,0.7446680063092855
+"A fishing game is the first title to use the technology, creating a 3D sound field while the gamer plays.",30.360000000000003,0.028251531108806804,53,0.05420817447045525,0.02748979048902798,0.7487139327530717
+Driving games and shoot 'em ups using the technology are in development.,14.72,0.019664298803600988,39,-0.011303229249157533,0.02739442795289803,0.7205891386788761
+The technology can also be used for music - giving songs a much more expansive and immersive feel.,22.080000000000002,0.017681605010545574,45,-0.025665659975406756,0.02652253754674761,0.7197886976080051
+Sonaptic offers its technology on a chip or in software and is about to release a new version which significantly improves the efficiency of the audio processing.,29.44,0.02915274061258625,94,-0.07569829528764803,0.02722903236777243,0.756189305342055
+"""It's important we only use 10 or 15% of the processor otherwise you won't be able to play a game on the handset,"" explained Mr Montieth.",12.88,0.01972787599072983,54,0.05179372071263085,0.026937687791230267,0.7484667283787017
+"The company is now looking to the US and European markets, where it has been working with network Vodafone.",5.5200000000000005,0.02059712176769332,40,-0.05225966769454371,0.026026530463640788,0.7153008921775714
+"""We have focused first on Japan because it has a very advanced mobile phone market.",19.32,0.03287447036033218,34,-0.0767774850856044,0.02681949676939262,0.7170090407436005
+"""We knew Japan would be the first place to have the handsets that could use our technology.",15.64,0.025811428201800688,32,-0.03860062715253356,0.02741997775405023,0.7086929215852649
+"""There should be handsets out in the UK in the next six months.",4.6000000000000005,0.020894404066010695,15,-0.01147672109371796,0.023033502845902883,0.6592007063568829
+"""
+",0.0,0.02666666666666667,0,0.0,0.003919138561659519,0.26666666666666666

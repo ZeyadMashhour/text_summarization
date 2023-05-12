@@ -1,0 +1,22 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Santy worm makes unwelcome visit
+
+Thousands of website bulletin boards have been defaced by a virus that used Google to spread across the net.
+
+",16.560000000000002,0.06328383051614972,81,-0.010871782854498678,0.06274451645301601,0.7626568613415956
+"The Santy worm first appeared on 20 December and within 24 hours had successfully hit more than 40,000 websites.",11.040000000000001,0.058082956827563,58,-0.10113469317267543,0.05625006288931554,0.7579338200274891
+The malicious program exploits a vulnerability in the widely used phpBB software.,11.040000000000001,0.04708210671416657,55,-0.14175961944651433,0.05474149223832419,0.7300653614793777
+"Santy's spread has now been stopped after Google began blocking infected sites searching for new victims.
+
+",3.68,0.06223407430463831,56,0.23230940821285373,0.06368837850202283,0.746676497776348
+The worm replaces chat forums with a webpage announcing that the site had been defaced by the malicious program.,19.32,0.06643313834513699,61,-0.12139938198971385,0.0576674250697199,0.746900631614825
+"Soon after being infected, sites hit by the worm started randomly searching for other websites running the vulnerable phpBB software.",12.88,0.1176383656019257,69,-0.024687144723158038,0.06343008277593695,0.7560039590073812
+Once Google started blocking these search queries the rate of infection tailed off sharply.,8.280000000000001,0.04536425775691132,51,0.2768139823469353,0.059525444364356396,0.7428664569724096
+"A message sent to Finnish security firm F-Secure by Google's security team said: ""While a seven hour response for something like this is not outrageous, we think we can and should do better.""",15.64,0.0631725878434257,74,-0.020683594121618996,0.05951613284155822,0.7537379506661839
+"""We will be reviewing our procedures to improve our response time in the future to similar problems,"" the Google team said.",7.36,0.049511587035090905,64,0.05825104109571869,0.06087435884764006,0.7509800422227837
+Security firms estimate that about 1m websites run their discussion groups and forums with the open source phpBB program.,10.120000000000001,0.05982951966096962,74,-0.15397912341304995,0.0603862351260673,0.7558102214048871
+"The worst of the attack now seems to be over as a search conducted on the morning of the 22 December produced only 1,440 hits for sites showing the text used in the defacement message.",11.96,0.04333178058678582,82,0.06624724882578842,0.06257121649629434,0.7628795481251807
+People using the sites hit by Santy will not be affected by the worm.,9.200000000000001,0.06553296242700832,30,-0.06660203721572999,0.05836299726028353,0.7205657039021734
+Santy is not the first malicious program to use Google to help it spread.,10.120000000000001,0.0830788908225223,33,-0.02818598436258867,0.056427584891605154,0.6997701051821655
+"In July a variant of the MyDoom virus slowed down searches on Google as the program flooded the search site with queries looking for new e-mail addresses to send itself to.
+",19.32,0.055423941557705754,82,0.20205220066407398,0.0638140722438595,0.7643285826249743

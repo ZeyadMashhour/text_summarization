@@ -1,0 +1,50 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"File-swappers ready new network
+
+",7.36,0.019090449394883822,24,-0.04111828887491395,0.0236227618447854,0.6899553704384425
+"Legal attacks on websites that help people swap pirated films have forced the development of a system that could be harder to shut down.
+
+",33.120000000000005,0.0323451376494576,68,0.13433020737578233,0.02516104935147097,0.7538917729915937
+One site behind the success of the BitTorrent file-swapping system is producing its own software that avoids the pitfalls of the earlier program.,26.68,0.032616788916439106,75,-0.022066964473880676,0.025686116166760385,0.7521304240491754
+A test version of the new Exeem program will be released in late January.,12.88,0.03519862151166606,41,-0.09258638322505659,0.022950508700859445,0.7266683239851722
+"But doubts remain about the new networks ability to ensure files being swapped are ""quality copies"".
+
+",5.5200000000000005,0.018496730313593758,50,-0.036555128830999116,0.024652246287526262,0.7455760842354796
+In late December movie studios launched a legal campaign against websites that helped people swap pirated movies using the BitTorrent network.,32.2,0.02881871512496444,91,0.20417202460840964,0.024666366957232302,0.7647131162612153
+The legal campaign worked because of the way that BitTorrent is organised.,8.280000000000001,0.021281469976500773,35,0.1834588619377754,0.021973321665086358,0.575784347652656
+"That file-sharing system relies on links called ""trackers"" that point users to others happy to share the file they are looking for.",42.32,0.03550032779300592,58,-0.07375786766794375,0.025346123543558988,0.7491928766137816
+Shutting down sites that listed trackers crippled the BitTorrent network.,6.44,0.033283482742499766,43,0.1786510795059497,0.02194411429112043,0.7316372455189688
+"One of the sites shut down by the legal campaign was suprnova.org which helped boost the popularity of the BitTorrent system by checking that trackers led to the movies or TV programmes they claimed to.
+
+",29.44,0.023767582962352592,105,0.20047356342462935,0.025455745666113392,0.4533741538861553
+"Now the man behind suprnova.org, who goes by the nickname Sloncek, is preparing to release software for a new file-swapping network dubbed Exeem.",18.400000000000002,0.04121197660894817,76,-0.07805539314304037,0.02472443163013776,0.759304614702819
+"In an interview with Novastream web radio, Sloncek said Exeem would combine ideas from the BitTorrent and Kazaa file-sharing systems.",3.68,0.0323879227128718,81,-0.06051654098067972,0.024831661613202386,0.7558013517695148
+"Like BitTorrent, Exeem will have trackers that help point people toward the file they want.",24.84,0.0474901942830567,37,0.06524784755452664,0.022573338299934645,0.7204267091235774
+Like Kazaa these trackers will be held by everyone.,0.0,0.018315900996221955,16,0.07514839249352111,0.017988307547102643,0.6563140635494441
+There will be no centrally maintained list.,4.6000000000000005,0.012603345319008889,21,0.05842853856638473,0.019979232255796498,0.6654777836502856
+"This, said Sloncek, should make the system less vulnerable to legal action aimed at stopping people swapping pirated movies and music.",29.44,0.019518624336153916,71,0.09217998025880395,0.02498505478528995,0.7541629227994631
+The Exeem software has been under development for a few months and is currently being tested by a closed group of users.,11.040000000000001,0.01728160106256283,48,-0.09622396367743044,0.024556070082536373,0.7388163240099198
+An early public version of the software should be available before February.,15.64,0.02587105664455959,34,-0.11936694020840356,0.024000188049755653,0.7006428955041721
+Sloncek said that currently only a Windows version of the software was in development.,15.64,0.036670659781202576,39,-0.13387272735823846,0.023062274167159554,0.6903470711596915
+There were no plans for a Linux or Mac version.,7.36,0.013979852375974605,19,-0.061730935530761956,0.020143187935254367,0.6897998578316584
+He said that costs of writing the software will be paid for by adverts appearing in the finished version of the program.,15.64,0.015419638100813385,54,-0.10056588212206702,0.024331066506576758,0.7432804781337805
+"Despite Suprnova administrator Sloncek's involvement with Exeem, the basic technology appears to have been developed by a firm called Swarm Systems that is based on Caribbean island Saint Kitts and Nevis.
+
+",7.36,0.01264094220631939,125,-0.05652658223254757,0.022511716576708286,0.7688601146183367
+"Users of the Exeem system will be able to rate files being swapped to help stop the spread of fake files, Sloncek told Novastream.
+
+",24.84,0.03868353106760248,66,-0.10063999363681876,0.024475391120128837,0.7537374176222527
+"Dr Johan Pouwelse, a researcher at the Delft University of Technology who studies peer-to-peer networks, said Exeem was the next evolution in file-sharing systems.",1.84,0.019469776097998423,104,-0.07951664110652654,0.023264891353994732,0.7647269602190443
+"But, he said, it would struggle to be as popular as BitTorrent and Suprnova because early versions were not taking enough care to make sure good copies of files were being shared.",11.040000000000001,0.023856693592733756,74,-0.07518383351756863,0.02560657397234477,0.7546409651724058
+"""Exeem cannot prevent pollution,"" he said.",1.84,0.012373667447330948,21,-0.03761066291445244,0.01673247458503475,0.6620158984363587
+"""The rating system in Exeem seems flawed because it is easy to insert both fake files and fake ratings,"" he said.",24.84,0.01482416174243788,49,-0.05953361612121974,0.02236823580980777,0.7364168253366461
+Studies have shown that organisations working for record labels and movie studios have worked to undermine Kazaa by putting in fakes.,7.36,0.021325639701734133,72,0.08493606827338238,0.024207041925328066,0.7541882796162099
+By contrast moderators on Suprnova made sure files being shared were high quality.,3.68,0.02538347123697491,49,-0.07710090673479021,0.02419895733759392,0.7385022181483338
+"""The moderators are the difference between having a system that works and one that's full of crap like Kazaa,"" he said.",16.560000000000002,0.0212706049686023,42,0.028242778742977606,0.022777466216451242,0.7081867065844816
+"""There is a fundamental tension between distribution and integrity,"" he said.",3.68,0.024444444444444442,39,0.0008865436690735322,0.01857665578501519,0.6928895386402897
+Mr Pouwelse said that future versions of file-sharing systems are likely to incorporate some kind of distributed reputation system that lets moderators prove who they are to the network and rate which files are worth downloading.,28.52,0.02906060910162839,122,-0.13062074936321413,0.026018135376278465,0.769090754909952
+"When big files were being shared moderation systems were key, said Mr Pouwelse.",2.7600000000000002,0.01911532799666402,41,-0.10916762360707186,0.024639669503361116,0.7290278196019846
+He added that the legal attacks on BitTorrent had driven people away from sites such as Suprnova but many users had simply migrated to other tracker listing sites many of which have seen huge increases in traffic.,19.32,0.029071548071901362,98,0.178083108645227,0.025069029367496307,0.7691094231832412
+"""It's hard to compete with free,"" he said.",4.6000000000000005,0.014720210447193497,15,0.02110591591509154,0.022209133634239632,0.6629254935467045
+"No-one from the Motion Picture Association of America was immediately available for comment on the file-sharing development.
+",5.5200000000000005,0.012609293269695789,76,-0.07217147933163683,0.024711460088956295,0.7451777645690882

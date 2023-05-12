@@ -1,0 +1,26 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"'Brainwave' cap controls computer
+
+A team of US researchers has shown that controlling devices with the brain is a step closer.
+
+",23.0,0.11766511221896177,72,-0.0662044739205315,0.05699227185356629,0.7517095191836369
+"Four people, two of them partly paralysed wheelchair users, successfully moved a computer cursor while wearing a cap with 64 electrodes.",23.0,0.07410033793166522,82,0.13077130209692509,0.05278783907448005,0.7562058935957323
+Previous research has shown that monkeys can control a computer with electrodes implanted into their brain.,23.92,0.07865789758346253,62,-0.001559757215718467,0.054160392498107016,0.737164022824577
+The New York team reported their findings in the Proceedings of the National Academy of Sciences.,4.6000000000000005,0.04189437619873059,54,-0.054113056762558946,0.047194541911017934,0.7389030277606085
+"""The results show that people can learn to use scalp-recorded electroencephalogram rhythms to control rapid and accurate movement of a cursor in two directions,"" said Jonathan Wolpaw and Dennis McFarlane.",25.76,0.03496582117950651,131,-0.09647159551143579,0.05424497938488829,0.7688472144521512
+"The research team, from New York State Department of Health and State University of New York in Albany, said the research was another step towards people controlling wheelchairs or other electronic devices by thought.
+
+",18.400000000000002,0.056435955441170776,118,-0.05316185362413874,0.05292359641618909,0.7704295206140293
+"The four people faced a large video screen wearing a special cap which, meant no surgery or implantation was needed.
+
+",15.64,0.03651486661803728,67,0.12692684897208203,0.05347866678306906,0.7575133611861646
+Brain activity produces electrical signals that can be read by electrodes.,4.6000000000000005,0.07786270142095199,49,0.24262397841165867,0.049451824453834003,0.7294822968121758
+Complex algorithms then translate those signals into instructions to direct the computer.,6.44,0.036898036430770165,56,0.15786148831886335,0.04801009785949452,0.7326162102786811
+"Such brain activity does not require the use of any nerves of muscles, so people with stroke or spinal cord injuries could use the cap effectively.",23.92,0.038613695380625535,73,0.19802098456430647,0.04825349904784507,0.7573328466357053
+"""The impressive non-invasive multidimensional control achieved in the present study suggests that a non-invasive brain control interface could support clinically useful operation of a robotic arm, a motorised wheelchair or a neuroprosthesis,"" said the researchers.",38.64,0.034725198066029854,183,-0.056423206221388585,0.05479060031712626,0.7772221072109904
+The four volunteers also showed that they could get better at controlling the cursor the more times they tried.,2.7600000000000002,0.05649814361025629,30,-0.17667544607280178,0.05228453033914911,0.6845351159900587
+"Although the two partially-paralysed people performed better overall, the researchers said this could be because their brains were more used to adapting or that they were simply more motivated.",7.36,0.04096005092090368,66,0.0842008060296648,0.0526515840120286,0.7407601376036917
+It is not the first time researchers have had this sort of success in brain-control experiments.,3.68,0.06165142309613934,48,-0.14054262685133576,0.055845650126161814,0.730478034293635
+Some teams have used eye motion and other recording techniques.,2.7600000000000002,0.04745166249571456,31,-0.023532737245128613,0.050726908061823936,0.7094109939987263
+"Earlier this year, a team at the MIT Media Labs Europe demonstrated a wireless cap which read brain waves to control a computer character.
+",34.96,0.045104721407073896,90,0.09462986338347423,0.05620301786121895,0.7673068038578656

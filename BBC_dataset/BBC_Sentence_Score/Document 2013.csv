@@ -1,0 +1,26 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"First look at PlayStation 3 chip
+
+Some details of the chip inside Sony's PlayStation 3 have been revealed.
+
+",29.44,0.0609464502429949,55,0.007988885062967325,0.05437674647249111,0.7308103483470485
+"Sony, IBM and Toshiba have released limited data about the so-called Cell chip that will be able to carry out trillions of calculations per second.",11.040000000000001,0.07114075891092612,72,0.027084376584269796,0.05809816686508564,0.7484513461971866
+The chip will be made of several different processing cores that work on tasks together.,13.8,0.03694829728234897,30,-0.12247798688337537,0.05582433126365449,0.7153090495756477
+"The PlayStation 3 is expected in 2006 but developers are expecting to get prototypes early next year to tune games that will appear on it at launch.
+
+",11.96,0.05893365339534151,69,-0.09260466713991354,0.0561416668759343,0.7535207553922736
+The three firms have been working on the chip since 2001 but before now few details have been released about how it might function.,11.040000000000001,0.07752833443549767,37,-0.17470705246425955,0.057017463133302866,0.7209664946750419
+"In a joint statement the three firms gave hints about how the chip will work but fuller details will be released in February next year at the International Solid State Circuits Conference in San Francisco.
+
+",16.560000000000002,0.04984743877114007,115,-0.18200212962537796,0.05517427409925285,0.7680246769985732
+The three firms claim that the Cell chip will be up to 10 times more powerful than existing processors.,13.8,0.0628261760789231,45,0.10940217877917119,0.05797849761843725,0.7430690138127156
+"When put inside powerful computer servers, the Cell consortium expects it to be capable of handling 16 trillion floating point operations, or calculations, every second.",15.64,0.07276755320304708,104,0.21094261114465998,0.057804969205089665,0.7648275858313124
+The chip has also been refined to be able to handle the detailed graphics common in games and the data demands of films and broadband media.,15.64,0.040183570528493695,72,0.008018265972480615,0.05607711853708817,0.7573363929733649
+IBM said it would start producing the chip in early 2005 at manufacturing plants in the US.,15.64,0.05059989669024159,46,-0.12789330703169488,0.055424526628292864,0.7377528476214182
+The first machines off the line using the Cell processor will be computer workstations and servers.,5.5200000000000005,0.038439207351869786,49,0.21671118521926622,0.04924241199589683,0.7302004857827116
+A working version of the PS3 is due to be shown off in May 2005 but a full launch of the next generation console is not expected to start until 2006.,12.88,0.051803638604664894,67,-0.19174766804669902,0.05627775173629174,0.7486592033165583
+"As well as being inside the PlayStation 3, the chip will also be used inside high-definition TVs and powerful computers.",23.0,0.04721357605713285,62,0.15838307683948205,0.05647786529779834,0.7448889400713665
+"""In the future, all forms of digital content will be converged and fused onto the broadband network,"" said Ken Kutaragi, Chief Operating Officer of Sony.",5.5200000000000005,0.050821448447377786,88,-0.004318911473592917,0.05317895753543844,0.7638775605340847
+"""Current PC architecture is nearing its limits.",1.84,0.055,33,0.001488817122173197,0.05258806912574454,0.710199157234504
+"""
+",0.0,0.055,0,0.0,0.008317183610200883,0.26666666666666666

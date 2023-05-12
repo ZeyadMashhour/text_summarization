@@ -1,0 +1,39 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Long life promised for laptop PCs
+
+Scientists are working on ways to ensure laptops can stay powered for an entire working day.
+
+",23.92,0.03323756483690598,78,-0.034718640073322274,0.03625483182383692,0.7658942972787511
+"Building batteries from new chemical mixes could boost power significantly, say industry experts.",17.48,0.028353075599334338,63,0.062428309555871565,0.0356131787669175,0.7441112219582692
+"The changes include everything from the way chips for laptops are made, to tricks that reduce the power consumption of displays.",22.080000000000002,0.03927395597114606,55,-0.10850028852470305,0.036467051423022756,0.7399121343462214
+"Ever since laptops appeared the amount of time they last between recharges has been a frustration for users.
+
+",4.6000000000000005,0.02750821973713432,45,-0.00733279413036975,0.034132767945196145,0.7157729097655033
+A survey carried out in 2000 by Forrester Research found that the shortness of battery life was the most complained about feature of laptops.,15.64,0.031020607969251632,77,0.044050296285632264,0.03481789881349019,0.754510369228003
+"""The focus back then was more on performance and features,"" said Mike Trainor, chief mobile technology evangelist for chip giant Intel.
+
+",11.96,0.02731060776393458,83,-0.02642726464935548,0.032425987131684625,0.7570018022103318
+"""For most of the 90s battery life was stuck on two to 2.5 hours.""",11.040000000000001,0.036095911265605525,24,0.10584086374635521,0.03205487293800611,0.7073656156703142
+"But now, he said, laptops can last much longer.",0.0,0.03875228833229807,10,-0.06280459543886041,0.031217646856724044,0.6115763501479758
+"It was not just a case of improving battery life by squeezing more out of the lithium ion power packs, he explained.",29.44,0.04164500501902877,55,0.3025378571005882,0.03585974948204194,0.7490691959476884
+Other changes are needed to get to the holy grail of a laptop running for about eight hours before needing a recharge.,12.88,0.031458568087368265,38,-0.015868099202692817,0.032888780594048275,0.7391154033873796
+"""Lithium ion is never going to get there by itself,"" he said.",2.7600000000000002,0.023427875755197423,10,0.3003446402555292,0.016320078750650214,0.608499066478858
+"""The industry has done a great job of wringing all possible energy storage out of that technology that they can.""",12.88,0.03308321152548615,44,0.014267719959602647,0.03483430726943342,0.7306422712498554
+"Some new battery chemistries promise to cram more power into the same space, said Mr Trainor, though work still needed to be done to get them successfully from the lab to manufacturing.",27.6,0.03812016436167231,82,-0.00043777268642256696,0.03534964125430097,0.7589252811429089
+He was sceptical that fuel cells would develop quick enough to take over from solid batteries even though they have the potential to produce several times more energy than lithium ion power packs.,30.360000000000003,0.05359698992288032,86,0.2747543564308248,0.03641421393749339,0.7643105911015321
+"""In fuel cells you need to have pumps and separators and evaporation chambers,"" he said.",5.5200000000000005,0.023827449391816618,39,0.08493879430942546,0.027856241175908635,0.7226222106545181
+"""It's a mini energy plant that needs to be shrunk and shrunk and shrunk.",15.64,0.030397034886419344,33,-0.0188539245920143,0.027511851088227755,0.7226484072228527
+"""
+
+Intel has been working with component makers to test energy consumption on all the parts inside a laptop and find ways to make them less power hungry.
+
+",43.24,0.051974989401043996,85,-0.08012460402437192,0.037574167210335206,0.7588084403612352
+This work has led to the creation of the Mobile PC Extended Battery Life (EBL) Working Group that shares information about building notebooks that are more parsimonious with power.,19.32,0.042142351081176636,105,0.04679425556614457,0.03661651822375949,0.769229451885167
+"Some of the improvements in power use come simply because components on chips are shrinking, said Mr Trainor.",12.88,0.042094882320156755,50,-0.07108665482587742,0.034466826593398184,0.7386321284339573
+Intel has also changed the way it creates transistors on silicon to reduce the power they need.,22.080000000000002,0.02742187333417945,46,-0.03119592523715888,0.03408098196414711,0.7304395343290093
+"On a larger scale, said Mr Trainor, improvements in the way that voltage regulators are made can reduce the amount of power lost as heat and make a notebook more energy efficient.",34.96,0.035479217542097284,102,-0.0822720445899034,0.03640090430194097,0.7663863412924167
+"Also, said Mr Trainor, research is being done on ways to cut energy consumption on displays - currently the biggest power guzzler on a laptop.",34.04,0.055230332723573604,68,-0.08793486434669158,0.03681364857687815,0.7560607982644759
+Many laptop makers have committed to creating 14 and 15 inch screens that draw only three watts of power.,25.76,0.02859044916861062,51,-0.046791055478833145,0.03490493265749141,0.7522852030068378
+This is far below the power consumption levels of screens in current notebooks.,16.560000000000002,0.03264685218604729,42,-0.053538132816632715,0.03564509287371489,0.719625114822622
+"""If we can get close to eight hours that's a place that people see as extraordinarily valuable that's what the industry has to deliver,"" Mr Trainor said.
+",8.280000000000001,0.02731052181763469,67,-0.011682461832869622,0.03347782834735151,0.7477289493579147

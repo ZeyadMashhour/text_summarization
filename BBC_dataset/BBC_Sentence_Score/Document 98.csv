@@ -1,0 +1,29 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"GM, Ford cut output as sales fall
+
+US car firms General Motors (GM) and Ford have been forced to cut production in the face of falling car sales.
+
+",24.84,0.08235284557667273,82,0.18198068265793985,0.052931803271847974,0.7716575286713727
+US sales at GM sank 12.7% in February compared to a year ago while Ford sales dropped 3% as foreign rivals took a bigger share of the market.,14.72,0.14226619182916153,74,-0.139055577793091,0.05416687108990433,0.7654997466145773
+"Meanwhile, Asian carmakers fared well - Toyota sales jumped 11% while rival Nissan notched up a 10% increase.",11.96,0.03883112590618179,59,-0.15181559060694771,0.052366791781787596,0.757086168178129
+Overall.,0.0,0.05176470588235294,0,0.0,0.007802117647058825,0.26666666666666666
+"sales across the industry also fell to 1.25 million vehicles from 1.27 million a year earlier.
+
+",9.200000000000001,0.0360469965458845,52,0.0682992905748191,0.05165529415983712,0.7490692758705105
+"GM and Ford blamed high fuel prices for low sales of big trucks and gas-guzzling sports utility vehicles (SUVs) - the vehicles that provide the biggest profits.
+
+",14.72,0.08260861690744475,95,-0.016451479370755574,0.051031288014653606,0.7733613088238374
+"GM added that US truck sales fell 9% in February while car business tumbled 17%, however it did acknowledge that some new products - such as the Pontiac G6 and Chevrolet Cobalt - had put in solid performances.",23.92,0.03739754981854932,107,0.04929017132096454,0.05229555824246573,0.7695749873880984
+"""The calendar year is starting off slower than expected, both for GM and the industry,"" said Mark LaNeve, GM's vice president for North American sales, service and marketing.",11.96,0.057042337714716014,96,0.07356352538631086,0.050993812926862885,0.7689029973394815
+The slump in sales prompted the group to cut production in North America by 3% - it has already reduced output by around 9% in the face of growing stockpiles.,20.240000000000002,0.034991491822636174,76,0.17799355967061514,0.052091281030355346,0.7578166461179814
+"Meanwhile, Ford which posted its ninth consecutive drop in monthly US sales, said it was cutting first-quarter North American production by another 10,000 vehicles, or 1.2%.",7.36,0.056069629238352674,92,0.17015600145092383,0.05288303825638403,0.7633631732072129
+"Chrysler, the US unit of Germany's DaimlerChrysler, was the only Detroit based automaker to boast an increase in market share during the month - with sales rising 8%.
+
+",16.560000000000002,0.03300466510522979,92,-0.1785816540818344,0.05282391355124485,0.7626569325750103
+But America's loss was its foreign rivals' gain as they continued to nibble away at the US market.,9.200000000000001,0.03269545621950384,48,-0.15390739843926882,0.04966219492036443,0.7399068574591325
+"While Japan's top car maker Toyota and Nissan saw sales accelerate, even the smaller Suzuki Motor Corp snapped up a more business with sales improving 17.6% on a year ago.",13.8,0.05725396534389797,95,-0.036867745423062606,0.05355980998631266,0.7706065807980799
+"In 2003, the firm launched an ambitious plan to triple US sales by 2007 as it seeks to become a bigger player in the Asian assault on the US market.",11.96,0.03271847412053334,72,-0.14993921114097022,0.05182673719140127,0.7635103603992396
+"Korea's Hyundai was another big gainer, turning in a 19% surge in February sales.",8.280000000000001,0.032713975273694455,45,-0.12016510556448858,0.05074250793949417,0.7447331684651718
+Toyota put its rise in sales down to strong results for its redesigned Avalon sedan and a 120% surge in sales of its gas-electric Prius hybrid mid-size sedan as petrol-price conscious consumers looked to vehicles that were cheaper to run.,13.8,0.03525624887834183,144,-0.05822379102659211,0.0518000272112433,0.7792475001602592
+"""As gas prices continue their upward march, fuel efficiency catches the public eye,"" Jim Press, vice president and chief operating officer of Toyota's US sales arm, said in a statement.
+",17.48,0.03698572381684627,117,-0.049371325767954,0.051366952778781845,0.7751508183606987

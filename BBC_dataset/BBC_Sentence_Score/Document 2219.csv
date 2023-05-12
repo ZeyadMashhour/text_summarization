@@ -1,0 +1,74 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"New consoles promise big problems
+
+Making games for future consoles will require more graphic artists and more money, an industry conference has been told.
+
+",17.48,0.018135758221130005,92,0.007058228666173528,0.01773177939110697,0.7623762625163816
+"Sony, Microsoft and Nintendo will debut their new consoles at the annual E3 games Expo in Los Angeles in May.",4.6000000000000005,0.014761957794422905,59,-0.02547863208111414,0.014436795787105558,0.7532054353757476
+"These so-called ""next generation"" machines will be faster than current consoles, and capable of displaying much higher-quality visuals.",8.280000000000001,0.013244189328298895,74,0.015434760171710943,0.017363077571577897,0.7483404842788048
+"For gamers, this should make for better, more immersive games.",7.36,0.014569148215409338,22,0.013907044929963887,0.014521502772236343,0.6796354476995523
+"In a pre-recorded video slot during Microsoft's keynote address at the Game Developers Conference, held last week in San Francisco, famed director James Cameron revealed he is making a game in tandem with his next film - believed to be Battle Angel Alita.",53.36,0.011580128903295647,159,9.397841862400214e-05,0.017222599475262685,0.7802954917330021
+"The game's visual quality would be ""like a lucid dream,"" said Mr Cameron.",35.88,0.01756667167411229,36,0.011649197792582878,0.015476503328054126,0.7304080755783553
+"But numerous speakers warned that creating such graphics will require more artists, and so next generation console games will be much more expensive to develop.",21.16,0.0257594426429527,82,0.038463371048738954,0.017246212151057264,0.40900961564650234
+"The first new console, Microsoft's Xbox 2, is not expected to reach the shops until the end of 2005.",14.72,0.011326675035183994,43,-0.011752869761368577,0.016439164652616696,0.7389112283633603
+"Games typically take at least 18 months to create, however, so developers are grappling with the hardware today.
+
+",15.64,0.010484970767159423,55,-0.0006737326050534664,0.01740728880264499,0.744792274115395
+"According to Robert Walsh, head of Brisbane-based game developer Krome Studios, next generation games will cost between $10-25m to make, with teams averaging 80 staff in size taking two years to complete a title.",54.28,0.01882853884385416,123,0.008528995404348524,0.017313314348156045,0.7761484292739338
+"Such sums mean it will be difficult for anyone to start a new game studio, said Mr Walsh.",37.72,0.022391700738555936,34,0.020489511932542764,0.016549567621641493,0.7271523962893658
+"""If you're a start-up, I doubt that a publisher is going to walk in and give you a cheque for $10m, however good you are,"" he said.",7.36,0.012498189889061758,43,0.005619353891896817,0.016685975429206024,0.7310169356588325
+"Mr Walsh suggested that new studios should make games for mobile phones and handheld consoles like the Sony PSP and the Nintendo DS, since they are cheaper and easier to create than console games.
+
+",41.4,0.03309911331361323,97,-0.041143359932493316,0.015968184123926345,0.7705108437086321
+"One developer bucking the trend towards big art teams is Will Wright, the creator of the best-selling The Sims games.",13.8,0.016678073483463406,60,-0.006259944170703409,0.017205943609291414,0.7531259989021275
+"The founder of California's Maxis studio surprised the conference with a world exclusive preview of his next game, Spore.",45.080000000000005,0.014981444558556952,78,0.035251844172315645,0.01578886446152267,0.7520244680682808
+Spore will allow players to experiment with the evolution of digital creatures.,3.68,0.013822633478001018,45,0.24291251944056905,0.014394654047556512,0.719630433191313
+"Starting with an amoeba-sized organism, the player will guide the physical development of their creature by selecting how its limbs, jaws and other body parts evolve.
+
+",21.16,0.012052289922755605,90,0.12855967480570205,0.016179183063365053,0.7615159233562254
+"Eventually the creature will become capable of establishing cities, trading and fighting, and even building space ships.",12.88,0.01248840389571298,70,0.07106256905471225,0.015932148103453767,0.7504273100676683
+Advanced players will visit the home planets of creatures created by other Spore players.,1.84,0.019175813501916956,54,0.23664536412146756,0.016807519010911334,0.739598217707433
+These worlds will be automatically swapped across the Internet.,0.92,0.010680014849059121,30,-0.01128211930689535,0.015517432296878715,0.6871611609176718
+Mr Wright said that enabling players to devise and share their creatures would make them care more about the game.,38.64,0.03231604315684643,51,0.20481749889012374,0.01732176033569465,0.7470900163911307
+"""I don't want to put the player in the role of Luke Skywalker or Frodo Baggins - I want them to be George Lucas or Dr Seuss,"" explained Mr Wright.",23.0,0.010974752355894868,70,0.10162164442827407,0.01288696805571381,0.7600750838623347
+"Few games have hinted at the scope of Spore, but Mr Wright explained that he has nevertheless kept his development team small by hiring expert programmers.",14.72,0.01740950839444964,75,0.10956475326953155,0.016691955624352668,0.757976744288634
+"Instead of employing lots of artists to create 3D models of the digital creatures, Spore generates and displays the creatures according to rules devised by the programmers.",11.96,0.022721992191851656,91,0.22241778139843973,0.016001533264498623,0.7640932831656636
+"""The thing I am coming away with [from the conference] is that next generation content is going to be really expensive, and creating it will drive the smaller players out of the market,"" said Mr Wright.",17.48,0.020119691996180026,81,0.12755588590164343,0.017668680886169866,0.754648978684346
+"""I'd like to offer an alternative to that.",1.84,0.016923076923076923,16,-0.004381499616100401,0.013874170334383889,0.6206576360720601
+"""
+
+New development tools will be another important aid in making next generation games, and dozens of companies demonstrated their latest products at the conference.
+
+",17.48,0.01814757223043847,89,0.03932585425532056,0.017466844931841304,0.7581212471241711
+"Oxford-based Natural Motion launched Endorphin v2.0, which enables artists to direct a 3D 'virtual actor'.",3.68,0.017527126752578084,74,0.048559251983043776,0.016604651662251977,0.7600600948027134
+The actor is realistically modelled according to the laws of physics.,3.68,0.014950022976763733,32,0.03197493670073322,0.012833055492914377,0.7087100286548401
+"Endorphin simulates how the actor falls down stairs, for instance, or crumples up after a gunshot.",8.280000000000001,0.013026956518570009,55,0.008371929385020398,0.011029740747731316,0.73781671095078
+"Artists can blend together these visual sequences, and include the results in their games.",7.36,0.01732496821528412,42,0.012688182287482459,0.016065330101698614,0.7301467147501106
+"The process is much quicker than having an artist animate each movement by hand, and so lessens the need for larger art teams.",15.64,0.009913776825114464,55,-0.004660394703129802,0.01641076024752127,0.7497858067376774
+Another British company aiming to reduce the workload of artists is Manchester start-up Genemation.,3.68,0.012035019963248206,65,0.03123063511364793,0.016783779770449935,0.7445506213845648
+"Its latest tool, GenCrowd, enables artists to create unique, photo-realistic human faces for games involving lots of people.",16.560000000000002,0.02265751146438671,84,0.05691306036010349,0.017578502526474304,0.7641256006335299
+GenCrowd works by blending together elements of an in-built supply of stock faces of differing ages and ethnicities.,1.84,0.010143716196654898,65,0.01354089993787223,0.01656330716076418,0.754418355940559
+"The software can create up to 2,000 new heads an hour.
+
+",14.72,0.011512379833776527,26,0.03400868711691393,0.01635953499870898,0.7081111807943826
+One area not yet dominated by graphical blockbusters is mobile phone games.,22.080000000000002,0.016400638003172,47,-0.11299018530485665,0.016339871479498384,0.727305761320499
+"Even the latest phones are not as powerful as the consoles of a decade ago, so smaller teams of half a dozen people can still create complete games for the devices.
+
+",23.0,0.022668638265871083,81,-0.009148979866705643,0.017511046882705168,0.7630246829991457
+The Game Developers Conference included a special two-day summit dedicated to creating mobile games.,15.64,0.02701689279811699,74,-0.025537055547180908,0.017432629351085045,0.7525217394582138
+"A niche attraction for a few dozen conference attendees when it began five years ago, GDC's Mobile summit this year drew several hundred delegates.",18.400000000000002,0.010472887669982353,88,-0.02946150409111512,0.0159436221185078,0.763526734204495
+"Mobile games are a fast-growing sector because newer phones have better graphics and sound, and are thus more suitable for playing games.",3.68,0.02007163412397066,64,-0.07933128445430669,0.017720229749977164,0.7559150725598829
+"Furthermore, the adoption of mobile phones continues to spread across the world.",17.48,0.02064066840382808,38,-0.09471826702194677,0.01613140741248284,0.7138430449865958
+It's predicted that by 2006 two billion people will own a mobile phone.,26.68,0.014797272261357356,35,-0.10711867172753399,0.01592803062031356,0.7161126900027464
+"The growing importance of mobile gaming was reflected by a keynote given by John Batter, general manager at EA Mobile.",18.400000000000002,0.01708813328891617,72,-0.1034881342574338,0.016362634885587042,0.7529256227929015
+"EA Mobile is a division of Electronic Arts, the biggest games publisher.",2.7600000000000002,0.029638579876454837,45,-0.11722989347545701,0.01649911021819423,0.7340657272797875
+Until recently Electronic Arts had been dismissive of games for phones.,1.84,0.017825956740584795,40,-0.08743259855582251,0.016536432035920676,0.7177224271893498
+"""The last time you checked, EA wasn't in this business,"" Mr Batter admitted.",2.7600000000000002,0.009730437355574214,32,-0.02780941788035762,0.015727136054053178,0.7268163275719663
+But he said EA now planned on dominating the market by releasing mobile versions of its most popular franchises.,15.64,0.01377890285645413,56,-0.11890927806872029,0.016750109635582676,0.7448162871513296
+EA plans to release up to 20 mobile games over the next 12 months.,18.400000000000002,0.015875039279948096,32,-0.12185011206039761,0.01655192308548527,0.7345998965272675
+"The first will be a version of its Need for Speed racing game, created by EA Mobile's 30-person development team.",40.480000000000004,0.018870771352108316,60,-0.05137953028076928,0.017611676367875743,0.749086818026312
+"Mr Batter predicted that by 2006, mobile phones would be capable of running games of comparable quality to those on Sony's upcoming PSP handheld console.
+
+",34.04,0.023180713725033438,96,-0.08077723594900424,0.016720304844470398,0.7658745539025743
+"Owain Bennallack is the editor of Develop magazine.
+",1.84,0.01011355894699638,36,-0.0010185597152899445,0.011905549069519109,0.7104295897300406

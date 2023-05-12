@@ -1,0 +1,19 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"US woman sues over ink cartridges
+
+A US woman is suing Hewlett Packard (HP), saying its printer ink cartridges are secretly programmed to expire on a certain date.
+
+",25.76,0.10928806768910061,88,-0.10659570770954502,0.07591139693248977,0.7657269951819997
+The unnamed woman from Georgia says that a chip inside the cartridge tells the printer that it needs re-filling even when it does not.,22.080000000000002,0.06850012938217394,56,-0.06457510715282701,0.0771618648475894,0.737312575437497
+The lawsuit seeks to represent anyone in the US who has purchased an HP inkjet printer since February 2001.,14.72,0.08675120814884875,55,0.195378570375607,0.0787239760446782,0.7417977142100033
+"HP, the world's biggest printer firm, declined to comment on the lawsuit.",11.96,0.08215698012608277,42,0.16965600839454364,0.07878039232958961,0.737146040858246
+"HP ink cartridges use a chip technology to sense when they are low on ink and advise the user to make a change.
+
+",20.240000000000002,0.06924831403392767,59,-0.12041619287189381,0.07805457704372525,0.7562598312182548
+But the suit claims the chips also shut down the cartridges at a predetermined date regardless of whether they are empty.,6.44,0.0817297772508519,47,-0.16181888799873387,0.07558037224435228,0.7284814685757207
+"""The smart chip is dually engineered to prematurely register ink depletion and to render a cartridge unusable through the use of a built-in expiration date that is not revealed to the consumer,"" the suit said.",29.44,0.0843700329801723,117,-0.16410013211971633,0.08110230742217163,0.7687582438617672
+"The lawsuit is asking for restitution, damages and other compensation.",4.6000000000000005,0.07517656413302191,36,0.13801705986267826,0.05541597207551942,0.6854315265583764
+The cost of printer cartridges has been a contentious issue in Europe for the last 18 months.,13.8,0.07667246778997037,49,0.19439569020474678,0.07905217805582265,0.7394679892674607
+"The price of inkjet printers has come down to as little as Â£34 but it could cost up to Â£1,700 in running costs over an 18-month period due to cartridge, a study by Computeractive Magazine revealed last year.",19.32,0.07705603779737105,104,0.20912790675414455,0.08068881890420036,0.7714041097034432
+"The inkjet printer market has been the subject of an investigation by the UK's Office of Fair Trading (OFT), which concluded in a 2002 report that retailers and manufacturers needed to make pricing more transparent for consumers.
+",18.400000000000002,0.06905042066847873,134,0.05235696716494068,0.07952814409986146,0.7736936456588963

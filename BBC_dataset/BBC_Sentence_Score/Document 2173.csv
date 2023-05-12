@@ -1,0 +1,37 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Chip maker backs net phone calls
+
+Rich Templeton, the head of giant chip maker Texas Instruments, has given his backing to the growing sector of Voice over Internet Telephony (Voip)
+
+",27.6,0.046242783695876505,111,-0.06411626801036067,0.037028030257567,0.768626962018744
+"Voip allows PC users, and in some cases those with just a broadband connection, to make telephone calls via the net.",23.92,0.04717465075363473,53,0.14404734735718594,0.03771766233975802,0.742642668441154
+Mr Templeton said Voip would be the next major application to drive broadband connections into homes.,12.88,0.05382802683065497,59,-0.13136194614420665,0.03727087279583853,0.7397253818096248
+"Internet service provider Wanadoo has announced it is launching its own broadband telephony service in the UK.
+
+",32.2,0.04070330516560491,71,-0.2026393499260743,0.03528176094696577,0.7466855536969982
+"Subscribers to Wanadoo's broadband service will be able to use the service to make free evening and weekend calls to any UK landline, and free calls at any time to other Wanadoo users.",46.92,0.04218754932940204,100,0.007181714517901325,0.03795391336957586,0.7638278578209711
+"The service will cost an extra Â£4 a month and will come with a free Livebox, the broadband hub which Wanadoo plans will be used in future to provide video-on-demand and home security services.",36.800000000000004,0.038283557290581714,104,-0.16917865294948956,0.03788092453926777,0.7705152577407279
+The secondary phone line will mean customers can have an extra home phone number and will also provide wireless internet access around the home.,36.800000000000004,0.03156733563994988,79,-0.13981576645022695,0.03811989066696803,0.7603644866938639
+Eventually the service will replace existing landline services as Wanadoo goes head to head with BT.,18.400000000000002,0.023495911788371092,61,-0.12940788968929462,0.03534339848332649,0.7499843025964408
+"""Voice-over broadband is a key trend across Europe and is set to have a dramatic impact on the telecommunications industry, "" Eric Abensur, Wanadoo's chief executive told the BBC News website.",21.16,0.04282293728480053,126,-0.0670021411613437,0.03700605045019438,0.773017712784497
+Mr Templeton said he agreed.,0.0,0.02190227871773887,16,-0.09720122384688833,0.022679404185551096,0.66569651283766
+"""Voice-over-packet is going to be the second killer application after broadband internet access,"" he said.",17.48,0.04374736591175337,57,-0.16054209034970238,0.03723880269264731,0.725182844237565
+"The world's largest maker of chips for mobile phones believes the technology will grow rapidly from the relatively small user base it has currently.
+
+",15.64,0.02034492172485579,71,0.006127530638122147,0.03718464358933976,0.7595233569615014
+"Almost 83 million people have downloaded the software that powers the Skype Voip service, according to the net telephony firm's website.",27.6,0.034075247067017124,75,0.019105721275301406,0.03664399106489918,0.760111746550157
+Skype lets people make free calls to other Skype users and also make low-cost calls to ordinary phone numbers.,29.44,0.04066079606465829,67,0.18312057515359056,0.03811879820443884,0.7549781197204812
+"US firm Vonage also offers a Voip service, but one which lets people plug an ordinary phone into a broadband router to make calls.",42.32,0.04209424227063884,72,0.08841725894624433,0.037841569356744445,0.7563706798779934
+"Bill Simmelink, general manager of TI's Voip business, said the technology would only take off when people were making net calls with the ease of making a normal call.",23.92,0.031245874414176956,87,0.2084826116151486,0.03790508208564374,0.7605135129923211
+"""It's not about the pipe, if you will, or the silicon per se, it's about the application,"" he said.
+
+",5.5200000000000005,0.02132324883680184,24,-0.06488879921507783,0.026545344887451094,0.6926238213011495
+"""We want to communicate freely, effortlessly and economically wherever we are.""",3.68,0.0352,41,0.007642560977059864,0.021306927230278782,0.6929143661381514
+"In a sign that Voip is seeping into the mainstream, giant ISP AOL announced on Tuesday that it had plans to launch a net-based phone service for some of its members within the month.",25.76,0.04746028510186729,89,-0.11473883162442057,0.03818319306459877,0.7679519039270883
+"Customers will continue to use their traditional phones, but they will plug them into adapters connected to their broadband source rather than the jack provided by the telephone company.",17.48,0.0267132349629744,92,-0.029859426816771003,0.03806390537414107,0.7590671868682395
+Calls are received and placed just like on the old telephone network.,4.6000000000000005,0.028585540277939567,27,0.1276987808251142,0.0361739996670468,0.6627144890722002
+"""We can help mass-market adoption of Voip,"" said AOL chief executive Jonathan Miller.",4.6000000000000005,0.024181724494077877,54,-0.023442827230868414,0.03543704467029749,0.7451865803208456
+"""We can utilise our national footprint.",2.7600000000000002,0.0352,24,0.00769615973024663,0.02489317311924759,0.6656686918258974
+We can help the entire industry become well known.,2.7600000000000002,0.02575918237662343,14,-0.006540239437689004,0.03296418772516248,0.6203607890105902
+"""
+",0.0,0.0352,0,0.0,0.005217429233049601,0.26666666666666666
