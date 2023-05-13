@@ -1,0 +1,47 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Could Yukos be a blessing in disguise?
+
+",1.84,0.020218796523812144,21,0.14070180907023602,0.01658095709067479,0.661800674833652
+"Other things being equal, the notion of entrepreneurs languishing in jail while their companies are sold off for a song ought to be bad for business.
+
+",6.44,0.024967619483570794,66,0.039219214977026885,0.027650656224112943,0.7550455213258318
+"But in the looking-glass world of modern Russia, the opposite might just be true, a new report* has argued.",5.5200000000000005,0.020017133270104816,50,0.09820312370314092,0.02733704694909632,0.7441121220483775
+"The study, from the Centre for Economic Policy Research, does not praise the rough handling of oil company Yukos.",13.8,0.020628894783092544,67,0.13760879033268977,0.027816655720054193,0.7541775675073259
+"But it argues that more rigorous tax policing has benefited all Russian firms, even targets of the tax police.",25.76,0.03751181300112918,57,0.038736082431737165,0.028012239242031372,0.7484205088221663
+"""An increase in tax enforcement can increase the amount [of dividends and other income] outside shareholders will receive, even accounting for increased levels of taxation,"" the authors say.
+
+",35.88,0.04387500819154032,105,-0.1682643874195317,0.02669503735458507,0.7603230231545082
+"The paper's reasoning is complex, and is based on a sophisticated model of the relationship between tax regimes and corporate governance - in particular, the propensity of management to steal from the company.",37.72,0.02618364092971455,112,0.06351330425294363,0.02859329138977644,0.7652352666256723
+"The calculations demonstrated what many Russian analysts already knew: that increasing the tax rate increases the amount that managers steal, since undeclared income becomes relatively more valuable.",23.0,0.028253552592895793,105,-0.12060150681252019,0.028119998360306615,0.7635109941354812
+"In the West, meanwhile, higher tax rates translate far more smoothly into higher government revenues.",16.560000000000002,0.020516440740806833,53,0.024018610254699577,0.02744273906332703,0.7453272200847916
+"On the other hand, increasing the rigour with which taxes are collected encourages companies to become more transparent, forcing them to be able to demonstrate their financial position far more accurately.",8.280000000000001,0.035509544917552885,100,-0.05417197321143837,0.02786909175501719,0.7593002759357604
+"The net result, the authors say, is that the extra amount companies pay in tax is more than compensated for by greater efficiency and financial soundness.
+
+",23.0,0.026509349535289158,82,-0.04234481866325784,0.028150405707865547,0.7553803141293975
+"After Vladimir Putin became president in 2000, he did not raise taxes, but put a lot of effort - too much, critics argue - into enforcement.
+
+",21.16,0.022460530701988467,70,0.005974335843648279,0.027398232264948308,0.7535968848929315
+"Since then, the Russian stock market has more than trebled in value, a rise the authors attribute at least in part to the newly tough approach.",12.88,0.039918080784035324,65,0.01652988891221425,0.028661063047838227,0.7502135721349997
+"The report highlights the case of Sibneft, a Russian oil company that came close to merging with Yukos last year.",17.48,0.07017989830743887,62,0.2271100238750322,0.027027702465982507,0.7516134332045195
+"After Mr Putin came to power, the company's overall effective tax rate rose from 2.6% to 10.4%, and Sibneft was the target of a series of aggressive raids by fiscal police.",31.28,0.02213400677963106,90,0.04106518229550003,0.02722530745735305,0.7663641716782824
+But shareholders benefited hugely: Sibneft started to pay dividends - $53m in 2000 and almost $1bn in 2001 - and closed down the network of opaque subsidiaries it had previously used for siphoning off unofficial funds.,19.32,0.01903303317226258,120,0.02945432533978395,0.026576385459888465,0.7726923539711965
+"According to the authors, although a variety of changes were sweeping through Russian industry at the time, the increase in tax enforcement is the only likely explanation for the change of fortunes at Sibneft and many of its peers.
+
+",26.68,0.031562480096279495,97,-0.07232348818003949,0.029284746003145217,0.7634202039340616
+Does this analysis make sense?,2.7600000000000002,0.028387096774193547,17,-0.004318272941431823,0.026219139505408957,0.6654658058915053
+"In part, certainly.",1.84,0.02185292424387989,4,0.02037785915475637,0.025356283042344756,0.26666666666666666
+"For all its faults, corporate Russia has become far more orderly and law-abiding since 2000.",6.44,0.029041771728224988,40,0.1360957546075269,0.02771197655649351,0.731305787488737
+Companies have rushed to list their shares on international stock exchanges - something unthinkable in the wilder days of the 1990s - and most large firms now produce their accounts to international standards.,19.32,0.023929080836732983,115,0.034688817708780746,0.028287577693503707,0.76960637560195
+"Foreign direct investment, long negligible, is starting to flow in serious amounts - $7bn in 2003 - and stock market returns have been among the healthiest in Europe.",21.16,0.022478234918448126,95,-0.022104048924751003,0.028178646857167117,0.7640536373973136
+But the authors' model does not quite cover all the complexities.,3.68,0.02555049695324697,26,-0.036750526535015614,0.023230988195527606,0.6873175615603415
+"For a start, the model assumes that the various parties have clearly-defined motivation: companies want to maximise profit, governments want to maximise tax revenue.",23.92,0.04358271881351903,94,0.07736119155255884,0.02855378193191822,0.761713134186321
+"In fact, the alarmingly close connections between big business and government in Russia - connections often greased by bribery - blur the apparently antagonistic relationship.",23.0,0.024130001464427425,117,0.10554959891221628,0.02773721178175672,0.7651940394343298
+"Companies can, for example, persuade officials to overlook non-payment of taxes.
+
+",2.7600000000000002,0.02175970956608026,47,0.04003948185514334,0.02696222789515866,0.732409793613528
+And the authors' definition of tax enforcement seems unrealistically Western.,16.560000000000002,0.03396793525443128,52,-0.08290274315815778,0.026075783518402916,0.7157124936629514
+"Genuine, disinterested tax collection might well work wonders in Russia; the problem with recent examples has been the erratic and unpredictable way laws are enforced.",16.560000000000002,0.027596070327190383,98,0.08951364253485604,0.028434377670932525,0.7632853520319762
+"The case against Yukos, for example, has moved in fits and starts, with little clarity from the government about its intentions, and little faith from investors that the letter of the law would be followed.",12.88,0.023605694424170202,70,0.19474958902118325,0.028313715139256977,0.7529371501565056
+"As far as most commentators are concerned, the state is pursuing Yukos out of a political vendetta, rather than simply to enforce fiscal rectitude.",8.280000000000001,0.024271883837040178,79,0.10058251992637496,0.02650878106780126,0.7543337508617375
+"Since Yukos' founder, Mikhail Khodorkovsky, was arrested a year ago, the Russian market has dropped by 10% - an indication that few investors feel optimistic about the salutary effect on corporate performance.
+",21.16,0.020366557047269966,129,0.14716835862329716,0.027987953588323726,0.7726703800639552

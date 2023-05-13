@@ -1,0 +1,41 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+Obituary:,0.0,0.030344827586206897,8,0.010507488513200141,0.010504680622376493,0.5316187220419487
+"Dame Alicia Markova
+
+Dame Alicia Markova, who has died in Bath aged 94, was the UK's first prima ballerina of the modern age, and, in her heyday, the greatest in the western world.
+
+",11.040000000000001,0.06184786497608297,95,0.2688687788449304,0.029977927548210416,0.7725239186081588
+She was born Lilian Alicia Marks in London in 1910.,0.92,0.025165133895517687,30,0.13599793610176256,0.027516887784205673,0.7219872323410894
+"Her parents were comfortably off - her father, a mining engineer, drove a Rolls Royce.",7.36,0.030344827586206897,51,-0.023868860993906785,0.02911910938097031,0.7403771459505211
+"When she was eight, her mother took a decision which changed her life.",4.6000000000000005,0.03540229885057471,24,0.1492060757484359,0.032432627984270726,0.6885161809528277
+"Fearing that she had flat feet and weak legs, she arranged for her to have ballet lessons.",14.72,0.026175633572747943,38,-0.08059962527991321,0.029918564796850726,0.7389046152812586
+Very quickly it became apparent that she was something special.,2.7600000000000002,0.030344827586206897,22,-0.009081960625191683,0.029610464347446023,0.6658914754911067
+"She was spotted by the Russian artistic impresario, Sergei Diaghilev, who wanted her to dance for his company, Ballets Russes.",4.6000000000000005,0.02707587152593211,71,-0.05311804311897546,0.030232002356749985,0.7487831721925835
+"She became ill with diphtheria but kept in touch, and, eventually, with a governess in tow, joined Diaghilev in Monte Carlo when she was 14.
+
+",5.5200000000000005,0.02272837682133327,62,-0.012197937535557524,0.029116475021908506,0.751072015918731
+"From here, she toured Europe, playing in all the top venues.",0.92,0.019283836881445873,22,0.011667218959290838,0.03074810791096725,0.6911950373638814
+It was Diaghilev who changed her name without even consulting her.,0.92,0.03673475386199555,25,0.05407200335097065,0.024897476359946203,0.6595465625646724
+Her life was one of great excitement.,4.6000000000000005,0.021910002423776023,19,0.17352050259189064,0.029345053782522258,0.6592753032219518
+"People such as Matisse and Stravinsky became like uncles to her, the latter put in charge of her musical education.",4.6000000000000005,0.020013081095115157,53,-0.03935983698392708,0.03243023695999593,0.73295841832726
+"Soon after Diaghilev's death in 1929, Alicia Markova returned to England and became Britain's first international ballerina.",4.6000000000000005,0.03269224853491029,74,0.1519697561230028,0.03185815647726338,0.7508680686670304
+"She helped launch the Ballet Club at the Mercury Theatre (later the Ballet Rambert), the Vic Wells Ballet, and then, with Anton Dolin, the Markova-Dolin Ballet of 1935-37.",0.92,0.04804676421260732,97,-0.11193922011456678,0.030406427231929017,0.7702787191541066
+"She also began working with young choreographers such as Anthony Tudor and Frederick Ashton who became huge influences on the direction of ballet in the west.
+
+",17.48,0.023785178950285604,86,0.0007577143287010303,0.03343831019684227,0.7613765531949026
+"Her version of Giselle, all lightness and grace, is still considered to be among the finest ever.",2.7600000000000002,0.030344827586206897,40,0.007998673682070008,0.027711656126339936,0.723379279306333
+She was also outstanding in The Dying Swan.,0.92,0.019381266791592116,18,0.04818930196286594,0.027230538675578567,0.6655723276644454
+She was one of the first British ballerinas to take a major part in Les Sylphides.,2.7600000000000002,0.030344827586206897,37,-0.00432185885040416,0.029975179432592716,0.7102388299284111
+"She, above all, helped popularise ballet both in Britain and in America.
+
+",13.8,0.026877025278054953,34,-0.04653680118252961,0.03186623535527237,0.706853218094742
+"Alicia Markova spent World War II in the United States where, in a re-formed Ballets Russes, she played to huge audiences.",1.84,0.050453482983344164,74,0.1088942159012875,0.0343408392704139,0.7631949330529971
+She even appeared in Hollywood movies.,0.0,0.030344827586206897,20,-0.009365267629541848,0.02803934432085079,0.6658182779898052
+"In 1950, back in England, she and Anton Dolin jointly established the Festival Ballet.",2.7600000000000002,0.02186240393462286,55,-0.09711281105907053,0.03186510950531669,0.7363340375641608
+"She retired in 1963, an ""instant decision"" she said, ""largely because of a leg injury"".",7.36,0.0267438355888068,41,0.01846769588430501,0.029858584207385318,0.7325362920384966
+"Created a Dame, she made a new career for herself as a teacher.",1.84,0.023888524268915665,27,0.10094888400996317,0.032286892485474894,0.7068695241375342
+She also travelled the world directing ballet companies and putting on shows.,15.64,0.04454674842167062,37,-0.05715347587327175,0.034528284200989474,0.7042598467235632
+"She became director of ballet for the Metropolitan Opera Ballet in New York, and for some years was full-time Professor of Ballet and Performing Arts in the University of Cincinnati.",13.8,0.026925869603756272,99,-0.10128306515877095,0.033402762429248,0.7636093327457756
+"A critic once said of Dame Alicia Markova's dancing: ""She gave the illusion of moving as if she had no weight to get off the ground.",4.6000000000000005,0.0260460044234638,59,0.18157499907564612,0.032866025839308755,0.738157747791641
+"""
+",0.0,0.030344827586206897,0,0.0,0.004476039388773394,0.26666666666666666

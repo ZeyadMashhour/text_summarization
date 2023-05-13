@@ -1,0 +1,34 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"PlayStation 3 processor unveiled
+
+The Cell processor, which will drive Sony's PlayStation 3, will run 10-times faster than current PC chips, its designers have said.
+
+",29.44,0.058349754804760144,97,-0.08745942207720409,0.040626983957187494,0.7665122383481697
+"Sony, IBM and Toshiba, who have been working on the Cell processor for three years, unveiled the chip on Monday.",18.400000000000002,0.054734003001094406,54,0.12099682415079979,0.03891105681708797,0.7494586552615317
+"It is being designed for use in graphics workstations, the new PlayStation console, and has been described as a supercomputer on a chip.",16.560000000000002,0.0644511437156544,59,0.1578558620889576,0.032547008076364604,0.7266298420514259
+"The chip will run at speeds of greater than 4 GHz, the firms said.",17.48,0.02649893295153134,25,-0.11913727491862096,0.03866868733389161,0.7217472313889574
+"By comparison, rival chip maker Intel's fastest processor runs at 3.8 GHz.",20.240000000000002,0.05200788435267797,50,-0.16643731713047138,0.0386964307024591,0.741471268025871
+Details of the chip were released at the International Solid State Circuits Conference in San Francisco.,11.96,0.027092226788215868,69,0.03500034698078929,0.03743768587370818,0.7391789359062925
+The new processor is set to ignite a fresh battle between Intel and the Cell consortium over which processor sits at the centre of digital products.,18.400000000000002,0.029687412515194942,80,-0.11847480652554579,0.04030867708041088,0.7604640057414863
+"The PlayStation 3 is expected in 2006, while Toshiba plans to incorporate it into high-end televisions next year.",11.040000000000001,0.026970797728935257,66,0.16937410742860762,0.03921737723463522,0.7491439105944072
+"IBM has said it will sell a workstation with the chip starting later this year.
+
+",19.32,0.05626009950279319,31,0.2741331094557106,0.038517736224580885,0.7196536407857809
+"Cell is comprised of several computing engines, or cores.",0.92,0.03841700833267685,31,-0.041400611407226305,0.03588586382072008,0.7073679596908686
+"A core based on IBM's Power architecture controls eight ""synergistic"" processing centres.",5.5200000000000005,0.03695949949004026,63,-0.053068178053680116,0.03564633371286526,0.7452108464376505
+"In all, they can simultaneously carry out 10 instruction sequences, compared with two for current Intel chips.
+
+",8.280000000000001,0.03522373538169495,63,-0.041007738429381074,0.039799582084132,0.7441614863722674
+"Later this year, Intel and Advanced Micro Devices plan to release their own ""multicore"" chips, which also increase the number of instructions that can be executed at once.",10.120000000000001,0.05364554718560484,85,0.10001666570669973,0.040184954711253724,0.7600017226728493
+The Cell's specifications suggest the PlayStation 3 will offer a significant boost in graphics capabilities but analysts cautioned that not all the features in a product announcement will find their way into systems.,14.72,0.03560704867166442,124,-0.009685894858998142,0.040562023632811924,0.7632098957823895
+"""Any new technology like this has two components,"" said Steve Kleynhans, an analyst with Meta Group.",2.7600000000000002,0.03771857190212575,49,0.0026911211034975247,0.03099277731804312,0.7329875905687568
+"He said: ""It has the vision of what it could be because you need the big vision to sell it.",6.44,0.026294761908214847,19,0.13308419655429315,0.034695097442655816,0.6912857714709199
+"""Then there's the reality of how it's really going to be used, which generally is several levels down the chain from there.",2.7600000000000002,0.04,26,-0.009000395031835832,0.03602030223345385,0.6923331204226786
+"""
+
+While the PlayStation 3 is likely to be the first mass-market product to use Cell, the chip's designers have said the flexible architecture means that it would be useful for a wide range of applications, from servers to mobile phones.",26.68,0.034141188462024005,107,-0.016158140271943167,0.04129456206938643,0.7675606233922182
+"Initial devices are unlikely to be any smaller than a games console, however, because the first version of the Cell will run hot enough to need a cooling fan.",10.120000000000001,0.02621452917727306,53,-0.05423407471524418,0.03899207250101255,0.7534817812867969
+"And while marketing speak describes the chip as a ""supercomputer"" - it remains significantly slower than the slowest computer on the list of the world's top 500 supercomputers.",24.84,0.02602174161813112,102,0.07874613350910127,0.0400805308614877,0.7613030459844521
+"IBM said Cell was ""OS neutral"" and would support multiple operating systems simultaneously but designers would not confirm if Microsoft's Windows was among those tested with the chip.",18.400000000000002,0.03631646246854064,98,0.023005121165260226,0.04027056368636432,0.7635980834800029
+"If Cell is to challenge Intel's range of chips in the marketplace, it will need to find itself inside PCs, which predominantly run using Windows.
+",11.96,0.057387650041151775,72,-0.1138553836585598,0.04064369262548728,0.7500656538471661

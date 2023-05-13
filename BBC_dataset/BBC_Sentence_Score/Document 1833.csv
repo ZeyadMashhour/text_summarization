@@ -1,0 +1,34 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Google's toolbar sparks concern
+
+Search engine firm Google has released a trial tool which is concerning some net users because it directs people to pre-selected commercial websites.
+
+",21.16,0.0634978361472562,110,-0.02445705163687541,0.040623320662662346,0.771464692757447
+The AutoLink feature comes with Google's latest toolbar and provides links in a webpage to Amazon.com if it finds a book's ISBN number on the site.,20.240000000000002,0.043343288855627805,75,0.2736038381892757,0.037981529362542434,0.7591254474356326
+"It also links to Google's map service, if there is an address, or to car firm Carfax, if there is a licence plate.",11.96,0.021513294336457395,53,-0.017160269503286908,0.03625885898791734,0.7498891070041145
+"Google said the feature, available only in the US, ""adds useful links"".",6.44,0.0539571357553164,20,0.05687694759248401,0.038327713224854176,0.6678564128217899
+"But some users are concerned that Google's dominant position in the search engine market place could mean it would be giving a competitive edge to firms like Amazon.
+
+",10.120000000000001,0.030442118971246886,85,0.0215413311666736,0.03895503586318088,0.758481340415492
+"AutoLink works by creating a link to a website based on information contained in a webpage - even if there is no link specified and whether or not the publisher of the page has given permission.
+
+",29.44,0.03679369798257529,85,0.0750995323983524,0.03902989352484608,0.7610494586549273
+If a user clicks the AutoLink feature in the Google toolbar then a webpage with a book's unique ISBN number would link directly to Amazon's website.,41.4,0.06403986670026597,89,0.23032832133025316,0.03791360274146079,0.7647271310979049
+It could mean online libraries that list ISBN book numbers find they are directing users to Amazon.com whether they like it or not.,6.44,0.023577669258444896,55,0.2258102785051264,0.03823036452126046,0.7454474513476712
+Websites which have paid for advertising on their pages may also be directing people to rival services.,4.6000000000000005,0.03296689773721349,49,-0.14743035219547712,0.039131370889546484,0.7353037592491856
+"Dan Gillmor, founder of Grassroots Media, which supports citizen-based media, said the tool was a ""bad idea, and an unfortunate move by a company that is looking to continue its hypergrowth"".",13.8,0.030967810034103635,110,-0.0337662456565205,0.03604696233777267,0.7681832020482515
+"In a statement Google said the feature was still only in beta, ie trial, stage and that the company welcomed feedback from users.",16.560000000000002,0.03553749596760555,62,-0.04433701160331487,0.03913993043581082,0.749706612982031
+"It said: ""The user can choose never to click on the AutoLink button, and web pages she views will never be modified.",22.080000000000002,0.034860036530261755,46,-0.08101890087030987,0.03695581800580499,0.7452154693180316
+"""In addition, the user can choose to disable the AutoLink feature entirely at any time.",25.76,0.05135373730946953,44,-0.04664580330143209,0.03784843280912002,0.7305210179714855
+"""
+
+The new tool has been compared to the Smart Tags feature from Microsoft by some users.",9.200000000000001,0.03820456219651506,39,-0.03312893463361392,0.037843915664864475,0.7238251408210579
+It was widely criticised by net users and later dropped by Microsoft after concerns over trademark use were raised.,3.68,0.02838746209812513,56,-0.02443857815935668,0.03697342148783964,0.7447606943622179
+Smart Tags allowed Microsoft to link any word on a web page to another site chosen by the company.,21.16,0.045989242933755246,54,-0.11360430370446126,0.04101841489907053,0.7509769164933404
+Google said none of the companies which received AutoLinks had paid for the service.,4.6000000000000005,0.04995795034656408,38,-0.1724284723048041,0.03698148426420008,0.5178383950414043
+"Some users said AutoLink would only be fair if websites had to sign up to allow the feature to work on their pages or if they received revenue for any ""click through"" to a commercial site.",20.240000000000002,0.043328884509866196,75,0.004291640232715864,0.040633645859521506,0.7608040434651343
+"Cory Doctorow, European outreach coordinator for digital civil liberties group Electronic Fronter Foundation, said that Google should not be penalised for its market dominance.",7.36,0.030442592079747918,119,-0.018894640691832682,0.03566271491124565,0.7676721922580012
+"""Of course Google should be allowed to direct people to whatever proxies it chooses.",6.44,0.04089430241737539,34,-0.14881922474566608,0.0378342536380061,0.7200195661710078
+"""But as an end user I would want to know - 'Can I choose to use this service?, 'How much is Google being paid?', 'Can I substitute my own companies for the ones chosen by Google?'.""",24.84,0.05459635298382729,58,-0.21601616162417236,0.04018517586335363,0.7492596807691307
+"Mr Doctorow said the only objection would be if users were forced into using AutoLink or ""tricked into using the service"".
+",5.5200000000000005,0.025347764848378942,48,-0.06214685319846216,0.03642414004511881,0.7324371219173855

@@ -1,0 +1,37 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"How to make a gigapixel picture
+
+The largest digital panoramic photo in the world has been created by researchers in the Netherlands.
+
+",16.560000000000002,0.047846973450432644,78,-0.008018611344163616,0.04263188260061287,0.7523087106287863
+The finished image is 2.5 billion pixels in size - making it about 500 times the resolution of images produced by good consumer digital cameras.,25.76,0.060685696409718416,87,-0.006878044568411127,0.043400933275476825,0.7644885023033243
+The huge image of Delft was created by stitching together 600 single snaps of the Dutch city taken at a fixed spot.,19.32,0.05435400222329076,55,-0.04385648884015677,0.04221961046977983,0.5770073306125324
+"If printed out in standard 300 dots per inch resolution, the picture would be 2.5m high and 6m long.
+
+",13.8,0.032208051707400744,53,-0.07970518758938716,0.039069899249465315,0.7454197689375843
+The researchers have put the image on a website which lets viewers explore the wealth of detail that it captures.,19.32,0.052235655985778645,57,0.262100729632904,0.0406836406910129,0.730248236063199
+Tools on the page let viewers zoom in on the city and its surroundings in great detail.,7.36,0.038397621936447836,44,0.19086943154260164,0.04138329220976802,0.729967205617638
+"The website is already proving popular and currently has more than 200,000 visitors every day.
+
+",5.5200000000000005,0.036344155549151234,35,0.12272883692277478,0.03883889382765747,0.7320180638163698
+"The image was created by imaging experts from the Dutch research and technology laboratory TNO which created the 2.5 gigapixel photo as a summer time challenge.
+
+",24.84,0.043652836865825474,101,-0.10412980900802335,0.04279418222833791,0.7657178431637108
+The goal of the project was to be one of the first groups to make gigapixel images.,11.040000000000001,0.061652485639194725,34,0.021410244069704227,0.041944607659604546,0.717382093421012
+The first image of such a size was manually constructed by US photographer Max Lyons in November 2003.,16.560000000000002,0.03467303224402886,57,0.03126659033665842,0.04060477484673884,0.7458876056455239
+"That image portrayed Bryce Canyon National Park, in Utah, and was made up of 196 separate photographs.",13.8,0.026428342764214695,64,0.01988242992166457,0.03756699691867198,0.7548468132842219
+The panorama of Delft is a little staid in contrast to the dramatic rockscape captured in Mr Lyons' image.,16.560000000000002,0.040050286422920564,62,0.09270064876860772,0.03661458362795066,0.7505186622565021
+"""He did it all by hand, which was an enormous effort, and we got the idea that if you use automatic techniques, it would be feasible to build a larger image,"" said Jurgen den Hartog, one of the TNO researchers behind the project.",23.0,0.04614887992731029,98,0.11573512119438359,0.040716412508669295,0.7666992516584163
+"""We were not competing with Mr Lyons, but it started as a lunchtime bet.",1.84,0.03664447533674846,30,0.03406911400793053,0.03291068991813891,0.7218542009420035
+"""
+
+The Dutch team used already available technologies, although it had to upgrade them to be able to handle the high-resolution image.
+
+",15.64,0.04293623988438856,52,-0.1545847312920264,0.04218111106418179,0.7337336717991538
+"""We had to rewrite almost all the tools,"" Me den Hartog told the BBC News website.",5.5200000000000005,0.03187465138175058,38,0.1895172173583965,0.034852195726113054,0.7387598813511729
+"""All standard Windows viewers available would not be able to load such a large image, so we had to develop one ourselves.""",18.400000000000002,0.049341092503487546,42,0.1463941461111897,0.04018243119581581,0.7308780717256992
+The 600 component pictures were taken on July 2004 by a computer-controlled camera with a 400 mm lens.,8.280000000000001,0.034432210689369136,58,-0.028170180543683216,0.04168022597325533,0.7548645813317504
+Each image was made to slightly overlap so they could be accurately arranged into a composite.,15.64,0.027499029969878703,50,0.0323942199062863,0.03770650527170992,0.7320128376823335
+The stitching process was also done automatically using five powerful PCs over three days.,2.7600000000000002,0.034014675156704775,39,0.0236779721919104,0.039078502368250466,0.7228803701635358
+"Following the success of this project, and with promises of help from others, the TNO team is considering creating a full 360-degree panoramic view of another Dutch city, with even higher resolution.
+",15.64,0.048579603951957394,84,-0.15061098871451492,0.04293862836878821,0.7609378309262282

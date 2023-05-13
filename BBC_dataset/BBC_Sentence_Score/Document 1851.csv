@@ -1,0 +1,33 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Piero gives rugby perspective
+
+BBC Sport unveils its new analysis tool Piero at the Wales v England rugby union match on Saturday.",13.8,0.056280584244448,87,0.11236972314764346,0.03863709795000924,0.7643982993031395
+"But what does it do and how does it work?
+
+",2.7600000000000002,0.02890024165359345,4,0.049239925634204686,0.03792262731719147,0.5089586625567208
+Picture the scene - Wales are camped on the England line in the dying seconds of the Six Nations' opening match.,7.36,0.032163813534366155,58,0.04533326832934712,0.041197237111730206,0.7544985914073004
+A ball is flung out to winger Shane Williams who crosses to score the winning try for Wales.,3.68,0.037930963130371954,45,0.004270359357943309,0.03220108611882045,0.7457878903762286
+But the England players are incensed - arguing that the pass was forward and the try should not stand.,5.5200000000000005,0.03518534278473327,43,0.07670689159819759,0.03883161487299446,0.7317336550792508
+"In the past, sports fans would be left debating the validity of the try for days and weeks to come.",1.84,0.030093988746518176,38,-0.003243814075927587,0.040839140272223,0.7386156878297535
+"But BBC Sport's new tool Piero could end discussions in minutes.
+
+",4.6000000000000005,0.046599271788234274,36,0.08330443898982721,0.041517638683958885,0.731804811855437
+"Piero, named after the Italian painter and pioneer of perspective Piero della Francesco, creates a virtual stadium in which virtual players can be tracked from almost any angle.",12.88,0.03879503469741827,103,0.13628975722358957,0.0379914590247965,0.7657967413735896
+"Viewers will be able to see precisely how the ball was thrown and by whom, giving a greater depth to the growing wealth of analysis available during sports broadcasts.",10.120000000000001,0.06360131054950559,70,-0.028785708725783947,0.04198912900887292,0.7518485703263034
+The technology has been created by BBC Research and Development for BBC Broadcast and BBC Outside Broadcasts.,3.68,0.05390237810162699,62,-0.15116636340177686,0.036766310838592706,0.7442756693697768
+BBC Sport is the first client to start using the system.,2.7600000000000002,0.03555388221282675,25,-0.091638088453214,0.04199384812239901,0.4375656516974347
+"""In order to keep audiences growing and growing... we need to work closely with people who create technology and innovation to bring sport to life,"" said Andrew Thompson, the BBC's head of development, new media and sports news.",26.68,0.06472303475829677,125,-0.08947218446792815,0.042383792295502376,0.7739117500072811
+"""We want to appeal to core fans - to give them more analysis, more detail, more definitive answers about key passages of play.""",16.560000000000002,0.04434377717244479,61,0.06627725017923779,0.04166475195924984,0.7436497533953241
+"Piero works by taking telemetric data from fixed camera positions and sending that data inside the video signal to a PC which can then render the information into 3D graphics.
+
+",9.200000000000001,0.0467257164333963,99,0.2314236013464317,0.03935715396186229,0.7694175818126712
+"The more cameras using Piero, the better the detail possible out the other end when the data is turned into 3D models.",5.5200000000000005,0.04058498497602207,37,0.25889038756009936,0.03887435832990455,0.7327595736758139
+"""It allows us to tell the story of a passage of play, tracking individual players across the field, looking at tactics,"" said Andy Townsend, from BBC Broadcast.
+
+",7.36,0.057234056822635035,72,-0.04280901517194109,0.04230747318299909,0.7564699753453451
+"An operator can manipulate the information and provide almost real-time replays of incidents, as well as more in-depth analysis.",8.280000000000001,0.027238018186253026,75,0.04083740626273312,0.041948014750785335,0.7509176479454229
+"The ""virtual camera"" can focus on virtually any aspect of the pitch, giving viewers an insight into action that the camera normally cannot see.",13.8,0.03652139868616009,67,0.0898103132498258,0.04093364428687774,0.7499634424216568
+"Piero also provides a wealth of statistical detail - from the length of kicks, to the length of a run of an individual player and the height of a lift at any lineout.",20.240000000000002,0.0334669792482656,80,0.11909776909325481,0.03915964119498871,0.7570909009025732
+Mr Townsend said sports performance companies were already showing an interest in the technology.,6.44,0.03180576105895354,55,-0.13102927868560707,0.04097227963024374,0.7200435407580525
+"BBC Broadcast hopes the technology can be sold to third parties interested in using it a number of different ways - from sport broadcasting to entertainment and game shows.
+",19.32,0.03834946121392994,92,-0.16371217024071852,0.04251170108599746,0.7608979629383974

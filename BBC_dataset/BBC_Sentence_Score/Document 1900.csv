@@ -1,0 +1,40 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Rich pickings for hi-tech thieves
+
+Viruses, trojans and other malicious programs sent on to the net to catch you out are undergoing a subtle change.
+
+",13.8,0.02710481970936085,77,0.030089562636568517,0.03381150874287014,0.761905408966472
+"The shift is happening as tech savvy criminals turn to technology to help them con people out of cash, steal valuable data or take over home PCs.",18.400000000000002,0.033742556625616274,79,0.0022382494174051503,0.03393976153378379,0.763404334032634
+Viruses written to make headlines by infecting millions are getting rarer.,1.84,0.030640061852737946,40,-0.17264204205810696,0.02992537130298878,0.7320000088325758
+"Instead programs are now crafted for directly criminal ends and firms are tightening up networks with defences to combat the new wave of malicious code.
+
+",18.400000000000002,0.03819392229111267,79,0.08944716597133699,0.03421716859916376,0.7587882181691532
+The growing criminal use of malware has meant the end of the neat categorisation of different sorts of viruses and malicious programs.,22.080000000000002,0.0312086540232211,70,0.04961613105845575,0.03315661534758518,0.7536196120278201
+Before now it has been broadly possible to name and categorise viruses by the method they use to spread and how they infect machines.,8.280000000000001,0.03478092587020997,47,-0.1820975568656216,0.027222144190512346,0.7170262373733971
+"But many of the viruses written by criminals roll lots of technical tricks together into one nasty package.
+
+",5.5200000000000005,0.03346352701233389,51,-0.10563080446170445,0.03367366617974631,0.7446618210859204
+"""You cannot put them in to the neat little box that you used to,"" said Pete Simpson, head of the threat laboratory at security firm Clearswift.",11.040000000000001,0.02487572052653368,63,0.09910043626878534,0.0323068561517524,0.7504522010340391
+"Now viruses are just as likely to spread by themselves like worms, or to exploit loopholes in browsers or hide in e-mail message attachments.",7.36,0.03514766047311022,66,-0.11779482134796584,0.03200261975257131,0.7501034286651862
+"""It's about outright criminality now,"" said Mr Simpson, explaining why this change has come about.",5.5200000000000005,0.03578012065365843,41,0.19656134132832262,0.028466709608271017,0.7180129063276061
+He said many of the criminal programs came from Eastern Europe where cash-rich organised gangs can find a ready supply of technical experts that will crank out code to order.,17.48,0.04211979137159124,93,0.022805414729918445,0.03458313695857584,0.7643496542737124
+"Former virus writer Marek Strihavka, aka Benny from the 29A virus writing group, recently quit the malware scene partly because it was being taken over by spyware writers, phishing gangs, and spammers who are more interested in money rather than the technology.",37.72,0.027655844716411426,138,-0.08473228387784223,0.031920202136669414,0.776680871096906
+No longer do virus writers produce programs to show off their technical prowess to rivals in the underground world of malware authors.,18.400000000000002,0.03622266025631754,83,-0.08874989145808211,0.033423736056471615,0.7574718490585349
+"Not least, said Paul King, principal security consultant at Cisco, because the defences against such attacks are so common.",5.5200000000000005,0.025240028537527118,59,0.09649578781662786,0.03026033065690219,0.7458378459452056
+"""In many ways the least likely way to do it is e-mail because most of us have got anti-virus and firewalls now,"" he said.",0.92,0.02486172017285345,27,-0.1046094081291273,0.03138425904643155,0.709868914523793
+"Few of the malicious programs written by hi-tech thieves are cleverly written, many are much more pragmatic and use tried and tested techniques to infect machines or to trick users into installing a program or handing over important data.",22.080000000000002,0.055337143823173784,121,-0.10589595213108118,0.03415911114953522,0.4485413725474483
+"""If you think of criminals they do not do clever,"" said Mr King, ""they just do what works.",0.92,0.03418539007783146,24,0.17753224933673573,0.03073874235632188,0.7039865533035504
+"""
+
+As the tactics used by malicious programs change, said Mr King, so many firms were changing the way they defend themselves.",11.96,0.055730308325601954,50,0.23431556263096467,0.03369039339026957,0.7365680448739683
+"Now many scan machines that connect to the corporate networks to ensure they have not been compromised while off the core network.
+
+",8.280000000000001,0.03299918431311352,61,-0.017959737247219054,0.03233292716505453,0.745614327774893
+Many will not let a machine connect and a worker get on with their job before the latest patches and settings have been uploaded.,9.200000000000001,0.02721595049288872,45,-0.0434414080982629,0.03239971635029903,0.737852978449557
+"As well as using different tactics, criminals also use technology for reasons that are much more transparent.",3.68,0.024388190735291547,41,0.0797351794404523,0.032027016181863,0.7074923994955054
+"""The main motivation now is money,"" said Gary Stowell, spokesman for St Bernard software.",5.5200000000000005,0.03147233715854472,56,0.001494380632607327,0.028965255545945732,0.745116772083613
+Mr Stowell said organised crime gangs were turning to computer crime because the risks of being caught were low and the rates of return were very high.,7.36,0.02472109972471964,69,0.07027502166482053,0.03342523746904077,0.7636613266806818
+"With almost any phishing or spyware attack, criminals are guaranteed to catch some people out and have the contacts to exploit what they recover.",14.72,0.05134355689620253,69,0.00808352660581691,0.03302233620641852,0.7479422080809298
+"So-called spyware was proving very popular with criminals because it allowed them to take over machines for their own ends, to steal key data from users or to hijack web browsing sessions to point people at particular sites.",12.88,0.027658180290262513,103,-0.022162325121238575,0.035270389478347354,0.7711233478752462
+"In some cases spyware was being written that searched for rival malicious programs on PCs it infects and then trying to erase them so it has sole ownership of that machine.
+",20.240000000000002,0.0339106440697739,76,-0.11644196603131869,0.0336747884426088,0.7595687469070652

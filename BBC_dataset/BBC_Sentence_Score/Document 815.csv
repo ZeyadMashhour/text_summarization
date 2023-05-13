@@ -1,0 +1,54 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Bangkok film festival battles on
+
+Organisers of the third Bangkok International Film Festival have been determined to carry on with this year's event despite the ravages of the Asian tsunami disaster.
+
+",31.28,0.04342921500301124,115,-0.050130304097338346,0.027061073476171513,0.7687794468668261
+"The festivities have been scaled down, red carpets have been mothballed and profits from ticket sales are being donated to the tsunami relief fund.",8.280000000000001,0.02420089349966057,70,0.09025534087391951,0.02437256406672781,0.7584084326084569
+"Apart from this, however, the festival has continued as originally planned.",11.040000000000001,0.04735930523640106,30,0.20103774073360955,0.026721361678166338,0.6787023759144944
+"""When the disaster happened, we naturally asked ourselves if we should cancel,"" said the festival's executive director, Craig Prater.",21.16,0.03272377046733338,68,0.035928873120132494,0.026128245523528826,0.7481196422874953
+"""The decision was made that we would continue, but that the focus would change.
+
+",7.36,0.021476785335573213,31,0.1964284793639777,0.02749298453807386,0.7098940322741247
+"""Our premieres became fundraisers, the opening night was visibly toned down and 10% of every ticket sold goes to the disaster fund,"" he continued.",11.96,0.026373029157597504,70,0.20756456197803774,0.02820682900329797,0.7572451133035777
+"""But we feel like we've turned a page.",1.84,0.02588235294117647,12,-0.0002335378048434022,0.025802922599263447,0.6658413133068977
+"We've acknowledged our position, and now it's business as usual.",2.7600000000000002,0.02588235294117647,32,-0.021370955126679015,0.025908401503797914,0.6924596179356128
+"""
+
+Mr Prater's sentiments were echoed by Christine Rush, director of the festival's sister event, the Bangkok Film Market.",17.48,0.03789329688177043,78,-0.0592253744197742,0.02652298638391587,0.754084780479656
+"""We have been careful to be respectful of the Thai nation's recovery from this terrible disaster,"" she said.
+
+",10.120000000000001,0.02959496074162896,52,0.11532376292190015,0.024524113254141732,0.7298150063132138
+"""However, the nation's recovery very much depends upon it continuing its economic life.",5.5200000000000005,0.028434443061049038,40,0.237182282610283,0.025689267443603316,0.7218680890670152
+"""We are encouraging attendees to keep the victims in mind and aggressively support the aid organisations helping out,"" she added.",6.44,0.029894227843208367,71,0.012744882753761844,0.0259264299152526,0.7509545354380597
+"Given the conspicuously low audience figures, that support may be more symbolic than significant.",6.44,0.019411764705882354,56,0.012008172526040365,0.02537778640947557,0.7321355022481257
+"However, poor ticket sales have less to do with any fallout from the disaster and more to do with administrative and promotional difficulties.
+
+",11.040000000000001,0.02502337926546043,64,0.106157715600399,0.02478405821767768,0.740033844538905
+"The eclectic programme contains a wide range of titles, including such Oscar hopefuls as Ray Charles biopic Ray and Mike Leigh's abortion drama Vera Drake.",7.36,0.02588235294117647,101,0.020516759377162585,0.023262130298851637,0.7717223324712026
+"That said, the absence of Thai subtitles on most film prints might have proved offputting to local cinemagoers.
+
+",8.280000000000001,0.01863662124427942,56,-0.0007450319699898084,0.02643611999248948,0.7451680257519147
+"On a more positive note, the celebrity guests attending the event have generated huge media interest in this busy capital city.",11.040000000000001,0.022563026650069335,78,-0.007624330649554044,0.028254654490152374,0.7584325054655925
+"Problems securing air transport, the clash with last Sunday's Golden Globes ceremony in Los Angeles and other factors have forced some big names to cancel.
+
+",6.44,0.022992378983851473,89,-0.023563013516499306,0.02780536433296029,0.7662958246446654
+"But the festival has still attracted such Hollywood directors as Oliver Stone and Joel Schumacher, alongside such screen stars as Michael Douglas, Jeremy Irons and Jean-Claude Van Damme.",11.96,0.020164035334400848,119,-0.022651604219963952,0.023352226004875312,0.7729192127575457
+"Irons, whose film Being Julia is in competition for the festival's Golden Kinnaree awards, said he had wondered whether he should attend after December's catastrophe.",20.240000000000002,0.03540504861078368,82,-0.06489221293409807,0.026339733436083985,0.7532839760794929
+"""I questioned whether I should come when such a tragedy had happened,"" the British actor said.",1.84,0.018402054187667105,33,0.03702023096226605,0.02542476168988215,0.7093178294466829
+"""I thought it might be in rather bad taste.",1.84,0.02588235294117647,13,-0.007045074527923959,0.024200084635672168,0.6657285474192123
+But then I spoke to the organisers and I was encouraged to let life go on.,1.84,0.02094856226520043,27,0.08991536110560608,0.024601804559995822,0.6910190702581578
+"""Now I've come here I'm very glad.",0.92,0.02588235294117647,4,0.010455821782409119,0.015100702835156105,0.5308600676411229
+"What impresses me about Thai culture is they get over these things far quicker than we do in the West,"" he continued.",0.92,0.0239135576400098,40,0.18101381362777622,0.0275717439982756,0.732607888762755
+"""Basically I was invited here by Thailand.",0.0,0.02588235294117647,23,0.0038827790278880485,0.022509587994251727,0.6655578987186604
+"If they still want you to come, you should.",0.0,0.02588235294117647,0,0.0,0.0038009131433823537,0.26666666666666666
+"""
+
+Now in its third year, Bangkok is a relatively recent addition to the hectic film festival calendar.",23.92,0.025543760851558926,51,-0.08266875509501508,0.026451525940524162,0.4076624468149297
+"And while it has yet to attain the stature of more established events held in Hong Kong, Tokyo and Pusan in South Korea, Mr Prater predicts it will soon become their equal.",2.7600000000000002,0.017491365775176675,79,-0.0037083207301189915,0.025408975247962217,0.7663605713372271
+"""It's grown awfully fast in three years - maybe too fast,"" he concedes.",4.6000000000000005,0.021790237092627052,23,-0.03994130321416197,0.025012226410992194,0.7107712794628022
+"""We've had some bumps in the road, but that's only because the festival is still a baby.",11.96,0.017044927353902572,20,0.002345712486971522,0.02337955955066033,0.6887048759134629
+"""I have no doubt in my mind that in five years, this will be the top Asian film festival in the world.""",21.16,0.03204469832975398,38,-0.06765102540764709,0.028450198567197858,0.7321258298718542
+The Golden Kinnarees will be awarded on Friday.,0.0,0.0190232565400043,25,-0.052165938014086255,0.023591516832660978,0.6878866942584287
+"The festival itself runs until 24 January.
+",11.040000000000001,0.017044927353902572,20,0.00036907603623492606,0.024527146024878807,0.6912635874983947

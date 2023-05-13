@@ -1,0 +1,20 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Microsoft seeking spyware trojan
+
+Microsoft is investigating a trojan program that attempts to switch off the firm's anti-spyware software.
+
+",25.76,0.1378161164209005,96,0.0035419723990988776,0.08559206252951816,0.7609561145553029
+The spyware tool was only released by Microsoft in the last few weeks and has been downloaded by six million people.,9.200000000000001,0.07369575330951494,52,-0.026346702767632974,0.08351075814537078,0.7362733535646069
+"Stephen Toulouse, a security manager at Microsoft, said the malicious program was called Bankash-A Trojan and was being sent as an e-mail attachment.",11.96,0.07177342381469483,90,0.10431659000171427,0.08349913369930646,0.7536295221904149
+Microsoft said it did not believe the program was widespread and recommended users to use an anti-virus program.,13.8,0.11010528887358438,56,-0.1205757312387407,0.08603449640839529,0.7358263682018324
+"The program attempts to disable or delete Microsoft's anti-spyware tool and suppress warning messages given to users.
+
+",11.96,0.08372463802570293,78,-0.19237494547201198,0.08507428795988228,0.754078583634028
+"It may also try to steal online banking passwords or other personal information by tracking users' keystrokes.
+
+",4.6000000000000005,0.07856313465147845,63,-0.10109116301968793,0.07513958700962259,0.7452359428840608
+Microsoft said in a statement it is investigating what it called a criminal attack on its software.,10.120000000000001,0.0725293023003823,55,0.22731797185405525,0.08109832775293686,0.7183363289600627
+"Earlier this week, Microsoft said it would buy anti-virus software maker Sybari Software to improve its security in its Windows and e-mail software.",17.48,0.10137702253797058,93,0.22639268679175784,0.08715216084344789,0.7644973199076769
+Microsoft has said it plans to offer its own paid-for anti-virus software but it has not yet set a date for its release.,11.96,0.08503720881830737,57,0.14129271070214058,0.08606018295186992,0.7486706382571322
+"The anti-spyware program being targeted is currently only in beta form and aims to help users find and remove spyware - programs which monitor internet use, causes advert pop-ups and slow a PC's performance.
+",31.28,0.06537811124746366,108,-0.2175395400006455,0.08683900269964956,0.7699101708698998

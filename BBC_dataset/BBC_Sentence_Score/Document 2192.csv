@@ -1,0 +1,31 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Microsoft plans 'safer ID' system
+
+Microsoft is planning to make Windows and Internet Explorer more secure by including software to give people more control over personal information.
+
+",24.84,0.07118328550615087,123,-0.0826294511920463,0.047092474335171976,0.7651582526775305
+"""Info cards"" will help people manage personal details on their PCs to make online services safer, said Microsoft.",12.88,0.04109029458090279,66,-0.056283137359604184,0.04647064249369416,0.7532351082866319
+"Microsoft's two previous programs, Passport and Hailstorm, aimed to protect users but were criticised.",2.7600000000000002,0.044819385643512726,64,0.14575713854513467,0.044660297144284745,0.7352427787466421
+"ID fraud is one of the UK's fastest-growing crimes, with criminals netting an estimated Â£1.3bn last year.",3.68,0.04083564638473868,50,-0.009490801889644296,0.04189742247280434,0.7548056888990335
+"A quarter of UK adults has either had their ID stolen, via hi-tech or other means, or knows someone who has, a recent report by Which? magazine found.
+
+",3.68,0.046315789473684206,54,-0.002037055746888406,0.04424772638845901,0.75112327194663
+"Microsoft is developing a new version of Internet Explorer browser and its operating system, Windows, which has been code-named Longhorn.",10.120000000000001,0.051160389889429836,84,-0.17986666048241864,0.04424014505017109,0.748368707127775
+"Michael Stephenson, director in Microsoft's Windows Server division, would not confirm however whether the new info cards ID system will be built into the current Windows XP version or Longhorn.
+
+",14.72,0.03850448634046743,110,-0.11580224735579132,0.04470981256650178,0.767101605946457
+"""We're trying to make the end-user experience as simple as possible,"" Mr Stephenson said.",5.5200000000000005,0.0317734672024342,40,0.18854183701967506,0.04341137972898943,0.7291320217566817
+"The system would differ from its previous attempts to make online transactions more secure, said Microsoft.",17.48,0.06327016583532176,63,-0.021743620386846123,0.045981483506966486,0.7332350104767474
+"While Passport and Hailstorm stored user information centrally on the net, the latest system will store data on a user's PC.",25.76,0.06407098780520315,75,0.18128067277322915,0.0434713043343423,0.7572841994094461
+"""It's going to put control of digital IDs into the hands of an end-user, the end-user will be in full control,"" said Mr Stephenson.
+
+",10.120000000000001,0.05205894997525968,63,0.21707546666773173,0.04526853617713882,0.7505808369938447
+Hailstorm was criticised by privacy campaigners for putting too much sensitive information into the hands of a single company.,8.280000000000001,0.04373399891192627,75,0.14891058716790403,0.044164497084487796,0.7412515983553496
+Passport provides a single log-in for more than one website and stores basic personal information.,10.120000000000001,0.035319253841189856,56,0.11841922613762498,0.045422887673481,0.7384851784581279
+But its popularity suffered after security scares.,4.6000000000000005,0.033537085652921024,29,-0.08742532573278368,0.03782556478085059,0.6926021459173157
+Up to 200 million Passport accounts were left vulnerable to online theft and malicious hackers after a flaw in the system was exploited in 2003.,18.400000000000002,0.03166157491356722,87,-0.013291831464134355,0.045188299360143444,0.7608079916643217
+"Online auction site, eBay, stopped supporting it in January 2005.",3.68,0.040987223981965366,43,-0.008332853779193823,0.04325142431037674,0.7400961172453858
+"Although the flaw was fixed, Microsoft has come under regular criticism for the number of security loopholes in Internet Explorer.",9.200000000000001,0.060283224430450505,70,-0.14885280096939357,0.04513698588217329,0.749230207435965
+"Last year, it released a major security update for Windows, Service Pack 2, to combat some of the security concerns.",14.72,0.049174087421146435,69,-0.17215052514452583,0.04462641509789639,0.7545395014378649
+"Longhorn is due to be released commercially in late 2006, but an updated version of Internet Explorer is due for release later this year.
+",16.560000000000002,0.04022070220972798,81,-0.1648807492828416,0.042932701612066484,0.7545246747304056

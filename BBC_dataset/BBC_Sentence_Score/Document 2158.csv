@@ -1,0 +1,46 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Mobile networks seek turbo boost
+
+Third-generation mobile (3G) networks need to get faster if they are to deliver fast internet surfing on the move and exciting new services.
+
+",32.2,0.02937559483155888,107,0.1076612571280464,0.02806954153125898,0.7649803674211451
+That was one of the messages from the mobile industry at the 3GSM World Congress in Cannes last week.,17.48,0.014970857590198616,47,0.09114290622588682,0.02426877814736903,0.7366388889496489
+"Fast 3G networks are here but the focus has shifted to their evolution into a higher bandwidth service, says the Global Mobile Suppliers Association.",8.280000000000001,0.0262622163702721,84,0.026417674356094482,0.02811971092004325,0.7530666544898201
+"At 3GSM, Siemens showed off a system that transmits faster mobile data.",23.92,0.06192704247056322,43,0.22101514666321545,0.024461871943551382,0.7115933699740165
+The German company said data could be transmitted at one gigabit a second - up to 20 times faster than current 3G networks.,24.84,0.041739739928431746,59,0.14723479686548893,0.02764347051539482,0.7489499465596496
+"The system is not available commercially yet, but Motorola, the US mobile handset and infrastructure maker, held a clinic for mobile operators on HSDPA (High Speed Downlink Packet Access), a high-speed, high bandwidth technology available now.",60.720000000000006,0.03764011957491742,149,-0.06915040522594565,0.027340924348134635,0.7717219248622501
+"Early HSDPA systems typically offer around two megabits per second (Mbps) compared with less than 384 kilobits per second (Kbps) on standard 3G networks.
+
+",6.44,0.027204720667736267,79,0.04476895925133679,0.025080123472248826,0.7551938511951954
+"""High-Speed Downlink Packet Access (HSDPA) - sometimes called Super 3G - will be vital for profitable services like mobile internet browsing and mobile video clips,"" according to a report published by UK-based research consultancy Analysys.",69.0,0.028467869402170894,149,-0.06620362804615484,0.02797082387818048,0.7768009269477182
+A number of companies are developing the technology.,11.96,0.018680425207797047,30,-0.08881710199528423,0.026398148419013424,0.6891389169857597
+Nokia and Canada-based wireless communication products company Sierra Wireless recently agreed to work together on High Speed Downlink Packet Access.,12.88,0.019812686326110482,111,-0.112882259093209,0.027960539323348504,0.7694292318899656
+"The two companies aim to jointly market the HSDPA solution to global network operator customers.
+
+",26.68,0.026481034958517335,65,-0.06477776116676044,0.026110139411560526,0.7488268256753439
+"""While HSDPA theoretically enables data rates up to a maximum of 14Mbps, practical throughputs will be lower than this in wide-area networks,"" said Dr Alastair Brydon, author of the Analysys report: Pushing Beyond the Limits of 3G with HSDPA and Other Enhancements.",9.200000000000001,0.019432191617507647,148,-0.03808600528277588,0.026681281764823536,0.7771112920893293
+"""The typical average user rate in a real implementation is likely to be in the region of one megabit per second which, even at this lower rate, will more than double the capacity... when compared to basic WCDMA",24.84,0.019085166723205538,91,-0.017032219350494822,0.025302914971144647,0.7653677363129097
+"[3G],"" he added.",0.0,0.0275,5,0.0056671495114750635,0.02102265166809869,0.5302974154717307
+Motorola has conducted five trials of its technology and says speeds of 2.9Mbps have been recorded at the edge of an outdoor 3G cell using a single HSDPA device.,16.560000000000002,0.019133519541743336,81,-0.08910430104042226,0.027314216727604528,0.757760418825612
+"But some mobile operators are opting for a technology called Evolution, Data Optimised (EV-DO).
+
+",26.68,0.036729395622013994,58,-0.08823613506349852,0.026152012190521726,0.7339037895172494
+US operator Sprint ordered a broadband data upgrade to its 3G network at the end of last year.,29.44,0.020628592574999268,56,-0.05906110113162538,0.027507531662264037,0.7432180848610819
+"We are ""expanding our network and deploying EV-DO technology to meet customer demand for faster wireless speeds,"" said Oliver Valente, Sprint's vice president for technology development, when the contract was announced.",48.760000000000005,0.0325295649707618,138,-0.13817517279496677,0.027173201506785163,0.7718074641847589
+"As part of $3bn in multi-year contracts announced late last year, Sprint will spend around $1bn on EV-DO technology from Lucent Technologies, Nortel Networks and Motorola that provides average data speeds of 0.3-0.5 megabits a second, and peak download rates of 2.4Mbps. MMO2, the UK-based operator with services in the UK, Ireland and Germany, has opted for technology based on HSDPA.",42.32,0.057760916672831134,222,-0.19665557821146207,0.027791562476651148,0.7850917894565297
+"Using technology from Lucent, it will offer data speeds of 3.6Mbps from next summer on its Isle of Man",17.48,0.0248978532821214,50,-0.09120605964178478,0.026742782029399753,0.7396646647660442
+"3G network, and will eventually support speeds of up to 14.4Mbps.",16.560000000000002,0.01561367094579117,38,-0.03885109072312491,0.026543936756090507,0.7196163886492423
+"US operator Cingular Wireless is also adopting HSDPA, using technology from Lucent alongside equipment from Siemens and Ericsson.
+
+",20.240000000000002,0.027797177795614757,82,-0.10977785910678729,0.022549961559803176,0.7539096489245539
+"Siemens' plans for a one gigabit network may be more than a user needs today, but Christoph Caselitz, president of the mobile networks division at the firm says that: ""By the time the next generation of mobile communication debuts in 2015, the need for transmission capacities for voice, data, image and multimedia is conservatively anticipated to rise by a factor of 10.""",75.44,0.029356789709679608,207,0.10143066044513893,0.028228726487363173,0.7821249201800522
+"Siemens - in collaboration with the Fraunhofer German-Sino Lab for Mobile Communications and the Institute for Applied Radio System Technology - has souped up mobile communications by using three transmitting and four receiving antennae, instead of the usual one.",48.760000000000005,0.028202337770224187,149,0.15234044616493617,0.02616854604341002,0.7704976483089703
+"This enables a data transmission, such as sending a big file or video, to be broken up into different flows of data that can be sent simultaneously over one radio frequency band.",14.72,0.015185477994827496,85,0.030835403795875255,0.02566494207442462,0.7635874721676663
+The speeds offered by 3G mobile seemed fast at the time mobile operators were paying huge sums for 3G licences.,42.32,0.04110698289159637,59,0.06286766704950726,0.027079091197231855,0.7513819210022513
+"But today, instead of connecting to the internet by slow, dial-up phone connection, many people are used to broadband networks that offer speeds of 0.5 megabits a second - much faster than 3G.",28.52,0.027745609076061207,93,0.013807991546332467,0.027745414730156827,0.7621988923215686
+This means users are likely to find 3G disappointing unless the networks are souped up.,2.7600000000000002,0.019050460590617133,38,0.042332603152305436,0.026100742693348805,0.7047435068239835
+"If they aren't, those lucrative ""power users"", such as computer geeks and busy business people will avoid them for all but the most urgent tasks, reducing the potential revenues available to mobile operators.",24.84,0.018868972830274305,99,0.021809468205374945,0.026674506954337904,0.7678135580109425
+But one gigabit a second systems will not be available immediately.,3.68,0.017117892175813724,24,0.15671087337173206,0.0239152135923108,0.6212998769448422
+"Siemens says that though the system works in the laboratory, it still has to assess the mobility of multiple-antennae devices and conduct field trials.",11.96,0.022417759937685036,80,0.07363369525147541,0.02522768330591319,0.7528299974601725
+"A commercial system could be as far away as 2012, though Siemens did not rule out an earlier date.
+",10.120000000000001,0.027277359948356894,39,0.126157553260328,0.02498900769821202,0.7199523049716741

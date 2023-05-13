@@ -1,0 +1,49 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"World leaders gather to face uncertainty
+
+More than 2,000 business and political leaders from around the globe are arriving in the Swiss mountain resort Davos for the annual World Economic Forum (WEF).",13.8,0.045333881703972026,121,0.06486910985512308,0.029717849987336453,0.7737217996683607
+"For five days, they will discuss issues ranging from China's economic power to Iraq's future after this Sunday's elections.",6.44,0.025594979934713435,64,0.12287983592112015,0.02923527761753191,0.7548246535845305
+UK Prime Minister Tony Blair and South African President Thabo Mbeki are among the more than 20 government leaders and heads of state leaders attending the meeting.,7.36,0.04007138393364062,98,-0.11169862980960443,0.027771912829122856,0.770836729964455
+"Unlike previous years, protests against the WEF are expected to be muted.",0.92,0.023211740042267517,38,0.07223095928205818,0.028336369489172928,0.7291559710654376
+"Anti-globalisation campaigners have called off a demonstration planned for the weekend.
+
+",1.84,0.027016937550884246,56,-0.0515456774852861,0.027180627521671406,0.7233650860220794
+"The Brazilian city of Porto Alegre will host the rival World Social Forum, timed to run in parallel with the WEF's ritzier event in Davos.
+
+",10.120000000000001,0.03214249634519604,83,0.10552639156595182,0.027616534895930613,0.7663291802563226
+"The organisers of the Brazilian gathering, which brings together thousands of campaigners against globalisation, for fair trade, and many other causes, have promised to set an alternative agenda to that of the Swiss summit.",10.120000000000001,0.02444289754743506,110,-0.016987804284235224,0.028961261059321272,0.7661052769078234
+"However, many of the issues discussed in Porto Alegre are Davos talking points as well.",0.92,0.04739041166356332,37,0.18854539908588394,0.026393511888510933,0.7303814233374877
+"""Global warming"" features particularly high.",2.7600000000000002,0.0294709428419053,24,0.0697818493149042,0.026083962618930607,0.6928328377103825
+WEF participants are being asked to offset the carbon emissions they cause by travelling to the event.,5.5200000000000005,0.021670206197829195,48,0.06777512949440093,0.024951395844585368,0.7378381241625717
+Davos itself is in deep frost.,1.84,0.021304015388010085,14,0.0760079831639468,0.02080178216370936,0.6565528653999944
+"The snow is piled high across the mountain village, and at night the wind chill takes temperatures down to minus 20C and less.
+
+",9.200000000000001,0.023365694808224237,64,0.05424881004134157,0.0221697889777587,0.7552899637359554
+"Ultimately, the forum will be dominated by business issues - from outsourcing to corporate leadership - with bosses of more than a fifth of the world's 500 largest companies scheduled to attend.
+
+",21.16,0.02491970740338144,102,0.08534446517328971,0.029273957802112494,0.7637871973209163
+"But much of the media focus will be on the political leaders coming to Davos, not least because the agenda of this year's forum seems to lack an overarching theme.",16.560000000000002,0.03383221724906693,67,0.04231601714443072,0.030040472890084807,0.756558345181825
+"""Taking responsibility for tough choices"" is this year's official talking point, hinting at a welter of knotty problems.",11.96,0.023246921062892216,76,0.0974050803168947,0.028116266011308393,0.7545907621657051
+"One thing seems sure, though: transatlantic disagreements over how to deal with Iran, Iraq and China are set to dominate discussions.",7.36,0.02527371115816507,68,0.010033188574029907,0.027900642721458334,0.75076518851234
+"Pointedly, only one senior official from President Bush's new administration is scheduled to attend.",6.44,0.024443462415889818,65,0.008533828073699698,0.026622709978564977,0.7404394317573325
+"The US government may still make a conciliatory gesture, just as happened a year ago when Vice President Dick Cheney made a surprise appearance in Davos.
+
+",15.64,0.021421259877650353,95,-0.04718489169661667,0.028859976457904495,0.7658740825129491
+"Ukraine's new president, Viktor Yushchenko, is to speak, just days after his inauguration, an event that crowned the civil protests against the rigged first election that had tried to keep him from power.
+
+",17.48,0.02630648564941971,91,0.032235650128393675,0.027453978137482557,0.7617741951053099
+"The European Union's top leaders, among them German Chancellor Gerhard Schroeder and European Commission President Manuel Barosso, will be here too.",0.92,0.02266922944800098,94,-0.062222175059073466,0.02614586548060596,0.7581833997208053
+"Mr Blair will formally open the proceedings, although his speech will be pre-empted by French President Jacques Chirac, who announced his attendance at the last minute and secured a slot for a ""special message"" two hours before Mr Blair speaks.",8.280000000000001,0.022458105748280062,136,-0.1321806097895173,0.028935063733441506,0.7773026167373402
+"The organisers also hope that the new Palestinian leader, Mahmoud Abbas, will use the opportunity for talks with at least one of the three Israeli deputy prime ministers coming to the event, a list that includes Shimon Peres.",17.48,0.027448616015710015,114,0.010964023365554555,0.02665285395622212,0.7699643470968857
+"Davos fans still hark back to 1994, when talks between Yassir Arafat and Mr Peres came close to a peace deal.",7.36,0.024251482793858224,58,0.017979795384749725,0.02731829289281572,0.7572732892339239
+"Mr Blair's appearance will be keenly watched too, as political observers in the UK claim it is a calculated snub against political rival Chancellor Gordon Brown, who was supposed to lead the UK government delegation.
+
+",20.240000000000002,0.030676477225783608,133,-0.12474697389398028,0.028827946636258258,0.774267701658656
+"Microsoft founder Bill Gates, the world's richest man and a regular at Davos, will focus on campaigning for good causes, though business interests will not be wholly absent either.",15.64,0.031364841452765906,93,-0.045672389187357124,0.029480040503518566,0.7639583086724302
+"Having already donated billions of dollars to the fight against Aids and Malaria, Mr Gates will call on world leaders to support a global vaccination campaign to protect children in developing countries from easily preventable diseases.",18.400000000000002,0.02913614609497341,138,-0.06625342303807367,0.027376450628000655,0.775373243933841
+"On Tuesday, Mr Gates pledged $750m (Â£400m) of his own money to support the cause.",2.7600000000000002,0.027925308860203432,40,-0.12636149644475733,0.02631198781879054,0.7394569449054803
+"Mr Gates' company, software giant Microsoft, also hopes to use Davos to shore up its defences against open source software like Linux, which threaten Microsoft's near monopoly on computer desktops.",13.8,0.023388010525671566,119,-0.1551193024574184,0.024871705395176667,0.7724300453931296
+Mr Gates is said to be trying to arrange a meeting with Brazil's President Lula da Silva.,2.7600000000000002,0.02489788905274177,46,-0.15341285827786894,0.024983222383430672,0.7431994861144362
+The Brazilian government has plans to switch all government computers from Microsoft to Linux.,10.120000000000001,0.04029708320137119,61,-0.16920660518136602,0.026443515925201385,0.7346964597805072
+"At Davos, global problem solving and networking are never far apart.
+",5.5200000000000005,0.035027456806533255,33,0.10905738297808133,0.025164775754039446,0.7086508668685327

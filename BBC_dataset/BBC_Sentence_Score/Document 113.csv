@@ -1,0 +1,31 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"WorldCom director admits lying
+
+The former chief financial officer at US telecoms firm WorldCom has admitted before a New York court that he used to lie to fellow board members.
+
+",18.400000000000002,0.03584187671098356,99,0.2560743198936944,0.04736155252529898,0.7691959940199442
+"Speaking at the trial of his former boss Bernard Ebbers, Scott Sullivan said he lied to the board to cover up the hole in WorldCom's finances.",9.200000000000001,0.04547351856466498,71,0.1513372703211024,0.0480962860089882,0.759016414122976
+Mr Ebbers is on trial for fraud and conspiracy in relation to WorldCom's collapse in 2002.,12.88,0.06267040174928336,55,0.01658817024007828,0.046760460006974126,0.7445378396837875
+He pleads not guilty.,1.84,0.026974403900363476,11,-0.2223658360452007,0.03408067137082672,0.6153153260982274
+The firm had been overstating its accounts by $11bn (Â£8.5bn).,3.68,0.04362873756627014,31,0.04318698747796318,0.037304604643158525,0.7198069794840296
+"Mr Sullivan, 42, has already pleaded guilty to fraud and will be sentenced following Mr Ebbers' trial, where he is appearing as a prosecution witness.",12.88,0.07998650629523713,72,-0.22852528344963,0.04685708601183497,0.759815232482236
+"Mr Ebbers, 63, has always insisted that he was unaware of any hidden shortfalls in WorldCom's finances.
+
+",3.68,0.038050419901025506,52,0.10480870488418363,0.04521040435719157,0.7441600085052114
+"In the New York court on Wednesday, Mr Ebbers' lawyer Reid Weingarten asked Mr Sullivan: ""If you believe something is in your interest, you are willing and able to lie to accomplish it, isn't that right?",10.120000000000001,0.04201929902528201,80,0.056854439930723796,0.048038116339623786,0.7578061324121012
+"""
+
+""On that date, yes.",0.92,0.046315789473684206,4,0.004293040970266197,0.03492586817157564,0.5290701518666878
+"I was lying,"" replied Mr Sullivan.",0.0,0.05103061074502785,18,0.06450466808355368,0.039634127473447335,0.6813640635217376
+"Mr Weingarten has suggested that Mr Sullivan is implicating Mr Ebbers only to win a lighter sentence, something Mr Sullivan denies.",3.68,0.055872413937867654,75,-0.07799276621047481,0.04449832014500537,0.7631150448455861
+Mr Sullivan also rejects a suggestion that he had once told fellow WorldCom board member Bert Roberts that Mr Ebbers was unaware of the accounting fraud at WorldCom.,15.64,0.06702763064477894,104,0.14248147176264078,0.04817020507429942,0.7664992448947238
+"The trial of Mr Ebbers is now into its third week.
+
+",4.6000000000000005,0.055881300236850395,16,-0.07582288620528962,0.0467835467764906,0.6909889311493782
+"Under 23 hours of questioning from a federal prosecutor, Mr Sullivan has previously told the court that he repeatedly warned Mr Ebbers that falsifying the books would be the only way to meet Wall Street revenue and earnings expectations.",10.120000000000001,0.03923946631474026,131,0.005714809551647662,0.048877913098537486,0.7758745564169588
+Mr Sullivan claims that Mr Ebbers refused to stop the fraud.,5.5200000000000005,0.05788404851707825,37,-0.06717039283972313,0.047346413253364285,0.7385581084254275
+Mr Ebbers could face a sentence of 85 years if convicted of all the charges he is facing.,5.5200000000000005,0.02924022804290525,42,-0.08193936711622846,0.0464025869335739,0.7452512412151653
+WorldCom's problems appear to have begun with the collapse of the dotcom boom which cut its business from internet companies.,7.36,0.030212534788716428,64,0.09302879782525802,0.04154974015565642,0.7496893379690607
+Prosecutors allege that the company's top executives responded by orchestrating massive fraud over a two-year period.,10.120000000000001,0.03607391889157343,79,-0.0210575524431127,0.04763977088524875,0.750134271622223
+"WorldCom emerged from bankruptcy protection in 2004, and is now known as MCI.
+",2.7600000000000002,0.03657689469366724,41,0.11818735066034709,0.0404623267689038,0.7209808702405982

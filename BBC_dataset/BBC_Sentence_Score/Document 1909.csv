@@ -1,0 +1,30 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Warning over Windows Word files
+
+Writing a Microsoft Word document can be a dangerous business, according to document security firm Workshare.
+
+",41.4,0.0683656196218516,90,0.11002169177185935,0.0436384813215349,0.7623167912308951
+"Up to 75% of all business documents contained sensitive information most firms would not want exposed, a survey by the firm revealed.",25.76,0.07005928817944886,71,-0.15366870238433084,0.04207332419836923,0.7502255219395002
+To make matters worse 90% of those companies questioned had no idea that confidential information was leaking.,14.72,0.03214375009678166,61,-0.09023476752945629,0.04303314664852582,0.7499251369043778
+"The report warns firms to do a better job of policing documents as corporate compliance becomes more binding.
+
+",4.6000000000000005,0.031282754369248995,54,-0.03558323431604769,0.04144138445715803,0.7417525089506095
+"Sensitive information inadvertently leaked in documents includes confidential contractual terms, competitive information that rivals would be keen to see and special deals for key customers, said Andrew Pearson, European boss of Workshare which commissioned the research.",30.360000000000003,0.05534187799507885,184,-0.12574136690644738,0.04287136152617381,0.7776773108900312
+"""The efficiencies the internet has brought in such as instant access to information have also created security and control issues too,"" he said.",16.560000000000002,0.031382645939996553,73,-0.030431136561433408,0.042050712105178675,0.7433919932893223
+The problem is particularly acute with documents prepared using Microsoft Word because of the way it maintains hidden records about editing changes.,6.44,0.06192176868829963,64,0.1783049031682481,0.04325050856103509,0.7478127034556888
+"As documents get passed around, worked on and amended by different staff members the sensitive information finds its way into documents.",15.64,0.06298740819346418,64,-0.11099921874339387,0.0429344661287639,0.7429350108619679
+Poor control over the editing and amending process can mean that information that should be expunged survives final edits.,14.72,0.041843843306932596,61,-0.019989603467413304,0.040428583097561144,0.7497953260612888
+"Microsoft, however, does provide an add-on tool for Windows PCs that fixes the problem.",7.36,0.04456355129208545,44,0.19761786241865892,0.04201903716546371,0.7391955188420665
+"""The Remove Hidden Data add-in is a tool that you can use to remove personal or hidden data that might not be immediately apparent when you view the document in your Microsoft Office application,"" says the instructions on Microsoft's website.",30.360000000000003,0.03155748204197101,136,0.17709534825741655,0.04306803960664378,0.7720376580183447
+Microsoft recommends that the tool is used before people publish any Word document.,20.240000000000002,0.045238420936718204,47,0.22473208534996061,0.04189422926376083,0.7316693630067839
+A tool for Apple machines running Word is not available.,3.68,0.033293583656575476,23,0.18540108654671558,0.03785217746772326,0.7101069152073494
+"Workshare surveyed firms around the world and found that, on average, 31% of documents contained legally sensitive information but in many firms up to three-quarters fell in to the high risk category.",23.92,0.046133958678675056,116,-0.16010278357088814,0.04199465179018903,0.767389010288472
+"Often, said Mr Pearson, this sensitive information was invisible because it got deleted and changed as different drafts were prepared.
+
+",14.72,0.046470834396039516,62,-0.09351962352468705,0.04165900529907157,0.7445086402730476
+"However, the way that Windows works means that earlier versions can be recalled and reconstructed by those keen to see how a document has evolved.",16.560000000000002,0.030457824391311037,61,-0.009248544044424106,0.041236693627566,0.7499245883459426
+Few firms have any knowledge of the existence of this so-called metadata about the changes that a document has gone through or that it can be reconstructed.,18.400000000000002,0.03914091739458788,56,-0.06437439450545793,0.04278777009654962,0.7203805414992337
+"The discovery of this hidden information could prove embarrassing for companies if, for instance, those tendering for contracts found out about the changes to terms of a deal being negotiated.",18.400000000000002,0.03651372627707896,94,-0.09244333515019851,0.04226274203997242,0.7580105022255355
+"The research revealed that a document's metadata could be substantial as, on average, only 40% of contributors' changes to a document make it to the final draft.",43.24,0.037635301846205955,83,-0.0873712882023699,0.04181606518681401,0.7559848783650429
+"Problems with documents could mean trouble for firms as regulatory bodies step up scrutiny and compliance laws start to bite, said Mr Pearson.
+",8.280000000000001,0.03366544269764858,83,-0.03479765608376983,0.04168762041194509,0.7625284234549126

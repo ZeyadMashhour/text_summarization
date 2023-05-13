@@ -1,0 +1,40 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Toxic web links help virus spread
+
+Virus writers have begun using the power of the web to spread their malicious wares.
+
+",43.24,0.04606193814380484,66,-0.14476951727994816,0.035761290538771875,0.7599095261552838
+A Windows virus called Bofra is turning infected machines into distributors of its malicious code.,26.68,0.05480046131148139,62,-0.08308393319476486,0.035464968561213256,0.4248053404049225
+Those clicking on the poisoned links in e-mail messages sent out by infected machines may fall victim to the virus.,21.16,0.06493980065770069,56,0.19049702150483064,0.03664155619985212,0.7485291845451423
+"The trick is being used to prevent the progam being caught by anti-virus software that combs through code contained in e-mail attachments.
+
+",11.040000000000001,0.034205658141624615,72,0.05649328763452726,0.03622718564913305,0.7566303479261285
+The virus that uses this trick is called Bofra and the first member of the family of worms appeared on 10 November.,23.92,0.026433956876624413,51,-0.044616886401797416,0.03425777839011889,0.7441918309533979
+"They exploit a Windows vulnerability that was discovered only a few days earlier.
+
+",2.7600000000000002,0.029100861556233423,42,-0.025539819216807633,0.03254604797080846,0.7227588022807866
+"Like many other recent viruses, Bofra plunders the address book in Microsoft Outlook for e-mail addresses and scours other files on an infected machine for fresh target addresses.",16.560000000000002,0.028756241234470098,103,0.08478483928905739,0.036651597858377974,0.7691013742854554
+"The virus uses its own mail sending software to despatch e-mail messages to potential victims but, unlike many other recent viruses, does not itself travel via mail.",45.080000000000005,0.05033003999625845,84,0.203301254239641,0.036276880871448314,0.7626098675132281
+"Instead the body of the mail messages sent out contain fake weblinks that, when clicked on, connect back to the machine that distributed that e-mail.",21.16,0.02270041785668569,65,0.21455374185395334,0.035320452361053425,0.750210066184517
+"Essentially, Bofra turns infected machines into small web servers that happily dole out copies of the virus.",25.76,0.0533790761164474,67,-0.12629421663176302,0.03588407161835935,0.7528885336403279
+"The messages try to trick people into clicking on the links by promising pornographic videos and images or by posing as payment confirmation for a Paypal transaction.
+
+",8.280000000000001,0.021190239536479024,96,0.09839707311480751,0.034729476528963285,0.7635603675169882
+Copies of the messages seen by the BBC News website had bright yellow and green backgrounds.,3.68,0.02786258507657143,52,0.03505941828949219,0.031027553601770383,0.745026030770974
+Those clicking on the links will inadvertently download the Bofra virus which will then start searching for new addresses to send itself to.,23.92,0.04958991149677923,62,0.09531568457390849,0.03571612285443897,0.7485287782968069
+Filtering firm Clearswift said this tactic of creating thousands of mini web servers was designed to help the virus spread quickly and avoid attempts to shut it down.,36.800000000000004,0.030412293879697825,93,-0.1842902059249645,0.036711883485799464,0.5402429942002827
+In the past other malicious programs have relied on a single web server that downloads viral code to target machines.,24.84,0.03779661570150904,69,-0.10226282445376907,0.03576754274770684,0.7557625389854881
+"Shutting down this central server usually stops the virus spreading.
+
+",23.0,0.023417583430343194,32,-0.1618535953072921,0.03428034452403157,0.7217703751475688
+Clearswift said that fact that no viral code travels in the e-mail messages sent out by machines infected by Bofra could hamper effects to limit its spread.,13.8,0.047994433637862766,83,0.03571857044520101,0.03680533769379601,0.7598321889168276
+"Finnish anti-virus firm F-Secure said that, so far, it had not seen many copies of the Bofra virus and its variants in circulation.
+
+",23.0,0.04504998898061481,61,-0.09593228905944787,0.034629671132195554,0.7472044521663551
+"Tim Warner, spokesman for anti-virus firm Finjan, said: ""You have people getting very creative now to deliver the virus and get it propagating.""",25.76,0.02753261144033213,73,-0.07348764712728748,0.034963001463532234,0.7558701484562258
+Mr Warner said organisations needed to prepare deep defences to keep out the modern form of malicious mobile code.,13.8,0.02282478249393987,71,-0.07472123689439736,0.0342651008806716,0.7580795430116705
+"""Most firms have secured their e-mail gateway,"" said Mr Warner, ""but the irony is that most of them let malicious content through the web gateways.""",13.8,0.0393161659452288,62,-0.07932917603922325,0.03454204039561133,0.7529054061121128
+He said behavioural systems that monitor what users do can help to spot when viruses have penetrated organisations and have started hunting for other victims.,2.7600000000000002,0.02202657997130752,73,0.03798548759442852,0.03529097968013558,0.7497119875850129
+"The Bofra family of viruses, which were originally thought to be offshoots of the MyDoom bug, can infect machines running Windows 2000, 95, 98, Me, NT, XP and Server 2003.",12.88,0.038322018261619795,93,-0.07351740304547852,0.0352420226044435,0.7699606386786101
+"Users running Windows XP that have applied the SP2 update are not vulnerable to the loophole that Bofra exploits.
+",3.68,0.035955738256383554,59,-0.04005323223936729,0.030997092387766927,0.7532210598054773

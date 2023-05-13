@@ -1,0 +1,60 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Solutions to net security fears
+
+Fake bank e-mails, or phishing, and stories about ID theft are damaging the potential of using the net for online commerce, say e-business experts.
+
+",39.56,0.023886555153632014,103,-0.07030886245261227,0.019745943193133653,0.7694481743650612
+Trust in online security is falling as a result.,20.240000000000002,0.01958670440097957,29,-0.10261559702108371,0.019841734353156424,0.7079776054936802
+Almost 70% of those asked in a poll said that net firms are not doing enough to protect people.,18.400000000000002,0.03175320365274253,29,-0.0544070022816225,0.018838657980554733,0.729250135940332
+"The survey of more than 1,000 people reported that 43% were not willing to hand over personal information online.",24.84,0.018923091858681105,53,-0.01276494603298757,0.0193553452637771,0.7423260187997895
+It is worrying for shopaholics and firms who want to exploit the net.,6.44,0.015049538622857314,29,-0.04533444390827724,0.016307799515743265,0.7099353049052122
+"More people are becoming aware of online security issues but they have little confidence that companies are doing enough to counter the threats, said security firm RSA, which carried out the poll.",46.0,0.03653454477227603,84,-0.1385862936989563,0.019921343896195515,0.7629451657645183
+An estimated 12 million Britons now use the net as a way of managing their financial affairs.,7.36,0.013455413448791254,47,-0.027981948641243967,0.017793762154894137,0.7388764302977312
+"Security experts say that scare stories and the vulnerabilities dogging e-commerce and e-banking are being taken seriously - by banks in particular.
+
+",8.280000000000001,0.01337816501869483,63,-0.03821267867486152,0.018819708493633767,0.7454070404569403
+"""I don't think the threat is overplayed,"" Barry Beal, global security manager for Capgemini, told the BBC News website.",18.400000000000002,0.012969263686022883,71,-0.057425042605023006,0.017585488491405225,0.7582573156907956
+"He added: ""The challenge for banks is to provide the customer with something that improves security but balances that with usability.""",18.400000000000002,0.018983673444323203,62,-0.03639590391815035,0.01941821299756988,0.7422751003831323
+"Ensuring extra security measures are in place protects them too, as well as the individual, and it is up to both parties to make sure they do what is necessary to prevent fraud, he said.",21.16,0.015576570639223356,69,-0.030256905264861692,0.019403221796518603,0.7541885466311592
+"""Card issuers will keep us informed of types of attacks and what procedure to take to protect ourselves.",3.68,0.010630069615758568,42,0.06940562847867301,0.01849986933932302,0.7292392410757749
+"If we do that, they will indemnify us,"" he said.",0.92,0.019130434782608695,9,-0.005912507223888835,-0.0005292288727134634,0.5317929846708421
+Many believe using login details like usernames and passwords are simply not good enough anymore though.,4.6000000000000005,0.012459330528683144,44,-0.03482118325597657,0.016228068027027042,0.7185626592643315
+One of the biggest challenges to improving security online is how to authenticate an individual's identity.,25.76,0.02914538533481669,63,-0.10695486930898429,0.020128732903966523,0.730945516991214
+"Several security companies have developed methods which complement or replace passwords, which are easily compromised and easy to forget.",16.560000000000002,0.021134662045288292,79,-0.053125418343006006,0.019784598647717238,0.7542822519438742
+"Last year, a street survey found that more than 70% of people would reveal their password for a bar of chocolate.
+
+",25.76,0.01680973083512345,54,-0.030706834272078504,0.01939310180799972,0.7442682547704224
+"On average, people have to remember four different passwords.",9.200000000000001,0.01984153636943343,29,-0.027641998193874338,0.017568108440770922,0.680427714658932
+Some resort to using the same one for all their online accounts.,10.120000000000001,0.014728973328403323,19,-0.05451931942696544,0.017655639981893533,0.66245835320878
+Those who use several passwords often write them down and hide them in a desk or in a document on their computer.,5.5200000000000005,0.013241194366665968,37,-0.035946915346482845,0.01774722614884002,0.722039523870768
+"In a separate survey by RSA, 80% said they were fed up with passwords and would like a better way to login to work computer systems.",10.120000000000001,0.024127961845193113,53,-0.05077112877218331,0.01950547437846585,0.7447027605093738
+"For many, the ideal is a single online identity that can be validated once with a series of passwords and questions, or some biometric measurement like a fingerprint or iris scan with a token like a smartcard.
+
+",21.16,0.012562964971103083,108,-0.036745081712300134,0.017326295113402997,0.764752056310497
+"Activcard is just one of the many companies, like RSA Security, which has been trying to come up with just that.",1.84,0.02864056392262214,27,-0.12444892554224972,0.01680626764399567,0.6912422297256345
+RSA has a deal with internet provider AOL that lets people pay monthly for a one-time passcode generation service.,17.48,0.013134592294515515,75,0.041450445695174795,0.019797442306733627,0.7567808132723907
+Users get a physical token which automatically generates a code which stays active for 60 seconds.,13.8,0.015377403420343595,60,0.1352460200812785,0.01954096614806542,0.7492866305312488
+Many companies use a token-based method already for employees to access networks securely already.,8.280000000000001,0.01414179151696958,52,-0.0066580181964290535,0.019329532252323693,0.7392460518067456
+Activcard's method is more complex.,7.36,0.018575810640187127,23,0.027884578276174035,0.015099561698636889,0.6617030127136115
+It is currently trailing its one-time passcode generation technology with UK banks.,6.44,0.01733992992200828,47,0.09725660314505981,0.019418692667241916,0.7274700546139987
+"Steve Ash, from Activcard, told the BBC News website there are two parts to the process of identification.",4.6000000000000005,0.015853618359140734,60,-0.018016050310881788,0.01839148466119351,0.7406926973432568
+"The most difficult is to ascertain whether an individual is who they say they are when they are online.
+
+",12.88,0.018738502710195462,34,-0.06665528544952336,0.018459578642194524,0.6774890047880886
+"""The end solution is to provide a method where you combine something the user knows with something they have and present those both.""",15.64,0.01870980888994802,42,0.008140993421578598,0.01913640168898913,0.7290758899847742
+The method it has developed makes use of the chip embedded in bank cards and a special card reader which can generate unique codes that are active for a specified amount of time.,37.72,0.04270687794594584,85,0.25185270623776307,0.020480074357094938,0.7606596259941021
+This can be adjusted at any time and can be active for as little as 30 seconds before it changes.,8.280000000000001,0.015429899810725312,24,0.1271872653213788,0.01814857409510014,0.7044114789477751
+"It combines that with usual usernames and passwords, as well as other security questions.",12.88,0.027027476781192977,44,-0.08275143289565033,0.017863637022073317,0.7130946905920599
+"""You take the card, put it in the reader, enter your pin number, and a code is given.",20.240000000000002,0.01753139806590725,31,0.21277295810109695,0.019230232310477633,0.7185059914362876
+"""If you wanted then to transfer funds, for instance, you would have to have the code to authorise the transaction.""",9.200000000000001,0.0151553836389869,48,0.0685029594613257,0.019127086587624954,0.7323451593210217
+The clever bit happens back at the bank's secure servers.,11.96,0.012129402169681518,29,0.06726367304322231,0.0188553700497861,0.7063558677087252
+"The code is validated by the bank's systems, matching the information they expect with the customer's unique key.",23.0,0.01933626577716796,61,0.1186630573870594,0.020505532122938437,0.7419731792722639
+"""Each individual gets a key which is unique to them.",8.280000000000001,0.01605989231218504,19,0.041853302659185486,0.018111668275637628,0.6643786477750502
+"It is a 2048-bit long number that is virtually impossible to crack,"" said Mr Ash.",5.5200000000000005,0.021897541452559247,47,0.09313994027069074,0.01824885695828669,0.7456218336401702
+"It means that in a typical security attack, explains Mr Ash, even if password information is captured by a scammer using keystroke software or just through spoof websites, they need the passcode.",33.120000000000005,0.021179125263887346,107,0.023880187912766197,0.019351104368792033,0.7671222593661351
+"""By the time they go back [to use the information], the code has expired, so they can't prove who they are,"" according to Mr Ash.",16.560000000000002,0.03171492929643624,39,0.17234211645853997,0.019211059138030846,0.729596553958443
+"In the next few years, Mr Ash predicts that this kind of method will be commonplace before we see biometric authentication that is acceptable for widespread use.",12.88,0.014624970236462814,80,0.05783523130581147,0.01838586126234781,0.7543479320705082
+"""PCs will have readers built into them, the cost of readers will be very cheap, and more people will have the cards.""",9.200000000000001,0.013697399862966274,38,0.15533150675046073,0.019103104366137786,0.7373092677595476
+"The gadgets we carry around, like personal digital assistants (PDAs) and mobiles, could also have integrated card reader technology in them.",17.48,0.022867702553189297,73,0.1203730524237222,0.018002564095359982,0.7540421418749537
+"""The PDA or phone method is a possible alternative as people are always carrying phones around,"" he said.
+",16.560000000000002,0.014220744435473713,41,0.023938862253681248,0.019056243227661637,0.7211742256675604

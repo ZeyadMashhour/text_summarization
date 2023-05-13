@@ -1,0 +1,30 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Joke e-mail virus tricks users
+
+A virus that disguises itself as a joke is spreading rapidly across the net.
+
+",26.68,0.04434333660495176,57,0.21586185866263813,0.04880314627901809,0.7512048781354261
+Anti-virus firms are issuing high-level warnings about the new version of the Bagle e-mail program that seems to be catching a lot of people out.,3.68,0.05954160922401921,75,0.09478281960498328,0.05100972292077745,0.760357520485781
+The Windows virus grabs e-mail addresses from Microsoft Outlook and uses its own mail sending software to spread itself to new victims.,21.16,0.05392692267285718,73,0.209706167634944,0.05052319905747438,0.7566285820459231
+"When it infects a machine, the Bagle variant turns off security measures that usually protect PCs.
+
+",9.200000000000001,0.04886282235632845,53,-0.07607259668152992,0.04739026466360918,0.7438085437936025
+The new variant is called Bagle.,1.84,0.04351907330740901,16,-0.1667320050780224,0.041571559951341354,0.6193519817043823
+"AT, Bagle.",0.0,0.04885048366527297,5,-0.20001951942620255,0.006579639376065822,0.524801550571667
+BB and Bagle.,0.0,0.04362585967522842,7,-0.1715593219120119,0.014780085735344452,0.6189322192707162
+"AU and the attachment bearing the virus code is labelled as either ""joke"" or ""price"".
+
+",18.400000000000002,0.03545496199459286,39,0.16248328019577687,0.04743802423357374,0.7370439316383842
+The body of the virus usually contains nothing but a smiley or emoticon.,13.8,0.03509101440562194,23,0.07332831191416857,0.03353462668097604,0.6896989586191808
+"The virus can strike computers running Windows 95, 98, ME, NT, 2000 and XP.",14.72,0.03348968507091324,41,0.0511860762317578,0.04786736947334212,0.7449301540562776
+Users will be infected if they open the attachment that travels with the e-mail.,3.68,0.04544818375637318,36,0.15260815508217057,0.04746046091274059,0.7203019038471619
+"As well as plundering Microsoft Outlook for e-mail addresses to send itself to, Bagle.",1.84,0.041955993536087435,45,0.07446264312758007,0.04671265076140915,0.7319494395323782
+AT also tries to turn off the firewall and security centre services on Windows XP machines.,7.36,0.044657051953244,49,0.013669593905776248,0.043758910735156635,0.7338911663670199
+BBC News Online has received five warnings about the virus from security companies.,14.72,0.032973618750581406,47,0.08109502608604034,0.04857574880574742,0.738050062549351
+Finnish company F-Secure gave the virus its second highest threat level.,16.560000000000002,0.05432049742519399,46,0.12232916022404866,0.04928113627258347,0.7274734044145814
+"""We've had several reports all over the world,"" said Mikko Hypponen, director of anti-virus research for F-Secure.",2.7600000000000002,0.031116807260584464,58,0.08863041486400634,0.04637751686529882,0.7447987452606148
+"Security firm Network Box said that it stopped more than 30,000 copies an hour of the virus as the outbreak reached a peak.",17.48,0.04890322703862969,61,0.038956408468389006,0.048935998937025174,0.7605049742314813
+Black Spider said it had stopped more than 1 million copies of Bagle.,1.84,0.04276724998104171,32,-0.10262501799039286,0.04479344287350706,0.716496606133171
+AT since the outbreak began at 0630 BST (0530 GMT).,3.68,0.03433546092845933,27,0.007149137359116103,0.023556972969498127,0.7234345937060509
+"Anti-virus firms urged users to be wary of unexpected e-mail messages bearing attachments and to update their software to ensure they are protected against the latest threats.
+",5.5200000000000005,0.05681614039260975,100,0.20466633046629684,0.051049522495510716,0.7691261514291857

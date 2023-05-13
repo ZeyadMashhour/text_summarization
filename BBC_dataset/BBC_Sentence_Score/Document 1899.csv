@@ -1,0 +1,29 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Google launches TV search service
+
+",18.400000000000002,0.09230614152100905,29,-0.17934686164950966,0.04444968220785218,0.694079920608285
+"The net search giant Google has launched a search service that lets people look for TV programmes.
+
+",35.88,0.09940379430294133,56,-0.177962405123407,0.046317544232999344,0.7469598697847589
+"The service, Google Video beta, searches closed caption information that comes with programmes.",8.280000000000001,0.05487703595157411,60,-0.06970714668942014,0.04584573561877252,0.7426764315068668
+It only searches US channel content currently.,7.36,0.05212678180024083,20,0.1940189660690171,0.04351643461212709,0.6529895885184374
+Results list programmes with still images and text from the point where the search phrase was spoken.,16.560000000000002,0.025268305627354666,50,0.0016530216930067693,0.043295765225869955,0.7449942394166174
+"It should expand over time to include content from more channels, said a Google spokesperson.",12.88,0.04976621573177619,49,0.2724622019885063,0.045550777778957545,0.7267524401849753
+The first version of the service is part of Google's expanding efforts to be a ubiquitous search engine for people to find what they want on the web and beyond.,29.44,0.05305275919990338,71,-0.0577422054299492,0.04577340788539615,0.7484806629322208
+"""We think TV is a big part of people's lives,"" said Jonathan Rosenberg, Google's vice president of product management.",11.040000000000001,0.025934095042179722,73,-0.07352062550330582,0.0426362545828525,0.7542168552122551
+"""Ultimately, we would like to have all TV programming indexed.",0.92,0.02638540266454259,28,-0.10626081898331662,0.0413636559073784,0.6848569707195664
+"""
+
+Google Video has been indexing US-based programmes from PBS, the NBA, Fox News, and C-SPAN since December.",0.92,0.029120780408940925,62,-0.009878473182465118,0.04435530688082223,0.754265414798414
+But there were few clues from Google about when more global broadcasters would be included.,0.92,0.02744520845999976,34,0.08310227534151675,0.042467892334158,0.6992867932429416
+"""Over time, we plan to increase the number of television channels and video content available via Google Video but don't have more product details to share with you today,"" a Google spokesperson told the BBC News website.
+
+",23.0,0.06704784554744775,121,0.15054545249405935,0.0468916039732865,0.7717668131456219
+"The results thrown up by the search will also include programme and episode information like channel, date and time.",33.120000000000005,0.057887673690641676,66,0.15755768813849766,0.04560677417726445,0.748566889111841
+It also lets people find the next time and channel where a programme will aired locally using a US zip code search function.,35.88,0.036447077810739914,61,0.08482736850936179,0.04483098528459451,0.7468487094992932
+Rival search engine Yahoo has been developing a similar type of video search for webcasts and TV clips which it promotes from its homepage.,35.88,0.04803797398939098,79,-0.10698573825791738,0.045708446529640484,0.7627328770068195
+"It offers direct links to websites with movies or other clips relevant to the search query, but does not pinpoint when the search query occurred.",32.2,0.03026326409468443,74,-0.04722937058580381,0.04341938163684328,0.7591108477365287
+"A spokeswoman told the Financial Times on Monday that Yahoo was adding captioning for Bloomberg, BBC and BSkyB broadcasts.",1.84,0.028177956940255988,79,0.013442182545462925,0.04254259970701191,0.7575811558304034
+"A smaller service, blinkx.tv, was launched last month.",6.44,0.0246225390546276,32,-0.1929468673664319,0.04251621865210413,0.7208472531729413
+"It searches for and links to TV news, film trailers, and other video and audio clips.
+",10.120000000000001,0.05182914816174913,41,-0.10735449756754234,0.04291153277206876,0.7430316543243082

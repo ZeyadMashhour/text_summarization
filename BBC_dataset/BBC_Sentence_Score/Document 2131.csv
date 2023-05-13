@@ -1,0 +1,33 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Microsoft makes anti-piracy move
+
+Microsoft says it is clamping down on people running pirated versions of its Windows operating system by restricting their access to security features.
+
+",23.0,0.06473391903576459,114,0.08049545561046278,0.04254327296065506,0.7666773855926109
+The Windows Genuine Advantage scheme means people will have to prove their software is genuine from mid-2005.,19.32,0.0352080701053557,66,0.21942044781982697,0.03893126037437594,0.7534876767996772
+"It will still allow those with unauthorised copies to get some crucial security fixes via automatic updates, but their options would be ""limited"".",11.96,0.026715435397396126,59,-0.06588081929795836,0.039189270945577816,0.744328152761675
+Microsoft releases regular security updates to its software to protect PCs.,21.16,0.06969743406068313,54,-0.16863425196480122,0.04109356444531573,0.7322132651623017
+Either PCs detect updates automatically or users manually download fixes through Microsoft's site.,7.36,0.0403567617787066,63,-0.10762770645966101,0.03639220916149864,0.7471095714387563
+"Those running pirated Windows programs would not have access to other downloads and ""add-ons"" that the software giant offers.
+
+",12.88,0.034000422524220544,61,0.07612560283677325,0.040981424512960433,0.7494606469442897
+"People who try to manually download security patches will have to let Microsoft run an automated checking procedure on their computer or give an identification number.
+
+",23.92,0.03589728009555495,104,-0.029235555847899778,0.04110881775396901,0.7597899177976999
+"Microsoft's regular patches which it releases for newly-found security flaws are important because they stop worms, viruses and other threats penetrating PCs.",13.8,0.05282170249119387,89,-0.1714953073171502,0.042242687232930114,0.7623396871688236
+"Some security experts are concerned that restricting access to such patches could mean a rise in such attacks and threats, with more PCs left unprotected.",16.560000000000002,0.03251596070325683,74,-0.0791557312406582,0.04042432210892136,0.7580479350429106
+"But Graham Cluley, senior consultant at security firm Sophos, told the BBC News website that it was a positive decision.",16.560000000000002,0.03231003043778348,80,-0.016621726708601278,0.03448688418001099,0.7608153971817941
+"""It sounds like their decision to allow critical security patches to remain available to both legitimate and illegitimate users of Windows is good news for everyone who uses the net,"" he said.",20.240000000000002,0.03917555463391328,83,0.005672070633408501,0.04090238160157306,0.7584860177195074
+"Windows Genuine Advantage was first introduced as a pilot scheme in September 2004 for English-language versions of Windows.
+
+",6.44,0.04507877787692304,84,0.2690401623156816,0.039843478508547796,0.758000591014547
+Microsoft's Windows operating system is heavily exploited by virus writers because it is so widespread and they are constantly seeking out new security loopholes to take advantage of.,25.76,0.0441837114883642,104,0.058172463197524164,0.04131562230382649,0.757245011841013
+The company is trying to tackle security threats whilst cracking down on pirated software at the same time.,24.84,0.03581500143062271,57,-0.06416529113897587,0.04160503355656769,0.744215281592798
+"Software piracy has cost the company billions, it says.",7.36,0.04329542365420382,32,-0.009559499403896901,0.03752290988087438,0.6996746907710598
+"The company announced earlier in January that it was releasing security tools to clean up PCs harbouring viruses and spyware, which 90% of PCs are infected with.",16.560000000000002,0.03340859964645865,85,-0.13807730392296336,0.041640791271786534,0.7641134255607596
+"The virus-fighting program, updated monthly, is a precursor to Microsoft's dedicated anti-virus software.",11.96,0.048799037965463636,75,-0.0785134166807039,0.04026534349418774,0.7513916322309847
+"Last year it introduced the Windows XP Counterfeit Project, a UK-based pilot scheme, which ran from November to December.",6.44,0.02776928259875556,77,0.1824995035843265,0.040813886891138004,0.7607949106586966
+The scheme meant that anyone with pre-installed copies of the operating system in PCs bought before November could replace counterfeit versions of Windows XP with legal ones for free.,13.8,0.04667456747490892,94,0.1779482054903426,0.041720812982912234,0.7657067929941039
+"It is also increasing efforts to squash software piracy in China, Norway and the Czech Republic, where pirated software is a huge problem, by offering discounts on legitimate software to users of pirated copies Windows.",35.88,0.06350360923504751,134,0.06886811847668119,0.041580544662830045,0.7741158904454517
+"""China in particular is a problem, with piracy estimated at 92%,"" said Mr Cluley.
+",6.44,0.028039417365422887,36,0.02573786466690818,0.03539548116954091,0.730638908718421

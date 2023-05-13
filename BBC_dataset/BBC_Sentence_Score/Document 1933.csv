@@ -1,0 +1,76 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Podcasts mark rise of DIY radio
+
+An Apple iPod or other digital music players can hold anything up to 10,000 songs, which is a lot of space to fill.
+
+",23.92,0.01995773829099982,75,0.11482703812673069,0.01724379073833169,0.7672758925705514
+But more and more iPod owners are filling that space with audio content created by an unpredictable assortment of producers.,11.96,0.014709457430957936,67,0.17819270886137983,0.01606047513709206,0.7449104496767451
+"It is called ""podcasting"" and its strongest proponent is former MTV host and VJ (video jockey)",10.120000000000001,0.019242299898154888,46,-0.07040059089733358,0.015321009504793535,0.7363446335588371
+Adam Curry.,0.0,0.017390462828469778,9,-0.19356138580370952,0.00900739134838236,0.6205876986296689
+"Podcasting takes its name from the Apple iPod, although you do not need an iPod to create one or to listen to a podcast.",24.84,0.022176323664384677,46,0.14493696660145167,0.01445348607056398,0.7313605233583516
+"A podcast is basically an internet-based radio show which podcasters create, usually in the comfort of their own home.",43.24,0.03874636652393431,64,-0.009262031493695496,0.01747913472091443,0.73976609417905
+"They need only a microphone, a PC, and some editing software.",5.5200000000000005,0.008830203014870253,27,0.029733927061253284,0.012599838529596456,0.6737644533584832
+"They then upload their shows to the internet and others can download and listen to them, all for free.",14.72,0.015738000752848914,36,0.07293158599660873,0.015511754542889236,0.7031934894240786
+"Using technology based on XML computer code and RSS - Really Simple Syndication - listeners can subscribe to podcasts collected automatically in a bit of software, which Mr Curry has pioneered.",35.88,0.02523670481387592,118,-0.08025574228125612,0.015535193374038199,0.7675578672200103
+"The latest MP3 files of shows can then be picked up by a music playing device automatically.
+
+",10.120000000000001,0.018431293522451694,47,0.07767160475604824,0.016783193560408614,0.7370405360654488
+"Mr Curry records, hosts, edits and produce a daily, 40 minute podcast called The Daily Source Code.",20.240000000000002,0.02004010882571543,67,-0.13496011875812108,0.016764087558119395,0.7597842205005733
+"He wants to make podcasting ""the Next Big Thing"" and says it is an extension of his childhood love of radio gadgetry.",16.560000000000002,0.015058824193737202,54,-0.03721931752146333,0.017016996167689518,0.7436865643175925
+"""I was always into technologies and wires,"" he explains.",0.0,0.013370485087967468,21,0.0268516083020657,0.0142645289662933,0.6460587465437353
+"""My parents gave me the Radio Shack 101 project kit, which allows you to build an AM transmitter and subsequently an FM transmitter.",8.280000000000001,0.012416119251139241,74,-0.005626390069568611,0.014756290842490541,0.7550287362045246
+"""I had my mom drive me around the block, see how far it would reach on the car radio.",16.560000000000002,0.018372968751974823,26,-0.02145240145896223,0.015888879134660458,0.7199628322064099
+"""
+
+Mr Curry is American, but he grew up in the Netherlands where he hosted illegal, pirate radio shows in the Dutch capital.",13.8,0.018219396944901156,68,-0.11096937706129127,0.015907289406006303,0.7546548777200645
+"He tried university in the US, and ended up back in Holland where he hosted a music video show.",18.400000000000002,0.014333020202523548,42,-0.025029084330096416,0.016898210228089426,0.7178631231769348
+"He spent the next seven years in New York where he worked at MTV hosting the Top 20 Video Countdown, but spent most of his hours tinkering with this new thing called the internet.",11.96,0.014867482938126007,78,-0.02448203475817475,0.017274571566173142,0.7626491853514223
+"""At a certain point in 1995, I was driving in on a Friday afternoon, beautiful blue sky, one of those beautiful days thinking, this is so stupid.",12.88,0.011090909272216983,68,-0.011027890281527241,0.01592453886774965,0.7582336653475164
+"""You know, I'm going do the Top 20 Countdown, take the cheque, go home, and sit on the internet until three in the morning.",17.48,0.00980718703386974,42,0.025048413328267086,0.01622155086823921,0.7290205833848852
+"""So, after I finished the show, I quit.",7.36,0.018806950771307604,14,0.01625568944579426,0.014720070897431763,0.6210163342541571
+"I said, on air, it's been great, I've been here for seven years at that point, there's something on the internet, I've got to go find it, and I'll see you later.",14.72,0.023019327414118412,29,-0.010460841179864143,0.0170396190723381,0.7020750169713436
+"""
+
+",0.0,0.015714285714285712,0,0.0,0.0023204527572638196,0.26666666666666666
+But Mr Curry's technology and broadcast interests started to gel a couple of years ago when computer storage was growing exponentially and high-speed internet connections were becoming more widely available.,22.080000000000002,0.024083081806163573,122,-0.04572925014469902,0.016800800975220093,0.7710315937936585
+"The MP3 format also meant that people could create and upload audio more cheaply and efficiently than ever before.
+
+",20.240000000000002,0.014860264683005425,54,0.10866397719052061,0.014762877512393314,0.7414517960359672
+"Most importantly, Mr Curry says, people across the globe were bored with the radio they were hearing.",17.48,0.017727344497312048,46,-0.08961226683991705,0.016182853084282432,0.7385944766413848
+"""Listen to 99% of the radio that you hear today, it's radio voices, and it's fake, it's just fake.""",24.84,0.017583824505697312,40,0.006838919498540024,0.015957137457869044,0.7445807079680907
+"He wanted to make it easier for people to find ""real voices"" on the internet.",15.64,0.014634327673361393,39,0.046129071942042243,0.016950307999656147,0.7294588978755754
+"He wanted software that would automatically download new audio content directly onto players like, iPods.",18.400000000000002,0.0284554331157562,63,0.23425148214412309,0.015448821104531522,0.7404203469290709
+"Mr Curry is not a computer programmer, so he asked others to create one for him.",10.120000000000001,0.01641844975075094,34,-0.10922977698744132,0.015534964542763848,0.7184807562031215
+"No one did, so he tried to write one himself.",0.92,0.015714285714285712,5,-0.0012756298978217008,0.012502820190492333,0.5312347062466654
+"He finished it a few months ago and says it ""totally sucked.""",2.7600000000000002,0.008869067544275201,25,0.013207320991212489,0.014854502267523132,0.7104967049749528
+"He put it up on the net as open source software and now dozens of coders and audio junkies are refining it; the result is a work in progress called ""ipodder"".",23.92,0.01433893542699017,82,0.07085467562264251,0.01690167734275213,0.7611925341445483
+"Doug Kaye, a California-based podcaster, praises the former MTV VJ for what he has done.",3.68,0.009079383988580386,43,-0.02312744055898421,0.013993333099495091,0.7376360471939315
+"""Adam created a simple script that solved what we call the last mile problem.",10.120000000000001,0.010980911689272004,42,-0.07865267662771118,0.01582004672766806,0.7292451972606631
+"Ipodder takes audio from the web and brings it all the way down to the MP3 player,"" he explains.",9.200000000000001,0.01507703635287031,40,0.15678659036209666,0.01677694918431155,0.7305288545091692
+"""People can wake up in the morning, pick up their iPods as they go to work or before they go exercise, and discover that there's all this new content automatically put onto their players.""",19.32,0.018176154447535033,74,0.19382061136307752,0.017403352493259618,0.7430847411031314
+"It is created an explosion in podcasting content and podcasters are springing up in Australia, Finland, Brazil, even Malaysia.",7.36,0.012100865435511464,74,0.03517716525588502,0.014911506218526674,0.7507058520291534
+"One couple broadcasts theirs, The Dawn and Drew Show, from Wisconsin in the US, sometimes even from the comfort of their own bed.",7.36,0.011128310472185056,46,-0.0075750739843000675,0.015990340356890148,0.7305824144673854
+"Topics range from the comfort of their bed, to the latest films or music and have thousands of listeners.
+
+",11.040000000000001,0.01150170848802058,49,-0.0016638828745678897,0.01634142406591949,0.7426094511082106
+"Already, websites are springing up that point listeners in the right direction of good podcasts.
+
+",8.280000000000001,0.023016902287553615,46,-0.04285319089358289,0.016324010132066132,0.7294093618088794
+Chris McIntyre runs Podcast Alley and says that there are good sites out there but that not everyone has the technological know-how to simply listen.,9.200000000000001,0.012564073009627296,69,-0.016322597901429276,0.017308787696705796,0.7548548078173751
+"""If I were to tell my mom, or my mother-in-law to copy an XML or RSS file to their podcast aggregator, they would think I was speaking a foreign language,"" Mr McIntyre says.",23.0,0.010945032437507546,77,-0.05394965421891655,0.016058314239599147,0.762050714881807
+"Along with technical challenges, there may be legal challenges to podcasters who air their favourite, albeit copyrighted, music.",11.040000000000001,0.009479617676084861,73,-0.003859272990113519,0.015344779697325004,0.75030510909553
+"Some in podcasting also worry that too much attention may turn what they see as the ""anti-radio"" into something that is more like conventional broadcasting.",6.44,0.011594038085898694,59,-0.03750823317203461,0.016600121704081598,0.7309653199465683
+Already there is interest in podcasting from the corporate world.,7.36,0.017397351886292767,29,-0.0330832001600099,0.015459207919284016,0.6425633276832743
+"Heineken is doing its own podcast now, and so is Playboy.",14.72,0.010891812414998547,22,-0.03767313263297861,0.008318914666738118,0.6641825294975182
+"For his part, Adam Curry's pressing ahead with his own vision of what podcasting should be.",3.68,0.013318929994438745,36,-0.16565331012377615,0.016018474747190526,0.716436359214868
+He loves doing The Daily Source Code because it is about introducing good music and cool ideas to new audiences.,10.120000000000001,0.014271542951136442,53,-0.0517621580172026,0.01736389652036289,0.7482493759589429
+"He has even been called the Ed Sullivan or Johnny Carson of podcasting which, he says, ""is a badge I'll wear with great honour.",5.5200000000000005,0.01747929871307781,53,-0.043099224980751354,0.014688755740366618,0.7436202254125248
+"""To be the Johnny Carson, or Ed Sullivan of anything is wonderful.",0.92,0.011182741283197045,31,-0.018778634492007312,0.011772061414742211,0.7106651608141619
+And you know what?,0.92,0.015714285714285712,0,0.0,0.0023204527572638196,0.26666666666666666
+You don't need a hell of a lot of talent.,3.68,0.010084997138050382,13,0.015193157166836052,0.014564370876493388,0.665892971826743
+"""You just have to be nice, have your ears open, and let people shine.",8.280000000000001,0.012145682678944884,22,0.027739429302677813,0.015080599076872925,0.7092857866116746
+And that's good for me.,3.68,0.01194153890849677,4,-0.02975511451893797,0.014896213402333885,0.5269162873217381
+"""
+
+Clark Boyd is technology correspondent for The World, a BBC World Service and WGBH-Boston co-production.
+",4.6000000000000005,0.01166685208600458,76,-0.005428678679183988,0.01575497092546412,0.754962394182654

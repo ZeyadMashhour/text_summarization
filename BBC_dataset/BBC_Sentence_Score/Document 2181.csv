@@ -1,0 +1,58 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"What price for 'trusted PC security'?
+
+",9.200000000000001,0.030014449967179724,20,-0.1460251483528338,0.019797563402619685,0.6885593558411518
+"You can now buy ""trusted computers"", but can we really trust the PC vendors, asks technology analyst Bill Thompson.
+
+",18.400000000000002,0.027442312405786002,61,-0.0854710881083212,0.01969109464402178,0.7465592925445855
+"If you have recently bought an IBM ThinkVantage computer, a Dell Optiplex, or one of a whole range of laptops from Toshiba, HP/Compaq or Samsung then you may have got more for your money than you realised.",8.280000000000001,0.012777811248136905,91,-0.014160545427227793,0.01660729937236016,0.7659141615856786
+Inside your shiny new PC is an extra chip called the trusted platform module (TPM) that can be used for a range of hardware-based security features.,15.64,0.02342326542787016,81,-0.14739956188400122,0.0206840406514452,0.7625251988066896
+"Eventually the TPM will be built into the main processor itself, and if the trusted computing group has its way then you will find one in every piece of hardware you own, from mobile phones to TV set top boxes to children's toys.",23.0,0.017349627357888385,98,-0.05911626453122177,0.021184891328111535,0.7682318129212752
+"But for the moment it is a separate piece of hardware, providing enhanced security features to programs that know how to use them.",23.0,0.026277281077321756,64,-0.09269574556638971,0.021012362589203422,0.7442448558429942
+"And as part of a well-designed network system, it can provide a lot more security than we enjoy today.",28.52,0.026144033184973204,56,-0.009479415086065241,0.021225523171974115,0.7302759652430417
+"A big advantage of the TPM is that it is hardware-based.
+
+",1.84,0.0174003065117206,28,-0.055826169192434404,0.01938961604763551,0.7087957979131625
+At the moment most of us rely on software to keep our information safe and secure.,13.8,0.022673429639895958,39,0.07880932058520707,0.020632438152806205,0.7164075581713101
+"It might be password-protected user accounts, data encryption programs or a firewall, but it all relies on program code running on an inherently insecure processor.
+
+",23.92,0.02327959846889927,103,0.06320950487416196,0.019882386582199173,0.7648457250860973
+"Hardware security is less common, even if it is a lot safer.",12.88,0.02419885453865377,29,-0.07058212765137951,0.02028593368225908,0.7073761203735219
+"This is partly because it is more expensive to give someone a smartcard than a password, but also because its more work for users, systems administrators and managers.",11.96,0.019195945726929824,70,0.0785230979869276,0.02061770477346844,0.7380317598224043
+As a result we settle for second best.,1.84,0.02095238095238095,12,-0.0062205371998268815,0.015856987076177144,0.6213790508695123
+"So when it comes to computer security, trusted systems could be a major step forward.",14.72,0.023614841496341955,43,-0.09925305239278445,0.02086935686560155,0.7138334540170268
+"After all, if you have a laptop that will only run programs that have been digitally signed then it will be a lot harder for virus writers to get their malicious code to run.",18.400000000000002,0.013780972625729457,63,-0.001950352997886768,0.020469649035688882,0.7558409585885808
+And if all your files are locked automatically then even if you get your computer stolen your personal data will be safeguarded.,6.44,0.01581683582335787,56,0.01940743345423261,0.019272187800953463,0.7391298010067501
+At the moment support for trusted hardware is not built into major operating systems.,15.64,0.02256404188765277,51,-0.08130366102916646,0.02099335260643817,0.7287074013162611
+"Instead you have to use special software, like HP's ProtectTools or Wave Systems' Embassy.",4.6000000000000005,0.013008960183138485,46,0.08002500481709321,0.019384416235112757,0.7227393175479631
+"This provides file encryption, password management and identity protection, usually for business users who connect to company networks.",16.560000000000002,0.02533569649353575,83,0.13167467354524928,0.020367256674800393,0.7504151036933049
+"Full support for the trusted computing specification will not be available from Microsoft until the next release of Windows, ""Longhorn"".",5.5200000000000005,0.012435688450394285,66,-0.04206643487457264,0.020194856890478622,0.7364766713194174
+"This will include what Microsoft, in a typical act of obscurantism, calls the ""Next Generation Secure Computing Base"", and it will give user-level programs access to the trusted computing hardware.",19.32,0.027343375626760275,118,0.008721418114963176,0.021772682132790835,0.7671210755800097
+"When that happens we can expect to see a lot of publicity around the new capabilities, and no doubt the Windows security centre will encourage users to turn on their trusted computing capability just as they turn on their firewall.",26.68,0.017426336787988876,105,-0.012328865319597357,0.021015442555746826,0.7675244079893178
+"However there is a downside to the increased security from viruses, spyware and data theft that this will provide.
+
+",12.88,0.01631797425087956,53,-0.04779832288149486,0.017976464212155825,0.736508922759981
+"Because the trusted computing base is also used to make digital rights management (DRM) systems more secure, this will give content providers a lot more control over what we can do with music, movies and books that we have bought from them.",38.64,0.04657269906592728,103,0.1596897360681598,0.021646728948650218,0.7686062863188566
+We have seen recently how allowing digital rights management services into our lives can lead to unwelcome consequences.,11.96,0.015780065324107664,70,0.12375424270127051,0.021072045242639493,0.74863482257815
+"Users of Apple's iTunes used to be able to stream the music they had brought to up to five other iTunes users, a great way of letting your mates discover your music collection.
+
+",9.200000000000001,0.016116349398333864,74,0.1107217588111563,0.020040880079215694,0.7638620125068447
+"But the latest version of iTunes limits this capability, just as an earlier upgrade reduced the number of times you could burn a selected playlist of purchased songs to a CD.",11.040000000000001,0.02040607649866817,92,0.034860711989754406,0.02012138043206107,0.7668809152111401
+Another took away the ability to play songs downloaded from Real's Harmony service on your iPod.,5.5200000000000005,0.014952037858831846,45,0.021315862917419603,0.019869662609041685,0.7394908521120493
+Apple can do this because they wrote the software and they control the rights management.,11.040000000000001,0.02836886669612208,40,0.2416439668542527,0.020767045699133346,0.7171072081428927
+Once it is embedded in trusted hardware it will be even harder for dedicated programmers to find their way around these restrictions and give us back the fair use rights that should be guaranteed under copyright law.,24.84,0.018627907801587067,94,0.012422575925677233,0.020863223087381446,0.7553393566209492
+"Similarly, users of TiVo digital video recorders have found that they cannot record some shows, and other programmes that they have recorded are automatically deleted after a day.",11.96,0.028419056359860338,88,0.11260212942614303,0.020056742373295737,0.7570356511110401
+"This happens because of changes that TiVo have made to their software, and the users cannot control it.",7.36,0.031808422279283856,27,0.2562249213661565,0.020188407776035474,0.7073777867500033
+"One wonders whether hardware-based DRM will work for those who believe that locking-down digital content is a bad idea, and that the flexibility of copyright law is something that should be embraced and not taken away.",18.400000000000002,0.019648192657076347,86,0.03455777267807712,0.021172520972027806,0.761110966322014
+It will not work because of the fundamental flaw at the heart of the system: in order for the purchaser to view the content it has to be unlocked.,20.240000000000002,0.014283625185215464,61,0.03138328102991287,0.020547134143552855,0.7448262393661724
+"Once it is unlocked then someone, somewhere, will figure out a way to make a copy of the unlocked version.",12.88,0.014477185614241122,37,0.09344466699799546,0.018162236631839784,0.7203669231769246
+And once an unlocked version leaks onto the network it will be uncontrollable.,9.200000000000001,0.01756461688399681,40,0.06659032159330833,0.01651766874430456,0.7051413274727347
+"The efforts going into DRM would be much better spent building efficient distribution services, finding business models that are based on trusting your customers, and offering high quality downloads at fair prices.",10.120000000000001,0.021640885104053514,117,0.0007841492793462804,0.0212147819316444,0.7703693534453211
+What we want is not so much a trusted computing platform as a trusted customer platform.,9.200000000000001,0.028820642969571226,41,-0.09042093271093034,0.01842802196518123,0.708076412751776
+"The record companies and the film industry need to recognise that most of us, most of the time, will pay a reasonable amount for good quality material.",14.72,0.014150639741110485,76,0.0338681640212347,0.02015069960841746,0.7547009999577079
+"They will benefit more by building a market in which I can share songs with my friends, record shows I want to watch later, and burn CDs for my kids; a market which respects the spirit of copyright law and does not seek to replace it by restrictive contracts or end user agreements.",33.120000000000005,0.01678898127571531,137,0.05175019745349634,0.020992142017129446,0.7771777491708187
+"We need to ensure that trusted computing remains under the control of the users and is not used to take away the freedoms we enjoy today.
+
+",10.120000000000001,0.015678734636502226,54,0.0914795184296615,0.02067090506362322,0.7453731070752143
+"Bill Thompson is a regular commentator on the BBC World Service programme Go Digital.
+",3.68,0.01712099451637957,61,0.034680467838152436,0.018334266190776344,0.7381497088754321

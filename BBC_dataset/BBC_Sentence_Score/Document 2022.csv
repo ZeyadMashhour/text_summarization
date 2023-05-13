@@ -1,0 +1,65 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Multi-purpose TV aids India
+
+",0.92,0.014314616055284106,24,-0.006931056256375402,0.020041891645899396,0.7079804217614765
+"Two-thirds of the world's population, 4 billion people, live on $2,000 a year or less.
+
+",18.400000000000002,0.015252684199773086,50,-0.0158186172132835,0.019233534801831653,0.7277463031337256
+You might think that the last thing on their minds would be getting a television set or a computer.,21.16,0.024092669853859952,30,-0.07453645692993156,0.02092548907922577,0.708986565810895
+But that's not the case.,0.92,0.01872340425531915,4,-0.004612276334024585,0.016079653323620956,0.530695131661856
+Many people in the developing world give up one of their daily meals so they can afford to buy a TV.,19.32,0.023555753311755964,42,-0.02807441819317276,0.02053608111397818,0.7373142213558617
+"And now, an Indian-born computer engineer thinks he's come up with a way to give them cheap access to the internet.",17.48,0.019940975188573115,55,-0.026744335553167915,0.021535407653232915,0.7384348200523042
+Carnegie Mellon Professor Raj Reddy has spent the bulk of his professional career trying to find ways to make technology accessible to poor people.,23.0,0.0261229830540447,99,0.05386397052582716,0.020820329454219546,0.7628362708049926
+The first step is to figure out why poor people would want a personal computer and Professor Reddy thinks he has a pretty good idea of why they might.,25.76,0.03094157018084207,69,-0.024334733312823674,0.021311300495866957,0.755772413042577
+"""I come from a village,"" says Prof Reddy, ""I know what the population is like, many of them are illiterate, and many of them have other concerns.""",8.280000000000001,0.032128223567745764,43,-0.02015571228303853,0.014183598892536647,0.7172089148224622
+"""There, nobody will use it for the conventional uses of a PC, word processing and Powerpoint,"" he said.",3.68,0.01381021271078479,38,0.004276200665239922,0.016198674458860522,0.7090071275658564
+"""So it's clear to me that if people wanted to use PCs in a village - it has to usable by illiterate people and it must be primarily for entertainment, education, telemedicine, and access to expert advice.",41.4,0.019692247133156746,107,-0.020267966681046305,0.020968036010668198,0.765480638874505
+"""
+
+",0.0,0.01872340425531915,0,0.0,0.0027814827833160544,0.26666666666666666
+Prof Reddy also thinks that tying it into some kind of aid package was the wrong approach.,6.44,0.017870329770558538,44,-0.0151130114929211,0.020157111234003166,0.7450874591103142
+"After all, he asked -- what aid group could possibly give expensive computers to 250 million less fortunate Indians, let alone the billions of poor people around the world?
+
+",27.6,0.01992948108553804,88,-0.03441721502793721,0.0203966337741544,0.7609070924350834
+"Instead, Prof Reddy decided to think of those 250 million Indians as a potential market.",10.120000000000001,0.017929360170831497,47,-0.023247951552077626,0.018896952386570586,0.7342018272161901
+The problem then becomes one of making the product compelling enough.,4.6000000000000005,0.025145086763935794,28,-0.006866244691702452,0.02023946425517682,0.6892051848021679
+"""It must be so compelling that you would give up your third meal in order to have this,"" Prof Reddy says.",11.040000000000001,0.02853554673640717,32,-0.03666393711250685,0.017909387581027617,0.7029320298491427
+"""People do this today with television sets.",6.44,0.0284231820129155,24,-0.07207516002813785,0.020830313714144517,0.6842873578464125
+"If you go to India, and many other countries, they will first go get a television set before they worry about one more meal.",11.96,0.018079864168071755,34,-0.06678216603545764,0.020323101826232655,0.721531411902575
+Why?,0.0,0.01872340425531915,0,0.0,0.0027814827833160544,0.26666666666666666
+"Because personalized entertainment has become very important.""",2.7600000000000002,0.013309686024142783,33,0.0020491563650683648,0.016810435354620845,0.665958405471937
+This hatched a completely new idea.,2.7600000000000002,0.011467939818687233,19,-0.0075077478293616535,0.016800456263214227,0.6659729680265909
+"He calls it a PCtvt - A personal computer, television and telephone all in one that runs on a normal desktop machine.",27.6,0.013814950230761491,67,-0.03901522892866387,0.020079424531220816,0.7432133872557701
+"Literate users can surf through the applications with a keyboard and mouse but illiterate users can use what looks like a television remote control.
+
+",17.48,0.010752039279549363,79,-0.028866714271040726,0.017602603415978482,0.75428001087927
+"On the screen, pictures - not words - designate applications like TV, voice mail, and video e-mail.",29.44,0.01913081243388086,59,0.04426028187324767,0.018996295278162614,0.7477953015584888
+"This dependence on graphics, video and audio means that a computer for an illiterate person needs 100 times more power and more memory than one for a PhD. Prassana Rambathla, one of Prof Reddy's graduate students, says that ""when you're talking illiterate you're talking audio and video, and that demands exponentially high bandwidth.'",39.56,0.014591445821755733,178,-2.9188411070789623e-05,0.02031049199802248,0.7807165739969183
+"""It can't choke at any point in time, and it has to withstand anything no matter what you're pressing.""",6.44,0.01789010145923071,34,0.00018537415905796312,0.01946186074250742,0.7219703049569581
+"""The major part is making it foolproof, very tough, so that it never breaks,"" he says.",3.68,0.013928660019299882,32,0.002345137710899135,0.020300910545617695,0.7092470801538805
+The Carnegie Mellon team says this project is only possible because PCs are now so much cheaper and have built-in audio and video hardware and software.,11.96,0.021592528087350762,66,0.01658283452191774,0.02005912064666356,0.7530311131126721
+"Limited trials of the PCtvt are due to start this month in the Indian state of Andhra Pradesh.
+
+",5.5200000000000005,0.01535016578993592,52,-0.008888903265777178,0.0181891103999233,0.744633317049374
+Although Andhra Pradesh has a fairly good infrastructure but work has to be done to ensure reliable connections to the net.,9.200000000000001,0.019766409939797124,68,-0.004834594377812072,0.01989251127539396,0.7494305217126911
+Prof Reddy has teamed up with Eric Brewer at the University of California at Berkeley.,0.0,0.02350136421190881,51,-0.012983557757803054,0.013967258358741162,0.7376849774427039
+"The answer, says Prof Brewer, is wi-fi.
+
+",0.92,0.010820527655818037,21,-0.01755321738227624,0.015675657699947148,0.7042090305061617
+"""We're looking at the thing you'll see in Starbuck's or many other hotspots,"" he says.",2.7600000000000002,0.012760501342489657,20,-0.01903808272894611,0.01103706291481831,0.6659728081874331
+"""We're doing a lot of work on long-distance wireless and how to make the network work better in the presence of intermittency, when the power goes up and down, and the links go up and down, and the computers you're connected to just get turned off for no reason.""",18.400000000000002,0.015599761919448597,98,-0.010366392483011246,0.021618862096197827,0.7679691150306754
+"Prof Reddy says he hopes to lease the PCtvts for about $10 a month, and thinks Indians will rent the units for the television and DVD capabilities.",10.120000000000001,0.02768588825411308,74,-0.023011353317236385,0.020637401606655236,0.7632076765613842
+Reddy says he can then introduce the PCtvt's other technologies - such as video mail.,17.48,0.026165695245092224,39,0.11704993140064346,0.01879218230870347,0.7130926760623899
+"For example, a farmer could use the PCtvt's webcam to send a picture of a harmful insect to a local official who could send back a proposed course of action to the farmer.",15.64,0.016247196287223816,82,0.006477143174044165,0.020323336673898143,0.7615527493278731
+Prof Reddy thinks this kind of communication is the real pay-off.,3.68,0.017721233011716932,42,-0.013258424570938664,0.02119970296106647,0.7308200922037704
+"""The underlying problem,"" he says, ""is how you can increase their wealth and reduce their poverty and reduce their illiteracy, and improve their health care.'",11.96,0.013842543519579984,75,-0.0002689318387828112,0.01715886252865427,0.7548670298691929
+"""And what I'm postulating is that this is the technology that will enable them.",5.5200000000000005,0.013416318505001214,25,0.12865462315977375,0.015484188951848839,0.6637929805179493
+"If I didn't have it, it would be an uphill battle.",3.68,0.0124822695035461,12,0.3778265040754465,0.012189552951478513,0.6216795195566558
+Even with the technology it's an uphill battle.,8.280000000000001,0.02521362950023037,22,0.41169498420524947,0.01707255575734715,0.6599293884820869
+But I have a tool.,0.92,0.01872340425531915,4,0.0007437329552915482,0.01456572119811146,0.5306951305818253
+There is hope.,1.84,0.011469458107849922,4,-0.0016188545812098475,0.016986246492565305,0.5321305715669528
+I can reach them in ways that have not been possible before.,1.84,0.012052444105260606,8,0.009789787666087527,0.01937351809704756,0.6073370496339534
+"""
+
+Clark Boyd is technology correspondent for The World, a BBC World Service and WGBH-Boston co-production
+",5.5200000000000005,0.018768026940973594,76,0.05720313400904096,0.019264741683711215,0.7548570488632311

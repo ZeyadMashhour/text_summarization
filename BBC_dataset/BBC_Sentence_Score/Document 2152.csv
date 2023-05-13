@@ -1,0 +1,30 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Intel unveils laser breakthrough
+
+Intel has said it has found a way to put a silicon-based laser on a chip, raising hopes of much faster networks.
+
+",27.6,0.041998330616327975,81,0.19704415385645482,0.04437160669126927,0.7580702684292222
+Scientists at Intel have overcome a fundamental problem that before now has prevented silicon being used to generate and amplify laser light.,43.24,0.05117784335898118,79,0.21166872752197824,0.044186718752349134,0.4251891666657079
+The breakthrough should make it easier to interconnect data networks with the chips that process the information.,17.48,0.053905598033446134,65,-0.0019756955518955327,0.0435872393486663,0.7413100201679603
+"The Intel researchers said products exploiting the breakthrough should appear by the end of the decade.
+
+",4.6000000000000005,0.030872054707682565,50,0.1750629162788222,0.04044558000489054,0.7318672620379858
+"""We've overcome a fundamental limit,"" said Dr Mario Paniccia, director of Intel's photonics technology lab.",8.280000000000001,0.029371741332785826,74,0.12049360332516616,0.03940101235120482,0.7537030814985122
+"Writing in the journal Nature, Dr Paniccia - and colleagues Haisheng Rong, Richard Jones, Ansheng Liu, Oded Cohen, Dani Hak and Alexander Fang - show how they have made a continuous laser from the same material used to make computer processors.",39.56,0.034822604539141995,151,-0.046796940929415595,0.0383065288952944,0.7788498486501895
+"Currently, says Dr Paniccia, telecommunications equipment that amplifies the laser light that travels down fibre optic cables is very expensive because of the exotic materials, such as gallium arsenide, used to make it.
+
+",41.4,0.046675090389242786,118,-0.1313713841980444,0.04053737929251678,0.7671172503304042
+Telecommunications firms and chip makers would prefer to use silicon for these light-moving elements because it is cheap and many of the problems of using it in high-volume manufacturing have been solved.,19.32,0.031231549037419665,101,0.021482048406010076,0.044366155066843896,0.7621784285085046
+"""We're trying to take our silicon competency in manufacturing and apply it to new areas,"" said Dr Paniccia.",15.64,0.04622195417170239,49,-0.020061470678587934,0.03786904634187868,0.7283871621519946
+"While work has been done to make some of the components that can move light around, before now silicon has not successfully been used to generate or amplify the laser light pulses used to send data over long distances.",68.08,0.08183377289376126,96,-0.017866294492032884,0.04508310813536813,0.7657892710448084
+This is despite the fact that silicon is a much better amplifier of light pulses than the form of the material used in fibre optic cables.,35.88,0.03938831283970048,57,-0.1773690458730777,0.04107805816568402,0.7498206026439866
+This improved amplification is due to the crystalline structure of the silicon used to make computer chips.,27.6,0.036913149140834545,66,-0.04008558485835161,0.04462841595290624,0.7374444863434101
+"Dr Paniccia said that the structure of silicon meant that when laser light passed through it, some colliding photons rip electrons off the atoms within the material.",38.64,0.0650566597431754,80,0.01966962406128174,0.040151878516804726,0.7626656261532904
+"""It creates a cloud of electrons sitting in the silicon and that absorbs all the light,"" he said.",23.0,0.02599971634619454,40,0.039905311556000585,0.041260208668152866,0.7322564061090712
+But the Intel researchers have found a way to suck away these errant electrons and turn silicon into a material that can both generate and amplify laser light.,45.080000000000005,0.06142252048876566,81,0.20483399000058639,0.04353959475524823,0.7533544670955459
+"Even better, the laser light produced in this way can, with the help of easy-to-make filters, be tuned across a very wide range of frequencies.",23.92,0.035588537237190125,57,0.020303002279416348,0.04361918688953685,0.7503341837076978
+Semi-conductor lasers made before now have only produced light in a narrow frequency ranges.,14.72,0.030315830549004098,55,0.020845893203574117,0.042852240201349444,0.745253656586908
+The result could be the close integration of the fibre optic cables that carry data as light with the computer chips that process it.,28.52,0.04274951477408321,71,-0.20443940288929327,0.04425929520940613,0.7562458115185525
+Dr Paniccia said the work was the one of several steps needed if silicon was to be used to make components that could carry and process light in the form of data pulses.,42.32,0.0714262274922497,73,-0.171253792139512,0.04502394642697708,0.7630723527099794
+"""It's a technical validation that it can work,"" he said.
+",4.6000000000000005,0.023028992308310528,23,-0.04590513986371978,0.0354328003336525,0.6630196718040147

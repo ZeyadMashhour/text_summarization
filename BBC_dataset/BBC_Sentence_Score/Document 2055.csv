@@ -1,0 +1,56 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"BBC web search aids odd queries
+
+The BBC's online search engine was used a record amount in 2004, helping with enquires both simple and strange.
+
+",24.84,0.08766028921852302,84,0.01882952381260731,0.062303522486796235,0.7676035811615204
+"More than 277 million enquiries were made, asking for informaton of a wide range of subjects.",4.6000000000000005,0.040709773592326554,47,0.14092861631272866,0.05761167252336468,0.7403126393635062
+"The most requested search terms of 2004 included games, EastEnders, CBBC, John Peel, Harry Potter and Olympics.",7.36,0.044326199806107865,71,0.1073474225823553,0.06118018662750444,0.7606206452377461
+"But there were many strange enquiries, including: what is a dog?, how do you say basketball?",5.5200000000000005,0.08865959781518183,34,0.3342639151164246,0.05545224564040979,0.7057443857633048
+and what is the biggest collection of naval fluff?,2.7600000000000002,0.055,23,-0.010891168441481601,0.052717677876673266,0.692352648752376
+The search engine works by matching key words typed in to different web pages but many people still type in natural language questions.,17.48,0.04408077127401548,72,-0.12204683230489878,0.06302686681571565,0.7619801136426364
+"Here are some of the strangest queries of 2004 - spelling and grammar errors left untouched - and their possible solutions:
+
+
+ - How to fold a serviette like an elf's boot? 
+ 
+
+
+ ",8.280000000000001,0.038466608862113005,79,0.14620819172006255,0.055465613503003254,0.761368917719068
+"- How do I structure a French letter? 
+ 
+
+
+ ",1.84,0.055,21,0.0052296286028588965,0.054842765080013775,0.6655944009899639
+"- What is better one long vacation each year or several short vacations throughout the year? 
+ 
+
+
+ ",7.36,0.055,33,-0.0009676368096601903,0.05497956079099592,0.7233692844747895
+"- What is so special about the Swiss? 
+ 
+
+
+ ",0.92,0.055,12,0.019071529254418667,0.05166555173546943,0.620511630472363
+"- What are the contemporary issue in nurses? 
+ 
+
+
+ ",1.84,0.055,22,0.00011162864782758717,0.05296788648532971,0.6655944005565876
+"- What is the number 4 in this number 40052308090? 
+ 
+
+
+ ",5.5200000000000005,0.055,24,-0.0032980131542411114,0.054198712114873454,0.6659803955470799
+"- What is up? 
+ 
+
+
+ ",0.0,0.055,0,0.0,0.008316850379291923,0.26666666666666666
+"- What is the name of James Martin's dog? 
+ 
+
+",1.84,0.040709773592326554,15,0.23287927310534365,0.040532658755443055,0.6657890456900949
+Search engines are key to the way people use the internet.,5.5200000000000005,0.06927745998077306,29,-0.11919377916671668,0.05872460966541393,0.7021817112974374
+"Companies such as Google have become of paramount importance as they dictate how people travel through websites while online.
+",8.280000000000001,0.04110952585863268,64,-0.0646238830919567,0.05601361951970137,0.7455647666493666

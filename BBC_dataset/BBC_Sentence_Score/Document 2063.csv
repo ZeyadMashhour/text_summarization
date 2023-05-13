@@ -1,0 +1,48 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Set your television to wow
+
+Television started off as a magical blurry image.",10.120000000000001,0.024090984138425694,49,0.08231901871862944,0.025226349160077755,0.7380641064532208
+"Then came the sharpness, the colour and the widescreen format.",5.5200000000000005,0.016560988247293892,31,-0.020961795390391752,0.014985644148076245,0.6872810374720721
+"Now the TV set is taking another leap forward into a crystal clear future, although those in Europe will have to be patient.
+
+",11.96,0.02374036290534222,51,-0.03174176506478567,0.025961128751966073,0.7422465691281821
+"After years of buzz about high-definition TV (HDTV) it is finally taking off in a handful of countries around the world, mainly the US and Japan.",4.6000000000000005,0.025130830200212482,64,-0.09180917259587619,0.026773391226623523,0.7513667326021403
+"If you believe the hype, then HDTV will so wow you, that you will never want to go back to your old telly.",7.36,0.022496251232361666,20,-0.03493165695152352,0.018271397630149438,0.6866190465675512
+"""HDTV is just the latest must-have technology in viewers' homes,"" says Jo Flaherty, a senior broadcaster with the CBS network in the US.",8.280000000000001,0.018525395705689562,76,-0.052811264420679356,0.026012545711348686,0.7529315958020417
+"All television images are made up of pixels, going across the screen, and scan lines going down.",5.5200000000000005,0.0307872317448623,38,0.29837660599697713,0.024606061880448688,0.7320957721532905
+British TV pictures are made up of 625 lines and about 700 pixels.,2.7600000000000002,0.030875774238126017,35,0.2522235083362484,0.02532426217474718,0.7388512482580678
+"By contrast, HDTV offers up to 1,080 active lines, with each line made up of 1,920 pixels.",6.44,0.02243652298007307,48,0.230318437334208,0.02470343612668447,0.7505347478196503
+The result is a picture which can be up to six times as sharp as standard TV.,8.280000000000001,0.02104163682279327,33,0.028021568118277124,0.02567062058013825,0.7187061301396177
+"But to get the full impact, programmes need to be broadcast in this format and you need a HDTV set to receive them.",14.72,0.0352810172984173,48,-0.07691773320433473,0.026030720004672003,0.7250629224394681
+Most new computer displays are already capable of handling high-resolution pictures.,2.7600000000000002,0.021155123627026245,50,-0.02866103515170246,0.02523107451528082,0.7295288507774838
+"Viewers in Japan, the US, Australia, Canada and South Korea are already embracing the new TV technology, with a selection of primetime programmes being broadcast in the new format, which includes 5.1 digital surround sound.
+
+",14.72,0.024565847241356,126,-0.06645730474431774,0.02612050226338023,0.7704534621577842
+"But TV viewers in Europe will have to wait to enjoy the eye-blasting high-definition images.
+
+",2.7600000000000002,0.04422430853815619,52,-0.04598058263161909,0.025973193135395152,0.7474710447484084
+"Many high-end European TV programmes, such as the recent Athens Olympics, are already being produced in high-definition.",2.7600000000000002,0.037150667310479175,68,-0.0989029439929529,0.025716389130357068,0.752999266383825
+But they still reach your screen in the old 625 lines.,4.6000000000000005,0.018285409819035012,18,0.24638949680078562,0.02305159012377144,0.6928274272069505
+The prospects for getting sharper images soon do not seem very encouraging.,0.0,0.020618787632840307,27,0.05284085846483368,0.022113906695985504,0.6863351918405389
+"According to consultants Strategy Analytics, only 12% of homes in Europe will have TVs capable of showing programmes in high-definition by 2008.",6.44,0.02007605687630846,83,-0.09431417994973622,0.026400335019779717,0.7600604800703008
+But the HDTV hype spilling out of the US and Japan has spurred European broadcasters and consumer electronic companies to push for change.,6.44,0.021902009611434275,76,-0.06137025406501801,0.024918138070770812,0.7564519535301943
+Big sports and entertainment events are set to help trigger the general public's attention.,9.200000000000001,0.02171678310998343,58,-0.002539020073286087,0.025097541355515948,0.7451698265371827
+"The 2006 World Cup in Germany will be broadcast in high-definition.
+
+",6.44,0.034433856742900115,43,-0.11848009115330806,0.025210809250257607,0.7271733368111537
+"In the UK, satellite broadcaster BSkyB is planning HDTV services in 2006.",9.200000000000001,0.050027229620163434,50,-0.08311041055945494,0.023331775918025387,0.7354521701648782
+There is already a HDTV service in Europe called Euro1080.,2.7600000000000002,0.02518698954498116,29,-0.07162741735193166,0.02502422348475665,0.6878034478004622
+"Other European broadcasters, especially in France and Germany, also aiming to launch similar services.
+
+",3.68,0.01794020948733031,56,-0.056155280566166976,0.024148782049897354,0.7384170849089802
+"In Britain, digital satellite and cable are largely seen as the natural home for HDTV, at least while a decision is taken regarding terrestrial broadcast options.",16.560000000000002,0.020249877149249203,84,-0.06903983851014703,0.02564507475565888,0.7566773942962502
+The communications watchdog Ofcom could hand over some terrestrial frequencies freed up when the UK switches off its analogue TV signal.,5.5200000000000005,0.014966021540767113,78,-0.02128457878533521,0.023775416669855144,0.757651176553535
+"For now, broadcasters like the BBC are working on their own HDTV plans, although with no launch date in sight.",4.6000000000000005,0.032963013958275174,41,-0.06303479492512389,0.0257362452579419,0.7343736404881354
+"""The BBC will start broadcasting in HDTV when the time is right, and it would not be just a showcase, but a whole set of programming,"" says Andy Quested, from the BBC's high-definition support group.",11.040000000000001,0.03719510260992269,88,-0.09522111826084842,0.026534093103302788,0.7634858649952816
+"""We have made the commitment to produce all our output in high-definition by 2010, which would put us on the leading edge.""",8.280000000000001,0.019022601759481134,57,-0.009790658273148251,0.025699193553361196,0.7444420809198067
+One of the options under consideration is to offer high-definition pictures on the web.,5.5200000000000005,0.05732024586612611,49,-0.033512326062747316,0.02572164450519148,0.7242370183808529
+"The BBC has already dipped its toe into this, including some HDTV content in recent trials of its interactive media player - a video player for PCs.",21.16,0.01563254633380448,74,-0.041090335050125465,0.025704196931368554,0.7628143971033537
+It is planning to offer special releases of selected flagship programmes online in the near future.,9.200000000000001,0.01609521520193939,62,-0.015160886096714914,0.024446036579780533,0.7453415233892519
+"According to Mr Quested, this could help put Europe back into the running in the race to switch to HDTV.",7.36,0.02425839788919631,39,-0.058822943099230564,0.02509084778145882,0.7316961614380797
+"This is backed by recent research which suggests that the number of Europeans with broadband has exploded over the past 12 months, with the web eating into TV viewing habits.
+",10.120000000000001,0.014046703015646847,84,-0.020890869987817032,0.02574343245397472,0.7657275763628634

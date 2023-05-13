@@ -1,0 +1,26 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Microsoft sets sights on spyware
+
+Windows users could soon be paying Microsoft to keep PCs free of spyware.
+
+",23.0,0.11161459753136527,59,-0.028903899862040464,0.049471471702048464,0.7516331312224107
+"Following the takeover of anti-spyware firm Giant, Microsoft said it would soon release a toolkit that strips machines of the irritating programs.",6.44,0.048222151438869904,79,-0.07594970804914121,0.04893380471030228,0.755602972376647
+"Although initially free, Microsoft has not ruled out charging people who want to keep this toolkit up to date.",11.96,0.05625856321757394,49,-0.12330450152146662,0.049099696027517674,0.7262977344409012
+Surveys show that almost every Windows PC is infested with spyware programs that do everything from bombard users with adverts to steal login data.,15.64,0.05702003515996016,72,0.24542235926458225,0.044028600496619184,0.7557752645432445
+"Microsoft said that a beta version of the toolkit to clean up Windows machines should be available within 30 days.
+
+",8.280000000000001,0.052191102573217824,50,-0.1525405326584748,0.04786037434461937,0.7436101210690178
+"Designed for PCs running Windows 2000 and XP, the utility will clean out spyware programs, constantly monitor what happens on a PC and will be regularly updated to catch the latest variants.",16.560000000000002,0.053189269800523895,99,0.07499989185817121,0.049731499913643264,0.7705235495613989
+"Before now many of Microsoft's other security boosting programs, such as the firewall in Windows XP, have been given away free.",6.44,0.07151056614051145,50,-0.009075578210087835,0.04800652942361209,0.733439394788082
+"But Mike Nash, vice president in Microsoft's security business unit, said it was still working out pricing and licensing issues.",7.36,0.029657740668154926,75,-0.057984660704878455,0.04646155484993993,0.7569284612595357
+"Charging for future versions has not been discounted, he said.",0.92,0.03184483729787339,27,-0.10796913693322073,0.04617094179225982,0.6891113355515498
+"""We'll come up with a plan and roll that out,"" he said.",2.7600000000000002,0.035621258812856195,8,-0.17463279552867028,0.04083370738627731,0.6213906571135865
+The plan could turn out to be a lucrative one for Microsoft.,4.6000000000000005,0.052075364035848476,26,-0.22825860790814687,0.047559916558434966,0.6872892238419551
+"A recent survey by Earthlink and Webroot found that 90% of PCs are infested with the surreptitious software and that, on average, each one is harbouring 28 separate spyware programs.",19.32,0.0403091476383003,101,0.15499355062615272,0.04917128246073819,0.7654339373334578
+Currently users wanting protection from spyware have turned to free programs such as Spybot and Ad-Aware.,14.72,0.04494291889515305,54,-0.04122518078937614,0.049310993882237544,0.7480570842567624
+Spyware comes in many forms and at its most benign exploits lazy browsing habits to install itself and subject users to unwanted adverts.,5.5200000000000005,0.035444350557799896,71,0.06662943317935854,0.041541225703754084,0.7573472231264446
+Other forms hijack net browser settings to force people to view pages they would otherwise never visit.,8.280000000000001,0.04196328476356032,51,0.026748930045202256,0.04840962075649199,0.7507956817544706
+"At its most malign, spyware watches everything that people do with their PC and steals login information and other personal data.",16.560000000000002,0.03406916197163505,60,0.19779179999802643,0.04476333183433145,0.7486897665724164
+Microsoft's announcement about spyware comes after it bought small New York software firm Giant Company Software.,15.64,0.03517676060790708,72,-0.0061194846343788495,0.047953502193908426,0.7540061130057315
+"Terms of the acquisition were not disclosed.
+",0.92,0.048888888888888885,23,0.001681465668425435,0.040691945963264,0.6658364595599551

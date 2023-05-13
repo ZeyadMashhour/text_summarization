@@ -1,0 +1,23 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Warnings on woeful wi-fi security
+
+Companies are getting worse at keeping their wireless data networks secure.
+
+",15.64,0.06466134624738373,68,0.08488327880703045,0.057607660925889884,0.7505914911146943
+"A survey of wi-fi networks in London, Frankfurt, New York and San Francisco by RSA Security found more than a third had basic security features turned off.",14.72,0.09135690008183503,88,-0.14228153520988385,0.05805645094677786,0.7621249284526264
+By contrast last year's survey found that 15% of firms had failed to take basic steps to improve security.,19.32,0.046255297407849505,56,-0.010949207241500922,0.05527303739902781,0.7486752083549564
+"RSA warned that wi-fi's growing popularity made it much more likely that insecure networks would be found and exploited.
+
+",3.68,0.07397293730379448,57,0.082700156820329,0.05542647057933756,0.7467371727443837
+Wireless or wi-fi networks have become hugely popular over the last few years in offices because they are easy to set up and make going online much more convenient.,9.200000000000001,0.05513472679469078,70,0.1378233829578088,0.05726728360488145,0.7595371231289509
+This popularity shows no sign of slowing reveals the annual RSA Security and NetSurity survey which found an annual 66% growth rate in the number of wireless nets being installed in London and Frankfurt.,18.400000000000002,0.04981057699737372,120,-0.07698359105584923,0.055348190927979816,0.7723005668204106
+"Although most firms do take steps to turn on the security functions built in to the wi-fi standard and protect themselves from attack, the survey found that a significant proportion were taking unnecessary risks.",21.16,0.04590981512446668,109,0.07744616204899714,0.05765791378451771,0.7674091410250801
+"On average 33% of the wireless networks found by RSA and NetSurity researchers in London, Frankfurt, New York and San Francisco had not used basic security systems.",17.48,0.07139718228081529,100,-0.20728422877932368,0.05609860998819478,0.7630725910124639
+Many firms were simply turning on their wireless net access points and use default settings that anyone familiar with wi-fi could easily find out.,23.92,0.10972112166124451,73,0.21232672685209963,0.05836261535693758,0.7577381736750706
+"RSA said that 26% of wi-fi networks found London used default settings compared to 30% in Frankfurt, 31% in New York and 28% in San Francisco.",5.5200000000000005,0.05437518031612937,79,-0.1020517085514482,0.05473684496237958,0.7650393019798192
+Many users of wi-fi nets did not even turn on the encryption that scrambles data traffic between users and the access point helping them go online.,11.96,0.043727171952634085,71,0.22287391394970515,0.05540998369836201,0.7622975685328202
+"This is despite a series of stories warning firms about the dangers of ""drive-by hacking"" in which computer criminals walk or drive around city centres using easy to use tools to spot wi-fi nets.",11.040000000000001,0.037119531879788226,92,0.16769956042809722,0.05817747588101506,0.7725532164790789
+"""These figures are another stark warning to unsecured businesses to get their act together,"" said Phil Cracknell, chief technology officer at NetSurity.",7.36,0.04940789739761635,82,0.017888468042118917,0.052143338058380485,0.7583004942494753
+"As more public wi-fi hotspots appear and people become more familiar with using them, it was getting more likely that insecure would be found, warned Mr Cracknell.",5.5200000000000005,0.040829068860528124,59,0.17472470589520142,0.05385540113517375,0.749501562620205
+"""Accidental or intentional connection to a corporate network can bring with it a series of security issues including loss of confidential data and installation of malicious code,"" he said.
+",24.84,0.046321245693850106,123,-0.015750479290497596,0.0545787227511446,0.7680326284892041

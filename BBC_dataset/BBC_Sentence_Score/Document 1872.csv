@@ -1,0 +1,32 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Domain system scam fear
+
+A system to make it easier to create website addresses using alphabets like Cyrillic could open a back door for scammers, a trade body has warned.
+
+",24.84,0.03908930026261627,102,0.015458209031304102,0.04221873691255017,0.7661285235151025
+The Internationalised Domain Names system has been a work in progress for years and has recently been approved by the Internet Electronic Task Force.,8.280000000000001,0.02975369338577432,91,0.026419070883973456,0.04121121448972251,0.7541223269924769
+But the UK Internet Forum (UKIF) is concerned that the system will let scammers create fake sites more easily.,16.560000000000002,0.05786473322500496,61,-0.005472194917939794,0.04124762756042751,0.7439544999813462
+"The problem lies in the computer codes used to represent language.
+
+",9.200000000000001,0.03750997129509321,39,-0.1786553695859568,0.040040732562973136,0.7186071889519696
+"Registering names that look like that of legitimate companies but lead users to fake sites designed to steal passwords and credit card details could become a whole lot easier for determined scammers, says Stephen Dyer, director of UKIF.",12.88,0.029508966723455352,126,-0.02925983671481022,0.04061775256021312,0.773030591890797
+"Domain names are the ""real language"" addresses of websites, rather than their internet protocol address, which is a series of numbers.",12.88,0.05251410777647178,71,-0.04044690959035448,0.04091696084129448,0.7451650204162227
+They are used so people can more easily navigate the web.,6.44,0.024127915651949085,23,0.03165907550450708,0.03724627136716923,0.6902418281323205
+So-called ASCII codes are used to represent European languages but for other languages a hybrid of a system called Unicode is used.,8.280000000000001,0.03030381473191409,72,-0.13510494950086135,0.04020496825768156,0.7392507635410572
+"So, for example, website PayPal could now be coded using a mixture of the Latin alphabet and the Russian alphabet.",10.120000000000001,0.031017903911287743,52,-0.03857089494563098,0.0327329925896784,0.7384156943411383
+The resulting domain as displayed to the users would look identical to the real site as a Russian 'a' look just like an English 'a'.,15.64,0.06024451914291019,54,-0.0656149698305246,0.04107391852636081,0.7424445799051381
+"But the computer code would be different, and the site it would lead users to could be a fake.",17.48,0.059005934399618785,28,-0.16822653592700734,0.04040981736648262,0.7154426822559506
+This is more than just a theory.,0.92,0.04,6,-0.006507741897865277,0.026044950029949446,0.531928029042809
+"A fake Paypal.com has already been registered with net domain giant Verisign by someone who has followed the debate around the Internationalised Domain Name (IDN) system, said Mr Dyer.",22.080000000000002,0.05969759497793032,88,0.15029672944857156,0.03735830236270028,0.7629567285695753
+"As the idea was to prove a point rather than be malicious the fake domain has now been handed back to Paypal but it sets a worrying precedent, Mr Dyer said.",20.240000000000002,0.031885886760569755,70,0.12603375112686327,0.039589381889998054,0.534852804216466
+"""Although the IDN problem is well known in technical circles, the commercial world is totally unaware how easily their websites can be faked,"" said Mr Dyer.
+
+",11.040000000000001,0.057953048911598484,77,0.15692732608887633,0.04046030379031013,0.7597112434580833
+"""It is important to alert users that there is a new and invisible and almost undetectable way of diverting them to what looks like a perfectly genuine site,"" he added.",10.120000000000001,0.026009677316779615,68,-0.08085645702000986,0.03824479793061183,0.7501288929523746
+There are solutions.,0.0,0.0324882671531002,8,0.1240555496514714,0.029100840086351856,0.5322482662348084
+"For instance, browsers could spot domains that use mixed characters and display them in different colours as a warning to users.",5.5200000000000005,0.026808538738944745,61,-0.025750068875318097,0.039045499184874204,0.7500971004289715
+Mr Dyer acknowledged that it would be a huge undertaking to update all the world's browsers.,6.44,0.041339508706694436,50,0.20898869142787066,0.03828514472991601,0.7363242664381224
+"Another solution, to introduce IDN-disabled browsers could be a case of ""throwing out the baby with the bath water,"" he said.",8.280000000000001,0.04632218212648598,58,0.21540483869888966,0.0374753620133941,0.749685730498314
+"CENTR, the Council of European National Top Level Domain Registries, agrees.",0.0,0.03265757186397548,55,-0.01086213231330959,0.03688104845744126,0.7396973632011096
+"""A rush to introduce IDN-disabled browsers into the marketplace is an overly-zealous step that will harm public confidence in IDNs - a technology that is desperately needed in the non-English speaking world,"" the organisation said in a statement.
+",19.32,0.03389686293782521,152,0.16398607628255465,0.039593376489899273,0.7756160504382912

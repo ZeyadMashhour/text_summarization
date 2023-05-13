@@ -1,0 +1,24 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Open source leaders slam patents
+
+",10.120000000000001,0.07127919262711035,26,-0.11366164530174593,0.05056249717023992,0.7059661439878402
+"The war of words between Microsoft and the open source movement heated up this week as Linux founder Linus Torvalds led an attack on software patents.
+
+",31.28,0.07017742510604355,90,-0.005189130163040364,0.05431679019542373,0.7667810523175538
+In a panel discussion at a Linux summit in California Mr Torvalds said software patents were a problem for the open source movement.,32.2,0.09143681488588386,85,-0.049631986464129856,0.054122996512696385,0.7506515775348426
+"Mitchell Kapor, chairman of the Mozilla foundation, warned that Microsoft could use patent lawsuits in the future.",15.64,0.04118133403180489,70,0.24907068903887009,0.04885443341664597,0.7500595611288106
+Linux is a freely-available alternative to Microsoft's Windows.,0.92,0.03871776705004399,47,0.1357371313441653,0.05047986117914701,0.7175253759148481
+"It relies on a community of programmers for its development and is based on open source principles, which allow others to use and modify it without having to pay licence fees.",23.0,0.03232291642938079,76,-0.09392796790109503,0.052203215325871875,0.7578763871478259
+The attack on software patents comes at a time when IBM has made 500 of its patents freely available.,11.96,0.05257245301490853,46,-0.0006590998258129814,0.054636948943526026,0.7412141163899867
+"Other companies are expected to follow suit.
+
+",1.84,0.039779033555302615,23,-0.030301479981826866,0.05095965547827121,0.6923814115960697
+"There are between 150,000 and 300,000 registered software patents in the US and open source developers argue that many should never have been granted.",25.76,0.041852770990008045,65,-0.09252940825812028,0.04919589606361146,0.7575042264164545
+This is a view corroborated by the UK Patent Office.,0.92,0.0398500225795781,29,-0.007701198383928286,0.05012577598139292,0.7088160347939793
+"""Some of the patents have dubious validity and are being wielded by some big companies to force smaller companies to buy licenses in the knowledge that they can't afford to take them to court,"" said Dr Jeremy Philpott of the UK Patent Office.",8.280000000000001,0.07137077270090099,113,-0.03293076374236083,0.053773457194165014,0.7741685521992682
+Some panel members are worried that Microsoft would issue a series of patent lawsuits in the future.,18.400000000000002,0.06923949625631758,55,0.29442941069438744,0.05391825192918214,0.745215745954944
+"""If totally pushed to the wall - because their business model no longer holds up in an era in which open source is an economically superior way to produce software...of course they're going to unleash the WMDs,"" Mr Kapor is reported as saying.",34.04,0.032353858255982845,108,-0.0662387441022134,0.054008128063684935,0.7724488671176263
+"Microsoft did not want to comment directly, referring the issue instead to trade body Intellect, of which it is a member.",8.280000000000001,0.04030680359221686,58,0.2225208320326203,0.0533402036421464,0.7458204620753417
+"""As far as Intellect is concerned, open source and patents have co-existed for many years without problems,"" said spokeswoman Jill Sutherland.",19.32,0.03849174020777385,76,-0.05102930386787692,0.05331443341533607,0.7525281415535158
+"""The industry respects the open source movement and in fact many of the members we represent use the open source system to develop software,"" ""We think the important point to make is that companies should be able to choose between patents, copyrights and open source as to the treatment of their intellectual discoveries, and not be forced into using one or the other,"" she added.
+",74.52000000000001,0.10906759871674314,177,-0.10883011123338796,0.05618745548865885,0.7792769156792115

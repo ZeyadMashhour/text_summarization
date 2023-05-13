@@ -1,0 +1,29 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Broadband in the UK growing fast
+
+High-speed net connections in the UK are proving more popular than ever.
+
+",5.5200000000000005,0.08331557358157103,56,0.230829369819619,0.045949866117902534,0.7493625487563914
+BT reports that more people signed up for broadband in the last three months than in any other quarter.,18.400000000000002,0.060378421282967054,39,-0.11588504227754613,0.04548179747655718,0.4298934074264814
+"The 600,000 connections take the total number of people in the UK signing up for broadband from BT to almost 3.3 million.",25.76,0.07552555460349615,59,0.0933271489937275,0.04435758267657937,0.7540603282442284
+Nationally more than 5 million browse the net via broadband.,20.240000000000002,0.031800624396552485,36,0.04467765498229698,0.04208232582372612,0.7041363791081166
+"Britain now has among the highest number of broadband connections throughout the whole of Europe.
+
+",11.96,0.04203456582617693,42,0.1325049789272804,0.04495952228643456,0.717526990894186
+"According to figures gathered by industry watchdog, Ofcom, the growth means that the UK has now surpassed Germany in terms of broadband users per 100 people.",21.16,0.04458863268558458,85,0.08435810385883197,0.045204387911809245,0.7656209627820904
+"The UK total of 5.3 million translates into 7.5 connections per 100 people, compared to 6.7 in Germany and 15.8 in the Netherlands.",14.72,0.03425312594118072,75,0.16467574126606846,0.04200149759141,0.7495175265492408
+The numbers of people signing up to broadband include those that get their service direct from BT or via the many companies that re-sell BT lines under their own name.,23.0,0.07806163543489718,67,-0.1547272142193288,0.04630166324990145,0.7561641252329355
+"Part of the surge in people signing up was due to BT stretching the reach of ADSL - the UK's most widely used way of getting broadband - beyond 6km.
+
+",34.04,0.031038513055368512,64,-0.06495938080034279,0.04566988555801356,0.7547676245771536
+Asymmetric Digital Subscriber Line technology lets ordinary copper phone lines support high data speeds.,10.120000000000001,0.032059264179398514,85,-0.00653472932631211,0.04308903451468904,0.761093952891943
+"The standard speed is 512kbps, though faster connections are available.",4.6000000000000005,0.030244646579274632,34,0.19991831945849503,0.04014212818055367,0.681545205837749
+"""This breakthrough led to a dramatic increase in orders as we were suddenly able to satisfy the pent-up demand that existed in many areas,"" said Paul Reynolds, chief executive of BT Wholesale which provides phone lines that other firms re-sell.",12.88,0.03228411432622152,130,-0.13971054748535358,0.04491512953815577,0.7745762405322185
+"BT Retail, which sells net services under its own name, also had a good quarter and provided about 30% of the new broadband customers.",16.560000000000002,0.0644963695570562,59,-0.12374120579162927,0.04586309177637787,0.7521058118876653
+This was a slight increase on the previous three months.,4.6000000000000005,0.030651901210659947,27,-0.06872493415858309,0.04002119592054514,0.688381380150857
+"Despite the good news about growth in broadband, figures from telecommunications regulator Ofcom show that BT faces increasing competition, and dwindling influence, in other sectors.",18.400000000000002,0.033554950111154044,112,-0.03972286425993993,0.04441088155857495,0.7651558539507873
+"Local Loop Unbundling, (LLU), in which BT rivals install their hardware in exchanges and take over the line to a customer's home or office, is growing steadily.",12.88,0.032919303425764594,84,-0.08811442433060195,0.0442558211758291,0.7653279761488291
+Cable & Wireless and NTL have announced that they are investing millions to start offering LLU services.,1.84,0.03116280281746863,60,-0.06490081157676579,0.04282486673645536,0.7501618652837782
+"By the end of September more than 4.2 million phone lines were using so-called Carrier Pre-Section (CPS) services, such as TalkTalk and One.Tel, which route phone calls across non-BT networks from a local exchange.",17.48,0.05280268631468717,119,-0.15053820604559237,0.045916922838787254,0.7720265451357
+"There are now more than 300 different firms offering CPS services and the percentage of people using BT lines for voice calls has shrunk to 55.4%.
+",9.200000000000001,0.058827314670520124,61,-0.17892471036884383,0.04655239906769781,0.7566673665565615

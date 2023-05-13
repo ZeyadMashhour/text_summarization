@@ -1,0 +1,20 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Security warning over 'FBI virus'
+
+The US Federal Bureau of Investigation is warning that a computer virus is being spread via e-mails that purport to be from the FBI.
+
+",9.200000000000001,0.1488270279845934,85,0.00515148976023794,0.07603067072733287,0.7624302304884639
+The e-mails show that they have come from an fbi.gov address and tell recipients that they have accessed illegal websites.,5.5200000000000005,0.05729171072031745,53,-0.18143792156689673,0.07461197886561276,0.7392625672652968
+The messages warn that their internet use has been monitored by the FBI's Internet Fraud Complaint Center.,6.44,0.05463224586581889,58,-0.11335092325053618,0.07346840083752816,0.7460939263243597
+"An attachment in the e-mail contains the virus, the FBI said.",8.280000000000001,0.14716577481033663,24,-0.022479297108811972,0.07349773183656391,0.685256657357943
+The message asks recipients to click on the attachment and answer some questions about their internet use.,11.040000000000001,0.05774890618103852,56,-0.13028158955134067,0.06962573489882895,0.7392962193156266
+"But rather than being a questionnaire, the attachment contains a virus that infects the recipient's computer, according to the agency.",16.560000000000002,0.06273606124813154,58,0.2516143980220195,0.06709189724853845,0.7257304175279152
+It is not clear what the virus does once it has infected a computer.,8.280000000000001,0.04717481195090649,24,0.2871143739719339,0.06369420968854983,0.6863598940397149
+"Users are warned never to open attachment from unsolicited e-mails or from people they do not know.
+
+",7.36,0.05101717057811939,45,-0.11358737641400818,0.07415602897009606,0.730363587270174
+"""Recipients of this or similar solicitations should know that the FBI does not engage in the practice of sending unsolicited e-mails to the public in this manner,"" the FBI said in a statement.",9.200000000000001,0.07242475697787841,91,-0.19540962459043792,0.07569495762517202,0.7607674546879385
+The bureau is investigating the phoney e-mails.,2.7600000000000002,0.04052499613569161,29,-0.08534723543303732,0.07147110480506097,0.6880280393026604
+"The agency earlier this month shut down fbi.gov accounts, used to communicate with the public, because of a security breach.",11.040000000000001,0.0671232042138343,65,-0.06990889067987364,0.07024627872564936,0.7550406868952306
+"A spokeswoman said the two incidents appear to be unrelated.
+",1.84,0.07333333333333333,28,-2.2641172054577283e-16,0.050411005771066414,0.666253612499839

@@ -1,0 +1,37 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Kenyan school turns to handhelds
+
+At the Mbita Point primary school in western Kenya students click away at a handheld computer with a stylus.
+
+",26.68,0.036031029730031715,94,-0.018469456538831263,0.03340446275922135,0.7652384699276915
+They are doing exercises in their school textbooks which have been digitised.,7.36,0.03926121168424621,30,0.017301505951834134,0.025043193724100157,0.6886482841190711
+"It is a pilot project run by EduVision, which is looking at ways to use low cost computer systems to get up-to-date information to students who are currently stuck with ancient textbooks.",21.16,0.052557303642736496,96,0.1396608602384107,0.03608016718081738,0.7610016130572179
+Matthew Herren from EduVision told the BBC programme Go Digital how the non-governmental organisation uses a combination of satellite radio and handheld computers called E-slates.,11.96,0.027828238434938056,125,0.03771169915468812,0.034750110126455236,0.7658483418880832
+"""The E-slates connect via a wireless connection to a base station in the school.",23.0,0.05800581419007079,49,-0.13519665915042306,0.03407683624438019,0.7302334727723615
+This in turn is connected to a satellite radio receiver.,11.040000000000001,0.029237363081325355,33,-0.11005251485686879,0.030757733446887512,0.7063710033922986
+"The data is transmitted alongside audio signals.""",2.7600000000000002,0.02238973478546079,33,0.014682570055642089,0.025809597315101997,0.7100228679255411
+The base station processes the information from the satellite transmission and turns it into a form that can be read by the handheld E-slates.,22.080000000000002,0.05371001443022357,77,-0.1266964547972293,0.035663931307516036,0.7534137529895137
+"""It downloads from the satellite and every day processes the stream, sorts through content for the material destined for the users connected to it.",11.96,0.04364950257689537,70,-0.08783572974719484,0.033748140190127465,0.7549923014011646
+It also stores this on its hard disc.,1.84,0.03259259259259259,13,0.016050012404799762,0.029147179713863616,0.665816315184248
+"""
+
+The system is cheaper than installing and maintaining an internet connection and conventional computer network.",13.8,0.023611934040781483,70,0.040415378170249046,0.03354081389785465,0.7385693754896862
+But Mr Herren says there are both pros and cons to the project.,7.36,0.02805856109745267,22,0.26757163861241745,0.022156734921077652,0.6851144025351746
+"""It's very simple to set up, just a satellite antenna on the roof of the school, but it's also a one-way connection, so getting feedback or specific requests from end users is difficult.",23.92,0.02168735912544528,91,-0.04395417950027942,0.03618929860445562,0.7635261469587364
+"""
+
+The project is still at the pilot stage and EduVision staff are on the ground to attend to teething problems with the Linux-based system.",16.560000000000002,0.023611815663171075,72,0.0911336674928354,0.034560007104004274,0.7545305674841895
+"""The content is divided into visual information, textual information and questions.",11.96,0.01904831257042895,56,-0.00048494076878105233,0.03129687771569308,0.7327962782879133
+"Users can scroll through these sections independently of each other.""",1.84,0.02171607728978992,30,-0.01608401463218583,0.028353880923895562,0.6874128045354408
+EduVision is planning to include audio and video files as the system develops and add more content.,12.88,0.04925473115494329,61,0.07129157567707933,0.034667621621458686,0.7440955506394887
+Mr Herren says this would vastly increase the opportunities available to the students.,2.7600000000000002,0.03265021527192535,40,0.25052603484592384,0.029089991449177916,0.7170731199944098
+He is currently in negotiations to take advantage of a project being organised by search site Google to digitise some of the world's largest university libraries.,14.72,0.025458391468043264,86,0.0651274656142815,0.03420848786337168,0.7579930775330939
+"""All books in the public domain, something like 15 million, could be put on the base stations as we manufacture them.",11.040000000000001,0.020328649559783574,50,-0.07643177271448812,0.03441241775862935,0.7376668459158238
+"Then every rural school in Africa would have access to the same libraries as the students in Oxford and Harvard"" Currently the project is operating in an area where there is mains electricity.",20.240000000000002,0.03547268300964727,86,0.06982570494741983,0.0330849557541373,0.7585403675192941
+But Mr Herren says EduVision already has plans to extend it to more remote regions.,3.68,0.03352215607303997,39,0.23845255415213112,0.030357582363194805,0.7274584113490825
+"""We plan to put a solar panel at the school with the base station, have the E-slates charge during the day when the children are in school, then they can take them home at night and continue working.""",34.96,0.03191479317676164,82,-0.07829488245627698,0.03486565047597714,0.7651953979593182
+"Maciej Sundra, who designed the user interface for the E-slates, says the project's ultimate goal is levelling access to knowledge around the world.",17.48,0.030628097266626762,82,0.0288421124577592,0.035358819125786436,0.7603873723697512
+"""Why in this age when most people do most research using the internet are students still using textbooks?",4.6000000000000005,0.031146234581112132,40,0.0910842067218294,0.032980200321628926,0.721648704158057
+The fact that we are doing this in a rural developing country is very exciting - as they need it most.,13.8,0.024034590909933873,31,0.02111141919180449,0.03157692662467421,0.7098383686796739
+"""
+",0.0,0.03259259259259259,0,0.0,0.0048183814665117,0.26666666666666666

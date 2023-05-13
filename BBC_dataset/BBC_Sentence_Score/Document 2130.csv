@@ -1,0 +1,46 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"How to make a greener computer
+
+The hi-tech industry is starting to get more environmentally aware.",11.96,0.02629994842174553,57,-0.02089167203469988,0.032270200822944343,0.7447398106645389
+"Bill Thompson thinks it's about time.
+
+",1.84,0.04529793000138391,21,0.3659319970385759,0.02833681455189521,0.6587791093975098
+My first car ran on four star petrol and pumped vast quantities of lead into the atmosphere as I drove around Cambridge.,15.64,0.025589182835775395,60,0.040449779810922626,0.03209688906032877,0.7511963446060528
+"Now you can't buy petrol with lead additives, and we're all better off as a result.",12.88,0.047743183058252085,27,0.03622500847229681,0.029015466487084654,0.6926685003487382
+"Chip giant Intel recently began shipping computer circuit boards that are lead free too, reflecting a growing awareness on the part of the technology industry that products have to be designed and built in more environmentally friendly ways.
+
+",23.0,0.036409146080894315,145,-0.022618024965099456,0.03395829334554,0.7762832728505186
+"Apart from reducing the use of toxic materials like arsenic, mercury, cadmium and other heavy metals in the products themselves, the manufacturing process is also being cleaned up, with fewer complex and potentially damaging organic chemicals used as solvents.",12.88,0.02891779102266252,133,-0.031144867598847558,0.02948021724406846,0.7708350513967275
+"And work is going into making power supplies that are more energy efficient, since current transformers are astonishingly wasteful as they charge our laptops, mobiles and music players.
+
+",9.200000000000001,0.021357797946064093,102,-0.012063008005706347,0.03316578676553939,0.7655680374955535
+One of the key aspects of the new approach is to design products that are easier to recycle.,9.200000000000001,0.029874405454036645,41,-0.0670423419373609,0.03150402018880741,0.7307402368088303
+If you have got a phone or a computer with toxic chemicals or heavy metals in it then extracting them can be tricky and expensive.,13.8,0.03276645461380667,58,-0.04326786904663084,0.0307474855576003,0.7437980243682937
+A well-designed electronic component is able to be recycled at low cost.,6.44,0.03645605450595955,44,-0.06964157396671879,0.03347114761919666,0.716346158792374
+"This is going to be very important to hardware manufacturers in Europe since from August the new Waste Electronic and Electrical Equipment directive will oblige them to accept returned products for recycling.
+
+",7.36,0.028952550900273218,116,-0.06133207718752747,0.0319981590072372,0.7659551989070552
+"They will end up paying if they build things that are expensive or impossible to take apart and will find their profits hit, something which is likely to motivate them where appeals to the wider public interest might fall on deaf ears.",13.8,0.02704059657720602,91,-0.0022022822454315365,0.03232394770431956,0.7661688371690768
+"It is, as they say, about time.",1.84,0.02357142857142857,4,0.30936320805986506,0.029461058941801743,0.532410841196882
+"We have a long and depressing history of developing new technologies with complete disregard for their potential impact on the environment, and waiting until there is a crisis looming before we try to redesign them to cause less damage.",11.040000000000001,0.027061778991415868,106,0.003843904045070735,0.03131998496027455,0.7661607630487747
+"The car engine is a case in point: lead additives helped stop petrol vapour exploding too early in the cylinder, a phenomenon called 'knocking', so they were simply used without any real thought for the fact that the lead would end up in the atmosphere.",32.2,0.03527739905270108,125,0.09479749660503767,0.032796611472033506,0.775411793266419
+"Redesigning engines and making petrol slightly different was a lot more work, so it took decades before it was done.",8.280000000000001,0.048904165609789635,45,0.02159664005263584,0.0323144082285896,0.738015046936813
+"We're seeing the same thing in the technology industry and, as a result, there are billions of devices, from old mobile phones to antique handhelds, that will have to be recycled in years to come.",15.64,0.037458260144509134,79,-0.0520440754617434,0.03280999521962473,0.7541353711434722
+"If Apple gets its way then a lot of people are going to be buying a new Mac Mini and throwing away their old PC, keeping the monitor and other peripherals.
+
+",10.120000000000001,0.029865971103560807,58,-0.012374595432228878,0.030821016158003436,0.7525260380039388
+"Even if Apple does not get its way, four or five-year-old computers are not good enough to run modern programs and it's not unreasonable to replace them.",6.44,0.025793612484279537,65,-0.011205169230639826,0.03269636045177515,0.7504357643477144
+"But what do we do with the old ones?
+
+",0.92,0.031428571428571424,0,0.0,0.004640905514527639,0.26666666666666666
+"I've just looked around my office and I find two monitors, an old 386 PC, two old handhelds, three ancient laptops, four antique mobile phones, a collection of rechargeable batteries and even a Sun workstation that is no longer really much use.",14.72,0.029205159503412802,112,-0.03156242915679351,0.02977969871953778,0.7689978522600651
+They are all old enough to be hazardous waste - the monitors alone will be full of arsenic and lead - but it's possible that some of the components could be useful.,22.080000000000002,0.024765391469911812,45,0.00510150343296625,0.029298749293741884,0.7182178379896649
+"I could take them up the to the council recycling centre, but it's a 10-mile drive away across town, and like many other people my commitment to recycling is shallow at best.",14.72,0.021663317067611175,70,-0.05170901548246718,0.03107415050289833,0.7549602432192218
+"Here in Cambridge we have green bins for compostable waste, a box for glass, cans and paper that can be recycled, and a black bin for the rest.",14.72,0.02207613212392027,68,-0.04135012100855836,0.029971422594770862,0.7577891105142096
+There are bottle banks and clothing banks scattered around town and in supermarket car parks.,8.280000000000001,0.02582885657141987,51,0.013680771470415472,0.027555874615641195,0.7458544330755785
+Would it be too much to ask for an electronics recycling box too?,5.5200000000000005,0.05460407062452636,22,-0.08202566893150508,0.02745344937740364,0.6591664461882444
+"I'd probably remember to take my old mobile with me to the supermarket and drop it in a box - at least eventually.
+
+",16.560000000000002,0.032219415263453156,42,-0.027384206548259776,0.031288076161361256,0.7209685481536795
+"Bill Thompson is a regular commentator on the BBC World Service programme Go Digital.
+",2.7600000000000002,0.02357142857142857,61,0.18156327737707162,0.02834980943345262,0.7400074561848677

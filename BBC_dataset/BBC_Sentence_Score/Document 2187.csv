@@ -1,0 +1,80 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"'Podcasters' look to net money
+
+Nasa is doing it, 14-year-old boys in bedrooms are doing it, couples are doing it, gadget lovers - male and female - are definitely doing it.
+
+",39.56,0.01602919510140944,69,-0.022998935489509417,0.014760540101044575,0.7620956759058449
+It is podcasting - DIY radio in the form of downloadable MP3 audio files.,25.76,0.011751364215608868,43,-0.07771524867143054,0.011938650450786755,0.7354116569118065
+"They can done by anyone who has a microphone, simple software, the net, and something to say.",8.280000000000001,0.02012710643227907,27,-0.02598243529750331,0.013687154036983055,0.6920523001328818
+"Some liken them to talking ""audioblogs"" because many complement text-based weblogs - diary-like sites where people share their thoughts.",25.76,0.011439420824766091,75,-0.020473169096702045,0.01596938267417975,0.760590561062026
+"They are essentially amateur radio shows on the net, on demand, and the ""movement"" is at very early stages.",17.48,0.014855027215177228,54,-0.11672380211783132,0.015595188049148383,0.7320600177992598
+"""It's about real people saying real things and communicating,"" says Adam Curry, former MTV VJ and the Pied Piper of podcasting.",13.8,0.014214167030690047,62,-0.058696927751996746,0.01492467394245851,0.7577748371944141
+"He was one of a community of people who created iPodder, a small computer program, known as an ""aggregator"".
+
+",17.48,0.017433229702057847,58,-0.03429362325099493,0.01548621750979957,0.7384722365586578
+It collects and automatically sends MP3 files to any digital music-playing device that can play WMP formats.,11.040000000000001,0.01859730048585993,67,-0.035905382006539976,0.015269549904685856,0.7563574964941586
+"Those with digital music players can select which podcasts they like, and subscribe - for free - to that show's ""feed"".",46.92,0.02704153212694057,52,-0.01250886039950015,0.015398909727193386,0.736159228813787
+"When a new podcast is available, it is automatically sent to the device when connected to a computer.",21.16,0.014979147161938154,41,0.00022493704895631573,0.012895229330173697,0.7012529929677429
+"""It is totally going to kill the business model of radio,"" thinks Curry.",12.88,0.016242188396434987,39,-0.17506072889722185,0.015758083232291248,0.7289363594737879
+"""I just did a tour of Madison Avenue where all the big brands and advertising agencies of the world are,"" he says.",5.5200000000000005,0.012970072722447953,47,-0.012083295187820385,0.014856773106839506,0.7400988128077296
+"""And they are scared to death of the next generation - like my daughter who is 14 - who don't listen to radio.",42.32,0.014400790802071012,41,-0.09035867941747457,0.014399428672112918,0.7304896582967038
+"""They are on MSN, they've got their iPod, their MP3 player, they've got their Xbox - they are not listening to radio.",22.080000000000002,0.015874123479433972,31,-0.10690978303684309,0.012135776245447838,0.7298565940972864
+"""So how are they going to reach these audiences?",0.92,0.010681394327860777,13,0.22143179719109848,0.013683511323250625,0.5904845460096215
+"""It is the distribution that is changing and the barriers are being brought down so everyone can be part of it.",1.84,0.014666666666666666,34,-0.006836012612755675,0.01493827135419205,0.6927338564609276
+"""
+
+It is a fledgling movement, but it is gaining momentum now that people have started thinking about how to make a business from it.",23.0,0.02056576280818959,57,-0.12264264072556744,0.015599926984658521,0.73826141606707
+"Ian Fogg, Jupiter Research analyst, thinks there could be potential for business, but it could take an interesting turn if big companies, like Apple and Microsoft, get involved.",14.72,0.01271530382609234,97,-0.04958068536576082,0.01528102483246432,0.7652684282514308
+"""It is a nascent area but quite exciting.",4.6000000000000005,0.009943632024814126,19,0.010860536758890075,0.012663481425443478,0.6581998238792091
+"It is yet another area that demonstrates the move to a digital lifestyle and digital home is not over,"" he says.
+
+",15.64,0.013406063776468545,46,-0.003476989157439512,0.015638989193729427,0.7207933645087377
+"""Podcasting is one of those interesting areas that bridges what you do at home and what you do out and about - a classic hybrid.",22.080000000000002,0.018241337166896243,45,0.04801568206851968,0.014707226804234351,0.7310443536674619
+"It is another aspect of the ""time-shifting"" of content - the latest industry buzzword for being able to listen to what you want, when, and wherever you want.",20.240000000000002,0.009592438663465914,49,-0.017055967433583216,0.016046537706820487,0.740096119963251
+"Audiences are in the 10s, 100s, and 1,000s rather than millions.",3.68,0.014092058014131173,27,0.17643520950259559,0.011212463675198172,0.7101253988249788
+"More than 4,300 podcasts are currently listed.",0.0,0.011762910014196406,15,0.03047745782383829,0.013411801631199262,0.6631138454055906
+"Curry's Daily Source Code - which he committed to doing daily to inspire the community - has 10s of thousands of listeners.
+
+",34.04,0.013091859950962018,66,0.007968977602173221,0.014938360907489479,0.7553105130717952
+But Dave Winer is doubtful.,0.92,0.014666666666666666,17,0.006233857711816136,0.006590090217331344,0.6655730511366498
+"He designed the format called RSS (Really Simple Syndication), which gives web users an easy way to keep updated automatically on sites they like.",7.36,0.011404704022205827,70,-0.017300199083559016,0.014748009129874952,0.7542215614793613
+Podcasts rely on his technology because it is the way they are distributed.,1.84,0.010953280270922062,31,0.022174521093490877,0.013202709819653456,0.6911703943629708
+"He is also writer of the longest-running weblog on the net, Scripting News.",7.36,0.01170348250020449,36,-0.02490399529344903,0.014817483125112519,0.7321314628452904
+"He thinks its power lies in its democratising potential, not in its ""over-hyped"" business promise.
+
+",11.040000000000001,0.016681377685524183,57,-0.08277354441038066,0.015640552525818977,0.7389089459063768
+"""We're the sources, the people doing stuff, and podcasting is a way to tell people who care what we're doing.",21.16,0.025043405935458427,34,-0.02361094108576511,0.015547627776502194,0.7174758311742531
+"""No matter how you look at it, commercialising this medium isn't going to make very much money,"" he says.",12.88,0.015621639493801565,34,-0.023543341708569483,0.014765913775395054,0.43449018419862384
+"""Podcasting is going to be a medium of niches, with 'audiences' measured in the single digits, like e-mail or blogs.",6.44,0.020714051674490336,54,0.1504379842864304,0.015389629463461061,0.7434391325136414
+"""Maybe in a few years, maybe six or seven digits.",1.84,0.00926756936242269,9,0.04077480270212532,0.01182929579371274,0.6117093686071464
+"But it will have to sustain interest beyond the hype balloon.""",4.6000000000000005,0.010266666666666665,26,-0.015464629817169116,0.01264686297881081,0.6657716855477454
+"Curry and associate Ron Bloom's new venture, called PodShow, is to help ordinary people produce, post, distribute and market their podcasts.",16.560000000000002,0.010834179004527962,89,-0.04010831752315629,0.015875625024034227,0.7606551585004936
+"Because of the way podcasts work, based on RSS, the latest podcasts which people can select mean that they are ready-made targets.",13.8,0.041463109258745655,57,0.016569916108316932,0.016190846155814273,0.7521355979612008
+"""When you look at podcasting - wow this is a pretty interesting audience.",24.84,0.021405328919514542,35,0.19338071071642837,0.013377754960318306,0.7025820851346704
+The audience is pre-selected.,4.6000000000000005,0.012767339066987819,18,0.20263676595858207,0.014780771980690489,0.6582278133251483
+"They have decided to subscribe to your program,"" explains Curry.",4.6000000000000005,0.01147422197511689,34,-0.07865140792277309,0.013772250609950779,0.707724957944323
+"Advertising, in his eyes, can be tailored to podcasts, to make it more imaginative and unobtrusive.",10.120000000000001,0.012680676486170182,51,-0.020645196369111142,0.012831357991844082,0.7310560817706923
+"""How I believe this will work, is to create a network that, in aggregation, will have enough numbers to support a return on investment for the advertisers and for the podcasters.",10.120000000000001,0.00822548114761277,76,0.014788218678028592,0.015599805972164107,0.7506052533488536
+"""I have 50, 60, 70,000 listeners.",1.84,0.01437300516290772,17,0.010215041535126073,0.01118756924924611,0.7105817138725861
+"I could make a couple of bucks off that, but not much.",8.280000000000001,0.01270465669928451,14,-0.04574340074800841,0.014616388771581688,0.6450810376439566
+"If you are talking a million podcasters, and then you can kind of divide that amongst ourselves, then that is kind of interesting.""",10.120000000000001,0.010557156363168995,45,0.06195188937627727,0.015371208712915653,0.7317729278325342
+"Essentially, he says, if you are doing a bass fishing podcast, someone who is selling bait and tackle will probably want to advertise on your show.",25.76,0.01327221647696559,56,-0.03638173655286498,0.01427823071722534,0.736769939866636
+"He is clear the ads will not be the traditional ""in-your-face"" type familiar to commercial radio now.",11.040000000000001,0.010019915557371166,57,-0.07218619528456101,0.01593585240476202,0.7395953086471286
+"""We are really going to see these microcosms and commerce will be all over the place.",3.68,0.014666666666666666,23,0.002955882391460745,0.011375670325762284,0.6656276760259934
+"""
+
+It is happening already.",0.0,0.014666666666666666,6,-0.008153218251855995,0.011135266609762917,0.5308945487057961
+"Coffee-loving Curry has sold $4,000 worth of coffee machines through a referral link to Amazon from his site.
+
+",7.36,0.01216324294074942,64,-0.04640732187009546,0.015288742969215542,0.7577368522548895
+"Others use in-show promotions, like The Dawn and Drew Show.",0.92,0.015447454964865765,28,-0.05308821028019262,0.015510898007869867,0.6659064121712687
+"One, Eric Rice, has won sponsorship from Warner Bros.",0.92,0.011000000000000001,32,0.01006334775680847,0.012154477100082033,0.7213352201166167
+He can now legally play the music of a band Warner Bros wants to push.,8.280000000000001,0.014323851822210854,34,0.0007826523334674955,0.014281863395492216,0.7239925547872282
+Some commentators on the net say it has a similar feel to the dotcom days.,7.36,0.010234458797904382,34,-0.019713905295159907,0.015526194946645179,0.7230287990645721
+Others say it is just another element of setting media free from big companies and letting people be creative.,16.560000000000002,0.014839676874259128,47,-0.04236633120349626,0.016341578444059698,0.7448228122590934
+One thing is for sure; they are not about to disappear in a hurry.,5.5200000000000005,0.011454159998470952,19,-0.009407236391076814,0.011629007262443578,0.6657718053369734
+"The creative forces behind radio are elated, says Curry.",9.200000000000001,0.018682610581026462,29,-0.14260079551036112,0.013992570340170015,0.7035602826135722
+"For now, he tunes out the negative comments within the podcasting community.",4.6000000000000005,0.011511736569642784,35,0.017661384445100483,0.014567915182089584,0.7059323834445353
+"""I should be knighted for this,"" he adds, with a wry chuckle, ""People are going to be so happy to sit at home, make their podcast, and make a little money.",36.800000000000004,0.015528584117274586,57,-0.04282979393698403,0.015872647445472992,0.7579670071442148
+"""
+",0.0,0.014666666666666666,0,0.0,0.002130177992888696,0.26666666666666666

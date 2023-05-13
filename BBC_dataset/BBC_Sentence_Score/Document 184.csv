@@ -1,0 +1,20 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"US bank 'loses' customer details
+
+The Bank of America has revealed it has lost computer tapes containing account details of more than one million customers who are US federal employees.
+
+",18.400000000000002,0.13482206728711119,98,-0.19204530833931333,0.0737453846128535,0.759692917368378
+"Several members of the US Senate are among those affected, who could now be vulnerable to identity theft.",6.44,0.09427072034585791,42,0.21360083788221612,0.06951601560767848,0.7232630743705211
+Senate sources say the missing tapes may have been stolen from a plane by baggage handlers.,3.68,0.11253828951521692,44,0.22780844082847362,0.06639342670509359,0.7398192594852069
+"The bank gave no details of how the records disappeared, but said they had probably not been misused.",6.44,0.04972047091124826,35,-0.12995697001347956,0.07020314856624142,0.6879862769839926
+"Customers' accounts were being monitoring and account holders would be notified if any ""unusual activity"" was detected, bank officials said.
+
+",12.88,0.07767861390227827,74,-0.16371313463802947,0.07082279688100802,0.7542640912878403
+Bank of America said the tapes went missing in December while being shipped to a back-up data centre.,0.92,0.05535788526391028,49,-0.026877448309143244,0.06917495543394458,0.7383427857301241
+"""We, with federal law authorities, have done a very robust, thorough investigation on this and neither we nor they would make the statement lightly that we believe those tapes to be lost,"" Alexandra Tower, a spokeswoman for the North Carolina-based bank, told Time magazine.",18.400000000000002,0.0644295877418291,129,-0.07828385670739811,0.07454286299982416,0.7734695866005002
+"But although there was no evidence of criminal activity, the bank said, the Secret Service - a federal agency whose brief includes investigations of serious financial crime - is said to be looking into the loss.",20.240000000000002,0.06651604055334971,92,-0.10905525500418209,0.0727635936567308,0.7609814214415256
+New York Senator Charles Schumer said he was told by the Senate Rules Committee that the tapes were probably stolen from a commercial plane.,2.7600000000000002,0.05252776302638472,73,0.19318021226642992,0.07097572150172288,0.7579320585040201
+"""Whether it is identity theft, terrorism, or other theft, in this new complicated world baggage handlers should have background checks and more care should be taken for who is hired for these increasingly sensitive positions,"" the Democrat senator said.",17.48,0.05823569152356028,123,0.21027100864866793,0.07169394723862454,0.7700022663840951
+"Details of his Vermont colleague Pat Leahy's credit card account are among those missing, Senator Leahy's spokeswoman Tracy Schmaler said.",8.280000000000001,0.05963034407373866,89,-0.044694350450351,0.06520369757810342,0.7603916538836136
+"About 900,000 military and civilian staff at the defence department are among the 1.2 million affected, according to a Pentagon spokesman.
+",7.36,0.054272525855514654,76,0.024643743789664885,0.06496444921817439,0.7550716625575444

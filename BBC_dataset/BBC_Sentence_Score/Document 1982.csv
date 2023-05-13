@@ -1,0 +1,33 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Freeze on anti-spam campaign
+
+A campaign by Lycos Europe to target spam-related websites appears to have been put on hold.
+
+",15.64,0.05363342337663232,79,0.24059216948055523,0.042224584301047544,0.7599668522969957
+Earlier this week the company released a screensaver that bombarded the sites with data to try to bump up the running costs of the websites.,9.200000000000001,0.042132372748058804,68,-0.1140293169472958,0.04143832639575823,0.7579575479187957
+"But the site hosting the screensaver now displays a pink graphic and the words ""Stay tuned"".",19.32,0.031156079464300632,49,-0.2121195713638321,0.038599763398928594,0.7447371214459414
+"No one at Lycos was available for comment on latest developments in its controversial anti-spam campaign.
+
+",7.36,0.056737412529648215,57,0.2030221693288153,0.040114684277056854,0.7336323187435886
+"Lycos Europe's ""Make love not spam"" campaign was intended as a way for users to fight back against the mountain of junk mail flooding inboxes.",18.400000000000002,0.03824727995688404,80,0.14023278276464898,0.04213722759547248,0.763356166636003
+"People were encouraged to download the screensaver which, when their PC was idle, would then send lots of data to sites that peddle the goods and services mentioned in spam messages.",15.64,0.03236905458573191,91,-0.06864690479906511,0.04147076873391418,0.768019627441785
+Lycos said the idea was to get the spam sites running at 95% capacity and generate big bandwidth bills for the spammers behind the sites.,11.040000000000001,0.04724410880889001,65,-0.04229613993074269,0.04078975734089123,0.7578073999820063
+"But the plan has proved controversial.
+
+",3.68,0.02865340087128676,22,0.12303211040099521,0.03689223424068594,0.6474797898911943
+Monitoring firm Netcraft analysed response times for some of the sites targeted by the screensaver,9.200000000000001,0.026733710044621453,59,-0.09474617889075576,0.04018862048878596,0.7454762604602312
+"and found that a number were completely knocked offline.
+
+",2.7600000000000002,0.0419047619047619,32,8.101688232602229e-05,0.03836886009373074,0.6928232748433345
+The downing of the sites could dent Lycos claims that what it is doing does not amount to a distributed denial of service attack.,11.040000000000001,0.04373416515552806,57,-0.061142221732342544,0.041718704175314786,0.7390801107961663
+In such attacks thousands of computers bombard sites with data in an attempt to overwhelm them.,3.68,0.06860697620762479,54,-0.11881248995411497,0.03911936504010289,0.738578713404682
+Laws in many countries do not explicitly outlaw such attacks but many nations are re-drafting computer use laws to make them specific offences.,7.36,0.027778010782869032,79,-0.02233136747704903,0.03982617598490897,0.7578146451370275
+Lycos Europe now appears to have put the plan on hold.,6.44,0.04712289302217824,28,0.19474934021070275,0.04057223406280703,0.7086181765564499
+"The site hosting the screensaver currently shows a holding page, with the words, ""Stay tuned"".",18.400000000000002,0.039759015169722016,43,-0.1806341729412419,0.04083112635754975,0.7374663070128706
+The numerical internet address of the site has also changed.,13.8,0.032360517404332864,34,-0.07157894715826135,0.0406503851411654,0.709363669435599
+This is likely to be in response to spammers who have reportedly redirected traffic from their sites back to the Lycos screensaver site.,23.92,0.09530909092573536,68,-0.11781358033324862,0.039967362652858364,0.44747035835823895
+The campaign has come under fire from some corners of the web.,6.44,0.027476965368147727,21,0.1034890529096126,0.04070192432694275,0.6631795755492205
+Many discussion groups have said that it set a dangerous precedent and could incite vigilantism.,5.5200000000000005,0.0419047619047619,53,-0.0007967001799131101,0.03635919425426531,0.732989524167321
+"""Attacking a spammer's website is like poking a grizzly bear sleeping in your back garden with a pointy stick,"" said Graham Cluley, senior technology consultant for Sophos.",16.560000000000002,0.02538222041737883,105,-0.026777883292908866,0.036310325145232844,0.7679361236046239
+"""Not only is this screensaver similar in its approach to a potentially illegal distributed denial of service attack, but it also is in danger of turning innocent computer users into vigilantes, who may not be prepared for whatever retaliation the spammers care to dream up.""
+",26.68,0.03175377935090511,146,-0.0859549390338085,0.04171837599258022,0.7738737269635418

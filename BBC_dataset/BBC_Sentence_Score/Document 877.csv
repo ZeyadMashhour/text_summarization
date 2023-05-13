@@ -1,0 +1,99 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Critics back Aviator for Oscars
+
+Martin Scorsese's The Aviator will win best film at the Oscars, according to the UK's leading movie critics.
+
+",44.160000000000004,0.025851560541382133,73,0.09739579564217239,0.018379342015130643,0.4124311909502001
+But several of those surveyed by the BBC News website think the veteran film-maker will lose the best director prize to Clint Eastwood.,24.84,0.014951462910741994,67,0.005397439650104636,0.018458521561098513,0.7469970510619576
+Most of the critics tipped Jamie Foxx and Hilary Swank to scoop best actor and actress for Ray and Million Dollar Baby respectively.,37.72,0.026326216346463156,66,0.08290046252399884,0.018137137291762303,0.7596228134317216
+The jury comprised experts and critics from the top UK film publications.,30.360000000000003,0.008101603596693712,44,0.010851185462429982,0.016384172009508053,0.7296254388265581
+"The panel also revealed which nominees they would personally prefer to win.
+
+",16.560000000000002,0.008716980203656905,37,0.08108941768568997,0.015375703770180112,0.7213796239122658
+"All expect The Aviator to win best film, but many think it will be a close race between Scorsese's Howard Hughes biopic and Eastwood's boxing drama Million Dollar Baby.",52.440000000000005,0.03014980807566915,88,0.09899304640000452,0.01896717718366384,0.7662654231592432
+"The other films nominated are wine comedy Sideways, factual drama Finding Neverland, and",7.36,0.014015377457376726,55,-0.03419572843265502,0.016840445754290282,0.7386846398757982
+"Ray Charles biopic Ray.
+
+",1.84,0.009205457738450482,19,0.09161207748716792,0.013809757811909415,0.6811391725134446
+"""I'm pretty sure this is the year of The Aviator, though my own choice would be Sideways,"" said the Observer's Philip French.",4.6000000000000005,0.01176463567886847,50,-0.006875021865349452,0.016624291046011132,0.734522701586248
+"""Sideways should win but it doesn't have a hope,"" said Jamie Graham of Total Film, a position shared by Film 2005 presenter Jonathan Ross.",20.240000000000002,0.0202413154012336,77,-0.09720726656874669,0.01919410499410089,0.762542809072748
+"""The form going in to the Oscars points to The Aviator, but I liked Million Dollar Baby more,"" said Tim Dams, news editor of trade weekly Screen International.
+
+",9.200000000000001,0.011275676290525215,85,0.09187195849211258,0.017609395218487433,0.7624331140113219
+"Five of the eight critics tipped Scorsese to win best director, with Mr Dams, Heat's Charles Gant and Empire's Angie Errigo plumping for Eastwood.",32.2,0.024503726866020807,79,0.22081480226918707,0.018281351243372455,0.7653741707641404
+"Sideway's Alexander Payne, Ray's Taylor Hackford and British director Mike Leigh - nominated for period drama Vera Drake - are considered outsiders in this category.",29.44,0.010540688247477259,117,-0.011521851385475882,0.018801931407278486,0.7696123634095171
+"""Up until recently I could have sworn Scorsese would get it just for being Scorsese,"" Ms Errigo told the BBC News website.",3.68,0.013072105003196593,55,0.036109021223404925,0.01611977757980045,0.7463894168023812
+"""But I'm beginning to think Eastwood will get it.",0.92,0.008624364201038572,13,0.015982598676865908,0.01477711227898487,0.6038431357469886
+"""
+
+""I'd be very happy for Mike Leigh to win, but I don't think he has any chance,"" said Charles Gant, film editor of Heat.",50.6,0.023832583972939133,48,0.19246300366789962,0.01852632946555404,0.5703829388608472
+"Foxx's portrayal of Ray Charles has already seen him win prizes at the Golden Globes, Baftas and Screen Actors Guild Awards.",15.64,0.011268038412407063,70,0.10659071262560067,0.017854184001511845,0.7603400937980275
+"Mr Dams said this made him ""out-and-out favourite"" to be named best actor on Oscar night.",19.32,0.009155102532098294,49,0.07520226568614374,0.0180481537971536,0.5516692175798639
+"""Everyone would be incredibly surprised if he didn't win,"" he said.",15.64,0.008123456865955475,22,0.11945498336015478,0.01436849345317273,0.6611672337953167
+"""If you're a betting man, he's as close as you get to a certainty.""",4.6000000000000005,0.00888107523118625,20,0.04041861990267875,0.015157431878972137,0.6924414439620157
+"""If Paul Giamatti was nominated for Sideways it would be a different game,"" says Total Film's Jamie Graham.",1.84,0.011235532071591068,51,-0.09204930393963123,0.018009702088606434,0.7435200929430757
+"""But Foxx will and should win.",14.72,0.04008686068530083,7,0.1539756537828325,0.014611356315731464,0.6117874006279029
+"""
+
+With Vera Drake star Imelda Staunton nominated for best actress alongside Kate Winslet, Britain has a good chance of victory - on paper.",28.52,0.011627428560103502,91,-0.0038772422408815035,0.018644526310636695,0.7621458289585633
+"Jonathan Ross, for one, will be very happy if Winslet wins for Eternal Sunshine of the Spotless Mind.",1.84,0.011010046120778688,54,0.025814013384890477,0.015819019900811436,0.7456511265438511
+"But while Wendy Ide of The Times still thinks Staunton has a chance, Heat's Charles Gant believes her Bafta win will cut little ice with Academy voters.",19.32,0.010608541930906042,80,0.14250668427551424,0.018341039711114362,0.7678742192849723
+"""I'd like Staunton to win, but her chances are not that great,"" said Mr Gant, who predicted a second Oscar for Hilary Swank.
+
+",14.72,0.024812269093922045,51,0.2390232109355031,0.017334680820039274,0.6599603950913593
+"""I think Swank will win,"" said Mr French.",14.72,0.02310870106970566,16,0.19626819878286986,0.016228923925251295,0.6871466683093982
+"""Imelda has got as far as she's going to get playing that role.""",1.84,0.0068716257346778985,18,-0.010463183794268877,0.01722991523719148,0.6634972415899969
+"Staunton is also the personal choice of Steven Gaydos, executive editor of industry magazine Variety.",8.280000000000001,0.009170804876365487,72,0.028176241192923616,0.01627479898896601,0.7471979111356845
+"But while he tipped Swank to win, he predicted it would be a close contest.",17.48,0.014999214838311957,30,0.19124081303837845,0.015641217564645468,0.7111999241537573
+"""Everything has the ability to flip by one vote and go the other way,"" he told the BBC News website.",10.120000000000001,0.01618731358560299,33,0.03062848863887221,0.01560785955018264,0.729321110245189
+"""There's not a sense that it's obvious how it's going to go.""",1.84,0.017959183673469388,12,-0.0030459327770503727,0.012611491092735787,0.6188187312667442
+"Meanwhile, thousands of people have voted in a BBC Radio Five Live poll to find the best film never to have won a best picture Oscar.",32.2,0.01888161004140869,57,0.07767164413488803,0.01774318112029384,0.7436529837995351
+"The audience voted overwhelmingly for The Shawshank Redemption, the 1994 Frank Darabont tale of hope and humanity, which received 52% of the online votes and 68% of the text messages.",11.96,0.012699674381682643,110,0.002674588145508155,0.016037735560992247,0.7699295803602023
+"The other two finalists, Citizen Kane and A Matter of Life and Death split the remaining votes roughly equally.",4.6000000000000005,0.015497463574147519,63,0.00500716164330296,0.01608163922212761,0.7553295700966671
+"This year's Academy Awards will be shown in the UK by Sky Movies 1 at 0130 GMT on Monday.
+
+- Tim Dams, Screen International: Film - The Aviator; director - Clint Eastwood; actor - Jamie Foxx; actress - Hilary Swank.
+
+- Angie Errigo, Empire: Film - The Aviator; director - Clint Eastwood; actor - Jamie Foxx; actress - Hilary Swank.
+
+",134.32,0.02839248590623807,215,0.010074162916272549,0.01887058041886917,0.7858266806747494
+"- Philip French, The Observer: Film - The Aviator; director - Martin Scorsese; actor - Jamie Foxx; actress - Hilary Swank.
+
+",65.32000000000001,0.02126469264267702,85,-0.04013924975016757,0.0180566005808635,0.7631135891388512
+"- Charles Gant, Heat: Film - The Aviator; director - Clint Eastwood; actor - Jamie Foxx; actress - Hilary Swank.
+
+- Steven Gaydos, Variety: Film - The Aviator; director - Martin Scorsese; actor - Jamie Foxx; actress - Hilary Swank.
+
+",130.64000000000001,0.028152252161409163,163,0.008867116933271078,0.017616156587632048,0.7810997580024774
+"- Jamie Graham, Total Film: Film - The Aviator; director - Martin Scorsese; actor - Jamie Foxx; actress - Hilary Swank.
+
+",65.32000000000001,0.025309833819214454,85,-0.09865096039885317,0.0183177743561606,0.6383191647611276
+"- Wendy Ide, The Times: Film - The Aviator; director - Martin Scorsese; actor - Jamie Foxx; actress - Imelda Staunton.
+
+",65.32000000000001,0.02494899972525771,80,-0.05872860113970198,0.017781926504434283,0.7635604863992973
+"- Jonathan Ross, Film 2005:",5.5200000000000005,0.009745646478795361,20,-0.10682819182658185,0.017749581913720253,0.690902703303772
+"Film - The Aviator; director - Martin Scorsese; actor - Jamie Foxx; actress - Hilary Swank.
+
+",62.56,0.023343430778228452,65,-0.04804838779226976,0.0172223934328517,0.7545638272710236
+"- Tim Dams, Screen International: Film - Million Dollar Baby; director - Clint Eastwood; actor - Jamie Foxx; actress - Hilary Swank.
+
+- Angie Errigo, Empire: Film - The Aviator; director - Martin Scorsese; actor - Jamie Foxx; actress - Hilary Swank.
+
+",130.64000000000001,0.025001242758530332,182,0.013315664535357829,0.018491356658779174,0.782687126018782
+"- Philip French, The Observer: Film - Sideways; director - Martin Scorsese; actor - Jamie Foxx; actress - Imelda Staunton.
+
+",65.32000000000001,0.02863468844473834,89,-0.07142355616452196,0.018182460585265917,0.7625421026094257
+"- Charles Gant, Heat: Film - Sideways; director - Mike Leigh; actor - Jamie Foxx; actress - Imelda Staunton.
+
+",65.32000000000001,0.028182925072252812,79,0.0386527716586279,0.017947640949836273,0.7627987941205543
+"- Steven Gaydos, Variety: Film - Million Dollar Baby; director - Clint Eastwood; actor - Don Cheadle; actress - Imelda Staunton.
+
+",65.32000000000001,0.024764697316762768,97,-0.006295964503353187,0.01775369460802566,0.7666773758282762
+"- Jamie Graham, Total Film: Film - Sideways; director - Alexander Payne; actor - Jamie Foxx; actress - Hilary Swank.
+
+",65.32000000000001,0.02281519379479933,86,-0.11826977830784284,0.018509423084696882,0.6090968132073398
+"- Wendy Ide, The Times: Film - Sideways; director - Alexander Payne; actor - Don Cheadle; actress - Imelda Staunton.
+
+",65.32000000000001,0.018121365717792954,83,-0.0637443238391841,0.017521697760094174,0.7616548114739016
+"- Jonathan Ross, Film 2005: Film - Sideways; director - Clint Eastwood; actor - Jamie Foxx; actress - Kate Winslet.
+",68.08,0.027965039571947983,85,-0.12681418717468934,0.01804681138750103,0.41333789010514393

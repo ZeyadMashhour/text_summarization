@@ -1,0 +1,24 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Virus poses as Christmas e-mail
+
+Security firms are warning about a Windows virus disguising itself as an electronic Christmas card.
+
+",17.48,0.11144543135795507,82,-0.09615582067514801,0.06715839230665875,0.759243352020219
+The Zafi.,0.0,0.0534951438738407,4,0.2951448720773598,0.009581790644534738,0.5178291857529789
+D virus translates the Christmas greeting on its subject line into the language of the person receiving infected e-mail.,22.080000000000002,0.06122902865678792,77,-0.15274154862840078,0.06686737138689813,0.753643113612734
+Anti-virus firms speculate that this multilingual ability is helping the malicious program spread widely online.,10.120000000000001,0.06796508998953156,80,0.03801271234068124,0.06531659308587835,0.7569247257617748
+"Anti-virus firm Sophos said that 10% of the e-mail currently on the net was infected with the Zafi virus.
+
+",19.32,0.0998275705988873,48,0.14683864337025468,0.06447009513072753,0.749329790103831
+"Like many other Windows viruses, Zafi-D plunders Microsoft Outlook for e-mail addresses and then uses mail-sending software to despatch itself across the web to new victims.",3.68,0.0595126584709181,88,0.10333606788601717,0.0657036387352738,0.7633694852989583
+To be infected users must open up the attachment travelling with the message which bears the code for the malicious bug.,11.96,0.04143033022376292,57,-0.07920319358447475,0.062346527474310035,0.7502794792918065
+"The attachment on the e-mail poses as an electronic Christmas card but anyone opening it will simply get a crude image of two smiley faces.
+
+",11.040000000000001,0.040283205797080786,76,-0.1289727480341778,0.06586679694631051,0.7575903733238613
+"The virus' subject line says ""Merry Christmas"" and translates this into one of 15 languages depending of the final suffix of the e-mail address the infected message has been sent to.",25.76,0.09146791252371544,92,-0.1803933871317213,0.06685524619526984,0.7645538467808672
+"The message in the body of the e-mail reads: ""Happy Holidays"" and this too is translated.",3.68,0.04373530835015664,42,-0.12059765420418962,0.0642272030719983,0.7282421482843128
+On infected machines the virus tries to disable anti-virus and firewall software and opens up a backdoor on the PC to hand over control to the writer of the virus.,34.96,0.08098611272754801,87,0.022408275944850366,0.06302367359357476,0.7655134503508708
+"The virus is thought to have spread most widely in South America, Italy, Spain, Bulgaria and Hungary.",16.560000000000002,0.04270722250561826,59,0.027704137601182392,0.0535673933295457,0.7497884795258846
+The original Zafi virus appeared in April this year.,14.72,0.04646889243897827,32,0.24355222445872726,0.05927168343479089,0.7087280218642389
+"""We have seen these hoaxes for several Christmases already, and personally I prefer traditional pen and paper cards, and we recommend this to all our clients too,"" said Mikko Hypponen, who heads F-Secure's anti-virus team.
+",6.44,0.03944609248521901,106,-0.03816906113013978,0.0657435946642286,0.7695113493032631

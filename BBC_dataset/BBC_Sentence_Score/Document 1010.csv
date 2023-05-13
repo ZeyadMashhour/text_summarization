@@ -1,0 +1,37 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"New drink limit 'would cut toll'
+
+More lives than previously thought could be saved by cutting drink-drive limits by a third, a report says.
+
+",26.68,0.05330692418981495,65,-0.028925247073998236,0.037271628739618895,0.7586770155026743
+University College London research claims cutting the limit from 80mg of alcohol per 100ml of blood to 50mg would save 65 lives a year.,31.28,0.03985463869889801,83,0.2624102471119075,0.03526953702108229,0.7713003223120664
+The findings are being published by the Parliamentary Advisory Council for Transport Safety as MPs are due to vote on the government's Road Safety Bill.,3.68,0.030521473684442114,90,-0.05791076085751914,0.03430408811177585,0.7580029760257297
+The bill includes changes to speeding fines but not to the drink-drive limit.,15.64,0.04548455847521369,36,-0.18238172434380867,0.03610256934953619,0.7162746920914203
+"The research, carried out by transport expert professor Richard Allsop, says cutting the limit would also lead to 230 fewer serious injuries on the UK's roads compared with 2003.",25.76,0.030714127408019067,92,0.03140590800973119,0.0365084407823507,0.7675569170786747
+"He estimates that this would save the country Â£119m a year.
+
+",9.200000000000001,0.02447595041347181,28,0.17668591476455905,0.03430806015850807,0.7105542275322283
+"A previous estimate, contained in a 1998 Department of Transport Document, suggested such a move could save 50 lives a year.",17.48,0.030577412706552173,79,0.19417726270760993,0.03650002525705149,0.7581658876998468
+The findings are based on the assumption that drivers who currently keep below the legal limit would continue to do so were it to be lowered and that those who tend to exceed the limit slightly would also lower their drinking.,35.88,0.03377577780789609,84,-0.06034126012854858,0.03633140047400395,0.7630783111601089
+"Professor Allsop said: ""Reducing the limit from 80mg to 50mg can be expected to save around 65 lives a year or around half of those who die in accidents where the driver's BAC [blood alcohol content] is within 30mg of the current limit.",55.2,0.054328804584407565,113,0.23498460554304484,0.03572939244015438,0.7780577644237032
+"""Only about one in 50 of those driving during weekend evenings and nights will need to moderate their drinking to achieve this and fewer still at other times.",16.560000000000002,0.028925313604982923,58,0.02341945266582101,0.035654431379258895,0.7404875372407869
+"""
+
+Ministers do not support a lower limit, saying it is not clear it would have a major impact on drink drive casualties.",28.52,0.034344965296886174,57,-0.1278074830228765,0.03705885791686059,0.7456324527501361
+They believe educating drivers is more important.,0.92,0.027289213577323525,22,-0.0387788552311341,0.030425079686012144,0.6630174886497827
+The AA Motoring Trust said it was not sure what affect dropping the limit would have on drivers' attitudes to drink-driving.,13.8,0.035069016155920535,54,-0.11320397016977636,0.03543410571911339,0.5475574242738117
+"Road safety head Andrew Howard said: ""It remains to be seen whether the social disapproval of the drinking driver will stay at the current rate if the alcohol limit is cut.
+
+",43.24,0.047003961195010616,93,-0.012502958864072392,0.037229740367207324,0.7673690694955964
+"""Parliamentarians need to consider this carefully.",2.7600000000000002,0.0352,24,-0.00024445537294079937,0.018309923405433186,0.6201246435627716
+"Britons police themselves by consensus much more effectively than they do by weight of enforcement alone.""",4.6000000000000005,0.0352,49,0.006007098691844984,0.03329163610214985,0.7234736823406676
+"Liberal Democrat transport spokesman John Thurso said drink-driving remained a ""major killer"", with figures showing a worrying rise in the number of accidents involving drivers who had been drinking.",14.72,0.03927601131897449,127,-0.08601442391474096,0.03684975604414829,0.7725154925422624
+"He said there had been a 29% drop in the number of drivers being breathalysed since 1997, which he said the government needed to address if it wanted to reduce the danger caused by drink-driving.",11.96,0.02669789465359894,88,-0.09872474458803103,0.03794612111921212,0.7656508771871473
+"The Road Safety Bill, which gets its second reading on Tuesday, would allow the results of roadside breath tests to be used in court - currently a blood test is needed.",11.96,0.025112581922098337,67,-0.03545303019509373,0.03591344820166201,0.7463910661529987
+"It also includes plans for a staggered speeding fines and points system, penalising drivers who exceed limits by a wide margin more than those who are caught going just over.",4.6000000000000005,0.02670632476394069,78,-0.12180656816632453,0.0357150154846899,0.7594075702840928
+"These have been criticised by road safety campaigners, including Labour backbencher Gwyneth Dunwoody, who says it will reduce the incentive for drivers to stay within the limits in residential areas, leading to more road casualties.",23.0,0.04839458153595692,129,-0.09023735930295201,0.035278582736316955,0.7723630315585402
+"In an article for the Times newspaper, Ms Dunwoody, who chairs the Transport Select Committee, says: ""Slight increases to low car speeds increase hugely the risks to pedestrians and cyclists.",8.280000000000001,0.027916453547697524,120,-0.05045691742939843,0.03644965886305726,0.7724002545483268
+"""It is quite simple: if you hit someone at 30mph, they have a 50 per cent chance of survival.",9.200000000000001,0.028073752021275652,34,0.08010346110077167,0.03429419944629265,0.7395070517998477
+"If you are going at 40mph, nine times out of ten they will die.",3.68,0.03655026243761824,15,0.044043563163549015,0.03260687196145391,0.6868729597676404
+"""
+",0.0,0.0352,0,0.0,0.005217429233049601,0.26666666666666666

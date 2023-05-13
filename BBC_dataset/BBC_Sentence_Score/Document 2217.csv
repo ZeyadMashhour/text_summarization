@@ -1,0 +1,58 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"TV's future down the phone line
+
+Internet TV has been talked about since the start of the web as we know it now.
+
+",18.400000000000002,0.02600715695007545,40,-0.009633424265584284,0.022058229551088465,0.742025952671944
+But any early attempts to do it - the UK's Home Choice started in 1992 - were thwarted by the lack of a fast network.,23.92,0.012686959322951954,55,0.007741459860444919,0.020695296789469738,0.7544637950384545
+"Now that broadband networks are bedding down, and it is becoming essential for millions, the big telcos are keen to start shooting video down the line.",23.0,0.02842847563715319,66,0.08339607694541484,0.022393854868148384,0.7548575042052145
+"In the face of competition from cable companies offering net voice calls, they are keen to be the top IPTV dogs.",18.400000000000002,0.02483130092142211,58,0.12008988930017084,0.022150066920108596,0.7471340982921664
+"Software giant Microsoft thinks IPTV - Internet Protocol TV - is the future of television, and it sits neatly with its vision of the ""connected entertainment experience"".",27.6,0.026601920239034616,110,-0.10008935475785719,0.022221624252351857,0.7665283379978374
+"""Telcos have been wanting to do video for a long time,"" Ed Graczyk, director of marketing for Microsoft IPTV, told the BBC News website.",12.88,0.03089639724609516,79,-0.013901564165980037,0.02158109127811791,0.7658047527459781
+"""The challenge has been the broadband network, and the state of technology up until not so long ago did not add up to a feasible solution.",21.16,0.02440481518919695,66,0.04451652221174751,0.021688456885439068,0.7481025048922215
+"""Compression technology was not efficient enough, the net was not good enough.",9.200000000000001,0.01643846918613002,37,0.04287404924587808,0.01922561990371465,0.7101003404844116
+A lot of stars have aligned in the last 18 months to make it a reality.,6.44,0.014514774169991434,30,-0.005442015264816527,0.020502121059223305,0.7315159589308728
+"""
+
+Last year, he said, was all about deal making and partnering up; shaping the ""IPTV ecosystem"".",9.200000000000001,0.024876561541208906,40,-0.0968264786611435,0.020723219793743818,0.7305431902461654
+"This year, those deals will start to play out and more services will come online.",13.8,0.02550809403025261,30,-0.07288104317271903,0.021540363576245246,0.7109373959492638
+"""2006 is where it starts ramping up and expanding to other geographies - over time as broadband becomes more prevalent in South America, and other parts of Asia, it will expand,"" he added.",20.240000000000002,0.012949087774227165,80,0.016633976332594946,0.020487151805018814,0.7634880004491785
+"What telcos really want to do is to send the ""triple-play"" of video, voice, and data down one single line, be it cable or DSL (Digital Subscriber Line).",24.84,0.029998702501890587,74,0.15447363473932324,0.021237096869990493,0.760475243725105
+"Some are talking about ""quadruple play"", too, with mobile services added into the mix.",6.44,0.014335875788635726,36,0.005677934531146197,0.02120414304892777,0.7301698477206096
+It is an emerging new breed of competition for satellite and cable broadcasters and operators.,11.040000000000001,0.025514834086495363,55,0.19074040964338887,0.01971693781018528,0.7296537996985167
+"According to technology analysts, TDG Research, there will be 20 million subscribers to IPTV services in under six years.
+
+",9.200000000000001,0.022053264876766152,62,0.003236921883832538,0.020176188949281436,0.7457309624036403
+"Key to the appeal of sending TV programmes down the same line as the web data, whenever a viewer wants it, is that it uses the same technology as the internet.",21.16,0.03285809816194635,60,0.11961634984385082,0.02198910767845717,0.7490947225695872
+"It means there is not just a one-way relationship between the viewer and the ""broadcaster"".",7.36,0.0161487174847887,40,0.08959020779426088,0.020978788473458024,0.708267354366942
+"This allows for more DVD-like interactivity, limitless storage and broadcast space, bespoke channel ""playlists"", and thousands of hours of programmes or films at a viewer's fingertips.",15.64,0.015882157367352757,113,0.10013355659287984,0.02071531991256168,0.7667061237840753
+"It potentially lets operators target programmes to smaller, niche or localised audiences, sending films to Bollywood fans for instance, as well as individual devices.
+
+",8.280000000000001,0.028019458809026072,104,0.10867523719910321,0.021001382707762355,0.7645759464478377
+"Operators could also send high-definition programmes straight to the viewer, bypassing the need for a special broadcast receiver.",13.8,0.020009501988255237,80,0.13820741917823887,0.02159659836333753,0.7521257998013811
+Perhaps most compelling - yet some might say insignificant - is instantaneous channel flicking.,23.92,0.012920285390614445,48,0.043242957624445286,0.015701088543973542,0.7098419110610734
+"Currently, there is a delay when you try to do this on satellite, cable or Freeview.",10.120000000000001,0.016216362977943648,27,0.14869831332782918,0.017777035214481665,0.6905406275743156
+"With IPTV, the speed is 15 milliseconds.",1.84,0.013546957772992268,22,-0.01400239098269677,0.017049945394699176,0.6918884579239738
+"""That gets rounds of applause,"" according to Mr Graczyk.",1.84,0.011934036436434968,22,-0.12964994567850313,0.01199859630396984,0.6906627202610514
+Microsoft is one of the companies that started thinking about IPTV some time ago.,5.5200000000000005,0.03292023999085812,37,-0.022953742097991118,0.021683567383576973,0.7299049867744598
+"""We believe this will be the way all TV is delivered in the future - but that is several years away,"" said Mr Graczyk.",12.88,0.03173143098161891,28,-0.1795253161597216,0.020321097134833835,0.7094412329910941
+"""As with music, TV has moved to digital formats.",3.68,0.01145882772954029,24,-0.00121266879188657,0.020546890487157392,0.6865311028114622
+"""The things software can do to integrate media into devices means a whole new generation of connected entertainment experiences that cross devices from the TV, to the mobile, to the gaming console and so on.""",14.72,0.013094277695629385,110,-0.05285061042659584,0.021555473958543247,0.767310623605759
+"The company intends its Microsoft's IPTV Edition software, an end-to-end management and delivery platform, to let telcos to do exactly that, seamlessly.",13.8,0.01885025578598092,92,-0.02653625594919872,0.02179180975481785,0.7607837979633746
+"It has netted seven major telcos as customers, representing a potential audience of 25 million existing broadband subscribers.",11.96,0.01468994668739892,80,0.06389850419886359,0.02079561083935315,0.7539590133911429
+"Its deal with US telco SBC was the largest TV software deal to date, said Mr Graczyk.
+
+",18.400000000000002,0.024145719883618088,44,-0.15327234976930013,0.02084609422534822,0.7454850148387092
+"IPTV is about more than telcos, though.",0.92,0.02094845636414427,10,-0.0126773221285942,0.006929949408331503,0.6187873415400277
+There are several web-based offerings that aim to put control in the hands of the consumer by exploiting the net's power.,9.200000000000001,0.015250688688316345,56,0.041279243062768874,0.02132467555619679,0.7499060638331431
+"Jeremy Allaire, chief of Brightcove, told the BBC News website that it would be a flavour of IPTV that was about harnessing the web as a ""channel"".
+
+",12.88,0.01338506779714773,77,0.03246037819611432,0.019090406717387536,0.7593467706116425
+"""It is not just niches, but about exploiting content not usually viewed,"" he said.",3.68,0.02351294261777155,23,0.07431951394557805,0.01852590354376454,0.6862317866508303
+"""We are focussed on the owners of video content who have rights to digitally distribute content, and who often see unencumbered distribution.",16.560000000000002,0.014511002969363682,79,0.08302533686598258,0.019427103315003157,0.7498213557069614
+"""For them to do it through cable and so on is price-prohibitive,"" he said.",6.44,0.016508763162061294,22,0.10540502964271795,0.01788865917416374,0.656619322096328
+"This type of IPTV service might also be a distribution channel for more established publishers who have unique types of content that they cannot offer through cable and satellite operators - history channel archives, for instance.",43.24,0.0416115629356173,125,0.15815397308299092,0.021481559918641403,0.7676568803802798
+What is a clear sign that IPTV has a future is that Microsoft is not the only player in the field.,8.280000000000001,0.023172451185114424,39,-0.07199901416826136,0.02116100482755137,0.7313168938935131
+"There are a lot of other ""middleware"" players providing similar management services as Microsoft, like Myrio and C-Cor.",6.44,0.018623584443934166,69,-0.023616568316423704,0.02125158942165224,0.7478492958465914
+"But it will up to the viewer to decide if it really is to be successful.
+",9.200000000000001,0.018002515231002724,22,0.07782165794662341,0.01896927837992129,0.6640084094235955

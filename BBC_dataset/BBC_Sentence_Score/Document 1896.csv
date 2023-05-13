@@ -1,0 +1,40 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"'Evil twin' fear for wireless net
+
+People using wireless high-speed net (wi-fi) are being warned about fake hotspots, or access points.
+
+",34.04,0.056878776686411316,81,0.0811849495180844,0.03510289722794269,0.7659186127840072
+"The latest threat, nicknamed evil twins, pose as real hotspots but are actually unauthorised base stations, say Cranfield University experts.",12.88,0.05100021978905353,89,0.254508846737861,0.031080942535091173,0.7635015676260974
+"Once logged onto an Evil Twin, sensitive data can be intercepted.",1.84,0.03251453043695308,34,0.2162349269095765,0.026084111266246508,0.7197036283579947
+Wi-fi is becoming popular as more devices come with wireless capability.,10.120000000000001,0.045228658744476284,36,-0.09004236594823861,0.03199569219728415,0.7166411726321815
+"London leads the global wi-fi hotspots league, with more than 1,000.",1.84,0.04167409810340093,38,-0.06022878956899615,0.031723414311126075,0.7341203533884483
+"The number of hotspots is expected to reach 200,000 by 2008, according to analysts.",3.68,0.022642773758185655,41,-0.017079561089622664,0.02929749296370947,0.7386792516570189
+"""Users need to be wary of using their wi-fi enabled laptops or other portable devices in order to conduct financial transactions or anything that is of a sensitive or personal nature,"" said Professor Brian Collins, head of information systems at Cranfield University.
+
+",15.64,0.024837281161865343,156,0.025765180002841368,0.034758433017836925,0.7772717479167959
+"""Users can also protect themselves by ensuring that their wi-fi device has its security measures activated,"" he added.",9.200000000000001,0.0453335789095317,54,-0.12583490191234667,0.034075170089997164,0.7477952729268577
+"BT Openzone, which operates a vast proportion of public hotspots in the UK, told the BBC News website that it made every effort to make its wi-fi secure.",12.88,0.04543264319751164,89,-0.08928683942815914,0.035242139171691146,0.7700479071720038
+"""Naturally, people may have security concerns,"" said Chris Clark, chief executive for BT's wireless broadband.
+
+",18.400000000000002,0.02742148355970285,73,-0.06635759454930851,0.032232486200814064,0.7532021590830658
+"""But wi-fi networks are no more or less vulnerable than any other means of accessing the internet, like broadband or dial-up.""",3.68,0.032726767200242916,56,-0.09731384553771696,0.0339601503948833,0.7410551558712256
+"He said BT Openzone, as well as others, have sophisticated encryption from the start of the login process to the service at a hotspot.",12.88,0.021182787695752478,64,-0.024467558071877987,0.031713477147861165,0.7445347459659732
+"""This means that users' personal information and data, logon usernames and passwords are protected and secure,"" said Mr Clark.
+
+",11.040000000000001,0.04801892961275655,73,-0.026224461304197963,0.029683720240358914,0.7554886474995063
+"In the vast majority of cases, base stations straight out of the box from the manufacturers are automatically set up with the least secure mode possible, said Dr Nobles.",15.64,0.03328297635169305,84,0.08834361618328752,0.03330973651910603,0.7631681603286626
+"Cybercriminals who try to glean personal information using the scam, jam connections to a legitimate base station by sending a stronger signal near to the wireless client.",27.6,0.03312488404685354,105,0.09096332399589141,0.034232942993713183,0.7657324985637258
+Anyone with the right gear can find a real hotspot and substitute it with an evil twin.,19.32,0.022131936004533927,37,0.21768064009033686,0.030280371903816484,0.7207096657376726
+"""Cybercriminals don't have to be that clever to carry out such an attack,"" said Dr Phil Nobles, a wireless net and cybercrime expert at Cranfield.",18.400000000000002,0.032735185634455155,78,0.1384482903908613,0.030705197721971302,0.7508448123797836
+"""Because wireless networks are based on radio signals they can be easily detected by unauthorised users tuning into the same frequency.",12.88,0.02584365272061104,71,0.04314952372291233,0.03267592002139846,0.753723041780896
+"""
+
+Although wi-fi is increasing in popularity as more people want to use high-speed net on the move, there have been fears over how secure it is.",11.96,0.027030399678345817,56,-0.028816959786244437,0.03403600940681646,0.7464611102022093
+Some companies have been reluctant to use them in large numbers because of fears about security.,5.5200000000000005,0.03492846497555125,39,-0.07718538941747258,0.03279605395436705,0.7147204537390838
+A wireless network that is not protected can provide a backdoor into a company's computer system.,19.32,0.032304880719048884,58,-0.06217348941670787,0.03387457468545601,0.7285728028480598
+"Public wi-fi hotspots offered by companies like BT Openzone and The Cloud, are accessible after users sign up and pay for use.",3.68,0.04221103354459717,66,-0.11970069703992274,0.034574658565195364,0.7589532132195823
+"But many home and company wi-fi networks are left unprotected and can be ""sniffed out"" and hi-jacked by anyone with the correct equipment.",9.200000000000001,0.02828317535598265,69,-0.10573712273333037,0.033783351823243615,0.7566037154524107
+"""BT advises that customers should change all default settings, make sure that their security settings on all equipment are configured correctly,"" said Mr Clark.",11.040000000000001,0.025300807360019634,89,-0.08463439150713858,0.03345998258674898,0.7626673015277642
+"""We also advocate the use of personal firewalls to ensure that only authorised users can have access and that data cannot be intercepted.""",9.200000000000001,0.02332094494153196,63,0.05584603322318114,0.02961727133749527,0.7386868719654631
+"Dr Nobles is due to speak about wireless cybercrime at the Science Museum's Dana Centre in London on Thursday.
+",11.96,0.024609129810931673,72,0.066187064960676,0.029703801715829058,0.7538134260833517

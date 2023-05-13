@@ -1,0 +1,47 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Concerns over Windows ATMs
+
+Cash machine networks could soon be more susceptible to computer viruses, a security firm has warned.
+
+",26.68,0.05703460305640371,77,-0.13849753538163462,0.029752902646757125,0.7574448324681429
+The warning is being issued because many banks are starting to use the Windows operating system in machines.,9.200000000000001,0.03455872932723372,46,0.014767946377880743,0.030449197910656804,0.7311781817929881
+Already there have been four incidents in which Windows viruses have disrupted networks of cash machines running the Microsoft operating system.,27.6,0.04645047780280683,71,-0.06488603499810329,0.030011982059588667,0.7502117983113302
+"But banking experts say the danger is being overplayed and that the risks of infection and disruption are small.
+
+",10.120000000000001,0.01684127636432373,55,0.06052167000004412,0.025738897512191394,0.737641107259467
+"For many years the venerable IBM operating system, known as OS/2, has been the staple software used to power many of the 1.4m cash machines in operation around the world.",33.120000000000005,0.028992063629221323,81,0.09990700633675065,0.028874776118943467,0.7561327489021622
+But IBM will end support for OS/2 in 2006 which is forcing banks to look for alternatives.,3.68,0.029411091354168386,40,0.042484942000873785,0.028720733890367552,0.7377588174818499
+"There are also other pressures making banks turn to Windows said Dominic Hirsch, managing director of financial analysis firm Retail Banking Research.
+
+",6.44,0.020011457774255826,95,0.17501154353286374,0.028260291103770287,0.7646449814143322
+"He said many cash machines will also have to be upgraded to make full use of the new Europay, Mastercard and Visa credit cards that use computer chips instead of magnetic stripes to store data.",30.360000000000003,0.01679009320197365,93,-0.011364818807243856,0.027336743243904418,0.7628480944303564
+US laws that demand disabled people get equal access to information will also force banks to make their cash machines more versatile and able to present information in different ways.,34.96,0.021133058789358013,99,0.012675197995359178,0.029881169320718392,0.7672208982358248
+"Todd Thiemann, spokesman for anti-virus firm Trend Micro, said the move to Windows in cash machines was not without risks.",25.76,0.044439105010549505,70,0.03750164209186879,0.02977841411364614,0.7561496796573696
+"Mr Thiemann said research by the TowerGroup showed that 70% of new cash machines being installed were Windows based.
+
+",23.92,0.03139625414957413,61,0.12796908039933638,0.02806826252854286,0.7478012583165077
+"Already, he said, there have been four incidents in which cash machines have been unavailable for hours due to viruses affecting the network of the bank that owns them.
+
+",43.24,0.040130267274207175,62,-0.11848786744549848,0.030269492850705012,0.745656203749018
+"In January 2003 the Slammer worm knocked out 13,000 cash machines of the Bank of America and many of those operated by the Canadian Imperial Bank of Commerce.",22.080000000000002,0.018739882355780033,90,0.0008443036980257526,0.028809943497533033,0.7680183510102987
+"In August of the same year, cash machines of two un-named banks were put out of action for hours following an infection by the Welchia worm.",31.28,0.030297749333441103,65,0.07523233345994426,0.029685248088403976,0.7419552406184318
+"Incidents like this happen, said Mr Thiemann, because when banks start using Windows cash machines they also change the networking technology used to link the devices to their back office computers.",27.6,0.029820442353413353,102,-0.07275432728444664,0.0304527539710251,0.43752761358472614
+This often means that all the cash machines and computers in a bank share the same data network.,42.32,0.04049643585188757,44,-0.10369547625391376,0.0297592221023816,0.7367084196314088
+"""This could mean that cash machines get caught up in the viruses that are going around because they have a common transmission system,"" he said.",29.44,0.02639078761881589,45,-0.07438851902469863,0.02866680691844754,0.7219039773951683
+"""Banks need to consider protection as part of the investment to maintain the security of that network,"" Mr Thiemann told BBC News Online.
+
+",15.64,0.025037660884832565,78,-0.04593274269733539,0.028983975211400382,0.7582465828369718
+"But Mr Hirsch from Retail Banking Research said the number of cash machines actually at risk was low because so few were upgraded every year.
+
+",31.28,0.05303910786901727,64,0.22513260158999052,0.030053169334247707,0.7557730937825232
+"Currently, he said, a cash machine has a lifetime of up to 10 years which means that only about 10% of all ATMs get swapped for a newer model every year.",46.0,0.025277890892184577,51,0.10150514052694916,0.02918765260157276,0.7560885994970948
+"""Windows cash machines have been around for several years,"" he said.",19.32,0.053788487898605346,21,0.18511651689709652,0.02864741751583039,0.49043026640040677
+"""Most banks simply upgrade as part of their usual replacement cycle.""",8.280000000000001,0.01962738872477345,42,0.010530605361047218,0.02931120018067259,0.7191535390698605
+"""In theory there is a bigger threat with Windows than OS/2,"" he said, ""but I do not think that the banks are hugely concerned at the moment.""",4.6000000000000005,0.020999442750160954,49,0.07639162944270202,0.02930860845229075,0.7452161220269281
+"""It's pretty unusual to hear about virus problems with ATMs,"" he said.",11.96,0.015203252232578424,33,-0.10663475129149208,0.026141251159239716,0.7222189995151387
+"The many different security systems built-in to cash machines meant there was no chance that a virus could cause them to start spitting out cash spontaneously, he said.",54.28,0.03273087023597815,74,-0.08433159771037145,0.030155504079741234,0.7543261945377532
+"Banks were more likely to be worried about internal networks being overwhelmed by worms and viruses and customers not being able to get cash out at all, he added.",20.240000000000002,0.02244005047991312,58,-0.12776332404946586,0.02910404019989545,0.7506606965340507
+A spokesman for the Association of Payment and Clearing Services (Apacs) which represents the UK's payments industry said the risk from viruses was minimal.,8.280000000000001,0.017718865324224283,90,0.03161823549836356,0.02713437352965848,0.7613544055910082
+"""There's no concern that there's going to be any type of virus hitting the UK networks,"" he said.",11.040000000000001,0.020038472227403032,28,-0.16648043854330669,0.02787240323242769,0.7229798229000641
+"Risks of infection were small because the data networks that connect UK cash machines together and the operators of the ATMs themselves were a much smaller and tightly-knit community than in the US where viruses have struck.
+",27.6,0.0411647352329149,99,-0.09083934185657952,0.029583566625439452,0.7684653511026857

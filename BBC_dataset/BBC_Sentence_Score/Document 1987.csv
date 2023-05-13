@@ -1,0 +1,51 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Who do you think you are?
+
+",0.0,0.025142857142857144,0,0.0,0.003689611750370679,0.26666666666666666
+"The real danger is not what happens to your data as it crosses the net, argues analyst Bill Thompson.",9.200000000000001,0.03565819159856783,47,0.0037365957190693406,0.023452310064154096,0.7389306863611151
+"It is what happens when it arrives at the other end.
+
+",0.92,0.015879783697686948,9,0.03050268482632422,0.020575132331376558,0.6203767474279469
+The Financial Services Authority has warned banks and other financial institutions that members of criminal gangs may be applying for jobs which give them access to confidential customer data.,15.64,0.029141712236874156,114,-0.09470070936913773,0.025603626936118604,0.766408949329251
+The fear is not that they will steal money from our bank accounts but that they will instead steal something far more valuable in our digital society - our identities.,27.6,0.021944152912709958,60,0.14592891497816693,0.02494087604336086,0.7482890206644509
+"Armed with the personal details that a bank holds, plus a fake letter or two, it is apparently easy to get a loan, open a bank account with an overdraft or get a credit card in someone else's name.",51.52,0.037282288936719636,93,-0.03316372176364709,0.025911016843217196,0.764813075830874
+And it is then a simple matter to move the money into another account and leave the unwitting victim to sort out the mess when statements and demands for payment start arriving.,27.6,0.042402087691719416,87,0.09402079965655606,0.026035446237355164,0.7632349518272942
+"Identity theft is an increasingly significant economic crime, and we are all becoming more aware of the dangers of leaving bills, receipts and bank statements unshredded in our rubbish.
+
+",23.0,0.024737316428931715,107,0.16085074764688403,0.025565382241055916,0.762976231335499
+"But, however careful you may be, if the organisations you trust with your personal data, bank accounts and credit cards are not able to look after their databases properly then you are in trouble.",23.0,0.034966760738280506,81,-0.05891217314807148,0.025202982098616156,0.7561028136006951
+It is surprising that it has taken the gangs so long to realise that a well-placed insider is by far the simplest way to break the security of a computer system.,16.560000000000002,0.02219786202426975,75,-0.07661670591737983,0.025943198134733114,0.749938840003082
+"In fact, I suspect that the FSA is probably very late to this particular party and that this sort of thing has been going on for rather a long time.",11.96,0.018107160030565603,40,-0.016464677811251386,0.024920867233544232,0.7458274861145977
+"Has anyone checked Bob Cratchit's family links to the criminal underworld, I wonder?",3.68,0.023654812487139097,45,-0.013818274376465533,0.02293780723300448,0.7325182151604003
+And it is hardly likely to be only banks that are being targeted.,0.0,0.019047805735188775,10,-0.009751949012090007,0.021310394690671062,0.6100260591670403
+"Health authorities, government agencies and of course the big e-commerce sites like Amazon must also offer rich pickings for the fraudsters.",4.6000000000000005,0.022301287300554837,79,-0.033202896005647894,0.025068297195065002,0.7584220517408222
+The good news is that better auditing is likely to catch out those who access account details that they are not supposed to.,17.48,0.017285039231713276,47,-0.013120342344706793,0.025133415577519937,0.7317177588586863
+"And as we all become aware of the danger of identity theft and look more carefully for unexpected transactions on our statements, banks should have good enough records and logs to trace the people who might have accessed the account details.",28.52,0.03639713731123739,110,0.0760903468755775,0.026098648456023207,0.767546293139235
+"Fortunately there are now ways to keep bank systems more secure from the sort of data theft that involves taking a portable hard drive or flash memory card into the office, plugging it into a USB slot and sucking down customer files.
+
+",37.72,0.02109356653489115,120,-0.08443657656106392,0.02497899691875877,0.7748509121212659
+"Companies like SecureWave, for example, can restrict the use of USB ports just to authorised devices or even to an individual's personal memory card.",13.8,0.02086766607000782,75,-0.045350044752606095,0.023125620670929888,0.754202083070382
+"These solutions are not perfect, but it does not feel like a wave of fraud is about to wash away the entire financial system.",18.400000000000002,0.01908209245006746,53,-0.08124354271602507,0.024953448798456845,0.7400117189100852
+However the warning does highlight one of the major issues with e-commerce and online trading - the security or otherwise of the servers and other systems that make up the 'back office'.,19.32,0.02445987608310957,80,-0.13279841089367272,0.026027389838961724,0.7493916039247877
+"It has been clear for years that the real danger in paying for goods online with a credit card is not that the number will be intercepted in transit but that the shop you are dealing with will be hacked.
+
+",20.240000000000002,0.019683970018455586,76,-0.03416233360602631,0.026234378420831216,0.7661047383649549
+"In fact I do not know of a single case where an e-mail containing payment details has led to card fraud.
+
+",13.8,0.0307773154802819,46,-0.037494402738750474,0.025115409894239396,0.7351042178471533
+There are simply too many e-mails passing over the net for interception to be a sensible tool for anyone out to commit fraud.,8.280000000000001,0.019002116201472536,46,-0.025371595701053636,0.023813390445558413,0.7396067639810464
+"CD Universe, Powergen and many other companies have left their databases open and suffered the consequences.",1.84,0.024012197276385473,59,0.14316858842564975,0.024022949013509688,0.7444439035504006
+And just last week the online bank Cahoot admitted that its customer account details could be read by anyone who could guess a login name.,29.44,0.025301188314002167,60,-0.05079457448314384,0.024925068981752625,0.7502204876776386
+"Whether it is external hackers breaking in because of poor system security or internal staff abusing the access they get as part of their job, the issue is the same: how do we make sure that our personal data is not abused?",30.360000000000003,0.02860743879727505,95,-0.13708687255967836,0.025738353786162033,0.7643513580732377
+"Any organisation that processes personal data is, of course, bound by the Data Protection Act and must take proper care of it.",10.120000000000001,0.022681074756182182,63,-0.07881897292163226,0.024088828459039896,0.7459659914384957
+"Unauthorised disclosure is not allowed, but the penalties are small and the process of prosecuting under the Act so convoluted as to be worthless in practice.",8.280000000000001,0.018005170209154913,84,-0.04903161109653156,0.023452656486171793,0.7544097575836419
+This is not something we can just leave it to the market.,5.5200000000000005,0.02348227759146302,11,0.24121266287329055,0.023595038243910037,0.6068904664107105
+"The consequences of having one's identity stolen are too serious, and markets respond too slowly.",6.44,0.02172357608993422,43,0.2560210967152144,0.024089508475601082,0.7173040965722528
+"After all, I bank with Cahoot but it would be so much hassle to move my accounts that I did not even consider it when I heard about their security problems.",18.400000000000002,0.02847525783288633,46,-0.04465716551013678,0.025932367012079516,0.7309259497825843
+"I doubt many others have closed their accounts, especially when there is little guarantee that other banks are not going to make the same sort of mistake in future.",11.040000000000001,0.0247898054987619,51,-0.04089397909837075,0.02590186718924524,0.7363413425210648
+"The two options would seem to be more stringent data protection law, so that companies really feel the pressure to improve their internal processes, or a wave of civil lawsuits against financial institutions with sloppy practices whose customers suffer from identity theft.",28.52,0.04726297625649483,151,-0.03601935501989502,0.02563078338501683,0.7753613091241482
+"I have never felt comfortable with the US practice of suing everything that moves, partly because it seems to make lawyers richer than their clients, so I know which I'd prefer.
+
+",9.200000000000001,0.01741810492333246,62,-0.06780727674299669,0.02401289555130905,0.7490229922870113
+"Bill Thompson is a regular commentator on the BBC World Service programme Go Digital.
+",2.7600000000000002,0.01712807411082539,61,0.0319246413053511,0.02197203536227948,0.7391407207707498

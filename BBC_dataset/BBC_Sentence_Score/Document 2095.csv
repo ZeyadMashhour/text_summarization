@@ -1,0 +1,23 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Windows worm travels with Tetris
+
+Users are being warned about a Windows virus that poses as the hugely popular Tetris game.
+
+",19.32,0.06198420497043825,69,-0.05241419329305926,0.056882757164860534,0.759672682863437
+The Cellery worm installs a playable version of the classic falling blocks game on PCs that it has infected.,15.64,0.08701437349819026,61,0.10349057973617955,0.055926328371115594,0.7530129857285259
+"While users play the game, the worm spends its time using the machine to search for new victims to infect on nearby networks.",29.44,0.1052684753997161,63,-0.1052322129024827,0.06018773058752915,0.7558268822487139
+"The risk of infection by Cellery is thought to be very low as few copies of the worm have been found in the wild.
+
+",12.88,0.04613741387088981,44,0.3316077142253691,0.05606216817343899,0.7400150787616071
+The Cellery worm does not spread via e-mail like many other viruses.,8.280000000000001,0.058552894991889363,28,0.10593242955461485,0.051747643404632324,0.5346398145521112
+Instead it browses computer networks for PCs that have not shut off all the insecure ways they connect to other machines.,4.6000000000000005,0.039128428136932306,52,-0.05283148291250024,0.056055702752117555,0.744700339181162
+"When it infects a machine, Cellery installs a version of Tetris that users can play.",10.120000000000001,0.08498388017840273,48,0.01987034525961231,0.05501788623118427,0.41287555011758825
+As the game starts up the worm also starts a music file to accompany it.,14.72,0.03668878385700939,36,-0.04420109873151509,0.05613377164537965,0.7303069153433235
+At the same time the virus starts scouring networks for other vulnerable machines.,10.120000000000001,0.09394348515797035,43,-0.13023822253930445,0.05948903562172239,0.3507113555640258
+The virus does no damage to machines but heavily infected networks could slow down as scanning traffic builds.,9.200000000000001,0.04724081147879932,58,-0.046269682098794875,0.056967815160503546,0.7473843818032683
+Productivity may suffer too if users spend time playing Tetris.,5.5200000000000005,0.04157318487563816,41,-0.12634328226643687,0.055169378181639445,0.732800785630063
+"PCs running Windows 95, 98, ME, NT, 2000, and XP could be vulnerable to the worm.",11.040000000000001,0.039253191757719484,38,-0.0011435295896804185,0.05582987042333819,0.7454479732007758
+"""If your company has a culture of allowing games to be played in the office, your staff may believe this is simply a new game that has been installed - rather than something that should cause concern,"" said Graham Cluley, spokesman for anti-virus firm Sophos.",16.560000000000002,0.05075139129356114,102,-0.06718834586765465,0.05459182916006525,0.770897841639695
+So far the number of people infected by Cellery is thought to be very small and the risks of further infection is very low.,6.44,0.042961160226807904,51,0.3271739788822216,0.05414302711638075,0.7461594971252516
+"Sophos urged users and companies to update their anti-virus software to keep themselves protected.
+",1.84,0.044518320306035475,52,-0.06669260618348445,0.05579505600609235,0.7430113436751397

@@ -1,0 +1,38 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Have hackers recruited your PC?
+
+More than one million computers on the net have been hijacked to attack websites and pump out spam and viruses.
+
+",19.32,0.0408862283411195,67,-0.0781711225990796,0.033708070687424964,0.7547932634344348
+The huge number was revealed by security researchers who have spent months tracking more than 100 networks of remotely-controlled machines.,6.44,0.026967745732840148,82,-0.08265982120252556,0.03608712034259754,0.7603064618893297
+"The largest network of so-called zombie networks spied on by the team was made up of 50,000 hijacked home computers.",15.64,0.04474375584971566,66,-0.10660167958044968,0.03598919797846045,0.7572682477291904
+"Data was gathered using machines that looked innocent but which logged everything hackers did to them.
+
+",0.92,0.04001808839075382,39,0.10542976233121006,0.03175808910393861,0.727715531108181
+"The detailed look at zombie or 'bot nets of hijacked computers was done by the Honeynet Project - a group of security researchers that gather information using networks of computers that act as ""honey pots"" to attract hackers and gather information about how they work.",35.88,0.05837516083598795,147,-0.048464074655568457,0.03552502175520066,0.775186083431894
+"While 'bot nets have been known about for some time, estimates of how widespread they are from security firms have varied widely.
+
+",9.200000000000001,0.03942619499061362,50,-0.043463166874807446,0.033227806377712756,0.7444369312278051
+To gather its information the German arm of the Honeynet Project created software tools to log what happened to the machines they put on the web.,15.64,0.029850424123317933,81,0.1699868800742166,0.03606884086010834,0.7599900754968582
+Getting the machines hijacked was worryingly easy.,2.7600000000000002,0.02131359865776497,27,0.045330747589019144,0.02741656138527029,0.6872983532621925
+The longest time a Honeynet machine survived without being found by an automatic attack tool was only a few minutes.,21.16,0.040904264188194435,59,0.18646385990920739,0.035176496682076536,0.7406467377045116
+The shortest compromise time was only a few seconds.,4.6000000000000005,0.02416778530949963,25,0.08838117970379587,0.03086673781665485,0.6907589965133819
+"The research found that, once compromised machines tend to report in to chat channels on IRC servers and wait instructions from the malicious hacker behind the tools used to recruit the machine.",21.16,0.04573151339551996,107,0.20782231812957708,0.03546723466651266,0.7674300346549567
+Many well-known vulnerabilities in the Windows operating system were exploited by 'bot net controllers to find and take over target machines.,16.560000000000002,0.03434994830905092,83,0.050113162450558524,0.03619646462006678,0.7501982005594745
+"Especially coveted were home PCs sitting on broadband connections that are never turned off.
+
+",2.7600000000000002,0.029062880251731305,37,-0.05867409062363624,0.03210491651792545,0.7329410064765222
+The months of surveillance revealed that the different 'bot nets - which involve a few hundred to tens of thousands of machines - are used for a variety of purposes.,17.48,0.02924825386489011,75,-0.06997666991611093,0.03436604329783038,0.7411157687127617
+"Many are used as relays for spam, to route unwanted adverts to PC users or as launch platforms for viruses.",6.44,0.024460376011316926,54,-0.07637541156351657,0.03129157992929136,0.7505328802924284
+But the research team found that many are put to very different uses.,6.44,0.035196018201416775,19,0.1781317755280364,0.032950164984432734,0.6165955692189998
+"During the monitoring period, the team saw 'bot nets used to launch 226 distributed denial-of-service attacks on 99 separate targets.",9.200000000000001,0.03560684587010215,81,-0.03320200243880889,0.03498490221092932,0.7632873772919525
+These attacks bombard websites with data in an attempt to overwhelm the target.,6.44,0.024266258758793676,48,0.02168978058941231,0.02930479238632692,0.7278482244281771
+Using a 'bot net of machines spread around different networks and nations makes such attacks hard to defend against.,11.96,0.051405285457161616,52,-0.09211238507906323,0.035979366501508306,0.7481229581425676
+One DDoS attack was used by one firm to knock its competitors offline.,9.200000000000001,0.02368317842337835,36,-0.015387688262309384,0.030160920400055483,0.7208527430627751
+Other 'bot nets were used to abuse the Google Adsense program that rewards websites for displaying adverts from the search engine.,6.44,0.029103624383376513,70,-0.12250547310390833,0.0326661989814351,0.7577009962096596
+Some networks were used to abuse or manipulate online polls and games.,4.6000000000000005,0.027434085806987658,36,-0.11620085517225692,0.03308990018030234,0.7198511139482453
+"Criminals also seem to be starting to use 'bot nets for mass identity theft, to host websites that look like those of banks so confidential information can be gathered and to peep into online traffic to steal sensitive data.",18.400000000000002,0.024044806624779196,116,-0.05815274380327101,0.03447089680635036,0.7718367787794012
+"""Leveraging the power of several thousand bots, it is viable to take down almost any website or network instantly,"" said the researchers.",15.64,0.04117276735692939,63,-0.17917357380515878,0.033311584548068394,0.7409575092384173
+"""Even in unskilled hands, it should be obvious that 'bot nets are a loaded and powerful weapon.",3.68,0.024734757018603958,43,-0.07050782034671152,0.03282111943929139,0.739544194593689
+"""
+",0.0,0.033846153846153845,0,0.0,0.00500997154022817,0.26666666666666666

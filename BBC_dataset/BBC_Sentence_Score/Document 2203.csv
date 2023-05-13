@@ -1,0 +1,26 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Sun offers processing by the hour
+
+Sun Microsystems has launched a pay-as-you-go service which will allow customers requiring huge computing power to rent it by the hour.
+
+",23.0,0.07515613471095989,103,0.08715438582631936,0.0618916590357504,0.7669068531894278
+Sun Grid costs users $1 (53p) for an hour's worth of processing and storage power on systems maintained by Sun.,13.8,0.08580442819010861,64,-0.10967267164039238,0.06381396029500142,0.7533938933184607
+So-called grid computing is the latest buzz phrase in a company which believes that computing capacity is as important a commodity as hardware and software.,27.6,0.05910423361439876,99,0.2810942963152807,0.06258573986486335,0.7600471248873645
+"Sun likened grid computing to the development of electricity.
+
+",12.88,0.055617543654456446,41,-0.08028411897044488,0.05630422656095517,0.7188219074048076
+"The system could mature in the same way utilities such as electricity and water have developed, said Sun's chief operating officer Jonathan Schwartz.",11.96,0.053860740342118935,82,-0.1616735962244336,0.06003643031623571,0.7536079329149341
+"""Why build your own grid when you can use ours for a buck an hour?"" he asked in a webcast launching Sun's quarterly Network Computing event in California.",16.560000000000002,0.06174922885992582,76,0.14137463922184013,0.06131175288470585,0.7570683925836458
+"The company will have to persuade data centre managers to adopt a new model but it said it already had interest from customers in the oil, gas and financial services industries.
+
+",10.120000000000001,0.05430817600389121,88,0.09699036766656076,0.05986297779075166,0.760646010721802
+"Some of them want to book computing capacity of more than 5,000 processors each, Sun said.",8.280000000000001,0.0630765679769316,37,0.19618782928146014,0.0574804838513718,0.7194195814269638
+"Mr Schwartz ran a demonstration of the service, showing how data could be processed in a protein folding experiment.",8.280000000000001,0.05154076148290944,70,-0.09581116745095382,0.0575255527128371,0.749972547586157
+"Hundreds of servers were used simultaneously, working on the problem for a few seconds each.
+
+",2.7600000000000002,0.05227663428819731,44,0.011495082032174178,0.05938207380342649,0.7096037533372139
+"Although it only took a few seconds, the experiment cost $12 (Â£6.30) because it had used up 12 hours' worth of computing power.",17.48,0.06547749161412486,49,-0.0841273933256958,0.058078857135315944,0.7521853379153254
+"The Sun Grid relies on Solaris, the operating system owned by Sun.",6.44,0.0796407521764243,39,-0.09981218312052484,0.05879645693728931,0.7132350163277463
+Initially it will house the grid in existing premises and will use idle servers to test software before shipping it to customers.,11.040000000000001,0.059503226024418085,68,0.11988286778686204,0.06033839367782583,0.7537119222455221
+"It has not said how much the system will cost to develop but it already has a rival in IBM, which argues that its capacity on-demand service is cheaper than that offered by Sun.
+",15.64,0.06288408106113474,67,-0.031084202382676368,0.06259143513366984,0.7522752935768692

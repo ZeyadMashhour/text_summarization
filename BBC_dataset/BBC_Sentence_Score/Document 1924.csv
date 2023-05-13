@@ -1,0 +1,27 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Bush website blocked outside US
+
+Surfers outside the US have been unable to visit the official re-election site of President George W Bush.
+
+",16.560000000000002,0.05337670011497356,75,0.11588402412695267,0.04980434361245339,0.7550074875659388
+The blocking of browsers sited outside the US began in the early hours of Monday morning.,3.68,0.041385668772053484,43,-0.05027986424140264,0.049663353667582344,0.7369134870354097
+Since then people outside the US trying to browse the site get a message saying they are not authorised to view it.,17.48,0.07340206777095715,36,-0.2073495317267541,0.04872903935851358,0.7131942725697971
+"The blocking does not appear to be due to an attack by vandals or malicious hackers, but as a result of a policy decision by the Bush camp.
+
+",10.120000000000001,0.05363790512650903,63,0.24571217943893467,0.04890188856873288,0.7504473339600916
+The international exclusion zone around georgewbush.com was spotted by net monitoring firm Netcraft which keeps an eye on traffic patterns across many different sites.,12.88,0.048573802068851486,91,-0.03250160779646296,0.048770721520639555,0.7629372464212327
+"Netcraft said that since the early hours of 25 October attempts to view the site through its monitoring stations in London, Amsterdam and Sydney failed.
+
+",17.48,0.06468794687077453,83,-0.18452128017169483,0.0492084060582159,0.7628018024169795
+By contrast Netcraft's four monitoring stations in the US managed to view the site with no problems.,15.64,0.05151857547120856,51,-0.18803099960815942,0.050146547180147875,0.7347925470559553
+The site can still be seen using anonymous proxy services that are based in the US.,11.96,0.03495798682290172,29,-0.06931250865297985,0.04759451422016072,0.7081279542132107
+Some web users in Canada also report that they can browse the site.,13.8,0.036700131870078874,29,-0.12330026474036974,0.04774910410765559,0.7207027419312577
+The pattern of traffic to the website suggests that the blocking was not due to an attack by vandals or politically motivated hackers.,14.72,0.05015109346757246,73,0.23212589875468828,0.049299159329411965,0.7497708812189081
+Geographic blocking works because the numerical addresses that the net uses to organise itself are handed out on a regional basis.,6.44,0.047046669582775105,66,-0.007635398898533278,0.04822797336321981,0.750689129498345
+"On 21 October, the George W Bush website began using the services of a company called Akamai to ensure that the pages, videos and other content on its site reaches visitors.",20.240000000000002,0.10422856462566568,94,0.0147971437376142,0.052638786159180426,0.7664552792572441
+"Mike Prettejohn, president of Netcraft, speculated that the blocking decision might have been taken to cut costs, and traffic, in the run-up to the election on 2 November.",12.88,0.056345648607671155,90,0.07376926051443106,0.050182363449191414,0.7598088404388927
+He said the site may see no reason to distribute content to people who will not be voting next week.,16.560000000000002,0.037858657175967356,41,-0.11614602855124574,0.05174656848736425,0.7303516357515355
+Managing traffic could also be a good way to ensure that the site stays working in the closing days of the election campaign.,21.16,0.048495417317712876,61,-0.03055982368346838,0.05185954906730028,0.7533200318615508
+"However, simply blocking non-US visitors also means that Americans overseas are barred too.",2.7600000000000002,0.04352398112200435,48,0.049859105742589054,0.04929122682191171,0.7374583453728353
+"Akamai declined to comment, saying it could not talk about customer websites.
+",2.7600000000000002,0.03410918321232259,39,0.052389139253514155,0.046186455028318314,0.7221285168905492

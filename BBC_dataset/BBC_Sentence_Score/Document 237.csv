@@ -1,0 +1,29 @@
+Sent,Tm,Lex,Luhn,Lsa,Tr,LDA
+"Firms pump billions into pensions
+
+Employers have spent billions of pounds propping up their final salary pensions over the past year, research suggests.
+
+",12.88,0.034515042329999586,92,-0.04359377323487995,0.054193805265228885,0.7674473869978854
+"A survey of 280 schemes by Incomes Data Services' (IDS) said employer contributions had increased from Â£5.5bn to Â£8.2bn a year, a rise of 49.7%.",14.72,0.0667471143586804,85,0.09985983679476669,0.053074260932768874,0.7674397114118587
+"Companies facing the biggest deficits had raised their pension contributions by 100% or more, IDS said.",6.44,0.052892923942013365,50,0.057105516724368185,0.0554483201411303,0.7438567172534818
+"Many firms are struggling to keep this type of scheme open, because of rising costs and increased liabilities.",12.88,0.038197628244367544,51,-0.011693956381189596,0.0549764797583513,0.7443498427476419
+"A final salary scheme, also known as a defined benefit scheme, promises to pay a pension related to the salary the scheme member is earning when they retire.
+
+",59.800000000000004,0.07808249349438452,90,-0.1974598228717863,0.053971482877615516,0.762361662692706
+"The rising cost of maintaining such schemes has led many employers to replace final salary schemes with money purchase, or defined contribution, schemes.",21.16,0.10721415574236567,95,-0.10699976308384797,0.055794636359905114,0.7634862209558357
+These are less risky for employers.,0.92,0.04606318110404248,13,0.1150722735562219,0.04046423087978297,0.6117631608939106
+"Under money purchase schemes, employees pay into a pension fund which is used to buy an annuity - a policy which pays out an income until death - on retirement.
+
+",21.16,0.037765176269741026,81,-0.07326626424387855,0.05357607703865863,0.7626553145199766
+"IDS said there were some schemes in good health.
+
+",1.84,0.041113874613854955,19,-0.07597889481694078,0.04924912321854187,0.6864203428231282
+"But, in many cases, firms had been forced to top up funds to tackle ""yawning deficits"".",1.84,0.0408452994768096,37,-0.004728813498648139,0.051442083185172356,0.7315216903297497
+The level of contributions paid by employers has increased gradually since the late 1990s.,3.68,0.06597364166379226,53,0.19856950532612855,0.05401072603742057,0.7372573172842638
+"In 1998/99, for example, contributions rose by 4.7% and in 2002/03 by 8.6%.",0.0,0.04549114034600821,32,0.20320155951253097,0.04314792407289784,0.7178738138796952
+"In contrast, between 1996 and 1998, some employers cut their contribution levels.",11.040000000000001,0.04549733713634192,44,0.2777486978844737,0.054498673787172484,0.7285320664734194
+"Helen Sudell, editor of the IDS Pensions Service, said the rise in contributions was ""staggering"" and the highest ever recorded by IDS.",5.5200000000000005,0.055948488138773685,69,0.08905836410702249,0.05154284127826885,0.7548060124436078
+"""We have warned before that the widespread closure of final salary schemes to new entrants is just the beginning of a much bigger movement away from paternalistic provision,"" said Ms Sudell.",12.88,0.031971112251392646,91,-0.1275146926654009,0.051811807320801,0.7620276282320226
+"""With figures like this there can be little doubt that many employers will have to reduce future benefits at some point for those staff still in these schemes.",4.6000000000000005,0.03991668500507917,54,-0.03933112205691024,0.05499541019922462,0.7428852050111105
+"""
+",0.0,0.05176470588235294,0,0.0,0.007802117647058825,0.26666666666666666
