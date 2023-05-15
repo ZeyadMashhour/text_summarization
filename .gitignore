@@ -8,3 +8,8 @@ BBC_5Sent_.csv
 BBC_1Dynamic-Sent_.csv
 .ipynb_checkpoints/BBC_8Sent_-checkpoint.csv
 .ipynb_checkpoints/BBC_7Sent_-checkpoint.csv
+BBC_dataset/BBC_6Sent_Score.csv
+BBC_dataset/BBC_7Sent_Score.csv
+BBC_dataset/BBC_8Sent_Score.csv
+BBC_dataset/Summaries/.ipynb_checkpoints/BBC_8Sent_-checkpoint.csv
+BBC_dataset/Summaries/.ipynb_checkpoints/BBC_7Sent_-checkpoint.csv
