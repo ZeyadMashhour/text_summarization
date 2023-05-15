@@ -1,3 +1,7 @@
+import pandas as pd
+import numpy as np
+
+
 def extract_number(string_with_number):
     """
     This function removes alpahanumeric values and returns float
