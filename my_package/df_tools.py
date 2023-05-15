@@ -66,7 +66,7 @@ def get_sorted_values(df, remove_first_two_columns=False):
     if remove_first_two_columns:
         values_df = df.iloc[:, 2:]
     else:
-        values_df = df.iloc[:, 3:]
+        values_df = df
 
     max_values = values_df.max(axis=1)
     sorted_dict = {}
