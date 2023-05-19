@@ -52,6 +52,7 @@ def calculate_rouge_scores_df(reference_df, system_df, reference_column='Origina
     
     return pd.DataFrame(rouge_scores)
 
+# <<<<<<< HEAD
 def concatenate_dataframes(df1, df2):
     """
     Concatenates two dataframes along the columns axis
@@ -65,6 +66,8 @@ def concatenate_dataframes(df1, df2):
     """
     return pd.concat([df1, df2], axis=1)
 
+# =======
+# >>>>>>> 5ac36fab0da9ef6ec6dbdc4e06b88f8f01951783
 
 
 def calculate_average_by_column_df(df):
