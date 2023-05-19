@@ -1,10 +1,5 @@
 import pandas as pd
 import numpy as np
-<<<<<<< Updated upstream
-
-
-=======
->>>>>>> Stashed changes
 def extract_number(string_with_number):
     """
     This function removes alpahanumeric values and returns float
@@ -71,17 +66,19 @@ def get_sorted_values(df, remove_first_two_columns=False):
     if remove_first_two_columns:
         values_df = df.iloc[:, 2:]
     else:
-        values_df = df.iloc[:, 3:]
-    
+        values_df = df
+
     max_values = values_df.max(axis=1)
     sorted_dict = {}
-    
+
     for i, row in df.iterrows():
         sorted_row = row.iloc[2:].sort_values(ascending=False)
-        sorted_dict[i] = pd.DataFrame({'value': sorted_row.values}, index=sorted_row.index)
-    
+        column_name = sorted_row.name  # Get the column name from the sorted row
+        sorted_dict[i] = pd.DataFrame({column_name: sorted_row.values}, index=sorted_row.index)
+
     sorted_dict = {k: v for k, v in sorted(sorted_dict.items(), key=lambda x: max_values[x[0]], reverse=True)}
     return sorted_dict
+
 
 
 
