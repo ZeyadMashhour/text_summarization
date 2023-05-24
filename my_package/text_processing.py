@@ -13,27 +13,58 @@ from nltk.stem import WordNetLemmatizer, PorterStemmer
 
 import pickle
 
-def clean_text(text):
-    """
-    Cleans the text by converting to lowercase, removing special characters and numbers, and removing extra whitespace.
-    
-    Args:
-    - text (str): The text to clean
-    
-    Returns:
-    - The cleaned text as a string
-    """
-    
-    # Convert text to lowercase
-    text = text.lower()
+# Helper function to clean a single string
+def clean_single_string(s,remove_dot=False):
+    # Convert string to lowercase
+    s = s.lower()
 
-    # Remove special characters and numbers
-    text = re.sub('[^a-zA-Z. ]', ' ', text)
+    # Define the regular expression pattern
+    if remove_dot:
+        pattern = '[^a-zA-Z ]|\d+\.\d+'
+    else:
+        pattern = '[^a-zA-Z \.]|\d+\.\d+'
+
+    # Remove special characters, numbers, and decimals (optionally remove dot)
+    s = re.sub(pattern, ' ', s)
 
     # Remove extra whitespace
-    text = re.sub('\s+', ' ', text).strip()
+    s = re.sub('\s+', ' ', s).strip()
 
-    return text
+    return s
+
+def clean_text(text, remove_dot=False):
+    """
+    Cleans the text by converting to lowercase, removing special characters, numbers, decimals, and optionally removing dots, and removing extra whitespace.
+
+    Args:
+    - text (str, list, or list of lists): The text to clean. It can be a string, a list of strings, or a list of lists of strings.
+    - remove_dot (bool): Flag indicating whether to remove dots or not. Default is False.
+
+    Returns:
+    - The cleaned text as a string, a list of strings, or a list of lists of strings (depending on the input).
+    """
+
+    # Clean the text based on its type
+    if isinstance(text, str):
+        # Clean a single string
+        return clean_single_string(text,remove_dot)
+    elif isinstance(text, list):
+        # Clean a list of strings or a list of lists of strings
+        cleaned_text = []
+        for item in text:
+            if isinstance(item, str):
+                # Clean a single string in the list
+                cleaned_text.append(clean_single_string(item,remove_dot))
+            elif isinstance(item, list):
+                # Clean a list of strings in the list (for list of lists)
+                cleaned_sublist = []
+                for subitem in item:
+                    if isinstance(subitem, str):
+                        cleaned_sublist.append(clean_single_string(subitem,remove_dot))
+                cleaned_text.append(cleaned_sublist)
+        return cleaned_text
+    else:
+        raise ValueError("Invalid input type. The text should be a string, a list, or a list of lists.")
 
 
 def process_one_column_df(data, remove_stopwords=True, lemmatize=True, stem=True):
@@ -69,10 +100,10 @@ def process_one_column_df(data, remove_stopwords=True, lemmatize=True, stem=True
     # Loop through each row of the data
     for row in tqdm(range(rows)):
         # Clean the text using the clean_text function
-        cleaned_text = clean_text(data.iloc[row])
+        #cleaned_text = clean_text(data.iloc[row])
 
         # Process the cleaned text using the preprocessing_text_with_spacy function
-        articles_sentence, filtered_article = preprocessing_text_with_spacy(cleaned_text, remove_stopwords, lemmatize, stem, nlp)
+        articles_sentence, filtered_article = preprocessing_text_with_spacy(data.iloc[row], remove_stopwords, lemmatize, stem, nlp)
 
         # Append the sentences and processed sentences to the appropriate lists
         sentences.append(articles_sentence)
