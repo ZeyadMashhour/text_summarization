@@ -21,7 +21,21 @@ def calculate_efficiency(predicted_summary: str, original_summary: str) -> dict:
     efficiency_dict = rouge_score(predicted_summary, original_summary)
     return efficiency_dict
 
+def refined_calculate_efficiency(predicted_summary: str, original_summary: str) -> dict:
+    """
+    Calculate the efficiency score between the predicted summary and the original summary
+    using the ROUGE metric.
 
+    :param predicted_summary: The predicted summary.
+    :type predicted_summary: str
+    :param original_summary: The original summary.
+    :type original_summary: str
+    :return: A dictionary with the efficiency score for ROUGE-1, ROUGE-2, and ROUGE-L.
+    :rtype: dict
+    """
+    rouge_score = ROUGEScore()
+    efficiency_dict = rouge_score(remove_escape_characters(predicted_summary), remove_escape_characters(original_summary))
+    return efficiency_dict
 
 
 
@@ -115,3 +129,36 @@ def get_average_scores_df(reference_summary_dataset, system_summaries):
     avg_scores_df = pd.DataFrame(avg_scores).T
     avg_scores_df.columns = combinations
     return avg_scores_df
+
+
+def remove_escape_characters(data):
+    """
+    Removes all escaped characters, including newline characters, from text, a list, or a list of lists.
+
+    Args:
+    - data (str, bytes, list, or list of lists): The data to remove escaped characters from.
+
+    Returns:
+    - The data with escaped characters removed, in the same format as the input.
+    """
+    # Helper function to remove escaped characters from a single string
+    def remove_escape_characters_single_string(s):
+        return re.sub(r'(\\[rnt])+|[\r\n]+', ' ', s)
+
+    # Handle different data types
+    if isinstance(data, (str, bytes)):
+        # Decode bytes to string if necessary
+        if isinstance(data, bytes):
+            data = data.decode()
+
+        # Remove escaped characters from a single string
+        return remove_escape_characters_single_string(data)
+    elif isinstance(data, list):
+        # Remove escaped characters from a list of strings or a list of lists of strings
+        cleaned_data = []
+        for item in data:
+            cleaned_item = remove_escape_characters(item)
+            cleaned_data.append(cleaned_item)
+        return cleaned_data
+    else:
+        raise ValueError("Invalid input type. The data should be a string, bytes, list, or list of lists.")

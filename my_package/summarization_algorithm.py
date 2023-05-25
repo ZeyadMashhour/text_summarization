@@ -354,17 +354,17 @@ from tqdm import tqdm
     
 #     summary_df = pd.DataFrame(summarized_text, columns=[f'{summary_algorithm.__name__} summary'])
 #     return summary_df
-def summarize_with(list_of_articles,list_of_filtered_articles ,summary_algorithm,size = 2):
+def summarize_with(list_of_articles, list_of_filtered_articles, summary_algorithm, size=2):
     rows = len(list_of_articles)
     
     summarized_text = []
     for row in tqdm(range(rows)):
-        sentences=list_of_articles[row]
+        sentences = list_of_articles[row]
         filtered_sentences = list_of_filtered_articles[row]
-                                  #(filtered_sentences,sentence)
-        summary = summary_algorithm(filtered_sentences,sentences,size)
+        summary = summary_algorithm(filtered_sentences, sentences, size=size)
         summarized_text.append(summary)
-    summary_df = pd.DataFrame (summarized_text, columns = [f'{summary_algorithm.__name__} summary'])
+    
+    summary_df = pd.DataFrame(summarized_text, columns=[f'{summary_algorithm.__name__} summary'])
     return summary_df
 
 
