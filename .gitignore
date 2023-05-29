@@ -13,3 +13,15 @@ BBC_dataset/BBC_7Sent_Score.csv
 BBC_dataset/BBC_8Sent_Score.csv
 BBC_dataset/Summaries/.ipynb_checkpoints/BBC_8Sent_-checkpoint.csv
 BBC_dataset/Summaries/.ipynb_checkpoints/BBC_7Sent_-checkpoint.csv
+BBC_dataset/BBC_5Sent__Score.csv
+BBC_dataset/BBC_6Sent__Score.csv
+BBC_dataset/BBC_8Sent__Score.csv
+BBC_dataset/BBC_7Sent__Score.csv
+BBC_dataset/BBC_9Sent__Score.csv
+BBC_dataset/BBC_1Dynamic-Sent__Score.csv
+BBC_dataset/BBC_10Sent__Score.csv
+BBC_dataset/Summaries/BBC_10Sent_isDynamic_False.csv
+BBC_dataset/Summaries/BBC_5Sent_isDynamic_False.csv
+BBC_dataset/Summaries/BBC_9Sent_isDynamic_False.csv
+BBC_dataset/Summaries/.ipynb_checkpoints/BBC_5Sent_isDynamic_False-checkpoint.csv
+BBC_dataset/Summaries/.ipynb_checkpoints/BBC_9Sent_isDynamic_False-checkpoint.csv
